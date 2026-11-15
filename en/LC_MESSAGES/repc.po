@@ -1,0 +1,4607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RePC\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "GPU presentation"
+msgstr "GPU presentation"
+
+msgid "GPU direct presentation"
+msgstr "GPU direct presentation"
+
+msgid "Compatibility GPU copy"
+msgstr "Compatibility GPU copy"
+
+msgid "Applies to the next connection. Auto prefers GPU direct presentation. Compatibility mode uses a GPU copy."
+msgstr "Applies to the next connection. Auto prefers GPU direct presentation. Compatibility mode uses a GPU copy."
+
+msgid "Saved. GPU presentation changes apply to the next connection."
+msgstr "Saved. GPU presentation changes apply to the next connection."
+
+msgid "Saved. AV1 decoding applies to the next connection."
+msgstr "Saved. AV1 decoding applies to the next connection."
+
+msgid "AV1 encoding (hardware only)"
+msgstr "AV1 encoding (hardware only)"
+
+msgid "Encodes AV1 only when this GPU has a hardware AV1 encoder and the viewer can decode AV1. Otherwise HEVC or H.264 is used."
+msgstr "Encodes AV1 only when this GPU has a hardware AV1 encoder and the viewer can decode AV1. Otherwise HEVC or H.264 is used."
+
+msgid "AV1 decoding (hardware only)"
+msgstr "AV1 decoding (hardware only)"
+
+msgid "Rate control"
+msgstr "Rate control"
+
+msgid "Always CBR"
+msgstr "Always CBR"
+
+msgid "Encoder-specific VBR"
+msgstr "Encoder-specific VBR"
+
+msgid "AUTO uses VBR. Select CBR or VBR if needed."
+msgstr "AUTO uses VBR. Select CBR or VBR if needed."
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Enter your authentication code"
+msgstr "Enter your authentication code"
+
+msgid "Enter the 6-digit code from your authenticator app to finish signing in."
+msgstr "Enter the 6-digit code from your authenticator app to finish signing in."
+
+msgid "After 30 days without outgoing connections, confirm your password to connect from this PC again."
+msgstr "After 30 days without outgoing connections, confirm your password to connect from this PC again."
+
+msgid "Incoming connections stay available."
+msgstr "Incoming connections stay available."
+
+msgid "Verify and connect"
+msgstr "Verify and connect"
+
+msgid "Sign in again"
+msgstr "Sign in again"
+
+msgid "Restore outgoing connections"
+msgstr "Restore outgoing connections"
+
+msgid "Enter your password to reconnect from this computer. Incoming remote connections stay available."
+msgstr "Enter your password to reconnect from this computer. Incoming remote connections stay available."
+
+msgid "Restoring..."
+msgstr "Restoring..."
+
+msgid "Outgoing connections restored."
+msgstr "Outgoing connections restored."
+
+msgid "The password is incorrect."
+msgstr "The password is incorrect."
+
+msgid "Could not restore outgoing connections. Please try again."
+msgstr "Could not restore outgoing connections. Please try again."
+
+msgid "This computer is in host-only mode after 30 days without outgoing remote use. Sign in again here to connect to other computers. Incoming connections remain available."
+msgstr "This computer is in host-only mode after 30 days without outgoing remote use. Sign in again here to connect to other computers. Incoming connections remain available."
+
+msgid "Current sessions"
+msgstr "Current sessions"
+
+msgid "Connections"
+msgstr "Connections"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "No tablet selected"
+msgstr "No tablet selected"
+
+msgid "Tablet unavailable for this connection"
+msgstr "Tablet unavailable for this connection"
+
+msgid "Stop sharing"
+msgstr "Stop sharing"
+
+msgid "Beware of phishing"
+msgstr "Beware of phishing"
+
+msgid "Only approve people you trust. Reject unexpected remote access requests, including anyone claiming to be your bank or a public agency."
+msgstr "Only approve people you trust. Reject unexpected remote access requests, including anyone claiming to be your bank or a public agency."
+
+msgid "A user is requesting access using your AirDesk ID. If you allow it, they can view and control this computer."
+msgstr "A user is requesting access using your AirDesk ID. If you allow it, they can view and control this computer."
+
+msgid "On this computer, press {} to end all incoming remote connections."
+msgstr "On this computer, press {} to end all incoming remote connections."
+
+msgid "The emergency shortcut is unavailable. Use Stop sharing below to end incoming remote connections."
+msgstr "The emergency shortcut is unavailable. Use Stop sharing below to end incoming remote connections."
+
+
+msgid "Open troubleshooting"
+msgstr "Open troubleshooting guide"
+
+msgid "2FA code"
+msgstr "2FA code"
+
+msgid "5.1 surround"
+msgstr "5.1 surround"
+
+msgid "7.1 surround"
+msgstr "7.1 surround"
+
+msgid "7.1.4 surround"
+msgstr "7.1.4 surround"
+
+msgid "A fixed port is easier to allow through firewall/router rules."
+msgstr "A fixed port is easier to allow through firewall/router rules."
+
+msgid "A forced mode can flicker or fail if the display does not support it."
+msgstr "A forced mode can flicker or fail if the display does not support it."
+
+msgid "AC3 experimental"
+msgstr "AC3 experimental"
+
+msgid "AV1 (Exp.)"
+msgstr "AV1 (Exp.)"
+
+msgid "AV1 and some HEVC paths depend on newer GPU/client support."
+msgstr "AV1 and some HEVC paths depend on newer GPU/client support."
+
+msgid "Absolute desktop"
+msgstr "Absolute desktop"
+
+msgid "Accepted friends can connect when sharing is enabled."
+msgstr "Accepted friends can connect when sharing is enabled."
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "Add Friend"
+msgstr "Add Friend"
+
+msgid "Add VDD"
+msgstr "Add VDD"
+
+msgid "Adds frame delay and should stay 0 for lowest latency."
+msgstr "Adds frame delay and should stay 0 for lowest latency."
+
+msgid "Adds latency and is usually off for remote control."
+msgstr "Adds latency and is usually off for remote control."
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Advertises and discovers hosts on the local network without the backend path."
+msgstr "Advertises and discovers hosts on the local network without the backend path."
+
+msgid "Allows VideoToolbox to reorder frames when it improves compression."
+msgstr "Allows VideoToolbox to reorder frames when it improves compression."
+
+msgid "Allows connected clients to move and click the host pointer."
+msgstr "Allows connected clients to move and click the host pointer."
+
+msgid "Allows connected clients to send gamepad/controller events."
+msgstr "Allows connected clients to send gamepad/controller events."
+
+msgid "Allows connected clients to send keyboard events to the host."
+msgstr "Allows connected clients to send keyboard events to the host."
+
+msgid "Allows gamepad/controller input from the client."
+msgstr "Allows gamepad/controller input from the client."
+
+msgid "Allows keyboard events from the client."
+msgstr "Allows keyboard events from the client."
+
+msgid "Allows microphone forwarding/control for sessions that need voice input."
+msgstr "Allows microphone forwarding/control for sessions that need voice input."
+
+msgid "Allows mouse movement, clicks, wheel, and pointer state from the client."
+msgstr "Allows mouse movement, clicks, wheel, and pointer state from the client."
+
+msgid "Allows the encoder to insert filler bytes to hold a steadier bitrate."
+msgstr "Allows the encoder to insert filler bytes to hold a steadier bitrate."
+
+msgid "Allows the host to capture and stream system audio."
+msgstr "Allows the host to capture and stream system audio."
+
+msgid "Allows the host to send screen frames."
+msgstr "Allows the host to send screen frames."
+
+msgid "Application Audio Capture"
+msgstr "Application Audio Capture"
+
+msgid "Application capture can isolate one app's sound."
+msgstr "Application capture can isolate one app's sound."
+
+msgid "Application capture support depends on Windows/app behavior."
+msgstr "Application capture support depends on Windows/app behavior."
+
+msgid "Applies NVIDIA profile preferences used by the host capture/encode path."
+msgstr "Applies NVIDIA profile preferences used by the host capture/encode path."
+
+msgid "Applies echo cancellation when microphone and playback paths interact."
+msgstr "Applies echo cancellation when microphone and playback paths interact."
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Audio Bitrate"
+msgstr "Audio Bitrate"
+
+msgid "Audio Bitrate (kbps)"
+msgstr "Audio Bitrate (kbps)"
+
+msgid "Audio Capture"
+msgstr "Audio Capture"
+
+msgid "Audio Channels"
+msgstr "Audio Channels"
+
+msgid "Audio Codec"
+msgstr "Audio Codec"
+
+msgid "Audio Device"
+msgstr "Audio Device"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Auto / native"
+msgstr "Auto / native"
+
+msgid "Auto hardware"
+msgstr "Auto hardware"
+
+msgid "Auto keeps the recommended ScreenCaptureKit path."
+msgstr "Auto keeps the recommended ScreenCaptureKit path."
+
+msgid "Auto picks a codec both devices support in hardware: HEVC, then AV1, then H.264."
+msgstr "Auto picks a codec both devices support in hardware: HEVC, then AV1, then H.264."
+
+msgid "Auto picks the first supported low-latency hardware path."
+msgstr "Auto picks the first supported low-latency hardware path."
+
+msgid "Avoid sensitive names because other allowed users may see it."
+msgstr "Avoid sensitive names because other allowed users may see it."
+
+msgid "Avoids typing a manual window id."
+msgstr "Saves you from typing a window ID by hand."
+
+msgid "Balanced"
+msgstr "Balanced"
+
+msgid "Balanced cursor"
+msgstr "Balanced cursor"
+
+msgid "Best for interactive desktop, games, and LAN sessions."
+msgstr "Best for interactive desktop, games, and LAN sessions."
+
+msgid "Bind IP"
+msgstr "Bind IP"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "By signing in, you agree to the Terms of Service and Privacy Policy."
+msgstr "By signing in, you agree to the Terms of Service and Privacy Policy."
+
+msgid "Can add latency and GPU work, so keep off for lowest latency."
+msgstr "Can add latency and GPU work, so keep off for lowest latency."
+
+msgid "Can avoid known driver latency/capture issues."
+msgstr "Can avoid known driver latency/capture issues."
+
+msgid "Can bound bitrate spikes on simple or static content."
+msgstr "Can bound bitrate spikes on simple or static content."
+
+msgid "Can change texture detail and add small encoder overhead."
+msgstr "Can change texture detail and add small encoder overhead."
+
+msgid "Can conflict with local controller use if both sides interact."
+msgstr "Can conflict with local controller use if both sides interact."
+
+msgid "Can drop stale frames sooner on unstable or high-latency networks."
+msgstr "Can drop stale frames sooner on unstable or high-latency networks."
+
+msgid "Can hide unused desktop area."
+msgstr "Can hide unused desktop area."
+
+msgid "Can improve direct connections outside the LAN without manual router setup."
+msgstr "Can improve direct connections outside the LAN without manual router setup."
+
+msgid "Can improve fullscreen OpenGL/Vulkan capture behavior."
+msgstr "Can improve fullscreen OpenGL/Vulkan capture behavior."
+
+msgid "Can improve quality and temporal AQ decisions."
+msgstr "Can improve quality and temporal AQ results."
+
+msgid "Can improve quality at a fixed bitrate."
+msgstr "Can improve quality at a fixed bitrate."
+
+msgid "Can improve quality at the same bitrate."
+msgstr "Can improve quality at the same bitrate."
+
+msgid "Can improve quality in motion when lookahead is enabled."
+msgstr "Can improve quality in motion when lookahead is enabled."
+
+msgid "Can improve quality/bitrate efficiency."
+msgstr "Can improve quality/bitrate efficiency."
+
+msgid "Can increase power draw, heat, and fan noise."
+msgstr "Can increase power draw, heat, and fan noise."
+
+msgid "Can interfere with local controller devices if both sides are active."
+msgstr "Can interfere with local controller devices if both sides are active."
+
+msgid "Can make bandwidth usage more predictable for testing."
+msgstr "Can make bandwidth usage more predictable for testing."
+
+msgid "Can prevent the encoder from spending too many bits on easy scenes."
+msgstr "Can prevent the encoder from spending too many bits on easy scenes."
+
+msgid "Can provide device-like input behavior for apps that need it."
+msgstr "Can provide device-like input behavior for apps that need it."
+
+msgid "Can reduce compression efficiency versus quality modes."
+msgstr "Can reduce compression efficiency versus quality modes."
+
+msgid "Can reduce keyframe bandwidth spikes."
+msgstr "Can reduce keyframe bandwidth spikes."
+
+msgid "Can remove menu bars or unused top area."
+msgstr "Can remove menu bars or unused top area."
+
+msgid "Can slightly change microphone quality or add processing load."
+msgstr "Can slightly change microphone quality or add processing load."
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Caps how much video data the host sends per second."
+msgstr "Caps how much video data the host sends per second."
+
+msgid "Capture"
+msgstr "Capture"
+
+msgid "Capture Source"
+msgstr "Capture Source"
+
+msgid "Changing it requires clients/backend metadata to use the new port."
+msgstr "Changing it requires clients/backend metadata to use the new port."
+
+msgid "Chooses desktop loopback audio or Windows application audio capture."
+msgstr "Chooses desktop loopback audio or Windows application audio capture."
+
+msgid "Chooses the Windows screen capture backend and whether frames stay in GPU memory."
+msgstr "Chooses the Windows screen capture backend and whether frames stay in GPU memory."
+
+msgid "Chooses the compressed video format produced by the host encoder."
+msgstr "Chooses the compressed video format produced by the host encoder."
+
+msgid "Chooses the compression format for host audio."
+msgstr "Chooses the compression format for host audio."
+
+msgid "Chooses the macOS capture backend."
+msgstr "Chooses the macOS capture backend."
+
+msgid "Chooses the macOS hardware video encoder."
+msgstr "Chooses the macOS hardware video encoder."
+
+msgid "Chooses the video compression format used by the host encoder."
+msgstr "Chooses the video compression format used by the host encoder."
+
+msgid "Chooses whether this host captures an entire display or one window. On Windows, window capture requires WGC VRAM or WGC RAM."
+msgstr "Chooses whether this host captures an entire display or one window. On Windows, window capture requires WGC VRAM or WGC RAM."
+
+msgid "Chooses which Windows output device is captured for host audio."
+msgstr "Chooses which Windows output device is captured for host audio."
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Client Input"
+msgstr "Client Input"
+
+msgid "Client Tier"
+msgstr "Client Tier"
+
+msgid "Client UI language"
+msgstr "Client UI language"
+
+msgid "Client tier changes require your password and current 2FA code when enabled."
+msgstr "Client tier changes require your password and current 2FA code when enabled."
+
+msgid "Clients can interact with the hosted computer."
+msgstr "Clients can control this computer."
+
+msgid "Clipboard file rate"
+msgstr "Clipboard file rate"
+
+msgid "Clipboard file send rate in KB/s (0 = Auto). Auto adjusts to connection quality and reduces speed when video or the network is congested."
+msgstr "Clipboard file send rate in KB/s (0 = Auto). Auto adjusts to connection quality and reduces speed when video or the network is congested."
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Codec"
+msgstr "Codec"
+
+msgid "Common Streaming"
+msgstr "Common Streaming"
+
+msgid "Compatibility and recovery behavior vary by decoder."
+msgstr "Compatibility and recovery behavior vary by decoder."
+
+msgid "Compatibility is more fragile and SDR clients may look wrong."
+msgstr "Compatibility is more fragile and SDR clients may look wrong."
+
+msgid "Computer List"
+msgstr "Computer List"
+
+msgid "Confirm Trust Reset"
+msgstr "Confirm Trust Reset"
+
+msgid "Connect"
+msgstr "Connect"
+
+msgid "All computers"
+msgstr "All computers"
+
+msgid "{} active connections"
+msgstr "{} active connections"
+
+msgid "Search computers"
+msgstr "Search computers"
+
+msgid "Clear search"
+msgstr "Clear search"
+
+msgid "No matching computers"
+msgstr "No matching computers"
+
+msgid "Try another name or clear the search."
+msgstr "Try another name or clear the search."
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "Connecting"
+msgstr "Connecting"
+
+msgid "Connecting to "
+msgstr "Connecting to "
+
+msgid "Consumes bandwidth and may expose local audio to the client."
+msgstr "Consumes bandwidth and may expose local audio to the client."
+
+msgid "Consumes more bandwidth than the default audio profile."
+msgstr "Consumes more bandwidth than the default audio profile."
+
+msgid "Controller"
+msgstr "Controller"
+
+msgid "Controller Profile"
+msgstr "Controller Profile"
+
+msgid "Controls Intel Quick Sync speed/quality behavior."
+msgstr "Controls Intel Quick Sync speed/quality behavior."
+
+msgid "Controls NVIDIA encoder speed/quality tradeoff from P1 to P7."
+msgstr "Controls NVIDIA encoder speed/quality tradeoff from P1 to P7."
+
+msgid "Controls macOS encoder speed/quality behavior."
+msgstr "Controls macOS encoder speed/quality behavior."
+
+msgid "Controls the channel layout sent by the host audio encoder."
+msgstr "Controls the channel layout sent by the host audio encoder."
+
+msgid "Controls which tier of computers can see/control this host through backend policy."
+msgstr "Controls which tier of computers can see/control this host through backend policy."
+
+msgid "Costs more bandwidth and may reduce hardware decode compatibility."
+msgstr "Costs more bandwidth and may reduce hardware decode compatibility."
+
+msgid "Crop Height"
+msgstr "Crop Height"
+
+msgid "Crop Width"
+msgstr "Crop Width"
+
+msgid "Crop X"
+msgstr "Crop X"
+
+msgid "Crop Y"
+msgstr "Crop Y"
+
+msgid "Current setting: "
+msgstr "Current setting: "
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Default audio output"
+msgstr "Default audio output"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Depends on router support and may be disabled for security policies."
+msgstr "Depends on router support and may be disabled for security policies."
+
+msgid "Desktop Audio"
+msgstr "Desktop Audio"
+
+msgid "Device names can change after driver or hardware changes."
+msgstr "Device names can change after driver or hardware changes."
+
+msgid "Diagnostics"
+msgstr "Diagnostics"
+
+msgid "Diagnostics and developer controls are isolated here from the normal computer list and settings flow."
+msgstr "Diagnostics and developer controls are isolated here from the normal computer list and settings flow."
+
+msgid "Disable for keyboard-only or view-only sessions."
+msgstr "Disable for keyboard-only or view-only sessions."
+
+msgid "Disable for view-only or mouse/controller-only sessions."
+msgstr "Disable for view-only or mouse/controller-only sessions."
+
+msgid "Disable if the remote user should not control the pointer."
+msgstr "Disable if the remote user should not control the pointer."
+
+msgid "Disable if the session should not accept keyboard input."
+msgstr "Disable if the session should not accept keyboard input."
+
+msgid "Disable only if you intentionally want the remote display mode to remain."
+msgstr "Disable only if you intentionally want the remote display mode to remain."
+
+msgid "Disabling video leaves only non-video channels active."
+msgstr "Disabling video leaves only non-video channels active."
+
+msgid "Disconnect"
+msgstr "Disconnect"
+
+msgid "Dismiss"
+msgstr "Dismiss"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Display Refresh Rate"
+msgstr "Display Refresh Rate"
+
+msgid "Display name shown in computer lists and host status."
+msgstr "Display name shown in computer lists and host status."
+
+msgid "Double Monitor"
+msgstr "Dual monitor"
+
+msgid "Driver profile changes are system-level and may affect other apps."
+msgstr "Driver profile changes are system-level and may affect other apps."
+
+msgid "E-AC3 experimental"
+msgstr "E-AC3 experimental"
+
+msgid "Echo cancellation"
+msgstr "Echo cancellation"
+
+msgid "Enable VDD"
+msgstr "Enable VDD"
+
+msgid "Enables prediction tools that may improve compression on some content."
+msgstr "Enables prediction tools that may improve compression on some content."
+
+msgid "Enables the OpenGL/Vulkan-on-DXGI present preference for NVIDIA capture compatibility."
+msgstr "Enables the OpenGL/Vulkan-on-DXGI present preference for NVIDIA capture compatibility."
+
+msgid "Encoder"
+msgstr "Encoder"
+
+msgid "Enforces minimum quantizer values using the H.264/HEVC fields below."
+msgstr "Enforces minimum quantizer values using the H.264/HEVC fields below."
+
+msgid "Experimental codecs can fail on unsupported clients."
+msgstr "Experimental codecs can fail on unsupported clients."
+
+msgid "Experimental, platform-specific, and may require driver/service setup."
+msgstr "Experimental, platform-specific, and may require driver/service setup."
+
+msgid "FPS"
+msgstr "FPS"
+
+msgid "Fast cursor"
+msgstr "Fast cursor"
+
+msgid "Faster presets reduce encode cost and latency."
+msgstr "Faster presets reduce encode cost and latency."
+
+msgid "Filler data"
+msgstr "Filler data"
+
+msgid "Fine cursor"
+msgstr "Fine cursor"
+
+msgid "AirDesk Sign In"
+msgstr "AirDesk Sign In"
+
+msgid "Forces H.264 CAVLC entropy coding instead of CABAC when supported."
+msgstr "Forces H.264 CAVLC entropy coding instead of CABAC when supported."
+
+msgid "Forgetting host trust will require a fresh host identity check on the next connection."
+msgstr "Forgetting host trust will require a fresh host identity check on the next connection."
+
+msgid "Friend List"
+msgstr "Friend List"
+
+msgid "Friends"
+msgstr "Friends"
+
+msgid "Gamepad mouse emulation"
+msgstr "Gamepad mouse emulation"
+
+msgid "Granted"
+msgstr "Granted"
+
+msgid "H.264 CAVLC"
+msgstr "H.264 CAVLC"
+
+msgid "HDR"
+msgstr "HDR"
+
+msgid "HEVC can improve quality per bitrate; H.264 is broadly compatible."
+msgstr "HEVC can improve quality per bitrate; H.264 is broadly compatible."
+
+msgid "HEVC/AV1 can look better at the same bitrate on supported clients."
+msgstr "HEVC/AV1 can look better at the same bitrate on supported clients."
+
+msgid "HOST ON"
+msgstr "HOST ON"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Hardware (D3D11VA)"
+msgstr "Hardware (D3D11VA)"
+
+msgid "Height of the captured region in pixels. 0 means full height."
+msgstr "Height of the captured region in pixels. 0 means full height."
+
+msgid "High quality audio (512 kbps)"
+msgstr "High quality audio (512 kbps)"
+
+msgid "High-resolution scroll"
+msgstr "High-resolution scroll"
+
+msgid "Higher FPS feels smoother and lowers visible input step size."
+msgstr "Higher FPS feels smoother and lowers visible input step size."
+
+msgid "Higher bitrate can improve music and surround quality."
+msgstr "Higher bitrate can improve music and surround quality."
+
+msgid "Higher bitrate reduces blockiness and preserves motion detail."
+msgstr "Higher bitrate reduces blockiness and preserves motion detail."
+
+msgid "Higher presets may add latency and GPU load."
+msgstr "Higher presets may add latency and GPU load."
+
+msgid "Higher values make text and fine detail clearer."
+msgstr "Higher values make text and fine detail clearer."
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Host Computer"
+msgstr "Host Computer"
+
+msgid "Host Encoder Tuning"
+msgstr "Host Encoder Tuning"
+
+msgid "Host Network / Audio"
+msgstr "Host Network / Audio"
+
+msgid "Host Service"
+msgstr "Host Service"
+
+msgid "Host computer name"
+msgstr "Host computer name"
+
+msgid "Host service change is running in background."
+msgstr "Host service change is running in background."
+
+msgid "Host service status: "
+msgstr "Host service status: "
+
+msgid "Host tier changes require your password and current 2FA code when enabled."
+msgstr "Host tier changes require your password and current 2FA code when enabled."
+
+msgid "IDs change across app restarts and are easy to mistype."
+msgstr "IDs change across app restarts and are easy to mistype."
+
+msgid "Improves music and high-channel audio when bandwidth is available."
+msgstr "Improves music and high-channel audio when bandwidth is available."
+
+msgid "Improves text, UI edges, and color-critical desktop content."
+msgstr "Improves text, UI edges, and color-critical desktop content."
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Input"
+msgstr "Input"
+
+msgid "Input Monitoring"
+msgstr "Input Monitoring"
+
+msgid "Intra refresh"
+msgstr "Intra refresh"
+
+msgid "Keeps full chroma detail instead of normal 4:2:0 video subsampling."
+msgstr "Keeps full chroma detail instead of normal 4:2:0 video subsampling."
+
+msgid "Keyboard"
+msgstr "Keyboard"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Leaves the host monitor as the local user had it."
+msgstr "Leaves the host monitor as the local user had it."
+
+msgid "Left offset of the captured region in pixels. 0 keeps the full left edge."
+msgstr "Left offset of the captured region in pixels. 0 keeps the full left edge."
+
+msgid "Less efficient than CABAC, so quality per bitrate is worse."
+msgstr "Less efficient than CABAC, so quality per bitrate is worse."
+
+msgid "Lets NVENC spend extra analysis work before final encoding decisions."
+msgstr "Lets NVENC spend extra analysis work before final encoding decisions."
+
+msgid "Lets the app ask the router to map the host UDP port automatically."
+msgstr "Lets the app ask the router to map the host UDP port automatically."
+
+msgid "Leave empty to use the system default printer."
+msgstr "Leave empty to use the system default printer."
+
+msgid "Licenses"
+msgstr "Licenses"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Limits clipboard file transfer speed in KB/s. 0 means unlimited."
+msgstr "Limits clipboard file transfer speed in KB/s. 0 means unlimited."
+
+msgid "Limits the host listener to one local network address. Auto listens on the default address."
+msgstr "Limits the host listener to one local network address. Auto listens on the default address."
+
+msgid "Listen Port"
+msgstr "Listen Port"
+
+msgid "Log overlay"
+msgstr "Log overlay"
+
+msgid "Lookahead"
+msgstr "Lookahead"
+
+msgid "Low latency"
+msgstr "Low latency"
+
+msgid "Lower presets reduce encode latency; higher presets can improve quality."
+msgstr "Lower presets reduce encode latency; higher presets can improve quality."
+
+msgid "Lower values make clipboard file transfer take longer."
+msgstr "Lower values make clipboard file transfer take longer."
+
+msgid "Makes LAN connections faster and more reliable when devices share a subnet."
+msgstr "Makes LAN connections faster and more reliable when devices share a subnet."
+
+msgid "Makes it easier to pick the right host."
+msgstr "Makes it easier to pick the right host."
+
+msgid "Manual platform window identifier used when the picker cannot select the right window."
+msgstr "Manual platform window identifier used when the picker cannot select the right window."
+
+msgid "Manual selection can fail if OS permissions or APIs are unavailable."
+msgstr "Manual selection can fail if OS permissions or APIs are unavailable."
+
+msgid "Manual selection can fail if that GPU/driver is unavailable."
+msgstr "Manual selection can fail if that GPU/driver is unavailable."
+
+msgid "Manual selection can fail if the requested codec is unsupported."
+msgstr "Manual selection can fail if the requested codec is unsupported."
+
+msgid "Manual window ID"
+msgstr "Manual window ID"
+
+msgid "Master switch for client control input."
+msgstr "Master switch for client control input."
+
+msgid "Matches Sunshine's nvenc_opengl_vulkan_on_dxgi and nvenc_latency_over_power options. DXGI present helps fullscreen OpenGL/Vulkan capture; high power mode avoids NVIDIA adaptive P-State latency spikes. Windows NVENC only."
+msgstr "Matches Sunshine's nvenc_opengl_vulkan_on_dxgi and nvenc_latency_over_power options. DXGI present helps fullscreen OpenGL/Vulkan capture; high power mode avoids NVIDIA adaptive P-State latency spikes. Windows NVENC only."
+
+msgid "Matching 60/120/144 Hz can make motion pacing cleaner."
+msgstr "Matching 60/120/144 Hz can make motion pacing cleaner."
+
+msgid "May be unnecessary for normal desktop or D3D apps."
+msgstr "May be unnecessary for normal desktop or D3D apps."
+
+msgid "May help very old decoders or diagnostic paths."
+msgstr "May help very old decoders or diagnostic paths."
+
+msgid "May reduce compatibility or add encoder complexity."
+msgstr "May reduce compatibility or add encoder complexity."
+
+msgid "Microphone"
+msgstr "Microphone"
+
+msgid "Min QP"
+msgstr "Min QP"
+
+msgid "Min QP H.264"
+msgstr "Min QP H.264"
+
+msgid "Min QP HEVC"
+msgstr "Min QP HEVC"
+
+msgid "Minimum H.264 quantizer when Min QP is enabled. Higher means more compression."
+msgstr "Minimum H.264 quantizer when Min QP is enabled. Higher means more compression."
+
+msgid "Minimum HEVC quantizer when Min QP is enabled. Higher means more compression."
+msgstr "Minimum HEVC quantizer when Min QP is enabled. Higher means more compression."
+
+msgid "More channels increase bitrate needs and compatibility risk."
+msgstr "More channels increase bitrate needs and compatibility risk."
+
+msgid "Mouse"
+msgstr "Mouse"
+
+msgid "Mouse Mode"
+msgstr "Mouse Mode"
+
+msgid "Mouse button swap"
+msgstr "Mouse button swap"
+
+msgid "Mute host while streaming"
+msgstr "Mute host while streaming"
+
+msgid "Mutes local host playback while a remote stream is active."
+msgstr "Mutes local host playback while a remote stream is active."
+
+msgid "NVENC 2-pass"
+msgstr "NVENC 2-pass"
+
+msgid "NVENC Preset"
+msgstr "NVENC Preset"
+
+msgid "NVENC VBV"
+msgstr "NVENC VBV"
+
+msgid "NVIDIA DXGI present path"
+msgstr "NVIDIA DXGI present path"
+
+msgid "NVIDIA driver preferences"
+msgstr "NVIDIA driver preferences"
+
+msgid "NVIDIA high power mode"
+msgstr "NVIDIA high power mode"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Needs more encoder work, GPU memory, bandwidth, and decoder capacity."
+msgstr "Needs more encoder work, GPU memory, bandwidth, and decoder capacity."
+
+msgid "Newer codecs may add compatibility issues or extra encode/decode load."
+msgstr "Newer codecs may add compatibility issues or extra encode/decode load."
+
+msgid "No available computers"
+msgstr "No available computers"
+
+msgid "Number of future frames NVENC may inspect for rate-control decisions."
+msgstr "Number of future frames NVENC may inspect for rate-control decisions."
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Often improves perceived quality at the same bitrate."
+msgstr "Often improves perceived quality at the same bitrate."
+
+msgid "On"
+msgstr "On"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Request access"
+msgstr "Request access"
+
+msgid "Open Settings"
+msgstr "Open Settings"
+
+msgid "Request access first, then use Open Settings if access is still denied. For Screen Recording or Accessibility, use + to add AirDesk.app from its build or installation folder if it is missing. After approval, return here and refresh; a restart may be required."
+msgstr "Request access first, then use Open Settings if access is still denied. For Screen Recording or Accessibility, use + to add AirDesk.app from its build or installation folder if it is missing. After approval, return here and refresh; a restart may be required."
+
+msgid "Open Console"
+msgstr "Open Console"
+
+msgid "Opening double monitor..."
+msgstr "Opening dual monitor..."
+
+msgid "Opening remote terminal..."
+msgstr "Opening remote terminal..."
+
+msgid "Sending printer test job..."
+msgstr "Sending printer test job..."
+
+msgid "Opus"
+msgstr "Opus"
+
+msgid "Opus is efficient and low-latency; PCM keeps raw samples."
+msgstr "Opus is efficient and low-latency; PCM keeps raw samples."
+
+msgid "Other allowed computers can find and connect to this machine."
+msgstr "Other allowed computers can find and connect to this machine."
+
+msgid "Overrides normal audio bitrate with a high-quality 512 kbps target."
+msgstr "Overrides normal audio bitrate with a high-quality 512 kbps target."
+
+msgid "P1 lowest latency"
+msgstr "P1 lowest latency"
+
+msgid "P4 balanced"
+msgstr "P4 balanced"
+
+msgid "P7 quality"
+msgstr "P7 quality"
+
+msgid "PCM S16 experimental"
+msgstr "PCM S16 experimental"
+
+msgid "PCs"
+msgstr "PCs"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Performance overlay"
+msgstr "Performance overlay"
+
+msgid "Preserves HDR brightness and color on compatible displays."
+msgstr "Preserves HDR brightness and color on compatible displays."
+
+msgid "Prevents echo and keeps audio private to the client."
+msgstr "Prevents echo and keeps audio private to the client."
+
+msgid "Prevents large file copies from starving video/audio on slow links."
+msgstr "Prevents large file copies from starving video/audio on slow links."
+
+msgid "Prioritizes fresh frames and input response over buffering old media."
+msgstr "Prioritizes fresh frames and input response over buffering old media."
+
+msgid "Prioritizes interactive latency."
+msgstr "Prioritizes interactive latency."
+
+msgid "QSV Preset"
+msgstr "QSV Preset"
+
+msgid "Quality"
+msgstr "Quality"
+
+msgid "Quality-oriented settings may increase latency or dropped frames."
+msgstr "Quality-oriented settings may increase latency or dropped frames."
+
+msgid "RAM paths are more compatible but cost more copy bandwidth."
+msgstr "RAM paths are more compatible but cost more copy bandwidth."
+
+msgid "Raises CPU/GPU load, bandwidth, and dropped-frame risk on weak links."
+msgstr "Raises CPU/GPU load, bandwidth, and dropped-frame risk on weak links."
+
+msgid "Realtime"
+msgstr "Realtime"
+
+msgid "Realtime favors response; Quality can improve image quality."
+msgstr "Realtime favors response; Quality can improve image quality."
+
+msgid "Reduces adaptive P-State latency spikes."
+msgstr "Reduces adaptive P-State latency spikes."
+
+msgid "Reduces encoded pixels when sharing a smaller region."
+msgstr "Reduces encoded pixels when sharing a smaller region."
+
+msgid "Reduces feedback during calls or voice chat."
+msgstr "Reduces feedback during calls or voice chat."
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Refresh Perms"
+msgstr "Refresh permissions"
+
+msgid "Refresh to find your computers and computers shared by friends."
+msgstr "Refresh to find your computers and computers shared by friends."
+
+msgid "Refreshes intra-coded regions gradually instead of relying only on full keyframes."
+msgstr "Refreshes intra-coded regions gradually instead of relying only on full keyframes."
+
+msgid "Refreshing computers..."
+msgstr "Refreshing computers..."
+
+msgid "Relative game"
+msgstr "Relative game"
+
+msgid "Remote Desktop"
+msgstr "Remote Desktop"
+
+msgid "Remote Session"
+msgstr "Remote Session"
+
+msgid "Remote Terminal"
+msgstr "Remote Terminal"
+
+msgid "Remote Printer"
+msgstr "Remote Printer"
+
+msgid "Remote users hear desktop or application sound."
+msgstr "Remote users hear desktop or application sound."
+
+msgid "Remove VDD"
+msgstr "Remove VDD"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "Requests HDR-aware capture and color handling when supported."
+msgstr "Requests HDR-aware capture and color handling when supported."
+
+msgid "Requests VideoToolbox realtime encode behavior."
+msgstr "Requests VideoToolbox realtime encode behavior."
+
+msgid "Requests a display refresh rate when a client connects. Auto keeps the current/default choice."
+msgstr "Requests a display refresh rate when a client connects. Auto keeps the current/default choice."
+
+msgid "Requests a high-performance NVIDIA power policy for the host path."
+msgstr "Requests a high-performance NVIDIA power policy for the host path."
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Required for normal desktop control."
+msgstr "Required for normal desktop control."
+
+msgid "Required for normal remote desktop viewing."
+msgstr "Required for normal remote desktop viewing."
+
+msgid "Required for typing and shortcuts."
+msgstr "Required for typing and shortcuts."
+
+msgid "Required for typing, shortcuts, and game keyboard controls."
+msgstr "Required for typing, shortcuts, and game keyboard controls."
+
+msgid "Requires clear permission boundaries and can add audio complexity."
+msgstr "Requires clear permission boundaries and can add audio complexity."
+
+msgid "Requires lookahead and can add latency."
+msgstr "Requires lookahead and can add latency."
+
+msgid "Reset Trust"
+msgstr "Reset Trust"
+
+msgid "Resolution"
+msgstr "Resolution"
+
+msgid "Restore display after disconnect"
+msgstr "Restore display after disconnect"
+
+msgid "Restores the previous display mode after the remote session ends."
+msgstr "Restores the previous display mode after the remote session ends."
+
+msgid "Retry"
+msgstr "Retry"
+
+msgid "Reverse scroll"
+msgstr "Reverse scroll"
+
+msgid "SESSION ON"
+msgstr "SESSION ON"
+
+msgid "Screen Recording"
+msgstr "Screen Recording"
+
+msgid "Search computers..."
+msgstr "Search computers..."
+
+msgid "Select Off to stop hosting."
+msgstr "Turn off to stop hosting."
+
+msgid "Select On to register and start hosting."
+msgstr "Turn on to register this computer and start hosting."
+
+msgid "Selects the hardware encoder family used by the host."
+msgstr "Selects the hardware encoder family used by the host."
+
+msgid "Selects the app window to capture. Refresh after windows open, close, or rename."
+msgstr "Selects the app window to capture. Refresh after windows open, close, or rename."
+
+msgid "Session"
+msgstr "Session"
+
+msgid "Session Active"
+msgstr "Session Active"
+
+msgid "Session Controls"
+msgstr "Session Controls"
+
+msgid "Sets how many video frames the host tries to capture and send per second."
+msgstr "Sets how many video frames the host tries to capture and send per second."
+
+msgid "Sets the encoder rate-control buffer size as a percentage of the target bitrate."
+msgstr "Sets the encoder rate-control buffer size as a percentage of the target bitrate."
+
+msgid "Sets the frame size sent by the host when a client connects."
+msgstr "Sets the frame size sent by the host when a client connects."
+
+msgid "Sets the target audio bitrate when the selected codec uses compression."
+msgstr "Sets the target audio bitrate when the selected codec uses compression."
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share Off"
+msgstr "Share Off"
+
+msgid "Share On"
+msgstr "Share On"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Sign Out"
+msgstr "Sign Out"
+
+msgid "Signing out..."
+msgstr "Signing out..."
+
+msgid "Slint attribution. Third-party license texts are installed with AirDesk."
+msgstr "Slint attribution. Third-party license texts are installed with AirDesk."
+
+msgid "Slower presets may improve quality but can increase latency."
+msgstr "Slower presets may improve quality but can increase latency."
+
+msgid "Smaller VBV can reduce latency spikes in low-latency streaming."
+msgstr "Smaller VBV can reduce latency spikes in low-latency streaming."
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Spatial AQ"
+msgstr "Spatial AQ"
+
+msgid "Start AirDesk when computer starts"
+msgstr "Start AirDesk when computer starts"
+
+msgid "Starts AirDesk automatically at OS login."
+msgstr "Starts AirDesk automatically at OS login."
+
+msgid "Starts the experimental host-side virtual USB/IP input bridge."
+msgstr "Starts the experimental host-side virtual USB/IP input bridge."
+
+msgid "Stereo"
+msgstr "Stereo"
+
+msgid "Surround modes preserve multi-channel setups for compatible clients."
+msgstr "Surround modes preserve multi-channel setups for compatible clients."
+
+msgid "Swap Command and Control"
+msgstr "Swap Command and Control"
+
+msgid "System"
+msgstr "System"
+
+msgid "Targeting a device can avoid capturing the wrong speaker/output."
+msgstr "Targeting a device can avoid capturing the wrong speaker/output."
+
+msgid "Temporal AQ"
+msgstr "Temporal AQ"
+
+msgid "The app runs in the background even when you did not start it manually."
+msgstr "The app runs in the background even when you did not start it manually."
+
+msgid "The computer can become available without manually opening the app."
+msgstr "The computer can become available without manually opening the app."
+
+msgid "The list can go stale if windows open, close, or rename."
+msgstr "The list can go stale if windows open, close, or rename."
+
+msgid "The person near the host may not hear local audio."
+msgstr "The person near the host may not hear local audio."
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "This client uses Slint for the desktop UI."
+msgstr "This client uses Slint for the desktop UI."
+
+msgid "Tier"
+msgstr "Tier"
+
+msgid "Tier "
+msgstr "Tier "
+
+msgid "Tier 1 controls all"
+msgstr "Tier 1 controls all tiers"
+
+msgid "Tier 2 controls 2-4"
+msgstr "Tier 2 controls tiers 2–4"
+
+msgid "Tier 3 controls 3-4"
+msgstr "Tier 3 controls tiers 3–4"
+
+msgid "Tier 4 host only"
+msgstr "Tier 4 host only"
+
+msgid "Tier Update"
+msgstr "Tier Update"
+
+msgid "Too high can congest the path and increase latency or packet loss."
+msgstr "Too high can congest the path and increase latency or packet loss."
+
+msgid "Too high visibly reduces quality."
+msgstr "Too high visibly reduces quality."
+
+msgid "Too small can clip the app or produce unexpected aspect ratios."
+msgstr "Too small can clip the app or produce unexpected aspect ratios."
+
+msgid "Too small can reduce quality during complex motion."
+msgstr "Too small can reduce quality during complex motion."
+
+msgid "Top offset of the captured region in pixels. 0 keeps the full top edge."
+msgstr "Top offset of the captured region in pixels. 0 keeps the full top edge."
+
+msgid "Turn off for view-only sharing or troubleshooting input issues."
+msgstr "Turn off for view-only sharing or troubleshooting input issues."
+
+msgid "Turns this computer into a host by registering it and starting capture/network services."
+msgstr "Turns this computer into a host by registering it and starting capture/network services."
+
+msgid "UDP port {}"
+msgstr "UDP port {}"
+
+msgid "UPnP"
+msgstr "UPnP"
+
+msgid "USB/IP vUSB server"
+msgstr "USB/IP vUSB server"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Tier"
+msgstr "Update Tier"
+
+msgid "Updating"
+msgstr "Updating"
+
+msgid "Useful for calls, voice chat, and apps that need a mic."
+msgstr "Useful for calls, voice chat, and apps that need a mic."
+
+msgid "Useful for diagnostics and exact window targeting."
+msgstr "Useful for diagnostics and exact window targeting."
+
+msgid "Useful for games and controller-driven apps."
+msgstr "Useful for games and controller-driven apps."
+
+msgid "Useful for games and controller-focused apps."
+msgstr "Useful for games and controller-focused apps."
+
+msgid "Useful for separating master, trusted, and limited computers."
+msgstr "Useful for separating master, trusted, and limited computers."
+
+msgid "Useful on multi-NIC systems when you need a specific LAN/VPN path."
+msgstr "Useful on multi-NIC systems when you need a specific LAN/VPN path."
+
+msgid "Uses adaptive quantization to spend bits on visually important regions."
+msgstr "Uses adaptive quantization to spend bits on visually important regions."
+
+msgid "Uses lookahead-driven quality decisions across time."
+msgstr "Adjusts quality over time based on lookahead."
+
+msgid "Uses more bandwidth and may not help low-quality sources."
+msgstr "Uses more bandwidth and may not help low-quality sources."
+
+msgid "Uses network, capture, audio, and encoder resources while enabled."
+msgstr "Uses network, capture, audio, and encoder resources while enabled."
+
+msgid "Usually does not cross VLANs, VPNs, or routed networks."
+msgstr "Usually does not cross VLANs, VPNs, or routed networks."
+
+msgid "V-Sync"
+msgstr "V-Sync"
+
+msgid "VRAM paths avoid CPU readback and are usually lower latency."
+msgstr "VRAM paths avoid CPU readback and are usually lower latency."
+
+msgid "VT frame reorder"
+msgstr "VT frame reorder"
+
+msgid "VT realtime"
+msgstr "VT realtime"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Video Decoder"
+msgstr "Video Decoder"
+
+msgid "VideoToolbox Preset"
+msgstr "VideoToolbox Preset"
+
+msgid "VideoToolbox uses Apple hardware acceleration with low CPU cost."
+msgstr "VideoToolbox uses Apple hardware acceleration with low CPU cost."
+
+msgid "Wastes bandwidth and is usually unnecessary for interactive streaming."
+msgstr "Wastes bandwidth and is usually unnecessary for interactive streaming."
+
+msgid "Weighted prediction"
+msgstr "Weighted prediction"
+
+msgid "Welcome back"
+msgstr "Welcome back"
+
+msgid "Width of the captured region in pixels. 0 means full width."
+msgstr "Width of the captured region in pixels. 0 means full width."
+
+msgid "Window"
+msgstr "Window"
+
+msgid "Window ID"
+msgstr "Window ID"
+
+msgid "Window capture can share one app without exposing the whole desktop."
+msgstr "Window capture can share one app without exposing the whole desktop."
+
+msgid "Window capture is more sensitive to app/window changes."
+msgstr "Window capture is more sensitive to app/window changes."
+
+msgid "Wrong IP can make the host unreachable from other computers."
+msgstr "An incorrect IP can make the host unreachable from other computers."
+
+msgid "Wrong tier can hide the host or block expected connections."
+msgstr "An incorrect tier can hide the host or block expected connections."
+
+msgid "Wrong values can crop important content."
+msgstr "Incorrect values can crop important content."
+
+msgid "Wrong values can hurt quality or waste bitrate."
+msgstr "Incorrect values can hurt quality or waste bitrate."
+
+msgid "Wrong values can shift the stream away from the intended content."
+msgstr "Incorrect values can shift the stream away from the intended area."
+
+msgid "YUV 4:4:4"
+msgstr "YUV 4:4:4"
+
+msgid "friend@example.com"
+msgstr "friend@example.com"
+
+msgid "mDNS"
+msgstr "mDNS"
+
+msgid "macOS Permissions"
+msgstr "macOS Permissions"
+
+msgid "Connection failed"
+msgstr "Connection failed"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Allow printer"
+msgstr "Allow printer"
+
+msgid "Allow terminal"
+msgstr "Allow terminal"
+
+msgid "Allows connected clients to open an interactive shell on this host."
+msgstr "Allows connected clients to open an interactive shell on this host."
+
+msgid "Allows connected clients to send print jobs to this host."
+msgstr "Allows connected clients to send print jobs to this host."
+
+msgid "Android Permissions"
+msgstr "Android Permissions"
+
+msgid "Approve or revoke per-session access for sensitive host features."
+msgstr "Approve or revoke per-session access for sensitive host features."
+
+msgid "Audio Output"
+msgstr "Audio Output"
+
+msgid "Default playback"
+msgstr "Default playback"
+
+msgid "Default printer"
+msgstr "Default printer"
+
+msgid "Choose a printer"
+msgstr "Choose a printer"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable remote printer"
+msgstr "Enable remote printer"
+
+msgid "Enable remote terminal"
+msgstr "Enable remote terminal"
+
+msgid "Gamepad X1/X2 shoulder buttons"
+msgstr "Gamepad X1/X2 shoulder buttons"
+
+msgid "Host sharing starts automatically after sign-in."
+msgstr "Host sharing starts automatically after sign-in."
+
+msgid "Host sharing status: "
+msgstr "Host sharing status: "
+
+msgid "Host startup is running in background."
+msgstr "Host startup is running in background."
+
+msgid "INSTALLED"
+msgstr "INSTALLED"
+
+msgid "Install"
+msgstr "Install"
+
+msgid "Install the service to keep hosting available before sign-in and on the lock screen."
+msgstr "Install the service to keep hosting available before sign-in and on the lock screen."
+
+msgid "Keep terminal sessions on disconnect"
+msgstr "Keep terminal sessions on disconnect"
+
+msgid "Keeps terminal shells alive after a client disconnects so reconnect can reattach them."
+msgstr "Keeps terminal shells alive after a client disconnects so reconnect can reattach them."
+
+msgid "Keyboard Capture"
+msgstr "Keyboard Capture"
+
+msgid "Manual route"
+msgstr "Manual route"
+
+msgid "NOT INSTALLED"
+msgstr "NOT INSTALLED"
+
+msgid "No pending terminal or printer approvals"
+msgstr "No pending terminal or printer approvals"
+
+msgid "Printer target"
+msgstr "Printer target"
+
+msgid "Reject printer"
+msgstr "Reject printer"
+
+msgid "Reject terminal"
+msgstr "Reject terminal"
+
+msgid "Remote feature approval requested"
+msgstr "Remote feature approval requested"
+
+msgid "Remote feature approvals"
+msgstr "Remote feature approvals"
+
+msgid "Remote printer"
+msgstr "Remote printer"
+
+msgid "Remote printer lets approved clients send print jobs to this host. Enable it only for hosts where remote printing is allowed."
+msgstr "Remote printer lets approved clients send print jobs to this host. Enable it only for hosts where remote printing is allowed."
+
+msgid "Remote terminal"
+msgstr "Remote terminal"
+
+msgid "Remote terminal lets approved clients open an interactive shell on this host. Enable it only for hosts where shell access is allowed."
+msgstr "Remote terminal lets approved clients open an interactive shell on this host. Enable it only for hosts where shell access is allowed."
+
+msgid "Revoke printer"
+msgstr "Revoke printer"
+
+msgid "Revoke terminal"
+msgstr "Revoke terminal"
+
+msgid "STARTING"
+msgstr "STARTING"
+
+msgid "This computer is available for authorized remote connections."
+msgstr "This computer is available for authorized remote connections."
+
+msgid "Uninstall"
+msgstr "Uninstall"
+
+msgid "Windows boot service: "
+msgstr "Windows boot service: "
+
+msgid "Windows boot service"
+msgstr "Windows boot service"
+
+msgid "HDR display and HEVC Main10 hardware decoder required"
+msgstr "HDR display and HEVC Main10 hardware decoder required"
+
+msgid "Install codec pack"
+msgstr "Install codec pack"
+
+msgid "About / Licenses"
+msgstr "About / Licenses"
+
+msgid "Add Display"
+msgstr "Add Display"
+
+msgid "Automatic · hardware first"
+msgstr "Automatic · hardware first"
+
+msgid "Connect by Number"
+msgstr "Connect by ID"
+
+msgid "Direct UDP"
+msgstr "Direct UDP"
+
+msgid "Encoder / Advanced"
+msgstr "Encoder / Advanced"
+
+msgid "Enter the 9-digit AirDesk ID shared with you."
+msgstr "Enter the 9-digit AirDesk ID shared with you."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "KB/s"
+msgstr "KB/s"
+
+msgid "LAN discovery"
+msgstr "LAN discovery"
+
+msgid "Language / Appearance"
+msgstr "Language / Appearance"
+
+msgid "Licenses and account"
+msgstr "Licenses and account"
+
+msgid "Low latency mode"
+msgstr "Low latency mode"
+
+msgid "Manage environment and connection quality defaults."
+msgstr "Manage environment and connection quality defaults."
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "Preparing number..."
+msgstr "Preparing your AirDesk ID..."
+
+msgid "Prioritize the latest frame and discard stale media."
+msgstr "Prioritize the latest frame and discard stale media."
+
+msgid "AirDesk ID"
+msgstr "AirDesk ID"
+
+msgid "AirDesk ID: "
+msgstr "AirDesk ID: "
+
+msgid "Remove Display"
+msgstr "Remove Display"
+
+msgid "Run AirDesk when Windows starts"
+msgstr "Run AirDesk when Windows starts"
+
+msgid "Run AirDesk at login"
+msgstr "Run AirDesk at login"
+
+msgid "Tier unavailable"
+msgstr "Tier unavailable"
+
+msgid "Screen, accessibility, microphone and input permissions"
+msgstr "Screen, accessibility, microphone and input permissions"
+
+msgid "Share My PC"
+msgstr "Share My PC"
+
+msgid "Share this computer securely for direct connections."
+msgstr "Share this computer securely for direct connections."
+
+msgid "Sharing"
+msgstr "Sharing"
+
+msgid "Sharing is off"
+msgstr "Sharing is off"
+
+msgid "Stream codec"
+msgstr "Stream codec"
+
+msgid "Streaming"
+msgstr "Streaming"
+
+msgid "UDP port"
+msgstr "UDP port"
+
+msgid "Your AirDesk ID"
+msgstr "Your AirDesk ID"
+
+msgid "px"
+msgstr "px"
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Share this number so others can connect directly."
+msgstr "Share this ID so others can connect directly."
+
+msgid "Sharing failed"
+msgstr "Sharing failed"
+
+msgid "Starting sharing..."
+msgstr "Starting sharing..."
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Forgot password?"
+msgstr "Forgot password?"
+
+msgid "Enter your password"
+msgstr "Enter your password"
+
+msgid "Two-factor authentication"
+msgstr "Two-factor authentication"
+
+msgid "Enter the 6-digit code from Google Authenticator or Authy to finish signing in."
+msgstr "Enter the 6-digit code from Google Authenticator or Authy to finish signing in."
+
+msgid "Manage two-factor authentication in website account settings"
+msgstr "Manage two-factor authentication in website account settings"
+
+msgid "Manage on website"
+msgstr "Manage on website"
+
+msgid "Manage online"
+msgstr "Manage online"
+
+msgid "Connection details"
+msgstr "Connection details"
+
+msgid "Address and port"
+msgstr "Address and port"
+
+msgid "Connection status and app version"
+msgstr "Connection status and app version"
+
+msgid "Ready to connect"
+msgstr "Ready to connect"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Add virtual display"
+msgstr "Add virtual display"
+
+msgid "Remove virtual display"
+msgstr "Remove virtual display"
+
+msgid "Connect to add or remove displays."
+msgstr "Connect to add or remove displays."
+
+msgid "This computer does not support virtual displays."
+msgstr "This computer does not support virtual displays."
+
+msgid "Change permission tier"
+msgstr "Change permission tier"
+
+
+msgid "Start automatically when the computer starts"
+msgstr "Start automatically when the computer starts"
+
+msgid "Run the host service at startup, even before signing in."
+msgstr "Run the host service at startup, even before signing in."
+
+msgid "Start automatically"
+msgstr "Start automatically"
+
+
+msgid "Run at Mac login"
+msgstr "Run at Mac login"
+
+
+msgid "Start AirDesk automatically after signing in."
+msgstr "Start AirDesk automatically after signing in."
+
+
+msgid "macOS host permissions"
+msgstr "macOS host permissions"
+
+
+msgid "Ready to share"
+msgstr "Ready to share"
+
+
+msgid "Permission required"
+msgstr "Permission required"
+
+
+msgid "Permissions are allowed. Turn on sharing when you are ready."
+msgstr "Permissions are allowed. Turn on sharing when you are ready."
+
+
+msgid "Allow access on the host Mac to share its screen and control it remotely."
+msgstr "Allow access on the host Mac to share its screen and control it remotely."
+
+
+msgid "Required to share this Mac's screen."
+msgstr "Required to share this Mac's screen."
+
+
+msgid "Allows remote keyboard and mouse control."
+msgstr "Allows remote keyboard and mouse control."
+
+
+msgid "After allowing access, return here and refresh."
+msgstr "After allowing access, return here and refresh."
+
+
+msgid "Refresh status"
+msgstr "Refresh status"
+
+
+msgid "Permission troubleshooting"
+msgstr "Permission troubleshooting"
+
+
+msgid "This Mac's remote ID"
+msgstr "This Mac's remote ID"
+
+
+msgid "This PC's remote ID"
+msgstr "This PC's remote ID"
+
+
+msgid "Copy remote ID"
+msgstr "Copy remote ID"
+
+
+msgid "Remote ID copied"
+msgstr "Remote ID copied"
+
+
+msgid "Waiting for host permission"
+msgstr "Waiting for host permission"
+
+
+msgid "Ready for direct connections."
+msgstr "Ready for direct connections."
+
+
+msgid "Turn on sharing when you want to accept connections."
+msgstr "Turn on sharing when you want to accept connections."
+
+
+msgid "Sharing environment"
+msgstr "Sharing environment"
+
+
+msgid "Streaming settings"
+msgstr "Streaming settings"
+
+
+msgid "Connection permissions"
+msgstr "Connection permissions"
+
+
+msgid "Manage sharing with friends and access tiers."
+msgstr "Manage sharing with friends and access tiers."
+
+
+msgid "General"
+msgstr "General"
+
+
+msgid "Follow your system or choose an appearance."
+msgstr "Follow your system or choose an appearance."
+
+
+msgid "Choose the language used in the app."
+msgstr "Choose the language used in the app."
+
+
+msgid "Keyboard, mouse and controller"
+msgstr "Keyboard, mouse and controller"
+
+
+msgid "Connection and audio settings"
+msgstr "Connection and audio settings"
+
+
+msgid "Open recordings folder"
+msgstr "Open recordings folder"
+
+
+msgid "Recordings and screenshots"
+msgstr "Recordings and screenshots"
+
+
+msgid "Additional permissions"
+msgstr "Additional permissions"
+
+
+msgid "Microphone access depends on the audio input path. Input Monitoring is used when this Mac captures client input."
+msgstr "Microphone access depends on the audio input path. Input Monitoring is used when this Mac captures client input."
+
+
+msgid "Your workspace,\nwherever you are."
+msgstr "Your workspace,\nwherever you are."
+
+
+msgid "Connect to a familiar computer and pick up where you left off."
+msgstr "Connect to a familiar computer and pick up where you left off."
+
+
+msgid "Your workspace"
+msgstr "Your workspace"
+
+
+msgid "Your space, just as you left it"
+msgstr "Your space, just as you left it"
+
+
+msgid "Connect directly to your devices"
+msgstr "Connect directly to your devices"
+
+
+msgid "Direct connections · Multiple displays · Secure sharing"
+msgstr "Direct connections · Multiple displays · Secure sharing"
+
+
+msgid "My account"
+msgstr "My account"
+
+msgid "Your free plan's computer limit has been reached"
+msgstr "Your free plan's computer limit has been reached"
+
+msgid "Your plan's computer limit has been reached"
+msgstr "Your plan's computer limit has been reached"
+
+msgid "You can still connect to existing computers."
+msgstr "You can still connect to existing computers."
+
+msgid "Manage computers"
+msgstr "Manage computers"
+
+msgid "View plans"
+msgstr "View plans"
+
+msgid "Computer registration limit"
+msgstr "Computer registration limit"
+
+msgid "This computer could not be registered"
+msgstr "This computer could not be registered"
+
+msgid "Your plan's computer registration limit has been reached. Remove an unused computer and try again, or review your plan."
+msgstr "Your plan's computer registration limit has been reached. Remove an unused computer and try again, or review your plan."
+
+msgid "Later"
+msgstr "Later"
+
+msgid "Registered {} / {} computers"
+msgstr "Registered {} / {} computers"
+
+msgid "Registration limit: {} computers"
+msgstr "Registration limit: {} computers"
+
+msgid "Registration limit reached"
+msgstr "Registration limit reached"
+
+msgid "Free plan"
+msgstr "Free plan"
+
+msgid "Current plan"
+msgstr "Current plan"
+
+msgid "Not allowed"
+msgstr "Not allowed"
+
+msgid "Screen sharing and remote control"
+msgstr "Screen sharing and remote control"
+
+msgid "{} / 3 allowed"
+msgstr "{} / 3 allowed"
+
+msgid "Shares this Mac's screen remotely."
+msgstr "Shares this Mac's screen remotely."
+
+msgid "Remote control access required by macOS."
+msgstr "Remote control access required by macOS."
+
+msgid "Additional features"
+msgstr "Additional features"
+
+msgid "Allow for the features you use"
+msgstr "Allow for the features you use"
+
+msgid "Needed when transmitting microphone audio."
+msgstr "Needed when transmitting microphone audio."
+
+msgid "Needed when capturing keyboard input."
+msgstr "Needed when capturing keyboard input."
+
+msgid "macOS permission troubleshooting"
+msgstr "macOS permission troubleshooting"
+
+msgid "This Mac is ready to share"
+msgstr "This Mac is ready to share"
+
+msgid "Allow {} permission(s) for screen sharing and remote control"
+msgstr "Allow {} permission(s) for screen sharing and remote control"
+
+msgid "All permissions needed for screen sharing and remote control are allowed."
+msgstr "All permissions needed for screen sharing and remote control are allowed."
+
+msgid "Allow access on the host Mac, then refresh the status."
+msgstr "Allow access on the host Mac, then refresh the status."
+
+msgid "Permissions not updating?"
+msgstr "Permissions not updating?"
+
+msgid "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
+msgstr "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
+
+msgid "Permissions are changed in this Mac's System Settings."
+msgstr "Permissions are changed in this Mac's System Settings."
+
+msgid "macOS permissions for AI control"
+msgstr "macOS permissions for AI control"
+
+msgid "Review macOS permissions"
+msgstr "Review macOS permissions"
+
+msgid "Allow AirDesk in Privacy & Security when AI will control this Mac. You can skip this step if you only use this Mac to control another computer."
+msgstr "Allow AirDesk in Privacy & Security when AI will control this Mac. You can skip this step if you only use this Mac to control another computer."
+
+msgid "Access required"
+msgstr "Access required"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Accepted"
+msgstr "Accepted"
+
+msgid "Request received"
+msgstr "Request received"
+
+msgid "Request sent"
+msgstr "Request sent"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Reject"
+msgstr "Reject"
+
+msgid "Connection request"
+msgstr "Connection request"
+
+msgid "A user is requesting access using your AirDesk ID. Allow this remote connection?"
+msgstr "A user is requesting access using your AirDesk ID. Allow this remote connection?"
+
+msgid "Allow"
+msgstr "Allow"
+
+msgid "YUV 4:4:4 (when supported)"
+msgstr "YUV 4:4:4 (when supported)"
+
+msgid "Requests full chroma detail. Applied only when BOTH the host hardware encoder and the selected client GPU support SDR 8-bit HEVC 4:4:4. Otherwise the connection keeps 4:2:0. The session status shows the applied format."
+msgstr "Requests full chroma detail. Applied only when BOTH the host hardware encoder and the selected client GPU support SDR 8-bit HEVC 4:4:4. Otherwise the connection keeps 4:2:0. The session status shows the applied format."
+
+msgid "Approve each sensitive feature request only for the current remote session."
+msgstr "Approve each sensitive feature request only for the current remote session."
+
+msgid "Current request status"
+msgstr "Current request status"
+
+msgid "Allows command execution in a terminal for the requesting session."
+msgstr "Allows command execution in a terminal for the requesting session."
+
+msgid "Allow request"
+msgstr "Allow request"
+
+msgid "Reject request"
+msgstr "Reject request"
+
+msgid "Revoke approval"
+msgstr "Revoke approval"
+
+msgid "Allows the requesting session to send a print job to this computer."
+msgstr "Allows the requesting session to send a print job to this computer."
+
+msgid "Allow request: approve the pending session · Reject request: deny it · Revoke approval: remove an existing approval"
+msgstr "Allow request: approve the pending session · Reject request: deny it · Revoke approval: remove an existing approval"
+
+msgid "No friends yet"
+msgstr "No friends yet"
+
+msgid "Virtual audio sink (auto)"
+msgstr "Virtual audio sink (auto)"
+
+msgid "AVFoundation audio input"
+msgstr "AVFoundation audio input"
+
+msgid "Login required"
+msgstr "Login required"
+
+msgid "Idle"
+msgstr "Idle"
+
+msgid "Client disconnected"
+msgstr "Client disconnected"
+
+msgid "No hosts"
+msgstr "No computers"
+
+msgid "Host input offline"
+msgstr "Host input offline"
+
+msgid "Latency overlay inactive"
+msgstr "Latency overlay is off"
+
+msgid "Preparing interface..."
+msgstr "Preparing interface..."
+
+msgid "Starting AirDesk..."
+msgstr "Starting AirDesk..."
+
+msgid "Loading settings..."
+msgstr "Loading settings..."
+
+msgid "Loading audio devices..."
+msgstr "Loading audio devices..."
+
+msgid "Signing in..."
+msgstr "Signing in..."
+
+msgid "Connecting by AirDesk ID..."
+msgstr "Connecting by AirDesk ID..."
+
+msgid "Refreshing permissions..."
+msgstr "Refreshing permissions..."
+
+msgid "Starting host service..."
+msgstr "Starting host service..."
+
+msgid "Stopping host service..."
+msgstr "Stopping host service..."
+
+msgid "Refreshing audio devices..."
+msgstr "Refreshing audio devices..."
+
+msgid "Refreshing printers..."
+msgstr "Refreshing printers..."
+
+msgid "Refreshing capture windows..."
+msgstr "Refreshing capture windows..."
+
+msgid "Refreshing feature approvals..."
+msgstr "Refreshing feature approvals..."
+
+msgid "Approving terminal session..."
+msgstr "Approving terminal session..."
+
+msgid "Rejecting terminal session..."
+msgstr "Rejecting terminal session..."
+
+msgid "Revoking terminal session..."
+msgstr "Revoking terminal session..."
+
+msgid "Approving printer session..."
+msgstr "Approving printer session..."
+
+msgid "Rejecting printer session..."
+msgstr "Rejecting printer session..."
+
+msgid "Revoking printer session..."
+msgstr "Revoking printer session..."
+
+msgid "Updating start on login..."
+msgstr "Updating start on login..."
+
+msgid "Refreshing friends..."
+msgstr "Refreshing friends..."
+
+msgid "Sending friend request..."
+msgstr "Sending friend request..."
+
+msgid "Enabling friend sharing..."
+msgstr "Enabling friend sharing..."
+
+msgid "Disabling friend sharing..."
+msgstr "Disabling friend sharing..."
+
+msgid "Stopping client..."
+msgstr "Stopping client..."
+
+msgid "Install the FFmpeg codec pack for H.264 and HEVC encoding, then restart the app and host service."
+msgstr "Install the FFmpeg codec pack for H.264 and HEVC encoding, then restart the app and host service."
+
+msgid "H.264 encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+msgstr "H.264 encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+
+msgid "HEVC encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+msgstr "HEVC encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+
+msgid "Install the updated ARM64 FFmpeg MF low-delay codec pack, then restart the app and host service."
+msgstr "Install the updated ARM64 FFmpeg MF low-delay codec pack, then restart the app and host service."
+
+msgid "No remote computers"
+msgstr "No remote computers"
+
+msgid "Host mode ready"
+msgstr "Host mode ready"
+
+msgid "Client mode ready"
+msgstr "Client mode ready"
+
+msgid "Waiting"
+msgstr "Waiting"
+
+msgid "Enter the 6-digit code from Authy or Google Authenticator."
+msgstr "Enter the 6-digit code from Authy or Google Authenticator."
+
+msgid "friend request accepted"
+msgstr "Friend request accepted."
+
+msgid "friend request rejected"
+msgstr "Friend request declined."
+
+msgid "friend deleted"
+msgstr "Friend removed."
+
+msgid "friend sharing enabled"
+msgstr "Sharing with friend turned on."
+
+msgid "friend sharing disabled"
+msgstr "Sharing with friend turned off."
+
+msgid "Host service is not running"
+msgstr "Host service is not running"
+
+msgid "Start on login is not supported on this platform"
+msgstr "Start on login is not supported on this platform"
+
+msgid "Login is required before adding friends"
+msgstr "Login is required before adding friends"
+
+msgid "Login is required before accepting friends"
+msgstr "Login is required before accepting friends"
+
+msgid "Login is required before rejecting friends"
+msgstr "Login is required before rejecting friends"
+
+msgid "Login is required before deleting friends"
+msgstr "Login is required before deleting friends"
+
+msgid "Login is required before changing friend sharing"
+msgstr "Login is required before changing friend sharing"
+
+msgid "Login is required before fetching friends"
+msgstr "Login is required before fetching friends"
+
+msgid "Login is required before hosting"
+msgstr "Login is required before hosting"
+
+msgid "Login is required before fetching hosts"
+msgstr "Login is required before fetching hosts"
+
+msgid "Login is required before connecting"
+msgstr "Login is required before connecting"
+
+msgid "selected computer is no longer available"
+msgstr "The selected computer is no longer available."
+
+msgid "Screen Recording permission is required before connecting"
+msgstr "Screen Recording permission is required before connecting"
+
+msgid "client is not connected"
+msgstr "Not connected to a remote computer."
+
+msgid "Remote terminal open requested"
+msgstr "Remote terminal open requested"
+
+msgid "Remote printer test job sent"
+msgstr "Remote printer test job sent"
+
+msgid "connect to a remote computer before opening terminal"
+msgstr "Connect to a remote computer before opening the terminal."
+
+msgid "remote terminal is not supported by this host"
+msgstr "This host does not support the remote terminal."
+
+msgid "connect to a remote computer before sending a remote printer job"
+msgstr "Connect to a remote computer before sending a print job."
+
+msgid "remote printer is not supported by this host"
+msgstr "This host does not support remote printing."
+
+msgid "No pending terminal session approvals"
+msgstr "No pending terminal session approvals"
+
+msgid "No pending printer session approvals"
+msgstr "No pending printer session approvals"
+
+msgid "No approved terminal sessions"
+msgstr "No approved terminal sessions"
+
+msgid "No approved printer sessions"
+msgstr "No approved printer sessions"
+
+msgid "Client {}"
+msgstr "Client {}"
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Dismiss notification"
+msgstr "Dismiss notification"
+
+msgid "Sign in to your account"
+msgstr "Sign in to your account"
+
+msgid "friend request sent"
+msgstr "Friend request sent."
+
+msgid "Computers"
+msgstr "Computers"
+
+msgid "My Computers"
+msgstr "My Computers"
+
+msgid "Select a computer to connect."
+msgstr "Select a computer to connect."
+
+msgid "Total {}"
+msgstr "Total {}"
+
+msgid "Manage friends and access to your shared computers."
+msgstr "Manage friends and access to your shared computers."
+
+msgid "Received files"
+msgstr "Received files"
+
+msgid "Files received from the remote PC"
+msgstr "Files received from the remote PC"
+
+msgid "Account tier: "
+msgstr "Account tier: "
+
+msgid "Membership not verified · Only Free features are shown"
+msgstr "Membership not verified · Only Free features are shown"
+
+msgid "Refresh membership"
+msgstr "Refresh membership"
+
+msgid "Video preferences apply to the next connection. Use the overlay toolbar to change the active stream."
+msgstr "Video preferences apply to the next connection. Use the overlay toolbar to change the active stream."
+
+msgid "Security and permissions"
+msgstr "Security and permissions"
+
+msgid "Two-factor authentication · Feature approvals"
+msgstr "Two-factor authentication · Feature approvals"
+
+msgid "App information and diagnostics"
+msgstr "App information and diagnostics"
+
+msgid "Licenses · Logs · Account"
+msgstr "Licenses · Logs · Account"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "This client uses Slint for its UI."
+msgstr "This client uses Slint for its UI."
+
+msgid "Recordings and screen captures"
+msgstr "Recordings and screen captures"
+
+msgid "Permission tier {}"
+msgstr "Tier {}"
+
+msgid "Open remote screen"
+msgstr "Open remote screen"
+
+msgid "More options for {}"
+msgstr "More options for {}"
+
+msgid "Available {}"
+msgstr "Available {}"
+
+msgid "Connection details are available in the computer's ··· menu."
+msgstr "Connection details are available in the computer's ··· menu."
+
+msgid "Add a friend by email"
+msgstr "Add a friend by email"
+
+msgid "Friend email"
+msgstr "Friend email"
+
+msgid "Friends {}"
+msgstr "Friends {}"
+
+msgid "Share with {}"
+msgstr "Share with {}"
+
+#: desktop Figma parity
+msgid "Available"
+msgstr "Available"
+
+#: desktop Figma parity
+msgid "Direct connections"
+msgstr "Direct connections"
+
+#: desktop Figma parity
+msgid "Multiple displays"
+msgstr "Multiple displays"
+
+#: desktop Figma parity
+msgid "Secure sharing"
+msgstr "Secure sharing"
+
+#: desktop Figma parity
+msgid "AirDesk on your other computers"
+msgstr "AirDesk on your other computers"
+
+#: desktop Figma parity
+msgid "Sign in with the same account to find them in My Computers."
+msgstr "Sign in with the same account to find them in My Computers."
+
+#: desktop Figma parity
+msgid "For security, friend sharing turns off automatically one day after you enable it."
+msgstr "For security, friend sharing turns off automatically one day after you enable it."
+
+#: desktop Figma parity
+msgid "Screen"
+msgstr "Screen"
+
+#: desktop Figma parity
+msgid "Remote screen output size"
+msgstr "Remote screen output size"
+
+#: desktop Figma parity
+msgid "120 FPS is available with Pro."
+msgstr "120 FPS is available with Pro."
+
+#: desktop Figma parity
+msgid "Pro supports 120 FPS."
+msgstr "Pro supports 120 FPS."
+
+#: desktop Figma parity
+msgid "Choose for compatibility and image quality."
+msgstr "Choose for compatibility and image quality."
+
+#: desktop Figma parity
+msgid "Vertical synchronization"
+msgstr "Vertical synchronization"
+
+#: desktop Figma parity
+msgid "Reduce screen tearing."
+msgstr "Reduce screen tearing."
+
+#: desktop Figma parity
+msgid "Audio playback"
+msgstr "Audio playback"
+
+msgid "Remote audio playback"
+msgstr "Remote audio playback"
+
+#: desktop Figma parity
+msgid "Listen to sound from the remote computer."
+msgstr "Listen to sound from the remote computer."
+
+#: desktop Figma parity
+msgid "Current settings"
+msgstr "Current settings"
+
+#: desktop Figma parity
+msgid "Quality and responsiveness"
+msgstr "Quality and responsiveness"
+
+#: desktop Figma parity
+msgid "Lower the bitrate if the network is unstable."
+msgstr "Lower the bitrate if the network is unstable."
+
+#: desktop Figma parity
+msgid "120 FPS and multiple display windows are available."
+msgstr "120 FPS and multiple display windows are available."
+
+#: desktop Figma parity
+msgid "Pro supports 120 FPS and multiple display windows."
+msgstr "Pro supports 120 FPS and multiple display windows."
+
+#: desktop Figma parity
+msgid "Additional settings"
+msgstr "Additional settings"
+
+#: desktop Figma parity
+msgid "Adjust clarity and motion for your environment."
+msgstr "Adjust clarity and motion for your environment."
+
+#: desktop Figma parity
+msgid "Two-factor authentication and feature approvals"
+msgstr "Two-factor authentication and feature approvals"
+
+#: desktop Figma parity
+msgid "This bitrate is outside the slider range. Additional settings retain the current value."
+msgstr "This bitrate is outside the slider range. Additional settings retain the current value."
+
+#: desktop Figma parity
+msgid "After your friend accepts, enable sharing to let them connect to this computer."
+msgstr "After your friend accepts, enable sharing to let them connect to this computer."
+
+msgid "Plan features"
+msgstr "Plan features"
+
+msgid "Current plan · "
+msgstr "Current plan · "
+
+msgid "Membership verification required"
+msgstr "Membership verification required"
+
+msgid "Review available features and host permissions."
+msgstr "Review available features and host permissions."
+
+msgid "Paid features stay locked until your membership is verified."
+msgstr "Paid features stay locked until your membership is verified."
+
+msgid "Verification required"
+msgstr "Verification required"
+
+msgid "Team required"
+msgstr "Team required"
+
+msgid "Pro required"
+msgstr "Pro required"
+
+msgid "Allowed"
+msgstr "Allowed"
+
+msgid "120 FPS · Multiple displays · Recording"
+msgstr "120 FPS · Multiple displays · Recording"
+
+msgid "Available from the connection screen and remote toolbar."
+msgstr "Available from the connection screen and remote toolbar."
+
+msgid "Requires compatible host and client hardware."
+msgstr "Requires compatible host and client hardware."
+
+msgid "Run commands on this Windows host."
+msgstr "Run commands on this Windows host."
+
+msgid "Windows host required"
+msgstr "Windows host required"
+
+msgid "Reconnect to the same shell after a disconnection."
+msgstr "Reconnect to the same shell after a disconnection."
+
+msgid "Print documents with this host's printer."
+msgstr "Print documents with this host's printer."
+
+msgid "Experimental virtual USB device sharing."
+msgstr "Experimental virtual USB device sharing."
+
+msgid "Host permission and session approval are separate. Saved preferences do not unlock features excluded from your current plan."
+msgstr "Host permission and session approval are separate. Saved preferences do not unlock features excluded from your current plan."
+
+msgid "Client Pro"
+msgstr "Client Pro"
+
+
+msgid "Windows or macOS host required"
+msgstr "Windows or macOS host required"
+
+msgid "Allow Pro clients to print with this host's printer."
+msgstr "Allow Pro clients to print with this host's printer."
+
+msgid "Client features stay locked until membership is verified. Host permissions can still be changed."
+msgstr "Client features stay locked until membership is verified. Host permissions can still be changed."
+
+
+
+msgid "Enter your email and password."
+msgstr "Enter your email and password."
+
+msgid "The email or password is incorrect."
+msgstr "The email or password is incorrect."
+
+msgid "Enter a 6-digit authentication code."
+msgstr "Enter a 6-digit authentication code."
+
+msgid "The authentication code is incorrect. Please try again."
+msgstr "The authentication code is incorrect. Please try again."
+
+msgid "Authentication expired. Please sign in again."
+msgstr "Authentication expired. Please sign in again."
+
+msgid "Check this computer's date and time, sync the system clock, then try again."
+msgstr "Check this computer's date and time, sync the system clock, then try again."
+
+msgid "Enter a valid email address."
+msgstr "Enter a valid email address."
+
+msgid "Too many sign-in attempts. Please try again later."
+msgstr "Too many sign-in attempts. Please try again later."
+
+msgid "Sign-in failed. Please try again."
+msgstr "Sign-in failed. Please try again."
+
+msgid "You do not have permission to perform this action."
+msgstr "You do not have permission to perform this action."
+
+msgid "The request could not be completed. Please try again later."
+msgstr "The request could not be completed. Please try again later."
+
+msgid "Computer unavailable. Check that it is online and sharing."
+msgstr "Computer unavailable. Check that it is online and sharing."
+
+msgid "The server response could not be processed. Please try again later."
+msgstr "The server response could not be processed. Please try again later."
+
+msgid "Allow the required permission in your system settings."
+msgstr "Allow the required permission in your system settings."
+
+msgid "Could not apply the setting. Check the value and device."
+msgstr "Could not apply the setting. Check the value and device."
+
+msgid "Remote input"
+msgstr "Remote input"
+
+msgid "Remote input status"
+msgstr "Remote input status"
+
+msgid "This PC input"
+msgstr "This PC input"
+
+msgid "No connection"
+msgstr "No connection"
+
+msgid "Receiving input"
+msgstr "Receiving input"
+
+msgid "{} connected"
+msgstr "{} connected"
+
+msgid "Waiting for connection"
+msgstr "Waiting for connection"
+
+msgid "View details"
+msgstr "View details"
+
+msgid "Disconnect client {}"
+msgstr "Disconnect client {}"
+
+msgid "Shows input received by this PC in real time."
+msgstr "Shows input received by this PC in real time."
+
+msgid "Input activity will appear when a remote computer connects."
+msgstr "Input activity will appear when a remote computer connects."
+
+msgid "Turn on Share My PC to see input activity."
+msgstr "Turn on Share My PC to see input activity."
+
+msgid "Update available"
+msgstr "Update available"
+
+msgid "Downloading update"
+msgstr "Downloading update"
+
+msgid "Verifying update"
+msgstr "Verifying update"
+
+msgid "Opening installer"
+msgstr "Opening installer"
+
+msgid "Installer opened"
+msgstr "Installer opened"
+
+msgid "Could not start the update"
+msgstr "Could not start the update"
+
+msgid "Restart to apply update"
+msgstr "Restart to apply update"
+
+msgid "The update is ready. Restart AirDesk to apply it."
+msgstr "The update is ready. Restart AirDesk to apply it."
+
+msgid "Restart now"
+msgstr "Restart now"
+
+msgid "Download and verify the update. AirDesk will close and reopen automatically."
+msgstr "Download and verify the update. AirDesk will close and reopen automatically."
+
+msgid "Restarting AirDesk"
+msgstr "Restarting AirDesk"
+
+msgid "Preparing the verified update before restarting AirDesk."
+msgstr "Preparing the verified update before restarting AirDesk."
+
+msgid "Download the new version and open its installer. Windows may ask for permission."
+msgstr "Download the new version and open its installer. Windows may ask for permission."
+
+msgid "You can keep using the current version if you cancel."
+msgstr "You can keep using the current version if you cancel."
+
+msgid "Checking the download and publisher signature."
+msgstr "Checking the download and publisher signature."
+
+msgid "Please respond to the Windows permission prompt if it appears."
+msgstr "Please respond to the Windows permission prompt if it appears."
+
+msgid "Update installation has started. AirDesk may restart."
+msgstr "Update installation has started. AirDesk may restart."
+
+msgid "The current version is unchanged. Check the error and try again."
+msgstr "The current version is unchanged. Check the error and try again."
+
+msgid "Current version: {}"
+msgstr "Current version: {}"
+
+msgid "New version: {}"
+msgstr "New version: {}"
+
+msgid "{}% downloaded"
+msgstr "{}% downloaded"
+
+msgid "Cancel download"
+msgstr "Cancel download"
+
+msgid "Try again"
+msgstr "Try again"
+
+msgid "Update now"
+msgstr "Update now"
+
+msgid "Remote terminal and MCP"
+msgstr "Remote terminal and MCP"
+
+msgid "MCP server"
+msgstr "MCP server"
+
+msgid "Allow connected agents to control remote PCs and use remote terminals."
+msgstr "Allow connected agents to control remote PCs and use remote terminals."
+
+
+msgid "Hosting"
+msgstr "Hosting"
+
+msgid "Manage shell access and agent connections for this PC."
+msgstr "Manage shell access and agent connections for this PC."
+
+msgid "Remote terminal required"
+msgstr "Remote terminal required"
+
+msgid "MCP controls remote PCs independently of this PC's terminal hosting. Turning off MCP ends agent connections."
+msgstr "MCP controls remote PCs independently of this PC's terminal hosting. Turning off MCP ends agent connections."
+
+msgid "Allow approved clients to run commands on this host."
+msgstr "Allow approved clients to run commands on this host."
+
+msgid "Host approval required"
+msgstr "Host approval required"
+
+msgid "Remote terminal is available on all plans with host approval. Remote printer requires a verified Pro client."
+msgstr "Remote terminal is available on all plans with host approval. Remote printer requires a verified Pro client."
+
+msgid "Friend Computers"
+msgstr "Friend Computers"
+
+msgid "Computers shared with you by friends"
+msgstr "Computers shared with you by friends"
+
+msgid "Computers registered to your account"
+msgstr "Computers registered to your account"
+
+msgid "No friend computers available"
+msgstr "No friend computers available"
+
+msgid "No computers of your own available"
+msgstr "No computers of your own available"
+
+msgid "Ask a friend to share their computer, then refresh."
+msgstr "Ask a friend to share their computer, then refresh."
+
+msgid "Sign in on another computer with this account, then refresh."
+msgstr "Sign in on another computer with this account, then refresh."
+
+#. Free terminal and MCP settings
+msgid "Included in Free · All plans"
+msgstr "Included in Free · All plans"
+
+#. Free terminal and MCP settings
+msgid "Use remote terminal and MCP server at no extra cost."
+msgstr "Use remote terminal and MCP server at no extra cost."
+
+#. Free terminal and MCP settings
+msgid "Choose what to allow. Connection requests are approved on the host."
+msgstr "Choose what to allow. Connection requests are approved on the host."
+
+#. Free terminal and MCP settings
+msgid "Terminal access to this PC"
+msgstr "Terminal access to this PC"
+
+#. Free terminal and MCP settings
+msgid "AI agent connections"
+msgstr "AI agent connections"
+
+#. Free terminal and MCP settings
+msgid "Allow AI apps to control remote PCs and use terminals with the account signed in on this PC."
+msgstr "Allow AI apps to control remote PCs and use terminals with the account signed in on this PC."
+
+#. Free terminal and MCP settings
+msgid "Turn on remote terminal first"
+msgstr "Turn on remote terminal first"
+
+#. Free terminal and MCP settings
+msgid "Manage requests to access this PC, independently of your plan."
+msgstr "Manage requests to access this PC, independently of your plan."
+
+#. Free terminal and MCP settings
+msgid "Remote terminal · Included in Free"
+msgstr "Remote terminal · Included in Free"
+
+#. Free terminal and MCP settings
+msgid "Only approved sessions can run shell commands on this PC."
+msgstr "Only approved sessions can run shell commands on this PC."
+
+#. Free terminal and MCP settings
+msgid "Remote printer · Client Pro"
+msgstr "Remote printer · Client Pro"
+
+#. Free terminal and MCP settings
+msgid "Printer access is managed separately."
+msgstr "Printer access is managed separately."
+
+#. Free terminal and MCP settings
+msgid "When enabled, connected clients can run commands on this PC without additional session approval. Enable it only for users you trust."
+msgstr "When enabled, connected clients can run commands on this PC without additional session approval. Enable it only for users you trust."
+
+msgid "Low-resource connect"
+msgstr "Low-resource connect"
+
+msgid "Stopping sharing..."
+msgstr "Stopping sharing..."
+
+msgid "You'll be asked to approve each connection."
+msgstr "You'll be asked to approve each connection."
+
+msgid "Remote connect"
+msgstr "Connect"
+
+#. Login from a new network requires email verification.
+msgid "Verify this new network.\nOpen the email verification link on this computer using the same network, then sign in again. The link is valid for 15 minutes."
+msgstr "Verify this new network.\nOpen the email verification link on this computer using the same network, then sign in again. The link is valid for 15 minutes."
+
+msgid "Rename computer"
+msgstr "Rename computer"
+
+msgid "Name shown only to you"
+msgstr "Name shown only to you"
+
+msgid "Only your account sees this name. Leave it blank to use the original name."
+msgstr "Only your account sees this name. Leave it blank to use the original name."
+
+msgid "Personal computer name updated."
+msgstr "Personal computer name updated."
+
+msgid "You no longer have access to this computer."
+msgstr "You no longer have access to this computer."
+
+msgid "Use 1–80 characters. Korean and emoji are supported."
+msgstr "Use 1–80 characters. Korean and emoji are supported."
+
+msgid "Computer name"
+msgstr "Computer name"
+
+msgid "Saving..."
+msgstr "Saving..."
+
+msgid "Computer name updated."
+msgstr "Computer name updated."
+
+msgid "Enter a name with 1–80 characters."
+msgstr "Enter a name with 1–80 characters."
+
+msgid "Remove control characters from the name."
+msgstr "Remove control characters from the name."
+
+msgid "Only the owner can rename this computer."
+msgstr "Only the owner can rename this computer."
+
+msgid "Sign in again to rename this computer."
+msgstr "Sign in again to rename this computer."
+
+msgid "Could not confirm the name change. Refresh the list and try again."
+msgstr "Could not confirm the name change. Refresh the list and try again."
+
+msgid "Connect in new window"
+msgstr "Connect in new window"
+
+msgid "All"
+msgstr "All"
+
+msgid "Mine"
+msgstr "Mine"
+
+msgid "Shared"
+msgstr "Shared"
+
+msgid "The remote session authorization expired or was revoked. Reconnect to verify access again."
+msgstr "The remote session authorization expired or was revoked. Reconnect to verify access again."
+
+msgid "Connection management"
+msgstr "Connection management"
+
+msgid "Manage connections"
+msgstr "Manage connections"
+
+msgid "Manage permissions for each device connected to this PC."
+msgstr "Manage permissions for each device connected to this PC."
+
+msgid "{} connections"
+msgstr "{} connections"
+
+msgid "Input allowed"
+msgstr "Input allowed"
+
+msgid "Input blocked"
+msgstr "Input blocked"
+
+msgid "Audio allowed"
+msgstr "Audio allowed"
+
+msgid "Audio blocked"
+msgstr "Audio blocked"
+
+msgid "Screen allowed"
+msgstr "Screen allowed"
+
+msgid "Screen blocked"
+msgstr "Screen blocked"
+
+msgid "Base permission off"
+msgstr "Base permission off"
+
+msgid "Blocked"
+msgstr "Blocked"
+
+msgid "End connection"
+msgstr "End connection"
+
+msgid "Applying change..."
+msgstr "Applying change..."
+
+msgid "No connected devices"
+msgstr "No connected devices"
+
+msgid "Connected devices will appear here. You can manage each connection separately."
+msgstr "Connected devices will appear here. You can manage each connection separately."
+
+msgid "Turn on Share My PC to accept connections."
+msgstr "Turn on Share My PC to accept connections."
+
+msgid "Permission changes apply only to the selected connection."
+msgstr "Permission changes apply only to the selected connection."
+
+msgid "Could not apply the change. Check the connection and try again."
+msgstr "Could not apply the change. Check the connection and try again."
+
+msgid "The change could not be confirmed. The last confirmed permissions are shown."
+msgstr "The change could not be confirmed. The last confirmed permissions are shown."
+
+msgid "Gamepad input is ready"
+msgstr "Gamepad input is ready"
+
+msgid "ViGEmBus driver is required"
+msgstr "ViGEmBus driver is required"
+
+msgid "Could not prepare the virtual gamepad"
+msgstr "Could not prepare the virtual gamepad"
+
+msgid "Could not check the driver status"
+msgstr "Could not check the driver status"
+
+msgid "A restart is required"
+msgstr "A restart is required"
+
+msgid "Host sharing is off"
+msgstr "Host sharing is off"
+
+msgid "Controller input is off"
+msgstr "Controller input is off"
+
+msgid "Checking driver status"
+msgstr "Checking driver status"
+
+msgid "ViGEmBus · Windows host"
+msgstr "ViGEmBus · Windows host"
+
+msgid "Install or repair ViGEmBus using the AirDesk installer."
+msgstr "Install or repair ViGEmBus using the AirDesk installer."
+
+msgid "The driver was found, but it is not ready. Check installation or restart Windows."
+msgstr "The driver was found, but it is not ready. Check installation or restart Windows."
+
+msgid "The driver could not be checked. Try again."
+msgstr "The driver could not be checked. Try again."
+
+msgid "Restart Windows to finish preparing the driver."
+msgstr "Restart Windows to finish preparing the driver."
+
+msgid "Turn on host sharing to check virtual gamepad readiness."
+msgstr "Turn on host sharing to check virtual gamepad readiness."
+
+msgid "Allow gamepad input below to receive controller input."
+msgstr "Allow gamepad input below to receive controller input."
+
+msgid "Checking this PC's virtual gamepad driver."
+msgstr "Checking this PC's virtual gamepad driver."
+
+msgid "Gamepad"
+msgstr "Gamepad"
+
+msgid "Choose how this PC receives remote gamepad input."
+msgstr "Choose how this PC receives remote gamepad input."
+
+msgid "Back to settings"
+msgstr "Back to settings"
+
+msgid "Installation help"
+msgstr "Installation help"
+
+msgid "Check again"
+msgstr "Check again"
+
+msgid "Allow gamepad input"
+msgstr "Allow gamepad input"
+
+msgid "Receive controller input from the connected device."
+msgstr "Receive controller input from the connected device."
+
+msgid "Output layout"
+msgstr "Output layout"
+
+msgid "Choose the controller type that games will recognize."
+msgstr "Choose the controller type that games will recognize."
+
+msgid "Match the connected gamepad"
+msgstr "Match the connected gamepad"
+
+msgid "Use Xbox output"
+msgstr "Use Xbox output"
+
+msgid "Use PlayStation output"
+msgstr "Use PlayStation output"
+
+msgid "Uses the DualShock 4 × · ○ · □ · △ button layout."
+msgstr "Uses the DualShock 4 × · ○ · □ · △ button layout."
+
+msgid "Uses the Xbox 360 A · B · X · Y button layout."
+msgstr "Uses the Xbox 360 A · B · X · Y button layout."
+
+msgid "Automatic uses DualShock 4 for PlayStation controllers and Xbox 360 for other controllers."
+msgstr "Automatic uses DualShock 4 for PlayStation controllers and Xbox 360 for other controllers."
+
+msgid "Button layout preview"
+msgstr "Button layout preview"
+
+msgid "DualShock 4 button layout"
+msgstr "DualShock 4 button layout"
+
+msgid "Xbox 360 button layout"
+msgstr "Xbox 360 button layout"
+
+msgid "Automatic · Xbox 360 example"
+msgstr "Automatic · Xbox 360 example"
+
+msgid "Read-only preview. Buttons cannot be moved."
+msgstr "Read-only preview. Buttons cannot be moved."
+
+msgid "USB virtual input is active. This layout does not apply to the first controller. Additional controllers can use ViGEm."
+msgstr "USB virtual input is active. This layout does not apply to the first controller. Additional controllers can use ViGEm."
+
+msgid "Saved on this Windows PC. Applies from the next controller connection."
+msgstr "Saved on this Windows PC. Applies from the next controller connection."
+
+msgid "Applies from the next controller connection."
+msgstr "Applies from the next controller connection."
+
+msgid "Changing the output layout does not affect current connections."
+msgstr "Changing the output layout does not affect current connections."
+
+msgid "Restore default"
+msgstr "Restore default"
+
+msgid "Saving…"
+msgstr "Saving…"
+
+msgid "Install or repair ViGEmBus"
+msgstr "Install or repair ViGEmBus"
+
+msgid "1. Download and run the latest AirDesk Windows installer."
+msgstr "1. Download and run the latest AirDesk Windows installer."
+
+msgid "2. Approve the administrator prompt and finish installation. ViGEmBus is installed automatically."
+msgstr "2. Approve the administrator prompt and finish installation. ViGEmBus is installed automatically."
+
+msgid "3. If the installer asks you to restart Windows, restart before checking again."
+msgstr "3. If the installer asks you to restart Windows, restart before checking again."
+
+msgid "After installation, return here and choose Check again."
+msgstr "After installation, return here and choose Check again."
+
+msgid "Output layout and ViGEmBus driver status"
+msgstr "Output layout and ViGEmBus driver status"
+
+msgid "Gamepad layout saved. Applies from the next controller connection."
+msgstr "Gamepad layout saved. Applies from the next controller connection."
+
+msgid "Could not save the gamepad layout. Try again."
+msgstr "Could not save the gamepad layout. Try again."
+
+msgid "The verification email could not be sent. Wait a moment and sign in again."
+msgstr "The verification email could not be sent. Wait a moment and sign in again."
+
+msgid "Default language is managed on the website."
+msgstr "Default language is managed on the website."
+
+msgid "Change on the website"
+msgstr "Change on the website"
+
+msgid "Enable MCP mode"
+msgstr "Enable MCP mode"
+
+msgid "Approved connections can run commands and change files on this PC. Only allow people you trust."
+msgstr "Approved connections can run commands and change files on this PC. Only allow people you trust."
+
+msgid "MCP lets local AI apps access remote PCs. Incoming automation follows connection input permissions. Terminal access is a separate setting."
+msgstr "MCP lets local AI apps access remote PCs. Incoming automation follows connection input permissions. Terminal access is a separate setting."
+msgid "Open account on the website"
+msgstr "Open account on the website"
+
+msgid "Feature approvals"
+msgstr "Feature approvals"
+
+msgid "Keyboard and mouse"
+msgstr "Keyboard and mouse"
+
+msgid "Gamepad options"
+msgstr "Gamepad options"
+
+msgid "Remote USB devices"
+msgstr "Remote USB devices"
+
+msgid "Select a USB device in the remote toolbar."
+msgstr "Select a USB device in the remote toolbar."
+
+msgid "Checking USB/IP driver"
+msgstr "Checking USB/IP driver"
+
+msgid "usbip-win2 driver detected"
+msgstr "usbip-win2 driver detected"
+
+msgid "USB/IP driver status unavailable"
+msgstr "USB/IP driver status unavailable"
+
+msgid "USB/IP not ready"
+msgstr "USB/IP not ready"
+
+msgid "Remote printer requires a verified Pro client."
+msgstr "Remote printer requires a verified Pro client."
+
+msgid "Screen quality"
+msgstr "Screen quality"
+
+msgid "Playback"
+msgstr "Playback"
+
+msgid "Pointer"
+msgstr "Pointer"
+
+msgid "Video and status"
+msgstr "Video and status"
+
+msgid "Screen capture"
+msgstr "Screen capture"
+
+msgid "Start and service"
+msgstr "Start and service"
+
+msgid "Installed"
+msgstr "Installed"
+
+msgid "Not installed"
+msgstr "Not installed"
+
+msgid "Connection tier"
+msgstr "Connection tier"
+
+msgid "Allow keyboard input"
+msgstr "Allow keyboard input"
+
+msgid "Allow mouse input"
+msgstr "Allow mouse input"
+
+msgid "Hide advanced settings"
+msgstr "Hide advanced settings"
+
+msgid "Advanced settings"
+msgstr "Advanced settings"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "120 FPS streaming"
+msgstr "120 FPS streaming"
+
+msgid "512 kbps for stereo Opus; surround uses channel layout."
+msgstr "512 kbps for stereo Opus; surround uses channel layout."
+
+msgid "Access permissions"
+msgstr "Access permissions"
+
+msgid "Available with Pro"
+msgstr "Available with Pro"
+
+msgid "Available with your Pro plan"
+msgstr "Available with your Pro plan"
+
+msgid "Basic settings"
+msgstr "Basic settings"
+
+msgid "Collapse"
+msgstr "Collapse"
+
+msgid "Device sharing"
+msgstr "Device sharing"
+
+msgid "Discover hosts on the local network."
+msgstr "Discover hosts on the local network."
+
+msgid "Driver compatibility check required"
+msgstr "Driver compatibility check required"
+
+msgid "Enable on both computers and select a virtual microphone."
+msgstr "Enable on both computers and select a virtual microphone."
+
+msgid "Expand"
+msgstr "Expand"
+
+msgid "Frame rate"
+msgstr "Frame rate"
+
+msgid "Gamepad settings"
+msgstr "Gamepad settings"
+
+msgid "High quality audio"
+msgstr "High quality audio"
+
+msgid "Install VB-CABLE on a Windows host or BlackHole 2ch on a Mac host, then select that virtual microphone in the app receiving your voice."
+msgstr "Install VB-CABLE on a Windows host or BlackHole 2ch on a Mac host, then select that virtual microphone in the app receiving your voice."
+
+msgid "Install or repair the signed usbip-win2 VHCI driver using your administrator's approved package. Check driver permissions and compatibility, then check again. AirDesk does not install or replace drivers automatically."
+msgstr "Install or repair the signed usbip-win2 VHCI driver using your administrator's approved package. Check driver permissions and compatibility, then check again. AirDesk does not install or replace drivers automatically."
+
+msgid "Installation guide"
+msgstr "Installation guide"
+
+msgid "Map the host UDP port on the router."
+msgstr "Map the host UDP port on the router."
+
+msgid "Microphone and echo cancellation are ready."
+msgstr "Microphone and echo cancellation are ready."
+
+msgid "Microphone ready. Echo cancellation is not active yet."
+msgstr "Microphone ready. Echo cancellation is not active yet."
+
+msgid "Microphone ready. Echo cancellation is off."
+msgstr "Microphone ready. Echo cancellation is off."
+
+msgid "Mute local playback during a remote stream."
+msgstr "Mute local playback during a remote stream."
+
+msgid "Refresh audio devices"
+msgstr "Refresh audio devices"
+
+msgid "Refresh windows"
+msgstr "Refresh windows"
+
+msgid "Service installed"
+msgstr "Service installed"
+
+msgid "Service not installed"
+msgstr "Service not installed"
+
+msgid "This host's virtual microphone is unavailable. Check the installed audio device."
+msgstr "This host's virtual microphone is unavailable. Check the installed audio device."
+
+msgid "usbip-win2 driver not found"
+msgstr "usbip-win2 driver not found"
+
+msgid "Installing driver…"
+msgstr "Installing driver…"
+
+msgid "Driver needs attention"
+msgstr "Driver needs attention"
+
+msgid "Installation package unavailable"
+msgstr "Installation package unavailable"
+
+msgid "Installing…"
+msgstr "Installing…"
+
+msgid "The signed installation package is unavailable. Reinstall or update AirDesk to add it."
+msgstr "The signed installation package is unavailable. Reinstall or update AirDesk to add it."
+
+msgid "Included with AirDesk setup. Run the AirDesk installer again to repair this driver."
+msgstr "Included with AirDesk setup. Run the AirDesk installer again to repair this driver."
+
+msgid "Virtual display driver"
+msgstr "Virtual display driver"
+
+msgid "Included"
+msgstr "Included"
+
+msgid "Installed with AirDesk for virtual displays."
+msgstr "Installed with AirDesk for virtual displays."
+
+msgid "Virtual tablet driver"
+msgstr "Virtual tablet driver"
+
+msgid "Install on this host to receive pressure-sensitive pen input from Pro clients."
+msgstr "Install on this host to receive pressure-sensitive pen input from Pro clients."
+
+msgid "Remote printer driver"
+msgstr "Remote printer driver"
+
+msgid "Install on this PC to send print jobs to a remote host's printer. Requires Pro on this PC."
+msgstr "Install on this PC to send print jobs to a remote host's printer. Requires Pro on this PC."
+
+msgid "Install ViGEmBus here to receive remote controller input. Available on every plan."
+msgstr "Install ViGEmBus here to receive remote controller input. Available on every plan."
+
+msgid "Driver installation completed."
+msgstr "Driver installation completed."
+
+msgid "Driver installed. Restart Windows to finish setup."
+msgstr "Driver installed. Restart Windows to finish setup."
+
+msgid "Driver installation was cancelled."
+msgstr "Driver installation was cancelled."
+
+msgid "The signed driver package is unavailable."
+msgstr "The signed driver package is unavailable."
+
+msgid "Could not install the driver. Check the driver status and try again."
+msgstr "Could not install the driver. Check the driver status and try again."
+
+msgid "Driver installed. Restart AirDesk sharing to apply it."
+msgstr "Driver installed. Restart AirDesk sharing to apply it."
+
+msgid "TEAM WORKSPACE"
+msgstr "TEAM WORKSPACE"
+
+msgid "Team Computers"
+msgstr "Team Computers"
+
+msgid "Refreshing team workspace..."
+msgstr "Refreshing team workspace..."
+
+msgid "Team workspace unavailable"
+msgstr "Team workspace unavailable"
+
+msgid "Check your connection, then refresh. Your other computers remain available."
+msgstr "Check your connection, then refresh. Your other computers remain available."
+
+msgid "No teams yet"
+msgstr "No teams yet"
+
+msgid "Join a team to see the computers shared by your organization."
+msgstr "Join a team to see the computers shared by your organization."
+
+msgid "Team access unavailable"
+msgstr "Team access unavailable"
+
+msgid "Manage company branding"
+msgstr "Manage company branding"
+
+msgid "Select team"
+msgstr "Select team"
+
+msgid "Computers you can access through your team"
+msgstr "Computers you can access through your team"
+
+msgid "No team computers available"
+msgstr "No team computers available"
+
+msgid "Ask your team administrator to grant computer access, then refresh."
+msgstr "Ask your team administrator to grant computer access, then refresh."
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Teams / Friends"
+msgstr "Teams / Friends"
+
+msgid "Open web team manager"
+msgstr "Open web team manager"
+
+msgid "Loading teams…"
+msgstr "Loading teams…"
+
+msgid "Could not load your teams."
+msgstr "Could not load your teams."
+
+msgid "You haven’t joined a team yet."
+msgstr "You haven’t joined a team yet."
+
+msgid "Team invitations"
+msgstr "Team invitations"
+
+msgid "Could not load team invitations."
+msgstr "Could not load team invitations."
+
+msgid "Decline"
+msgstr "Decline"
+
+msgid "Team invitation accepted"
+msgstr "Team invitation accepted"
+
+msgid "Team invitation declined"
+msgstr "Team invitation declined"
+
+msgid "Could not respond to the team invitation."
+msgstr "Could not respond to the team invitation."
+
+msgid "Could not open the team page."
+msgstr "Could not open the team page."
+
+msgid "Check the host's access, tier and approval settings with its owner."
+msgstr "Check the host's access, tier and approval settings with its owner."
+
+msgid "Keyboard shortcuts"
+msgstr "Keyboard shortcuts"
+
+msgid "Remote window and host controls"
+msgstr "Remote window and host controls"
+
+msgid "Make AirDesk work your way."
+msgstr "Make AirDesk work your way."
+
+msgid "Restore defaults"
+msgstr "Restore defaults"
+
+msgid "Remote window"
+msgstr "Remote window"
+
+msgid "This PC as host"
+msgstr "This PC as host"
+
+msgid "These shortcuts work on this PC while AirDesk is running, even outside the app."
+msgstr "These shortcuts work on this PC while AirDesk is running, even outside the app."
+
+msgid "These shortcuts work in the active remote window. Select a shortcut to change it."
+msgstr "These shortcuts work in the active remote window. Select a shortcut to change it."
+
+msgid "Press a shortcut…"
+msgstr "Press a shortcut…"
+
+msgid "Not assigned"
+msgstr "Not assigned"
+
+msgid "Unassign"
+msgstr "Unassign"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Press Esc to cancel. Changes apply after you select Apply."
+msgstr "Press Esc to cancel. Changes apply after you select Apply."
+
+msgid "Absolute / relative mouse"
+msgstr "Absolute / relative mouse"
+
+msgid "Disconnect remote session"
+msgstr "Disconnect remote session"
+
+msgid "Send clipboard files"
+msgstr "Send clipboard files"
+
+msgid "Switch to display D1"
+msgstr "Switch to display D1"
+
+msgid "Switch to display D2"
+msgstr "Switch to display D2"
+
+msgid "Switch to display D3"
+msgstr "Switch to display D3"
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr "Send Ctrl+Alt+Delete"
+
+msgid "Send Alt+Tab"
+msgstr "Send Alt+Tab"
+
+msgid "Toggle fullscreen"
+msgstr "Toggle fullscreen"
+
+msgid "Block / allow remote input"
+msgstr "Block / allow remote input"
+
+msgid "End all incoming sessions"
+msgstr "End all incoming sessions"
+
+msgid "Switch between pointer and relative movement"
+msgstr "Switch between pointer and relative movement"
+
+msgid "Disconnect only the current tab or window"
+msgstr "Disconnect only the current tab or window"
+
+msgid "Send copied files to the connected host"
+msgstr "Send copied files to the connected host"
+
+msgid "Use the display numbers shown in the overlay toolbar"
+msgstr "Use the display numbers shown in the overlay toolbar"
+
+msgid "Send the secure attention command to the Windows host"
+msgstr "Send the secure attention command to the Windows host"
+
+msgid "Switch apps on the remote computer"
+msgstr "Switch apps on the remote computer"
+
+msgid "Switch between windowed and fullscreen mode"
+msgstr "Switch between windowed and fullscreen mode"
+
+msgid "Pause or resume remote mouse and keyboard input"
+msgstr "Pause or resume remote mouse and keyboard input"
+
+msgid "Disconnect everyone connected to this PC"
+msgstr "Disconnect everyone connected to this PC"
+
+msgid "Ctrl = ⌃ Control · Alt = ⌥ Option · Meta = ⌘ Command. Some shortcuts are reserved by macOS."
+msgstr "Ctrl = ⌃ Control · Alt = ⌥ Option · Meta = ⌘ Command. Some shortcuts are reserved by macOS."
+
+msgid "Use Ctrl, Alt or the Windows key with another key. Duplicate shortcuts cannot be saved."
+msgstr "Use Ctrl, Alt or the Windows key with another key. Duplicate shortcuts cannot be saved."
+
+msgid "Remote mouse and keyboard input is blocked."
+msgstr "Remote mouse and keyboard input is blocked."
+
+msgid "Allow remote input"
+msgstr "Allow remote input"
+
+msgid "Desktop terminal is not available yet. Use the MCP terminal tools."
+msgstr "Desktop terminal is not available yet. Use the MCP terminal tools."
+
+msgid "Remote access"
+msgstr "Remote access"
+
+msgid "MCP mode"
+msgstr "MCP mode"
+
+msgid "AI and remote command terms"
+msgstr "AI and remote command terms"
+
+msgid "Additional terms · Version {}"
+msgstr "Additional terms · Version {}"
+
+msgid "MCP lets connected AI apps control remote PCs using the AirDesk account signed in on this PC. Existing access approvals and permissions still apply."
+msgstr "MCP lets connected AI apps control remote PCs using the AirDesk account signed in on this PC. Existing access approvals and permissions still apply."
+
+msgid "Remote terminal lets approved clients open an interactive shell on this host. Commands can run without additional confirmation for each session."
+msgstr "Remote terminal lets approved clients open an interactive shell on this host. Commands can run without additional confirmation for each session."
+
+msgid "Access and changes"
+msgstr "Access and changes"
+
+msgid "Within the permissions you grant, actions can read, change or delete files, run programs, change settings and use services already accessible to that computer. Only authorize computers and data you are allowed to use."
+msgstr "Within the permissions you grant, actions can read, change or delete files, run programs, change settings and use services already accessible to that computer. Only authorize computers and data you are allowed to use."
+
+msgid "AI errors and your data"
+msgstr "AI errors and your data"
+
+msgid "AI suggestions and actions can be incorrect. Review important commands, keep backups and avoid exposing passwords or sensitive data. Information received by a connected AI app is subject to that app's terms and privacy policy."
+msgstr "AI suggestions and actions can be incorrect. Review important commands, keep backups and avoid exposing passwords or sensitive data. Information received by a connected AI app is subject to that app's terms and privacy policy."
+
+msgid "Your choice"
+msgstr "Your choice"
+
+msgid "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed. These terms do not limit rights or liability that applicable law does not allow to be limited."
+msgstr "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed. These terms do not limit rights or liability that applicable law does not allow to be limited."
+
+msgid "Read the full terms"
+msgstr "Read the full terms"
+
+msgid "I agree to these additional terms."
+msgstr "I agree to these additional terms."
+
+msgid "Saving agreement…"
+msgstr "Saving agreement…"
+
+msgid "Agree and enable"
+msgstr "Agree and enable"
+
+msgid "Could not save your agreement. The feature is still off. Sign in again or retry."
+msgstr "Could not save your agreement. The feature is still off. Sign in again or retry."
+
+msgid "Allow this user to view and control this computer? Hardware encoding is checked when you allow access. Unsupported hardware uses low-resource mode at 20 FPS."
+msgstr "Allow this user to view and control this computer? Hardware encoding is checked when you allow access. Unsupported hardware uses low-resource mode at 20 FPS."
+
+msgid "Responsibility for AI and terminal use"
+msgstr "Responsibility for AI and terminal use"
+
+msgid "Users are responsible for AI actions and terminal commands they instruct or authorize and their results. To the extent permitted by law, AirDesk is not liable for data loss, disclosure, service interruption or other losses caused by those actions, commands or third-party AI errors where AirDesk is not at fault. Liability for intentional misconduct, gross negligence and other non-excludable liability remains."
+msgstr "Users are responsible for AI actions and terminal commands they instruct or authorize and their results. To the extent permitted by law, AirDesk is not liable for data loss, disclosure, service interruption or other losses caused by those actions, commands or third-party AI errors where AirDesk is not at fault. Liability for intentional misconduct, gross negligence and other non-excludable liability remains."
+
+msgid "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed."
+msgstr "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed."
+
+msgid "Remote terminal security warning"
+msgstr "Remote terminal security warning"
+
+msgid "Approved remote clients can run commands on this PC with the host's available permissions."
+msgstr "Approved remote clients can run commands on this PC with the host's available permissions."
+
+msgid "Commands can read, change or delete files, run programs and access data available to the host. They may run without another confirmation."
+msgstr "Commands can read, change or delete files, run programs and access data available to the host. They may run without another confirmation."
+
+msgid "Enable terminal access only for people you trust. Check the target PC, back up important data and avoid exposing passwords or keys in terminal output."
+msgstr "Enable terminal access only for people you trust. Check the target PC, back up important data and avoid exposing passwords or keys in terminal output."
+
+msgid "Turning terminal access off does not undo commands already delivered or guarantee that programs already started will stop. Close unneeded sessions."
+msgstr "Turning terminal access off does not undo commands already delivered or guarantee that programs already started will stop. Close unneeded sessions."
+
+msgid "Review the risks and the additional terms before enabling remote terminal. The feature stays off until you agree and the agreement is saved."
+msgstr "Review the risks and the additional terms before enabling remote terminal. The feature stays off until you agree and the agreement is saved."
+
+msgid "Review terms"
+msgstr "Review terms"
+
+msgid "End terminal session"
+msgstr "End terminal session"
+
+msgid "Copy visible output"
+msgstr "Copy visible output"
+
+msgid "Copy selection"
+msgstr "Copy selection"
+
+msgid "Output paused while text is selected"
+msgstr "Output paused while text is selected"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Desktop terminal is temporarily unavailable in this build"
+msgstr "Desktop terminal is temporarily unavailable in this build"
+
+msgid "Remote terminal is not available for this computer"
+msgstr "Remote terminal is not available for this computer"
+
+msgid "Selected computer is no longer available"
+msgstr "Selected computer is no longer available"
+
+msgid "Could not refresh the selected computer"
+msgstr "Could not refresh the selected computer"
+
+msgid "Could not connect to the selected computer"
+msgstr "Could not connect to the selected computer"
+
+msgid "Remote terminal connection was not authorized"
+msgstr "Remote terminal connection was not authorized"
+
+msgid "Could not open remote terminal window"
+msgstr "Could not open remote terminal window"
+
+msgid "Desktop terminal is not available in this build"
+msgstr "Desktop terminal is not available in this build"
+
+msgid "Login is required before opening terminal"
+msgstr "Login is required before opening terminal"
+
+msgid "Remote terminal window is already open"
+msgstr "Remote terminal window is already open"
+
+msgid "Debug mode"
+msgstr "Debug mode"
+
+msgid "File explorer"
+msgstr "File explorer"
+
+msgid "Opening remote file explorer..."
+msgstr "Opening remote file explorer..."
+
+msgid "Could not open remote file explorer"
+msgstr "Could not open remote file explorer"
+
+msgid "Parent folder"
+msgstr "Parent folder"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "More actions"
+msgstr "More actions"
+
+msgid "Open folder"
+msgstr "Open folder"
+
+msgid "Receive"
+msgstr "Receive"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Loading…"
+msgstr "Loading…"
+
+msgid "This location is empty"
+msgstr "This location is empty"
+
+msgid "Next page"
+msgstr "Next page"
+
+msgid "Send selected"
+msgstr "Send selected"
+
+msgid "Receive selected"
+msgstr "Receive selected"
+
+msgid "This computer"
+msgstr "This computer"
+
+msgid "Remote computer"
+msgstr "Remote computer"
+
+msgid "Send copies to the remote folder. Receive copies to this computer. Folders use ZIP without compression."
+msgstr "Send copies to the remote folder. Receive copies to this computer. Folders use ZIP without compression."
+
+msgid "Check the browser for Cloudflare security status, then try again. If still blocked, contact support."
+msgstr "Check the browser for Cloudflare security status, then try again. If still blocked, contact support."
+
+msgid "Open security check in browser"
+msgstr "Open security check in browser"
+
+msgid "AirDesk · File transfers"
+msgstr "AirDesk · File transfers"
+
+msgid "Quick access"
+msgstr "Quick access"
+
+msgid "Preparing"
+msgstr "Preparing"
+
+msgid "Sending"
+msgstr "Sending"
+
+msgid "Receiving"
+msgstr "Receiving"
+
+msgid "Verifying"
+msgstr "Verifying"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Sent · unconfirmed"
+msgstr "Sent · unconfirmed"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Failed"
+msgstr "Failed"
+
+msgid "File transfers"
+msgstr "File transfers"
+
+msgid "Clipboard selection"
+msgstr "Clipboard selection"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Reading clipboard…"
+msgstr "Reading clipboard…"
+
+msgid "Copy files or folders, then refresh."
+msgstr "Copy files or folders, then refresh."
+
+msgid "First 64 shown; all selected items will be sent."
+msgstr "First 64 shown; all selected items will be sent."
+
+msgid "Send folders as ZIP files"
+msgstr "Send folders as ZIP files"
+
+msgid "ZIP without compression"
+msgstr "ZIP without compression"
+
+msgid "Keep the original folder structure"
+msgstr "Keep the original folder structure"
+
+msgid "Active & recent transfers"
+msgstr "Active & recent transfers"
+
+msgid "This connection"
+msgstr "This connection"
+
+msgid "Clipboard"
+msgstr "Clipboard"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "No file transfers in this connection yet."
+msgstr "No file transfers in this connection yet."
+
+msgid "Text syncs automatically. Files are sent only when requested."
+msgstr "Text syncs automatically. Files are sent only when requested."
+
+msgid "This host supports ZIP transfers only"
+msgstr "This host supports ZIP transfers only"
+
+msgid "Keep the folder structure"
+msgstr "Keep the folder structure"
+
+msgid "Send copies to the remote folder. Receive copies to this computer."
+msgstr "Send copies to the remote folder. Receive copies to this computer."
+
+msgid "Choose how to handle matching names when pasting on the receiving computer."
+msgstr "Choose how to handle matching names when pasting on the receiving computer."
+
+msgid "When names match"
+msgstr "When names match"
+
+msgid "Skip"
+msgstr "Skip"
+
+msgid "Overwrite"
+msgstr "Overwrite"
+
+msgid "This host supports skipping only"
+msgstr "This host supports skipping only"
+
+msgid "Replaces the entire file or folder with the same name"
+msgstr "Replaces the entire file or folder with the same name"
+
+msgid "Skips the entire file or folder with the same name"
+msgstr "Skips the entire file or folder with the same name"
+
+msgid "Confirming save"
+msgstr "Confirming save"
+
+msgid "Transfer options"
+msgstr "Transfer options"
+
+msgid "Show this computer"
+msgstr "Show this computer"
+
+msgid "Show remote computer"
+msgstr "Show remote computer"
+
+msgid "Storage capacity"
+msgstr "Storage capacity"
+
+msgid "Available space unknown"
+msgstr "Available space unknown"
+
+msgid "Ready"
+msgstr "Ready"
+
+msgid "Receiver temporary storage"
+msgstr "Receiver temporary storage"
+
+msgid "Storage information may change during transfer."
+msgstr "Storage information may change during transfer."
+
+msgid "Export selected"
+msgstr "Export selected"
+
+
+msgid "Done"
+msgstr "Done"
+
+msgid "This device"
+msgstr "This device"
+
+msgid "Available space"
+msgstr "Available space"
+
+
+msgid "Use digits 0–9 only."
+msgstr "Use digits 0–9 only."
+
+
+msgid "Use English letters, numbers and symbols only."
+msgstr "Use English letters, numbers and symbols only."
+
+
+msgid "Software encoding FPS"
+msgstr "Software encoding FPS"
+
+
+msgid "Software (CPU)"
+msgstr "Software (CPU)"
+
+
+msgid "Only limits CPU encoding, including automatic fallback. Hardware encoding and software decoding keep their existing frame rates."
+msgstr "Only limits CPU encoding, including automatic fallback. Hardware encoding and software decoding keep their existing frame rates."
+
+
+msgid "Applies after restarting hosting."
+msgstr "Applies after restarting hosting."
+
+msgid "RTL display: on"
+msgstr "RTL display: on"
+
+msgid "RTL display: off"
+msgstr "RTL display: off"
+
+msgid "RTL display: paused"
+msgstr "RTL layout and shaping paused"
+
+msgid "Some terminal characters were truncated"
+msgstr "Some terminal characters were truncated"
+
+msgid "Some right-to-left text could not be reordered"
+msgstr "Some right-to-left text could not be reordered"
+
+msgid "Some text could not be shaped"
+msgstr "Some text could not be shaped"
+
+msgid "Terminal settings"
+msgstr "Terminal settings"
+
+msgid "Text direction"
+msgstr "Text direction"
+
+msgid "Left to right"
+msgstr "Left to right"
+
+msgid "Right to left"
+msgstr "Right to left"
+
+msgid "Keep terminal cell order"
+msgstr "Keep terminal cell order"
+
+msgid "Could not save terminal settings"
+msgstr "Could not save terminal settings"
+
+msgid "Text direction is paused while a full-screen app or mouse tracking is active"
+msgstr "Text direction is paused while a full-screen app or mouse tracking is active"
+
+msgid "Controls text display only; terminal input and copied text keep their original order."
+msgstr "Controls text display only; terminal input and copied text keep their original order."
+
+# Desktop tools accessibility
+
+msgid "Terminal input"
+msgstr "Terminal input"
+
+msgid "Visible terminal output"
+msgstr "Visible terminal output"
+
+msgid "Ctrl+Shift+F6 returns to the terminal toolbar. Tab and other keys are sent to the remote terminal."
+msgstr "Ctrl+Shift+F6 returns to the terminal toolbar. Tab and other keys are sent to the remote terminal."
+
+msgid "Video codec"
+msgstr "Video codec"
+
+msgid "Remote screen"
+msgstr "Remote screen"
+
+# Startup service announcement
+
+msgid "Service announcement"
+msgstr "Service announcement"
+
+msgid "Dismiss announcement"
+msgstr "Dismiss announcement"
+
+msgid "Show full announcement"
+msgstr "Show full announcement"
+
+msgid "Show less"
+msgstr "Show less"
+
+msgid "Don't show again"
+msgstr "Don't show again"
+
+msgid "Could not save this preference. Try again."
+msgstr "Could not save this preference. Try again."
+
+msgid "AI agent"
+msgstr "AI agent"
+
+msgid "External agent"
+msgstr "External agent"
+
+msgid "Work PC"
+msgstr "Work PC"
+
+msgid "Ask rcu to check disk usage in the remote terminal on ‘{}’."
+msgstr "Ask rcu to check disk usage in the remote terminal on ‘{}’."
+
+msgid "Use your existing AI agent"
+msgstr "Use your existing AI agent"
+
+msgid "Install the connector, then paste the example into the AI agent you already use."
+msgstr "Install the connector, then paste the example into the AI agent you already use."
+
+msgid "Requires Node.js 22 or later, MCP enabled on this PC, and remote terminal permission on the host."
+msgstr "Requires Node.js 22 or later, MCP enabled on this PC, and remote terminal permission on the host."
+
+msgid "1. Install the connector"
+msgstr "1. Install the connector"
+
+msgid "Copy command"
+msgstr "Copy command"
+
+msgid "2. Paste this example into your agent"
+msgstr "2. Paste this example into your agent"
+
+msgid "Copy example"
+msgstr "Copy example"
+
+msgid "Check your plan to use chat"
+msgstr "Check your plan to use chat"
+
+msgid "Chat is unavailable on Free and Pro plans"
+msgstr "Chat is unavailable on Free and Pro plans"
+
+msgid "Built-in chat is coming soon"
+msgstr "Built-in chat is coming soon"
+
+msgid "AI agent chat"
+msgstr "AI agent chat"
+
+msgid "Plan unverified"
+msgstr "Plan unverified"
+
+msgid "Run this in a terminal on the computer where your AI agent is running."
+msgstr "Run this in a terminal on the computer where your AI agent is running."
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "Output"
+msgstr "Output"
+
+
+msgid "Free and Pro: use your AI agent on a desktop."
+msgstr "Free and Pro: use your AI agent on a desktop."
+
+msgid "On your desktop, prepare Node.js 22 or later and AirDesk MCP; allow terminal access on the remote PC."
+msgstr "On your desktop, prepare Node.js 22 or later and AirDesk MCP; allow terminal access on the remote PC."
+
+#: ui/components/platform_settings.slint
+msgid "Full Range (SDR 8-bit)"
+msgstr "Full Range (SDR 8-bit)"
+
+#: ui/components/platform_settings.slint
+msgid "Uses full-range video with NVIDIA NVENC. 10-bit SDR and HDR keep limited range."
+msgstr "Uses full-range video with NVIDIA NVENC. 10-bit SDR and HDR keep limited range."
+
+msgid "Software updates"
+msgstr "Software updates"
+
+msgid "Check for a newer version of AirDesk."
+msgstr "Check for a newer version of AirDesk."
+
+msgid "Check for updates"
+msgstr "Check for updates"
+
+msgid "Checking for updates…"
+msgstr "Checking for updates…"
+
+msgid "No updates are currently available."
+msgstr "No updates are currently available."
+
+
+msgid "Could not check for updates. Please try again."
+msgstr "Could not check for updates. Please try again."
+
+msgid "Update checks are unavailable on this system."
+msgstr "Update checks are unavailable on this system."
+
+
+
+
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Forward"
+msgstr "Forward"
+
+msgid "Filter by name"
+msgstr "Filter by name"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Clear filter"
+msgstr "Clear filter"
+
+msgid "Previous page"
+msgstr "Previous page"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Transfer speed limit"
+msgstr "Transfer speed limit"
+
+msgid "Video has priority. The selected speed is a maximum, not a guarantee."
+msgstr "Video has priority. The selected speed is a maximum, not a guarantee."
+
+msgid "Update AirDesk on both devices to verify file transfers."
+msgstr "Update AirDesk on both devices to verify file transfers."
+
+msgid "File verification failed. The destination was not replaced; try again."
+msgstr "File verification failed. The destination was not replaced; try again."
+
+msgid "The source changed during transfer. Send it again."
+msgstr "The source changed during transfer. Send it again."
+
+msgid "Could not read the file for verification. Check access and try again."
+msgstr "Could not read the file for verification. Check access and try again."
+
+msgid "Could not save transfer speed"
+msgstr "Could not save transfer speed"
+
+msgid "No matching items"
+msgstr "No matching items"
+
+msgid "Remote workspace"
+msgstr "Remote workspace"
+
+msgid "Please wait while AirDesk checks for updates."
+msgstr "Please wait while AirDesk checks for updates."
+
+msgid "You can keep using your current version."
+msgstr "You can keep using your current version."
+
+msgid "Check your connection and try again later."
+msgstr "Check your connection and try again later."
+
+msgid "Updates are not available for this system or installation."
+msgstr "Updates are not available for this system or installation."
+
+msgid "Remote settings"
+msgstr "Remote settings"
+
+msgid "Saved only on this device. Applies the next time you connect."
+msgstr "Saved only on this device. Applies the next time you connect."
+
+msgid "Original display resolution"
+msgstr "Original display resolution"
+
+msgid "Current: {} × {}"
+msgstr "Current: {} × {}"
+
+msgid "Current: {} FPS"
+msgstr "Current: {} FPS"
+
+msgid "Without a physical display, the default is 1920 × 1080."
+msgstr "Without a physical display, the default is 1920 × 1080."
+
+msgid "AI remote computer use"
+msgstr "AI remote computer use"
+
+msgid "Enable AI remote computer use"
+msgstr "Enable AI remote computer use"
+
+msgid "Use remote terminal and AI remote computer use at no extra cost."
+msgstr "Use remote terminal and AI remote computer use at no extra cost."
+
+msgid "Allow AI apps to use AirDesk for remote computer control. Existing access approvals and input permissions still apply."
+msgstr "Allow AI apps to use AirDesk for remote computer control. Existing access approvals and input permissions still apply."
+
+msgid "Power and remote boot"
+msgstr "Power and remote boot"
+
+msgid "Prevent computer sleep"
+msgstr "Prevent computer sleep"
+
+msgid "Keep this computer awake while AirDesk is running so it stays reachable."
+msgstr "Keep this computer awake while AirDesk is running so it stays reachable."
+
+msgid "Allow remote boot (Wake-on-LAN)"
+msgstr "Allow remote boot (Wake-on-LAN)"
+
+msgid "Lets you wake this computer from device management when it is shut down."
+msgstr "Lets you wake this computer from device management when it is shut down."
+
+msgid "Network wake after shutdown"
+msgstr "Network wake after shutdown"
+
+msgid "Magic packet wake"
+msgstr "Magic packet wake"
+
+msgid "Device allowed to wake the computer"
+msgstr "Device allowed to wake the computer"
+
+msgid "Allow all with one click"
+msgstr "Allow all with one click"
+
+msgid "Make sure Wake-on-LAN is enabled in this computer's firmware and network settings."
+msgstr "Make sure Wake-on-LAN is enabled in this computer's firmware and network settings."
+
+msgid "Add device"
+msgstr "Add device"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Open the download page on the PC you want to add, then sign in with this account."
+msgstr "Open the download page on the PC you want to add, then sign in with this account."
+
+msgid "Before you connect"
+msgstr "Before you connect"
+
+msgid "On the Mac you want to add, turn on Host mode in Share My PC. The Mac will appear in the computer list on your other devices."
+msgstr "On the Mac you want to add, turn on Host mode in Share My PC. The Mac will appear in the computer list on your other devices."
+
+msgid "The device you are using is not shown in this list. Check the list from another device."
+msgstr "The device you are using is not shown in this list. Check the list from another device."
+
+msgid "Copy download link"
+msgstr "Copy download link"
+
+msgid "Download link copied"
+msgstr "Download link copied"
+
+msgid "Email install link to my account"
+msgstr "Email install link to my account"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Mobile app coming soon. A download QR code will appear here after release."
+msgstr "Mobile app coming soon. A download QR code will appear here after release."
+
+msgid "New file"
+msgstr "New file"
+
+msgid "New folder"
+msgstr "New folder"
+
+msgid "Rename"
+msgstr "Rename"
+
+msgid "selected"
+msgstr "selected"
+
+msgid "New file name"
+msgstr "New file name"
+
+msgid "New folder name"
+msgstr "New folder name"
+
+msgid "New name"
+msgstr "New name"
+
+msgid "New item name"
+msgstr "New item name"
+
+msgid "Send all"
+msgstr "Send all"
+
+msgid "Receive all"
+msgstr "Receive all"
+
+msgid "Send all items in this folder"
+msgstr "Send all items in this folder"
+
+msgid "Receive all items in this folder"
+msgstr "Receive all items in this folder"
+
+msgid "About / Updates"
+msgstr "About / Updates"
+
+msgid "Controller settings"
+msgstr "Controller settings"
+
+msgid "On-screen controller layout and vibration"
+msgstr "On-screen controller layout and vibration"
+
+msgid "Keyboard settings"
+msgstr "Keyboard settings"
+
+msgid "Keyboard options and PC keyboard languages"
+msgstr "Keyboard options and PC keyboard languages"
+
+msgid "Native resolution"
+msgstr "Native resolution"
+
+msgid "Allow HDR"
+msgstr "Allow HDR"
+
+msgid "Streams HDR10 when the shared display has HDR on and the viewer's display supports HDR. Also lets this computer show HDR from other computers."
+msgstr "Streams HDR10 when the shared display has HDR on and the viewer's display supports HDR. Also lets this computer show HDR from other computers."
+
+msgid "AI access from the server"
+msgstr "AI access from the server"
+
+msgid "Enable AI access from the server"
+msgstr "Enable AI access from the server"
+
+msgid "Lets AI apps connected to AirDesk online reach this PC through the AirDesk server. Turning it on starts the MCP bridge on this PC. Requires AI remote computer use."
+msgstr "Lets AI apps connected to AirDesk online reach this PC through the AirDesk server. Turning it on starts the MCP bridge on this PC. Requires AI remote computer use."
+
+msgid "This version is no longer supported. Install the new version from the app store to keep connecting."
+msgstr "This version is no longer supported. Install the new version from the app store to keep connecting."
+
+msgid "Install the new version from the app store."
+msgstr "Install the new version from the app store."
+
+msgid "Saved for this computer and used when you connect."
+msgstr ""
+
+msgid "Offset sticks"
+msgstr ""
+
+msgid "Symmetric sticks"
+msgstr ""
+
+msgid "Racing"
+msgstr ""
+
+msgid "Fighting"
+msgstr ""
+
+msgid "Retro"
+msgstr ""
+
+msgid "Shooter"
+msgstr ""
+
+msgid "Left stick high, D-pad low (Xbox style)"
+msgstr ""
+
+msgid "D-pad high, sticks low (PlayStation style)"
+msgstr ""
+
+msgid "Steering stick with large gas and brake"
+msgstr ""
+
+msgid "Large D-pad and six arcade buttons"
+msgstr ""
+
+msgid "D-pad and face buttons, no sticks"
+msgstr ""
+
+msgid "Move and aim sticks with a large fire button"
+msgstr ""
+
+msgid "Button sliding"
+msgstr ""
+
+msgid "Slide a held finger onto another button, like B to Y."
+msgstr ""
+
+msgid "Turbo buttons"
+msgstr ""
+
+msgid "While a turbo button is held, it is pressed and released repeatedly."
+msgstr ""
+
+msgid "{rate} presses per second"
+msgstr ""
+
+msgid "System Audio Recording"
+msgstr ""
+
+msgid "Streams this Mac's sound to the viewer."
+msgstr ""
+
+msgid "Allow System Audio Recording"
+msgstr ""
+
+msgid "Input Monitoring is used when this Mac captures client input. System Audio Recording streams this Mac's sound."
+msgstr ""
+
+msgid "Voice input"
+msgstr ""
+
+msgid "Listening…"
+msgstr ""
+
+msgid "Recognizing…"
+msgstr ""
+
+msgid "Finishing…"
+msgstr ""
+
+msgid "Speak now. The text is typed on the remote computer."
+msgstr ""
+
+msgid "Typed on the remote computer"
+msgstr ""
+
+msgid "Cancel voice input"
+msgstr ""
+
+msgid "No speech was recognized."
+msgstr ""
+
+msgid "Microphone permission is required for voice input."
+msgstr ""
+
+msgid "Speech recognition needs a network connection."
+msgstr ""
+
+msgid "Voice input stopped."
+msgstr ""
+
+msgid "Could not send the text to the remote computer."
+msgstr ""
+
+msgid "Connect to a computer to use voice input."
+msgstr ""
+
+msgid "Speech recognition is not available on this device."
+msgstr ""
+
+msgid "Turn off microphone streaming to use voice input."
+msgstr ""
+
+msgid "Allow Speech Recognition for AirDesk in Settings to use voice input."
+msgstr ""
+
+msgid "Computer assignment requests"
+msgstr "Computer assignment requests"
+
+msgid "Computer assigned to the team"
+msgstr "Computer assigned to the team"
+
+msgid "Computer request declined"
+msgstr "Computer request declined"
+
+msgid "Could not respond to the computer request."
+msgstr "Could not respond to the computer request."
+
+msgid "Sharing permissions"
+msgstr "Sharing permissions"
+
+msgid "Sharing permissions saved"
+msgstr "Sharing permissions saved"
+
+msgid "Could not save sharing permissions."
+msgstr "Could not save sharing permissions."
+
+msgid "Choose what this friend can use on each of your computers. New shares allow everything."
+msgstr "Choose what this friend can use on each of your computers. New shares allow everything."
+
+msgid "You have no computers to share yet."
+msgstr "You have no computers to share yet."
+
+msgid "File transfer"
+msgstr "File transfer"
+
+
+msgid "Turn on hosting on this computer to share it with team members."
+msgstr "Turn on hosting on this computer to share it with team members."
+
+msgid "Could not load team members."
+msgstr "Could not load team members."
+
+msgid "The team default denies keyboard and mouse. More specific settings can override it."
+msgstr "The team default denies keyboard and mouse. More specific settings can override it."
+
+msgid "Inherit"
+msgstr "Inherit"
+
+msgid "Permissions inherited"
+msgstr "Permissions inherited"
+
+msgid "Custom permissions"
+msgstr "Custom permissions"
+
+msgid "Inherit permissions"
+msgstr "Inherit permissions"
+
+msgid "Deny"
+msgstr "Deny"
+
+msgid "AI MCP"
+msgstr "AI MCP"
+
+msgid "Share this computer with {}"
+msgstr "Share this computer with {}"
+
+msgid "Owner"
+msgstr "Owner"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Member"
+msgstr "Member"
+
+msgid "Viewer"
+msgstr "Viewer"
+
+msgid "{} · You"
+msgstr "{} · You"
+
+msgid "Could not change team sharing."
+msgstr "Could not change team sharing."
+
+msgid "Share this computer ({}) with a group, which includes every group below it, or with individual members."
+msgstr "Share this computer ({}) with a group, which includes every group below it, or with individual members."
+
+msgid "Add group"
+msgstr "Add group"
+
+msgid "Groups"
+msgstr "Groups"
+
+msgid "Members"
+msgstr "Members"
+
+msgid "{} members"
+msgstr "{} members"
+
+msgid "Add a group under {}"
+msgstr "Add a group under {}"
+
+msgid "Delete group {}"
+msgstr "Delete group {}"
+
+msgid "Share this computer with group {}"
+msgstr "Share this computer with group {}"
+
+msgid "New group"
+msgstr "New group"
+
+msgid "New group under {}"
+msgstr "New group under {}"
+
+msgid "Group name"
+msgstr "Group name"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Delete group {}?"
+msgstr "Delete group {}?"
+
+msgid "Its subgroups move up one level, its members leave the group, and computers shared with it are no longer shared through it."
+msgstr "Its subgroups move up one level, its members leave the group, and computers shared with it are no longer shared through it."
+
+msgid "Groups for {}"
+msgstr "Groups for {}"
+
+msgid "This team has no groups yet."
+msgstr "This team has no groups yet."
+
+msgid "Could not change the team group."
+msgstr "Could not change the team group."
+
+msgid "Search groups and members"
+msgstr "Search groups and members"
+
+msgid "Name, email or group"
+msgstr "Name, email or group"
+
+msgid "Shared with this PC"
+msgstr "Shared with this PC"
+
+msgid "Expand {}"
+msgstr "Expand {}"
+
+msgid "Collapse {}"
+msgstr "Collapse {}"
+
+msgid "{} groups · {} members"
+msgstr "{} groups · {} members"
+
+msgid "Members ({})"
+msgstr "Members ({})"
+
+msgid "Select all shown"
+msgstr "Select all shown"
+
+msgid "No groups or members match."
+msgstr "No groups or members match."
+
+msgid "Show {} more members"
+msgstr "Show {} more members"
+
+msgid "{} selected"
+msgstr "{} selected"
+
+msgid "Add to group"
+msgstr "Add to group"
+
+msgid "Remove from group"
+msgstr "Remove from group"
+
+msgid "Share this PC"
+msgstr "Share this PC"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "{} members · {} with subgroups"
+msgstr "{} members · {} with subgroups"
+
+msgid "Select {}"
+msgstr "Select {}"
+
+msgid "Add selected members to a group"
+msgstr "Add selected members to a group"
+
+msgid "Remove selected members from a group"
+msgstr "Remove selected members from a group"
+
+msgid "Search groups"
+msgstr "Search groups"
+
+msgid "No groups match."
+msgstr "No groups match."
+
+msgid "Not allowed on this computer:"
+msgstr "Not allowed on this computer:"
+
+msgid "keyboard and mouse"
+msgstr "keyboard and mouse"
+
+msgid "audio"
+msgstr "audio"
+
+msgid "clipboard"
+msgstr "clipboard"
+
+msgid "file transfer"
+msgstr "file transfer"

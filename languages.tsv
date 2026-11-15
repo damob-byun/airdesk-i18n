@@ -1,0 +1,8 @@
+# AirDesk UI languages: <code><TAB><native name>
+# One line per language. APPEND ONLY: mobile settings store the line index
+# (0 = first language), so never reorder or delete a line.
+# Each code needs ui/lang/<code>/LC_MESSAGES/repc.po (Slint) and may have
+# native.po (desktop native strings). See wiki/I18N.md.
+ko	한국어
+en	English
+ja	日本語

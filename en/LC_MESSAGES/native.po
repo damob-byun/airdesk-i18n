@@ -1,0 +1,480 @@
+# AirDesk native desktop strings (overlay toolbar, renderer notices).
+# msgid is the English source text. Empty msgstr falls back to English.
+# See wiki/I18N.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: AirDesk native\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Overlay toolbar (src/client/overlay/toolbar_design.cpp)
+msgid "Confirming output"
+msgstr ""
+
+msgid "10-bit applied"
+msgstr ""
+
+msgid "Update the host app to use 10-bit."
+msgstr ""
+
+msgid "Checking both devices"
+msgstr ""
+
+msgid "Select HEVC · 4:2:0 · SDR first."
+msgstr ""
+
+msgid "This device cannot decode/output 10-bit"
+msgstr ""
+
+msgid "Host cannot encode 10-bit"
+msgstr ""
+
+msgid "10-bit is unavailable on this connection."
+msgstr ""
+
+msgid "10-bit not applied · select to retry."
+msgstr ""
+
+msgid "Current output: 8-bit"
+msgstr ""
+
+msgid "Waiting for video output"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Experimental"
+msgstr ""
+
+msgid "Upscaling"
+msgstr ""
+
+msgid "Only when window > video size"
+msgstr ""
+
+msgid "Frame interpolation"
+msgstr ""
+
+msgid "Display refresh must exceed stream FPS"
+msgstr ""
+
+msgid "Up to 2× stream FPS"
+msgstr ""
+
+msgid "Needs a 30+ FPS source"
+msgstr ""
+
+msgid "Waits on a mostly static screen"
+msgstr ""
+
+msgid "1080p or lower · 8-bit SDR"
+msgstr ""
+
+msgid "May add display latency."
+msgstr ""
+
+msgid "Color format"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "4:4:4 needs hardware support on both peers."
+msgstr ""
+
+msgid "Color depth"
+msgstr ""
+
+msgid "8-bit color"
+msgstr ""
+
+msgid "10-bit color (SDR)"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Applied"
+msgstr ""
+
+msgid "Requested"
+msgstr ""
+
+msgid "Both devices · HEVC 4:2:0 SDR only"
+msgstr ""
+
+msgid "Choose 8-bit before changing codec or 4:4:4."
+msgstr ""
+
+msgid "Receive clipboard files"
+msgstr ""
+
+msgid "Connected team members"
+msgstr ""
+
+msgid "This connection has no team context"
+msgstr ""
+
+msgid "No other team members are connected"
+msgstr ""
+
+msgid " · Overview"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Fit"
+msgstr ""
+
+msgid "Fit to view"
+msgstr ""
+
+
+msgid "Close"
+msgstr ""
+
+msgid "Close overview"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid " · Waiting"
+msgstr ""
+
+msgid " · View only"
+msgstr ""
+
+msgid " · Active"
+msgstr ""
+
+msgid "Focus  ↗"
+msgstr ""
+
+msgid "Mute remote audio"
+msgstr ""
+
+msgid "Unmute remote audio"
+msgstr ""
+
+msgid "Hide stats"
+msgstr ""
+
+msgid "Native resolution"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
+
+msgid "Displays"
+msgstr ""
+
+msgid " online"
+msgstr ""
+
+msgid "Switch here · new window on the right"
+msgstr ""
+
+msgid "Select a display in this window."
+msgstr ""
+
+msgid "Monitor overview"
+msgstr ""
+
+msgid "Add virtual display"
+msgstr ""
+
+msgid "Add only"
+msgstr ""
+
+msgid "Add VDD in new window"
+msgstr ""
+
+msgid "New window"
+msgstr ""
+
+msgid "Select the ID of a virtual display added by this connection."
+msgstr ""
+
+msgid "Remove virtual display"
+msgstr ""
+
+msgid "Refresh displays"
+msgstr ""
+
+msgid "Extra display windows are available with Pro."
+msgstr ""
+
+msgid "Organization & contract"
+msgstr ""
+
+msgid "Devices & team"
+msgstr ""
+
+msgid "My account"
+msgstr ""
+
+msgid "Find USB devices"
+msgstr ""
+
+msgid "Exported on this PC"
+msgstr ""
+
+msgid "Not available yet"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Disconnect USB device"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "My computers"
+msgstr ""
+
+msgid "Team computers · members · roles"
+msgstr ""
+
+msgid "Seats · plan · billing"
+msgstr ""
+
+msgid "Plan & billing"
+msgstr ""
+
+msgid "Available with Pro"
+msgstr ""
+
+msgid "Multiple display windows"
+msgstr ""
+
+msgid "4:4:4 color"
+msgstr ""
+
+msgid "Screen recording"
+msgstr ""
+
+msgid "Explore Pro"
+msgstr ""
+
+msgid "Available with Teams"
+msgstr ""
+
+msgid "USB/IP · team management"
+msgstr ""
+
+msgid "Contract support"
+msgstr ""
+
+msgid "Deployment & support"
+msgstr ""
+
+msgid "Support is subject to your contract."
+msgstr ""
+
+msgid "Send shortcut"
+msgstr ""
+
+msgid "Task Manager"
+msgstr ""
+
+msgid "More tools"
+msgstr ""
+
+msgid "Show log"
+msgstr ""
+
+msgid "Open captures folder"
+msgstr ""
+
+msgid "Video codec"
+msgstr ""
+
+msgid "Statistics fields"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Quick settings"
+msgstr ""
+
+msgid "2× interpolated"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Native sends the display's original pixels."
+msgstr ""
+
+msgid "Bitrate limit"
+msgstr ""
+
+msgid "Clipboard transfer rate"
+msgstr ""
+
+msgid "Video quality"
+msgstr ""
+
+msgid "Bitrate"
+msgstr ""
+
+msgid "Input & audio"
+msgstr ""
+
+msgid "Mouse mode"
+msgstr ""
+
+msgid "Absolute"
+msgstr ""
+
+msgid "Relative"
+msgstr ""
+
+msgid "Muted"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Privacy mode"
+msgstr ""
+
+msgid "Hide host screen · local input allowed"
+msgstr ""
+
+msgid "Hide host screen · block local input"
+msgstr ""
+
+msgid "Local release: Ctrl + Alt + Shift + F12"
+msgstr ""
+
+msgid "Clipboard file sharing"
+msgstr ""
+
+msgid "Send clipboard files"
+msgstr ""
+
+msgid "File transfer list"
+msgstr ""
+
+msgid "File transfer rate"
+msgstr ""
+
+msgid "Capture & statistics"
+msgstr ""
+
+msgid "Stop recording"
+msgstr ""
+
+msgid "Record screen"
+msgstr ""
+
+msgid "Copy screen"
+msgstr ""
+
+msgid "Capture screen"
+msgstr ""
+
+msgid "Hide statistics"
+msgstr ""
+
+msgid "Show statistics"
+msgstr ""
+
+msgid "More tools · statistics fields"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgctxt "effect state"
+msgid "Off"
+msgstr ""
+
+msgctxt "overview display count"
+msgid "{count}"
+msgstr ""
+
+msgid "The host cannot send video at this frame rate; keeping the current frame rate"
+msgstr ""
+
+msgid "The host cannot send video at the requested frame rate; using a lower frame rate"
+msgstr ""
+
+msgid "This frame rate requires Pro for every viewer; keeping the current frame rate"
+msgstr ""
+
+msgid "Allow AirDesk"
+msgstr ""
+
+msgid "Drag AirDesk into the list"
+msgstr ""
+
+msgid "Drop the icon on the app list in System Settings, then turn its switch on."
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "Auto picks a codec both devices support in hardware: HEVC, then AV1, then H.264."
+msgstr ""
+
+msgctxt "video codec"
+msgid "Auto"
+msgstr ""
+
+msgid "Up to 4× stream FPS"
+msgstr ""
+
+msgid "4K or lower · 8-bit SDR"
+msgstr ""
+
+msgid "Off: video is larger than 4K"
+msgstr ""
+
+msgid "Uses LS1 until the driver accepts it"
+msgstr ""
+
+msgid "Not allowed on this computer:"
+msgstr "Not allowed on this computer:"
+
+msgid "keyboard and mouse"
+msgstr "keyboard and mouse"
+
+msgid "audio"
+msgstr "audio"
+
+msgid "clipboard"
+msgstr "clipboard"
+
+msgid "file transfer"
+msgstr "file transfer"

@@ -1,0 +1,1654 @@
+# AirDesk native desktop strings (overlay toolbar, renderer notices).
+# msgid is the English source text. Empty msgstr falls back to English.
+# See wiki/I18N.md.
+msgid ""
+msgstr ""
+"Project-Id-Version: AirDesk native\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Overlay toolbar (src/client/overlay/toolbar_design.cpp)
+msgid "Confirming output"
+msgstr "適用を確認中"
+
+msgid "10-bit applied"
+msgstr "10-bit 適用済み"
+
+msgid "Update the host app to use 10-bit."
+msgstr "10-bitにはホストの更新が必要です。"
+
+msgid "Checking both devices"
+msgstr "両端のハードウェアを確認中"
+
+msgid "Select HEVC · 4:2:0 · SDR first."
+msgstr "HEVC・4:2:0・SDRを選択してください。"
+
+msgid "This device cannot decode/output 10-bit"
+msgstr "この端末は10-bit復号・出力に非対応"
+
+msgid "Host cannot encode 10-bit"
+msgstr "ホストは10-bitエンコードに非対応"
+
+msgid "10-bit is unavailable on this connection."
+msgstr "この接続では10-bitを利用できません。"
+
+msgid "10-bit not applied · select to retry."
+msgstr "10-bit未適用・再選択できます。"
+
+msgid "Current output: 8-bit"
+msgstr "現在の出力：8-bit"
+
+msgid "Waiting for video output"
+msgstr "映像出力を確認待ち"
+
+msgid "Active"
+msgstr "適用中"
+
+msgid "Waiting"
+msgstr "待機中"
+
+msgid "Experimental"
+msgstr "実験機能"
+
+msgid "Upscaling"
+msgstr "アップスケーリング"
+
+msgid "Only when window > video size"
+msgstr "ウィンドウが映像より大きい時のみ"
+
+msgid "Frame interpolation"
+msgstr "フレーム補間"
+
+msgid "Display refresh must exceed stream FPS"
+msgstr "ディスプレイのリフレッシュレートはストリームのFPSより高くする必要があります"
+
+msgid "Up to 2× stream FPS"
+msgstr "ストリームFPSの最大2倍"
+
+msgid "Needs a 30+ FPS source"
+msgstr "元映像が30 FPS以上の時のみ"
+
+msgid "Waits on a mostly static screen"
+msgstr "画面変化が少ないと待機中"
+
+msgid "1080p or lower · 8-bit SDR"
+msgstr "1080p以下 · 8ビットSDR"
+
+msgid "May add display latency."
+msgstr "表示遅延が増える場合があります。"
+
+msgid "Color format"
+msgstr "色形式"
+
+msgid "Unavailable"
+msgstr "非対応"
+
+msgid "4:4:4 needs hardware support on both peers."
+msgstr "4:4:4には両端のハードウェア対応が必要です。"
+
+msgid "Color depth"
+msgstr "カラー深度"
+
+msgid "8-bit color"
+msgstr "8-bitカラー"
+
+msgid "10-bit color (SDR)"
+msgstr "10-bitカラー (SDR)"
+
+msgid "Pending"
+msgstr "確認中"
+
+msgid "Applied"
+msgstr "適用済み"
+
+msgid "Requested"
+msgstr "要求済み"
+
+msgid "Both devices · HEVC 4:2:0 SDR only"
+msgstr "両端の対応が必要・HEVC 4:2:0 SDR専用"
+
+msgid "Choose 8-bit before changing codec or 4:4:4."
+msgstr "コーデックや4:4:4の変更前に8-bitを選択。"
+
+msgid "Receive clipboard files"
+msgstr "クリップボードのファイルを受信"
+
+msgid "Connected team members"
+msgstr "接続中のチームメンバー"
+
+msgid "This connection has no team context"
+msgstr "チーム経由で接続するとメンバーを確認できます。"
+
+msgid "No other team members are connected"
+msgstr "他に接続中のチームメンバーはいません。"
+
+msgid " · Overview"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Fit"
+msgstr ""
+
+msgid "Fit to view"
+msgstr ""
+
+
+msgid "Close"
+msgstr ""
+
+msgid "Close overview"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid " · Waiting"
+msgstr ""
+
+msgid " · View only"
+msgstr ""
+
+msgid " · Active"
+msgstr ""
+
+msgid "Focus  ↗"
+msgstr ""
+
+msgid "Mute remote audio"
+msgstr ""
+
+msgid "Unmute remote audio"
+msgstr ""
+
+msgid "Hide stats"
+msgstr ""
+
+msgid "Native resolution"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
+
+msgid "Displays"
+msgstr ""
+
+msgid " online"
+msgstr ""
+
+msgid "Switch here · new window on the right"
+msgstr ""
+
+msgid "Select a display in this window."
+msgstr ""
+
+msgid "Monitor overview"
+msgstr ""
+
+msgid "Add virtual display"
+msgstr ""
+
+msgid "Add only"
+msgstr ""
+
+msgid "Add VDD in new window"
+msgstr ""
+
+msgid "New window"
+msgstr ""
+
+msgid "Select the ID of a virtual display added by this connection."
+msgstr ""
+
+msgid "Remove virtual display"
+msgstr ""
+
+msgid "Refresh displays"
+msgstr ""
+
+msgid "Extra display windows are available with Pro."
+msgstr ""
+
+msgid "Organization & contract"
+msgstr ""
+
+msgid "Devices & team"
+msgstr ""
+
+msgid "My account"
+msgstr ""
+
+msgid "Find USB devices"
+msgstr ""
+
+msgid "Exported on this PC"
+msgstr ""
+
+msgid "Not available yet"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Disconnect USB device"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "My computers"
+msgstr ""
+
+msgid "Team computers · members · roles"
+msgstr ""
+
+msgid "Seats · plan · billing"
+msgstr ""
+
+msgid "Plan & billing"
+msgstr ""
+
+msgid "Available with Pro"
+msgstr ""
+
+msgid "Multiple display windows"
+msgstr ""
+
+msgid "4:4:4 color"
+msgstr ""
+
+msgid "Screen recording"
+msgstr ""
+
+msgid "Explore Pro"
+msgstr ""
+
+msgid "Available with Teams"
+msgstr ""
+
+msgid "USB/IP · team management"
+msgstr ""
+
+msgid "Contract support"
+msgstr ""
+
+msgid "Deployment & support"
+msgstr ""
+
+msgid "Support is subject to your contract."
+msgstr ""
+
+msgid "Send shortcut"
+msgstr ""
+
+msgid "Task Manager"
+msgstr ""
+
+msgid "More tools"
+msgstr ""
+
+msgid "Show log"
+msgstr ""
+
+msgid "Open captures folder"
+msgstr ""
+
+msgid "Video codec"
+msgstr ""
+
+msgid "Statistics fields"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Quick settings"
+msgstr ""
+
+msgid "2× interpolated"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Native sends the display's original pixels."
+msgstr ""
+
+msgid "Bitrate limit"
+msgstr ""
+
+msgid "Clipboard transfer rate"
+msgstr ""
+
+msgid "Video quality"
+msgstr ""
+
+msgid "Bitrate"
+msgstr ""
+
+msgid "Input & audio"
+msgstr ""
+
+msgid "Mouse mode"
+msgstr ""
+
+msgid "Absolute"
+msgstr ""
+
+msgid "Relative"
+msgstr ""
+
+msgid "Muted"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Privacy mode"
+msgstr ""
+
+msgid "Hide host screen · local input allowed"
+msgstr ""
+
+msgid "Hide host screen · block local input"
+msgstr ""
+
+msgid "Local release: Ctrl + Alt + Shift + F12"
+msgstr ""
+
+msgid "Clipboard file sharing"
+msgstr ""
+
+msgid "Send clipboard files"
+msgstr ""
+
+msgid "File transfer list"
+msgstr ""
+
+msgid "File transfer rate"
+msgstr ""
+
+msgid "Capture & statistics"
+msgstr ""
+
+msgid "Stop recording"
+msgstr ""
+
+msgid "Record screen"
+msgstr ""
+
+msgid "Copy screen"
+msgstr ""
+
+msgid "Capture screen"
+msgstr ""
+
+msgid "Hide statistics"
+msgstr ""
+
+msgid "Show statistics"
+msgstr ""
+
+msgid "More tools · statistics fields"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgctxt "effect state"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "overview display count"
+msgid "{count}"
+msgstr ""
+
+#. Desktop native strings (moved from inline language branches).
+msgid "Pro membership is required for resolutions above 1080p, frame rates above 60 FPS and 4:4:4"
+msgstr "1080pを超える解像度、60 FPSを超えるフレームレート、4:4:4にはPro以上が必要です。"
+
+msgid "Could not open the browser. Try the security check button again."
+msgstr "ブラウザーを開けません。セキュリティ状態の確認ボタンをもう一度押してください。"
+
+msgid "Could not open browser. URL: "
+msgstr "ブラウザーを開けません。URL: "
+
+msgid "Connected computer"
+msgstr "接続元のコンピューター"
+
+msgid "Terminal"
+msgstr "ターミナル"
+
+msgid "File explorer"
+msgstr "ファイルエクスプローラー"
+
+msgid "Remote automation"
+msgstr "リモート自動化"
+
+msgid "Remote tools"
+msgstr "リモートツール"
+
+msgid "Default display"
+msgstr "既定の画面"
+
+msgid "Display "
+msgstr "画面 "
+
+msgid " · Connected"
+msgstr " · 接続中"
+
+msgid "Could not save debug mode."
+msgstr "デバッグモードを保存できませんでした。"
+
+msgid "Could not save the app language. Please try again."
+msgstr "表示言語を保存できませんでした。もう一度お試しください。"
+
+msgid "Auto (account)"
+msgstr "自動（アカウント）"
+
+msgid "Host shortcuts are unavailable. Try another key combination or check system permissions."
+msgstr "ホストのショートカットを使用できません。別のキーやシステム権限を確認してください。"
+
+msgid "Could not start shortcut capture. Please try again."
+msgstr "ショートカットの入力を開始できません。もう一度お試しください。"
+
+msgid "A file transfer is already in progress. Try again when it finishes."
+msgstr "ファイル転送中です。完了してから再試行してください。"
+
+msgid "Failed stage: "
+msgstr "失敗段階: "
+
+msgid "Reason: "
+msgstr "理由: "
+
+msgid "The process did not report a detailed reason."
+msgstr ""
+
+msgid "Next step: "
+msgstr "確認方法: "
+
+msgid "Error code: "
+msgstr "エラーコード: "
+
+msgid "This computer is in host-only mode after 30 days without outgoing remote use. Sign in again here to connect to other computers. Incoming connections remain available."
+msgstr "30日間ほかのコンピューターに接続していないため、このコンピューターはホスト専用モードです。ほかのコンピューターに接続するには、ここで再度ログインしてください。このコンピューターへのリモート接続は引き続き利用できます。"
+
+
+#. Merged from i18n staging.
+msgid "Could not open the recordings folder: {detail}"
+msgstr ""
+
+msgid "The remote settings are invalid"
+msgstr ""
+
+msgid "Could not send the settings change to some remote windows"
+msgstr ""
+
+msgid "Remote window settings match: {counts}"
+msgstr ""
+
+msgid "Remote window settings were rejected: {counts}"
+msgstr ""
+
+msgid "Could not confirm whether the remote window bitrate was applied: {counts}"
+msgstr ""
+
+msgid "The host applied a different bitrate limit: {counts}"
+msgstr ""
+
+msgid "Confirming remote window settings: {counts}"
+msgstr ""
+
+msgid "Remote window settings match: {counts} — unmatched windows are waiting, rejected or need to reconnect. Each toolbar shows its current values"
+msgstr ""
+
+msgid "Double monitor connections are available with Pro or higher plans"
+msgstr ""
+
+msgid "Could not read network adapters."
+msgstr ""
+
+msgid "Administrator permission is required. Try Allow again."
+msgstr ""
+
+msgid "Remote boot ready · MAC {mac}"
+msgstr ""
+
+msgid "Wake on LAN / PCIe wake may also need enabling in BIOS/UEFI."
+msgstr ""
+
+msgid "Install link sent to your account email."
+msgstr ""
+
+msgid "Could not send the install link. Try again later."
+msgstr ""
+
+msgid "Could not save your choice. Reporting was not enabled. Please try again."
+msgstr ""
+
+msgid "Could not open browser: {url}"
+msgstr ""
+
+msgid "Allow AirDesk Accessibility access in macOS Settings to use host shortcuts."
+msgstr "ホストのショートカットを使うには、macOSの設定でAirDeskのアクセシビリティ権限を許可してください。"
+
+msgid "macOS host shortcuts support function keys F1 through F20."
+msgstr "macOSホストのショートカットはF1からF20に対応しています。"
+
+msgid "Could not register host shortcuts. Check operating system permissions and try again."
+msgstr "ホストのショートカットを登録できませんでした。OSの権限を確認して再試行してください。"
+
+msgid "This shortcut is already in use. Choose another key combination."
+msgstr "このショートカットは使用中です。別のキーを選択してください。"
+
+msgid "The operating system reserves this shortcut. Choose another key combination."
+msgstr "OS が使用するショートカットです。別のキーを選択してください。"
+
+msgid "Could not save the shortcut settings. Please try again."
+msgstr "ショートカットを保存できませんでした。もう一度お試しください。"
+
+msgid "Include Ctrl, Alt or Meta with the key."
+msgstr "Ctrl、Alt または Meta と一緒にキーを押してください。"
+
+msgid "Could not apply this shortcut. Choose another key combination."
+msgstr "このショートカットを適用できません。別のキーの組み合わせを選択してください。"
+
+msgid "Previous screen cleanup is stalled. New screen connections are temporarily unavailable; input and terminal sessions remain available."
+msgstr ""
+
+msgid "The action could not be completed. Check the connection and system permissions, then try again."
+msgstr "処理できませんでした。接続とシステム権限を確認して、もう一度お試しください。"
+
+msgid "Authenticated user"
+msgstr "認証済みのユーザー"
+
+msgid "AirDesk · Remote connection"
+msgstr "AirDesk · リモート接続のお知らせ"
+
+msgid "AirDesk remote access has started."
+msgstr "AirDesk のリモート接続が開始されました。"
+
+msgid "A remote connection has started."
+msgstr "リモート接続が開始されました。"
+
+msgid "Press {shortcut} on this PC to end all remote connections."
+msgstr "この PC で {shortcut} を押すと、すべてのリモート接続を終了できます。"
+
+msgid "Computer: {computer}\nUser: {account}"
+msgstr "コンピューター: {computer}\nユーザー: {account}"
+
+msgid "Dismiss"
+msgstr "確認"
+
+msgid "Restart"
+msgstr ""
+
+msgid "Start when the computer starts"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Turn off host service"
+msgstr ""
+
+msgid "AirDesk — Host running"
+msgstr ""
+
+msgid "Choose up to 16 files per send."
+msgstr "一度に選択できるファイルは16個までです。"
+
+msgid "Loading…"
+msgstr "読み込み中…"
+
+msgid "Use a valid name without / \\ : * ? \" < > |"
+msgstr "/ \\ : * ? \" < > | を含まない名前を入力してください。"
+
+msgid "Open a folder first."
+msgstr "先にフォルダーを開いてください。"
+
+msgid "There is nothing to send here."
+msgstr "ここには送信する項目がありません。"
+
+msgid "Created"
+msgstr "作成しました"
+
+msgid "Renamed"
+msgstr "名前を変更しました"
+
+msgid "Could not load this location. Check the path and host permissions."
+msgstr "この場所を読み込めませんでした。パスとホストの権限を確認してください。"
+
+msgid "Preparing files…"
+msgstr "ファイルを準備中…"
+
+msgid "Preparing download…"
+msgstr "ダウンロードを準備中…"
+
+msgid "Downloading…"
+msgstr "ダウンロード中…"
+
+msgid "File sent"
+msgstr "ファイル送信完了"
+
+msgid "Transfer skipped"
+msgstr "同名の項目をスキップしました"
+
+msgid "The source and destination are the same item."
+msgstr "元の項目と転送先が同じです。"
+
+msgid "Folder metadata exceeds 16 MiB. Send smaller groups."
+msgstr "フォルダー情報が16 MiBを超えています。分けて送信してください。"
+
+msgid "There is not enough free space at the destination."
+msgstr "転送先の空き容量が不足しています。"
+
+msgid "Available space unknown"
+msgstr "空き容量を確認できません"
+
+msgid "free"
+msgstr "空き"
+
+msgid "Download complete"
+msgstr "ダウンロード完了"
+
+msgid "Cancelling…"
+msgstr "キャンセル中…"
+
+msgid "Transfer cancelled"
+msgstr "転送をキャンセルしました"
+
+msgid "Connection ended"
+msgstr "接続が終了しました"
+
+msgid "Folder"
+msgstr "フォルダー"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Quick access"
+msgstr "クイックアクセス"
+
+msgid "Use a shorter file name filter."
+msgstr "ファイル名の絞り込みを短くしてください。"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Documents"
+msgstr "書類"
+
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgid "Pictures"
+msgstr "ピクチャ"
+
+msgid "Music"
+msgstr "ミュージック"
+
+msgid "Videos"
+msgstr "ムービー"
+
+msgid "A file with this name already exists. Choose another name."
+msgstr "同名のファイルがあります。別の名前を選択してください。"
+
+msgid "File access is unavailable. Check host permissions and reopen the session."
+msgstr "ファイルにアクセスできません。ホストの権限を確認してセッションを開き直してください。"
+
+msgid "Access to this folder was denied. Allow file access on the host, then try again."
+msgstr "このフォルダへのアクセスが拒否されました。ホストでファイルへのアクセスを許可してから、もう一度お試しください。"
+
+msgid "The source changed during transfer. Send it again."
+msgstr "転送中に元のファイルが変更されました。再送してください。"
+
+msgid "Update AirDesk on both devices to verify file transfers."
+msgstr "ファイル転送を検証するには、両方の端末のAirDeskを更新してください。"
+
+msgid "File verification failed. The destination was not replaced; try again."
+msgstr "ファイルの検証に失敗しました。保存先は置き換えられていません。もう一度お試しください。"
+
+msgid "Could not read the file for verification. Check access and try again."
+msgstr "検証するファイルを読み取れませんでした。アクセス権を確認して、もう一度お試しください。"
+
+msgid "The host did not confirm file access. Update both computers and check host permissions."
+msgstr "ホストのファイルアクセスを確認できませんでした。両方のアプリを更新し、ホストの権限を確認してください。"
+
+msgid "Symbolic links are not supported. Choose the original folder."
+msgstr "シンボリックリンクは未対応です。元のフォルダーを選択してください。"
+
+msgid "File transfer failed. Check the location, permissions and available space."
+msgstr "ファイル転送に失敗しました。場所、権限、空き容量を確認してください。"
+
+msgid "Original preserved at: {detail}"
+msgstr "元の項目の保存場所: {detail}"
+
+msgid "Sending {name}"
+msgstr "送信中: {name}"
+
+msgid "Attention"
+msgstr "確認が必要"
+
+msgid "Input exceeds 16 KiB and was not sent."
+msgstr "入力は一度に 16 KiB までです。入力は送信されませんでした。"
+
+msgid "Connecting"
+msgstr "接続中"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Closing"
+msgstr "終了中"
+
+msgid "Unable to initialize the terminal window."
+msgstr "ターミナルウィンドウを初期化できませんでした。"
+
+msgid "Input was not queued. Close and reopen the session."
+msgstr "入力を送信できません。セッションを閉じて再度開いてください。"
+
+msgid "Unable to send the terminal size. Close and reopen the session."
+msgstr "ターミナルのサイズを送信できません。セッションを閉じて再度開いてください。"
+
+msgid "Unable to send terminal response."
+msgstr "ターミナル応答を送信できません。"
+
+msgid "Unable to process terminal output."
+msgstr "ターミナル出力を処理できません。"
+
+msgid "Too many terminal responses."
+msgstr "ターミナル応答が多すぎます。"
+
+msgid "Enable Remote terminal in the host settings."
+msgstr "ホスト設定でリモートターミナルを許可してください。"
+
+msgid "This connection is not permitted to access the remote terminal."
+msgstr "この接続にはリモートターミナルへのアクセス権限がありません。"
+
+msgid "Remote terminal use was disabled on the host. Check its settings."
+msgstr "ホストでリモートターミナルが無効になりました。設定を確認してください。"
+
+msgid "The host terminal ended. Close and reopen this window."
+msgstr "ホストのターミナルが終了しました。ウィンドウを閉じて再度開いてください。"
+
+msgid "Input may have been partially delivered. Check the output and reopen the session; do not blindly resend the command."
+msgstr "入力の一部だけが送信された可能性があります。出力を確認してセッションを開き直し、同じコマンドをそのまま再送しないでください。"
+
+msgid "Terminal error. Close and reopen the session."
+msgstr "ターミナルエラーが発生しました。セッションを閉じて再度開いてください。"
+
+msgid "Terminal output was lost. Close and reopen the session."
+msgstr "出力が欠落しました。セッションを閉じて再度開いてください。"
+
+msgid "Terminal resize could not be confirmed."
+msgstr "ターミナルのサイズを確認できませんでした。"
+
+msgid "Connection ended."
+msgstr "接続が終了しました。"
+
+msgid "Terminal closed."
+msgstr "ターミナルが終了しました。"
+
+msgid "Terminal communication error."
+msgstr "ターミナル通信エラーが発生しました。"
+
+msgid "Terminal connection was lost."
+msgstr "ターミナル接続が切断されました。"
+
+msgid "Switch windows"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Two-way file transfer rate"
+msgstr ""
+
+msgid "Toolbar command"
+msgstr ""
+
+msgid "Could not confirm the privacy screen cover state. Try turning it off again."
+msgstr ""
+
+msgid "Privacy on: the host screen is hidden. Local input is allowed"
+msgstr ""
+
+msgid "Privacy off: the host screen is restored"
+msgstr ""
+
+msgid "Privacy on: the host screen and local input are protected"
+msgstr ""
+
+msgid "Privacy off: the host screen and input are restored"
+msgstr ""
+
+msgid "{action} applied"
+msgstr ""
+
+msgid "{action}: request sent to the Windows service"
+msgstr ""
+
+msgid "Privacy is in use by another remote connection or is being released"
+msgstr ""
+
+msgid "{action}: the previous command is still being processed. Try again shortly"
+msgstr ""
+
+msgid "Privacy mode is available with a Pro account"
+msgstr ""
+
+msgid "{action}: the host does not support this in its current environment"
+msgstr ""
+
+msgid "Ctrl+Alt+Del failed: check the host AirdeskService and the Windows software SAS policy that allows Services"
+msgstr ""
+
+msgid "{action}: failed to apply on the host (check the host log)"
+msgstr ""
+
+msgid "Privacy mode is on"
+msgstr ""
+
+msgid "Privacy mode is off"
+msgstr ""
+
+msgid "{action}: failed to send the command"
+msgstr ""
+
+msgid "{action}: waiting for the host"
+msgstr ""
+
+msgid "{action}: no response from the host. Check the host update/connection (not confirmed as applied)"
+msgstr ""
+
+msgid "Could not apply the saved display mode; opening the display in its current mode"
+msgstr ""
+
+msgid "Host display mode change failed: check the supported resolutions and refresh rates"
+msgstr ""
+
+msgid "On an internet route the stream is {fps} FPS, shown at 240 FPS with 2x interpolation."
+msgstr ""
+
+msgid "240 FPS is available only on a local network (LAN) connection; streaming at {fps} FPS."
+msgstr ""
+
+msgid "This display runs at {hz} Hz; streaming at {fps} FPS."
+msgstr ""
+
+msgid "The display switch got no response, so the resolution change was canceled. Please select it again"
+msgstr ""
+
+msgid "Choose 8-bit color and wait for confirmation before changing codec, 4:4:4, or decoder."
+msgstr "コーデック、4:4:4、デコーダーの変更前に8-bitカラーを選択し、適用を確認してください。"
+
+msgid "The software decoder is not available with this renderer"
+msgstr ""
+
+msgid "Renderer changes apply after reconnecting"
+msgstr ""
+
+msgid "Renderer {renderer} change applies after reconnecting"
+msgstr ""
+
+msgid "Hardware encoding is unavailable, so encoding switched to the CPU."
+msgstr ""
+
+msgid "Could not activate the virtual display. Select Add display under Settings > Displays."
+msgstr "仮想ディスプレイを有効にできませんでした。設定 > ディスプレイでディスプレイを追加してください。"
+
+msgid "AirDeskVDD is not installed on the remote computer. Showing its screen with GDI capture."
+msgstr "対象コンピューターにAirDeskVDDがインストールされていないため、GDI画面キャプチャで表示しています。"
+
+msgid "AirDeskVDD on the remote computer is unavailable. Showing its screen with GDI capture."
+msgstr "対象コンピューターのAirDeskVDDを使用できないため、GDI画面キャプチャで表示しています。"
+
+msgid "AirDeskVDD is not installed on the remote computer"
+msgstr ""
+
+msgid "The remote computer does not support virtual displays"
+msgstr ""
+
+msgid "Could not change the virtual display on the remote computer"
+msgstr ""
+
+msgid "Relative mouse mode"
+msgstr "相対マウスモード"
+
+msgid "{shortcut}: switch to absolute mode"
+msgstr "{shortcut}: 絶対モードに切り替え"
+
+msgid "{label} (unavailable)"
+msgstr ""
+
+msgid "Custom {size}"
+msgstr ""
+
+msgctxt "renderer backend"
+msgid "Auto"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Display {index}"
+msgstr ""
+
+msgid "Sending clipboard... {percent}%"
+msgstr ""
+
+msgid "No video signal"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Connecting..."
+msgstr "接続中..."
+
+msgid "Host blocked this screen"
+msgstr ""
+
+msgid "The current capture path does not support local privacy"
+msgstr ""
+
+msgid "Privacy is being released. Try again shortly"
+msgstr ""
+
+msgid "Privacy apply timed out or was canceled"
+msgstr ""
+
+msgid "Unsupported file name: {detail}"
+msgstr ""
+
+msgid "Could not create a transfer identifier"
+msgstr ""
+
+msgid "File transfer encryption is not supported"
+msgstr ""
+
+msgid "SHA-256 initialization failed"
+msgstr ""
+
+msgid "SHA-256 is not supported"
+msgstr ""
+
+msgid "SHA-256 calculation failed"
+msgstr ""
+
+msgid "Not a valid absolute file path"
+msgstr ""
+
+msgid "Symbolic links and linked folders cannot be transferred"
+msgstr ""
+
+msgid "Could not read the file"
+msgstr ""
+
+msgid "The file changed during the transfer"
+msgstr ""
+
+msgid "The same transfer is in progress on another connection"
+msgstr ""
+
+msgid "The file list is too large or empty"
+msgstr ""
+
+msgid "Invalid file size"
+msgstr ""
+
+msgid "The file is too large"
+msgstr ""
+
+msgid "Invalid file information"
+msgstr ""
+
+msgid "The total file size is too large"
+msgstr ""
+
+msgid "Duplicate file names, or names that differ only in case"
+msgstr ""
+
+msgid "Invalid folder structure"
+msgstr ""
+
+msgid "The connection was closed or file transfer is not permitted"
+msgstr ""
+
+msgid "File transfer cancelled. Send again to resume"
+msgstr ""
+
+msgid "Could not create a file transfer packet"
+msgstr ""
+
+msgid "No file transfer path is available"
+msgstr ""
+
+msgid "The file transfer path is not responding"
+msgstr ""
+
+msgid "File reception cancelled"
+msgstr ""
+
+msgid "The other PC could not save the file"
+msgstr ""
+
+msgid "Stopped waiting for the other PC to confirm receipt. Send again to resume"
+msgstr ""
+
+msgid "Could not save the received file to disk"
+msgstr ""
+
+msgid "The file list is nested too deeply"
+msgstr ""
+
+msgid "Invalid recovery identifier"
+msgstr ""
+
+msgid "The saved transfer information does not match"
+msgstr ""
+
+msgid "Could not save the resume information"
+msgstr ""
+
+msgid "Invalid partial file"
+msgstr ""
+
+msgid "Invalid file index"
+msgstr ""
+
+msgid "The file receive position does not match"
+msgstr ""
+
+msgid "Could not open the partial file"
+msgstr ""
+
+msgid "Could not save the received file"
+msgstr ""
+
+msgid "Could not save an empty file"
+msgstr ""
+
+msgid "The file did not arrive completely"
+msgstr ""
+
+msgid "File verification failed. Send again to recover"
+msgstr ""
+
+msgid "The file list has not been verified yet"
+msgstr ""
+
+msgid "Some files are incomplete"
+msgstr ""
+
+msgid "A file that resolves to the same name already exists on this PC"
+msgstr ""
+
+msgid "Could not create the received folder"
+msgstr ""
+
+msgid "Could not publish the received file"
+msgstr ""
+
+msgid "Could not deliver the received files"
+msgstr ""
+
+msgid "Could not place the received files on the clipboard"
+msgstr ""
+
+msgid "Another file transfer is in progress"
+msgstr ""
+
+msgid "The file list size or order is invalid"
+msgstr ""
+
+msgid "Duplicate file list"
+msgstr ""
+
+msgid "Invalid restart request"
+msgstr ""
+
+msgid "Could not reset the partial file"
+msgstr ""
+
+msgid "Invalid save confirmation position"
+msgstr ""
+
+msgid "Unsupported file transfer request"
+msgstr ""
+
+msgid "The file receive queue is full. Send again to resume"
+msgstr ""
+
+msgid "Could not save the recovery identifier"
+msgstr ""
+
+msgid "The saved recovery identifier is invalid"
+msgstr ""
+
+msgid "A file transfer is already in progress"
+msgstr ""
+
+msgid "The file list is too large"
+msgstr ""
+
+msgid "Only regular files and folders can be transferred"
+msgstr ""
+
+msgid "Up to 10,000 files and folders can be transferred"
+msgstr ""
+
+msgid "The source folder path changed"
+msgstr ""
+
+msgid "Unsupported source name"
+msgstr ""
+
+msgid "The other PC reported an invalid resume position"
+msgstr ""
+
+msgid "Could not open the file to send"
+msgstr ""
+
+msgid "Invalid save confirmation response"
+msgstr ""
+
+msgid "File transfer cancelled"
+msgstr ""
+
+msgid "Invalid file save confirmation response"
+msgstr ""
+
+msgid "Update the app on both PCs to the latest version to transfer folders"
+msgstr ""
+
+msgid "More than 10 files. Compressing them into a ZIP before sending is recommended. Selected: {detail}"
+msgstr ""
+
+msgid "Saved {count} file(s)/folder(s) · Downloads/AirDesk"
+msgstr "ファイル/フォルダー {count}件の保存を確認しました · Downloads/AirDesk"
+
+msgid "Sending files…"
+msgstr "ファイルを送信中…"
+
+msgid "Files sent. Older peers may not confirm save · Downloads/AirDesk"
+msgstr "ファイルを送信しました。旧バージョンは保存確認に非対応です · Downloads/AirDesk"
+
+msgid "No file transfer started. Check that files are copied on the host."
+msgstr "ファイルの受信が始まりませんでした。ホストでファイルをコピーしたか確認してください。"
+
+msgid "Requested clipboard files from the host"
+msgstr "ホストにクリップボードのファイルを要求しました"
+
+msgid "Could not request clipboard files"
+msgstr "クリップボードのファイルを要求できませんでした"
+
+msgid "The clipboard can only be sent to a connected remote PC"
+msgstr ""
+
+msgid "The file transfer connection was closed"
+msgstr ""
+
+msgid "The other PC does not support folder transfers. Choose Send as ZIP."
+msgstr ""
+
+msgid "Files received. Ready to paste"
+msgstr ""
+
+msgid "Verifying received files…"
+msgstr ""
+
+msgid "Receiving files…"
+msgstr ""
+
+msgid "Confirming save on remote PC… · Downloads/AirDesk"
+msgstr "相手PCでの保存を確認中… · Downloads/AirDesk"
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Screen recording requires Pro or higher"
+msgstr ""
+
+msgid "Timed out checking the privacy connection"
+msgstr ""
+
+msgid "Privacy mode was turned off locally"
+msgstr ""
+
+msgid "Could not apply the privacy screen cover. Windows error: {detail}"
+msgstr ""
+
+msgid "Could not confirm that the privacy screen cover was removed"
+msgstr ""
+
+msgid "Could not confirm that the privacy screen cover was removed: {detail}"
+msgstr ""
+
+msgid "Privacy mode is available when sharing through the Windows service"
+msgstr ""
+
+msgid "This host operating system does not support local screen privacy"
+msgstr ""
+
+msgid "The privacy connection expired, so the screen cover was removed"
+msgstr ""
+
+msgid "Privacy was turned off because the screen cover could not be excluded from capture"
+msgstr ""
+
+msgid "No monitor is available for the screen cover"
+msgstr ""
+
+msgid "Could not create the screen cover window"
+msgstr ""
+
+msgid "The login session changed, so the screen cover was removed"
+msgstr ""
+
+msgid "The monitor configuration changed, so the screen cover was removed"
+msgstr ""
+
+msgid "AirDesk privacy mode\nScreen hidden only · keyboard and mouse input allowed\nTo turn off: switch off privacy mode in the remote toolbar"
+msgstr ""
+
+msgid "Ctrl+Alt+Del is only available on hosts owned by AirdeskService"
+msgstr ""
+
+msgid "Ctrl+Alt+Del: The Windows software SAS policy must allow Services"
+msgstr ""
+
+msgid "Ctrl+Alt+Del is only supported on Windows service hosts"
+msgstr ""
+
+msgid "Allow remote file access"
+msgstr "リモートファイルへのアクセスを許可してください"
+
+msgid "AirDesk could not access: {folders}. Allow these folders in System Settings → Privacy & Security → Files & Folders. Terminal access remains enabled; file browsing and commands can only use locations you allow. Full Disk Access is optional for other protected locations and must be enabled by you in System Settings."
+msgstr "AirDeskは次のフォルダにアクセスできません: {folders}。システム設定 → プライバシーとセキュリティ → ファイルとフォルダで許可してください。ターミナルは引き続き利用でき、ファイル操作とコマンドは許可された場所のみ使用できます。他の保護された場所が必要な場合に限り、フルディスクアクセスを設定で許可してください。"
+
+msgid "Files & Folders settings"
+msgstr "ファイルとフォルダの設定"
+
+msgid "Later"
+msgstr "あとで"
+
+msgid "Full Disk Access settings"
+msgstr "フルディスクアクセスの設定"
+
+msgid "Permission needed for file transfer"
+msgstr "ファイル転送に権限が必要です"
+
+msgid "AirDesk sends and receives files through your Downloads folder (Downloads/AirDesk). Allow Downloads for AirDesk in System Settings → Privacy & Security → Files & Folders."
+msgstr "AirDeskはファイルの送受信にダウンロードフォルダ(Downloads/AirDesk)を使用します。システム設定 → プライバシーとセキュリティ → ファイルとフォルダで、AirDeskのダウンロードフォルダへのアクセスを許可してください。"
+
+msgid "Open settings"
+msgstr "設定を開く"
+
+msgid "Report this code, the failed stage and the detailed reason."
+msgstr "このコード、失敗段階、詳細な理由を報告してください。"
+
+msgid "Check your sign-in details and sign in again."
+msgstr "ログイン情報を確認して再度ログインしてください。"
+
+msgid "Check the host's access, tier and approval settings with its owner."
+msgstr "ホスト所有者と接続権限・階層・承認設定を確認してください。"
+
+msgid "Check the API response and connectivity to the AirDesk server, then retry."
+msgstr "AirDeskサーバーへの接続とAPI応答を確認し、再試行してください。"
+
+msgid "Refresh the computer list and check that the host is online and sharing."
+msgstr "一覧を更新し、ホストがオンラインで共有中か確認してください。"
+
+msgid "Ask the host owner to check the connection request and retry."
+msgstr "ホスト所有者に接続要求の確認を依頼して再試行してください。"
+
+msgid "Retry while the host owner is available to approve the request."
+msgstr "ホスト所有者が承認できる状態で再接続してください。"
+
+msgid "Record the response reason and check that app and server versions are compatible."
+msgstr "応答エラーを記録し、アプリとサーバーの互換性を確認してください。"
+
+msgid "Open the email verification link on this computer using the same network, then sign in again. The link is valid for 15 minutes."
+msgstr "このコンピューターで同じネットワークを使ってメールの確認リンクを開き、再度ログインしてください。リンクは15分間有効です。"
+
+msgid "The verification email could not be sent. Wait a moment and sign in again."
+msgstr "確認メールを送信できませんでした。しばらくしてから再度ログインしてください。"
+
+msgid "Sign in again on this computer to connect to other computers. Incoming connections remain available."
+msgstr "ほかのコンピューターに接続するには、このコンピューターで再度ログインしてください。このコンピューターへのリモート接続は引き続き利用できます。"
+
+msgid "Your login has expired. Please sign in again."
+msgstr "ログインの有効期限が切れました。再度ログインしてください。"
+
+msgid "Check this computer's date and time, sync the system clock, then try again."
+msgstr "このコンピューターの日時がサーバーの基準と一致しません。システム時刻を同期して再試行してください。"
+
+msgid "Check LAN discovery and STUN/NAT observations on both PCs. A STUN failure alone does not prove UDP is blocked."
+msgstr "両PCのLAN検出とSTUN/NAT情報を確認してください。STUN失敗だけではUDP遮断と断定できません。"
+
+msgid "Check the host, route and app-specific UDP firewall rules on both PCs."
+msgstr "ホスト状態、経路、両PCのAirDesk UDP許可ルールを確認してください。"
+
+msgid "The direct UDP connection attempt timed out after punch probes. Retry and compare both devices' connection logs and network settings. The timeout does not identify its cause or the device responsible."
+msgstr "パンチングを含む直接UDP接続の試行がタイムアウトしました。再試行し、両端末の接続ログとネットワーク設定を確認してください。タイムアウトだけでは原因や原因機器を特定できません。"
+
+msgid "Check both peers' handshake and identity logs, then retry."
+msgstr "両PCのハンドシェイク・識別情報ログを確認して再試行してください。"
+
+msgid "Verify the host identity and session authorization. Do not bypass certificate verification."
+msgstr "ホストの識別情報とセッション認証を確認してください。証明書検証は無効にしないでください。"
+
+msgid "Check which local process owns the requested UDP port and retry with an available port."
+msgstr "ローカルUDPポートを使用中のプロセスを確認し、利用可能なポートで再試行してください。"
+
+msgid "Check whether the host stopped or either network changed, then reconnect."
+msgstr "ホスト終了やネットワーク変更を確認して再接続してください。"
+
+msgid "The remote session authorization expired or was revoked. Reconnect to verify access again."
+msgstr "リモートセッションの権限が期限切れになったか、取り消されました。再接続して接続権限を確認してください。"
+
+msgid "Check the client GPU driver and renderer backend in the detailed reason."
+msgstr "クライアントGPUドライバーとレンダラーの詳細を確認してください。"
+
+msgid "Check the client codec runtime and GPU support; try a supported codec and pixel format."
+msgstr "クライアントのコーデックとGPU対応を確認し、対応する形式で試してください。"
+
+msgid "On the host, check the selected display, screen-capture permission and capture backend."
+msgstr "ホストの選択画面、画面収録権限、キャプチャ機能を確認してください。"
+
+msgid "Check the host encoder runtime and driver; retry with supported resolution, codec and HDR settings."
+msgstr "ホストのエンコーダーとドライバーを確認し、対応する解像度・コーデック・HDR設定で試してください。"
+
+msgid "Check the host VDD driver, display topology and ADD/SELECT acknowledgement."
+msgstr "ホストのVDDドライバー、画面構成、ADD/SELECT応答を確認してください。"
+
+msgid "Compare host capture/encode/send counters with client receive counters."
+msgstr "ホストの取得・符号化・送信とクライアント受信のカウンターを比較してください。"
+
+msgid "Check packet loss, frame assembly and stale-frame counters on the client."
+msgstr "クライアントのパケット損失、フレーム組み立て、期限切れカウンターを確認してください。"
+
+msgid "Compare assembled and decoded frame counters and inspect the decoder error."
+msgstr "組み立て済み・デコード済みフレーム数とデコーダーエラーを確認してください。"
+
+msgid "Check rendered-frame counters, the client window and GPU presentation errors."
+msgstr "描画フレーム数、クライアントウィンドウ、GPU表示エラーを確認してください。"
+
+msgid "Check audio device selection, permissions and the capture/playback error."
+msgstr "音声デバイス選択、権限、取得・再生エラーを確認してください。"
+
+msgid "Check input permissions and the host interactive input helper."
+msgstr "入力権限とホストの入力ヘルパーを確認してください。"
+
+msgid "Check the host ViGEmBus driver and virtual-controller connection result."
+msgstr "ホストのViGEmBusドライバーと仮想コントローラー接続結果を確認してください。"
+
+msgid "Grant the permission named in the reason in OS settings, then retry."
+msgstr "OS設定で表示された権限を許可して再試行してください。"
+
+msgid "Check that the installed executable and runtime files are available."
+msgstr "インストール済み実行ファイルとランタイムにアクセスできるか確認してください。"
+
+msgid "Collect the child process log and crash report; the last stage is only an observation."
+msgstr "子プロセスのログとクラッシュ情報を収集してください。最終段階は原因の確定情報ではありません。"
+
+msgid "Inspect the last stage and its counters; check the child process before retrying."
+msgstr "最終段階とカウンター、子プロセス状態を確認して再試行してください。"
+
+msgid "Check the setting value, device support and host acknowledgement."
+msgstr "設定値、デバイス対応、ホスト応答を確認してください。"
+
+msgid "Check storage space and access to the AirDesk state directory."
+msgstr "空き容量とAirDesk状態ディレクトリのアクセス権限を確認してください。"
+
+msgid "Check the host service/process log and the failed startup component."
+msgstr "ホストサービス・プロセスのログと起動失敗した機能を確認してください。"
+
+msgctxt "connection stage"
+msgid "Stage not reported"
+msgstr "段階情報なし"
+
+msgctxt "connection stage"
+msgid "Remote window launch"
+msgstr "リモートウィンドウ起動"
+
+msgctxt "connection stage"
+msgid "Sign-in verification"
+msgstr "ログイン認証"
+
+msgctxt "connection stage"
+msgid "Host lookup"
+msgstr "ホスト検索"
+
+msgctxt "connection stage"
+msgid "Network route discovery"
+msgstr "ネットワーク経路探索"
+
+msgctxt "connection stage"
+msgid "Server session authorization"
+msgstr "サーバー接続権限確認"
+
+msgctxt "connection stage"
+msgid "Host approval"
+msgstr "ホスト承認"
+
+msgctxt "connection stage"
+msgid "Host identity verification"
+msgstr "ホスト識別情報確認"
+
+msgctxt "connection stage"
+msgid "Direct UDP connection / secure handshake"
+msgstr "直接UDP接続・認証"
+
+msgctxt "connection stage"
+msgid "Remote window initialization"
+msgstr "画面初期化"
+
+msgctxt "connection stage"
+msgid "Video decoder initialization"
+msgstr "デコーダー初期化"
+
+msgctxt "connection stage"
+msgid "Audio initialization"
+msgstr "音声初期化"
+
+msgctxt "connection stage"
+msgid "Input initialization"
+msgstr "入力初期化"
+
+msgctxt "connection stage"
+msgid "Virtual display selection"
+msgstr "仮想ディスプレイ選択"
+
+msgctxt "connection stage"
+msgid "First video packet"
+msgstr "最初の映像パケット受信"
+
+msgctxt "connection stage"
+msgid "Video frame reassembly"
+msgstr "映像フレーム組み立て"
+
+msgctxt "connection stage"
+msgid "First decoded frame"
+msgstr "最初の映像デコード"
+
+msgctxt "connection stage"
+msgid "First frame presentation"
+msgstr "最初の画面表示"
+
+msgctxt "connection stage"
+msgid "Streaming"
+msgstr "接続維持"
+
+msgid "Sending logs requires an HTTPS API address. Check the server configuration."
+msgstr "ログの送信には HTTPS の API アドレスが必要です。サーバー設定を確認してください。"
+
+msgid "Check your sign-in and try again."
+msgstr "ログイン状態を確認してから、もう一度お試しください。"
+
+msgid "Too many reports. Please try again later."
+msgstr "送信回数の上限に達しました。しばらくしてからお試しください。"
+
+msgid "The upload is too large. Close this dialog and prepare a new report."
+msgstr "送信サイズの上限を超えました。この画面を閉じ、ログを再準備してください。"
+
+msgid "The server could not validate this report or consent version. Update the app and retry."
+msgstr "サーバーが送信形式または同意バージョンを確認できませんでした。アプリを更新してから再試行してください。"
+
+msgid "Log submission is unavailable on this server. Try again later."
+msgstr "このサーバーでは現在ログを受け付けられません。しばらくしてからお試しください。"
+
+msgid "Could not confirm delivery. Check your connection and retry. The report may already have arrived."
+msgstr "送信を確認できませんでした。接続を確認して再試行してください。すでに受け付けられた可能性があります。"
+
+msgid "No app logs found. Reproduce the issue and reopen this dialog."
+msgstr "送信するアプリログが見つかりません。問題を再現してからこの画面を開き直してください。"
+
+msgid "Could not prepare logs. Close this dialog and try again."
+msgstr "ログを準備できませんでした。この画面を閉じて再試行してください。"
+
+msgctxt "privacy policy URL"
+msgid "https://airdesk.co.kr/en/privacy"
+msgstr "https://airdesk.co.kr/ja/privacy"
+
+msgid "Could not open the browser. Visit {url}."
+msgstr "ブラウザーを開けません。{url} を確認してください。"
+
+msgid "Keep the description within 1,000 UTF-8 bytes."
+msgstr "説明は UTF-8 で1,000バイト以内にしてください。"
+
+msgid "Logs exceed the upload limit."
+msgstr "ログが送信サイズの上限を超えました。"
+
+msgid "Support data could not be saved.\n\nMove the portable file to a normal writable folder, such as Desktop, and run it again. If the problem continues, give support the exit code below."
+msgstr "サポートデータを保存できません。\n\nポータブルファイルをデスクトップなど書き込み可能な通常のフォルダーに移動して、再実行してください。問題が続く場合は、以下の終了コードをサポート担当者に伝えてください。"
+
+msgid "AirDesk Support is already running from this folder.\n\nReturn to its open window. To restart, exit the existing program from that window before running it again."
+msgstr "このフォルダーの AirDesk Support は既に実行中です。\n\n開いている AirDesk Support に戻ってください。再起動する場合は、既存のウィンドウでプログラムを終了してから実行してください。"
+
+msgid "AirDesk Support encountered an unexpected error.\n\nClose this window and run AirDesk Support again. If the problem continues, give support the exit code below."
+msgstr "AirDesk Support で予期しないエラーが発生しました。\n\nこのウィンドウを閉じ、AirDesk Support を再実行してください。問題が続く場合は、以下の終了コードをサポート担当者に伝えてください。"
+
+msgid "AirDesk Support could not start.\n\nClose this window, download the portable file again from the official website, and run it. If the problem continues, give support the exit code below."
+msgstr "AirDesk Support を起動できませんでした。\n\nこのウィンドウを閉じ、公式サイトからポータブルファイルを再ダウンロードして実行してください。問題が続く場合は、以下の終了コードをサポート担当者に伝えてください。"
+
+msgid "Exit code: {code}"
+msgstr "終了コード: {code}"
+
+msgid "The connection to the host has ended"
+msgstr ""
+
+msgid "Product feature approval is turned off."
+msgstr ""
+
+msgid "Ad · {sponsor}"
+msgstr ""
+
+msgid "Learn more  ↗"
+msgstr ""
+
+msgid "AirDesk · Ad"
+msgstr ""
+
+msgid "Enter the 9-digit AirDesk number."
+msgstr ""
+
+msgid "The number was not found or you do not have permission to connect."
+msgstr ""
+
+msgid "Computer not found."
+msgstr ""
+
+msgid "The host cannot send video at this frame rate; keeping the current frame rate"
+msgstr "ホストはこのフレームレートで映像を送信できないため、現在のフレームレートを維持します"
+
+msgid "The host cannot send video at the requested frame rate; using a lower frame rate"
+msgstr "ホストは要求されたフレームレートで映像を送信できないため、より低いフレームレートで送信します"
+
+msgid "This frame rate requires Pro for every viewer; keeping the current frame rate"
+msgstr "このフレームレートはすべての視聴者がProである必要があるため、現在のフレームレートを維持します"
+
+msgid "Allow AirDesk"
+msgstr "AirDeskを許可"
+
+msgid "Drag AirDesk into the list"
+msgstr "AirDeskをリストにドラッグしてください"
+
+msgid "Drop the icon on the app list in System Settings, then turn its switch on."
+msgstr "アイコンをシステム設定のアプリ一覧にドロップし、スイッチをオンにしてください。"
+
+msgid "More options"
+msgstr "追加メニュー"
+
+msgid "Auto picks a codec both devices support in hardware: HEVC, then AV1, then H.264."
+msgstr "自動は両方のデバイスがハードウェア対応するコーデックをHEVC → AV1 → H.264の順で選びます。"
+
+msgctxt "video codec"
+msgid "Auto"
+msgstr "自動"
+
+msgid "Off: display refresh must be at least 2x the stream FPS"
+msgstr "オフ: 画面のリフレッシュレートがストリームFPSの2倍以上必要です"
+
+
+msgid "Off: video is larger than 1080p"
+msgstr "オフ: 映像が1080pより大きいです"
+
+msgid "Off: needs 8-bit SDR video"
+msgstr "オフ: 8ビットSDR映像が必要です"
+
+msgid "Off: stream FPS must be 30-120"
+msgstr "オフ: ストリームFPSは30〜120である必要があります"
+
+msgid "Off: display clock unavailable"
+msgstr "オフ: ディスプレイクロックを使用できません"
+
+msgid "The remote PC is switching to the signed-in desktop. Reconnecting..."
+msgstr "リモートPCがサインイン後のデスクトップに切り替わっています。再接続しています..."
+
+msgid "Up to 4× stream FPS"
+msgstr "ストリームFPSの最大4倍"
+
+msgid "4K or lower · 8-bit SDR"
+msgstr "4K以下 · 8ビットSDR"
+
+msgid "Off: video is larger than 4K"
+msgstr "オフ: 映像が4Kより大きいです"
+
+msgid "Uses LS1 until the driver accepts it"
+msgstr "ドライバーが受け入れるまでLS1を使用"
+
+msgid "Not allowed on this computer:"
+msgstr "このコンピューターで許可されていません:"
+
+msgid "keyboard and mouse"
+msgstr "キーボード・マウス"
+
+msgid "audio"
+msgstr "オーディオ"
+
+msgid "clipboard"
+msgstr "クリップボード"
+
+msgid "file transfer"
+msgstr "ファイル転送"

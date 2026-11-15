@@ -1,0 +1,8375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RePC\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "On supported desktop builds, the MCP server uses agent-desktop (Apache License 2.0)."
+msgstr "対応するデスクトップビルドでは、MCPサーバーはagent-desktop（Apache License 2.0）を使用します。"
+
+msgid "GPU presentation"
+msgstr "GPU画面出力"
+
+msgid "GPU direct presentation"
+msgstr "GPU直接出力"
+
+msgid "Compatibility GPU copy"
+msgstr "互換性GPUコピー"
+
+msgid "Applies to the next connection. Auto prefers GPU direct presentation. Compatibility mode uses a GPU copy."
+msgstr "次の接続から適用されます。自動ではGPU直接出力を優先し、互換性モードではGPUコピーを使用します。"
+
+msgid "Saved. GPU presentation changes apply to the next connection."
+msgstr "保存しました。GPU画面出力の変更は次の接続から適用されます。"
+
+msgid "Saved. AV1 decoding applies to the next connection."
+msgstr "保存しました。AV1デコードは次の接続から適用されます。"
+
+msgid "AV1 encoding (hardware only)"
+msgstr "AV1エンコード（ハードウェアのみ）"
+
+msgid "Encodes AV1 only when this GPU has a hardware AV1 encoder and the viewer can decode AV1. Otherwise HEVC or H.264 is used."
+msgstr "このGPUにハードウェアAV1エンコーダーがあり、相手がAV1をデコードできる場合のみAV1でエンコードします。それ以外はHEVCまたはH.264を使用します。"
+
+msgid "AV1 decoding (hardware only)"
+msgstr "AV1デコード（ハードウェアのみ）"
+
+msgid "Rate control"
+msgstr "ビットレート制御"
+
+msgid "Always CBR"
+msgstr "常にCBR"
+
+msgid "Encoder-specific VBR"
+msgstr "エンコーダー別VBR"
+
+msgid "AUTO uses VBR. Select CBR or VBR if needed."
+msgstr "AUTOはVBRを使用します。必要に応じてCBRまたはVBRを選択してください。"
+
+msgid "Continue"
+msgstr "続ける"
+
+msgid "Enter your authentication code"
+msgstr "認証コードを入力"
+
+msgid "Enter the 6-digit code from your authenticator app to finish signing in."
+msgstr "ログインを完了するには、認証アプリに表示される6桁のコードを入力してください。"
+
+msgid "After 30 days without outgoing connections, confirm your password to connect from this PC again."
+msgstr "このPCから他のPCへ30日間接続していません。再び接続するには、パスワードを確認してください。"
+
+msgid "Incoming connections stay available."
+msgstr "このPCへのリモート接続は引き続き利用できます。"
+
+msgid "Verify and connect"
+msgstr "認証して接続"
+
+msgid "Sign in again"
+msgstr "再度ログイン"
+
+msgid "Restore outgoing connections"
+msgstr "ほかのPCへの接続を復元"
+
+msgid "Enter your password to reconnect from this computer. Incoming remote connections stay available."
+msgstr "このコンピューターから再接続するにはパスワードを入力してください。このコンピューターへのリモート接続は維持されます。"
+
+msgid "Restoring..."
+msgstr "復元中..."
+
+msgid "Outgoing connections restored."
+msgstr "ほかのPCに再び接続できるようになりました。"
+
+msgid "The password is incorrect."
+msgstr "パスワードが正しくありません。"
+
+msgid "Could not restore outgoing connections. Please try again."
+msgstr "ほかのPCへの接続を復元できませんでした。再試行してください。"
+
+msgid "This computer is in host-only mode after 30 days without outgoing remote use. Sign in again here to connect to other computers. Incoming connections remain available."
+msgstr "30日間ほかのコンピューターに接続していないため、このコンピューターはホスト専用モードです。ほかのコンピューターに接続するには、ここで再度ログインしてください。このコンピューターへのリモート接続は引き続き利用できます。"
+
+msgid "Current sessions"
+msgstr "現在のセッション"
+
+msgid "Connections"
+msgstr "接続状況"
+
+msgid "Tablet"
+msgstr "タブレット"
+
+msgid "No tablet selected"
+msgstr "タブレットは選択されていません"
+
+msgid "Tablet unavailable for this connection"
+msgstr "この接続ではタブレットを使用できません。"
+
+msgid "Stop sharing"
+msgstr "共有を停止"
+
+msgid "Beware of phishing"
+msgstr "フィッシングにご注意ください"
+
+msgid "Only approve people you trust. Reject unexpected remote access requests, including anyone claiming to be your bank or a public agency."
+msgstr "信頼できる相手のリクエストだけを承認してください。銀行や公的機関を名乗る相手や、知らない人からの予期しないリモート接続は拒否してください。"
+
+msgid "A user is requesting access using your AirDesk ID. If you allow it, they can view and control this computer."
+msgstr "AirDesk番号への接続リクエストが届いています。許可すると、相手がこのコンピューターの画面を見て操作できるようになります。"
+
+msgid "On this computer, press {} to end all incoming remote connections."
+msgstr "このコンピューターで {} を押すと、このコンピューターへのすべてのリモート接続を終了します。"
+
+msgid "The emergency shortcut is unavailable. Use Stop sharing below to end incoming remote connections."
+msgstr "緊急終了ショートカットは利用できません。リモート接続を終了するには、下の「共有を停止」を押してください。"
+
+
+msgid "Open troubleshooting"
+msgstr "トラブル対処ガイドを開く"
+
+msgid "2FA code"
+msgstr "2段階認証コード"
+
+msgid "5.1 surround"
+msgstr "5.1サラウンド"
+
+msgid "7.1 surround"
+msgstr "7.1サラウンド"
+
+msgid "7.1.4 surround"
+msgstr "7.1.4サラウンド"
+
+msgid "A fixed port is easier to allow through firewall/router rules."
+msgstr "ポートを固定すると、ファイアウォールやルーターのルールで許可しやすくなります。"
+
+msgid "A forced mode can flicker or fail if the display does not support it."
+msgstr "ディスプレイが対応していないモードを強制すると、画面がちらついたり失敗したりすることがあります。"
+
+msgid "AC3 experimental"
+msgstr "AC3（実験的）"
+
+msgid "AV1 (Exp.)"
+msgstr "AV1（実験的）"
+
+msgid "AV1 and some HEVC paths depend on newer GPU/client support."
+msgstr "AV1と一部のHEVC経路は、新しいGPUとクライアントの対応が必要です。"
+
+msgid "Absolute desktop"
+msgstr "絶対座標デスクトップ"
+
+msgid "Accepted friends can connect when sharing is enabled."
+msgstr "承認済みのフレンドは、共有がオンのときに接続できます。"
+
+msgid "Accessibility"
+msgstr "アクセシビリティ"
+
+msgid "Add Friend"
+msgstr "フレンドを追加"
+
+msgid "Add VDD"
+msgstr "VDDを追加"
+
+msgid "Adds frame delay and should stay 0 for lowest latency."
+msgstr "フレーム遅延が加わるため、最小の遅延にするには0のままにしてください。"
+
+msgid "Adds latency and is usually off for remote control."
+msgstr "遅延が増えるため、リモート操作では通常オフにします。"
+
+msgid "Advanced"
+msgstr "詳細"
+
+msgid "Advertises and discovers hosts on the local network without the backend path."
+msgstr "サーバーを経由せず、ローカルネットワーク上でホストを通知・検出します。"
+
+msgid "Allows VideoToolbox to reorder frames when it improves compression."
+msgstr "圧縮効率が上がる場合に、VideoToolboxがフレームの順序を入れ替えられるようにします。"
+
+msgid "Allows connected clients to move and click the host pointer."
+msgstr "接続したクライアントがホストのポインターを動かしてクリックできるようにします。"
+
+msgid "Allows connected clients to send gamepad/controller events."
+msgstr "接続したクライアントがゲームパッドやコントローラーの入力を送信できるようにします。"
+
+msgid "Allows connected clients to send keyboard events to the host."
+msgstr "接続したクライアントがホストへキーボード入力を送信できるようにします。"
+
+msgid "Allows gamepad/controller input from the client."
+msgstr "クライアントからのゲームパッドやコントローラーの入力を許可します。"
+
+msgid "Allows keyboard events from the client."
+msgstr "クライアントからのキーボード入力を許可します。"
+
+msgid "Allows microphone forwarding/control for sessions that need voice input."
+msgstr "音声入力が必要なセッションで、マイクの転送と制御を許可します。"
+
+msgid "Allows mouse movement, clicks, wheel, and pointer state from the client."
+msgstr "クライアントからのマウスの移動、クリック、ホイール、ポインター状態の入力を許可します。"
+
+msgid "Allows the encoder to insert filler bytes to hold a steadier bitrate."
+msgstr "ビットレートをより一定に保つため、エンコーダーがフィラーバイトを挿入できるようにします。"
+
+msgid "Allows the host to capture and stream system audio."
+msgstr "ホストがシステム音声をキャプチャして配信できるようにします。"
+
+msgid "Allows the host to send screen frames."
+msgstr "ホストが画面のフレームを送信できるようにします。"
+
+msgid "Application Audio Capture"
+msgstr "アプリケーション音声のキャプチャ"
+
+msgid "Application capture can isolate one app's sound."
+msgstr "アプリケーションキャプチャを使うと、特定のアプリの音だけを取得できます。"
+
+msgid "Application capture support depends on Windows/app behavior."
+msgstr "アプリケーションキャプチャの対応状況は、Windowsやアプリの動作によって異なります。"
+
+msgid "Applies NVIDIA profile preferences used by the host capture/encode path."
+msgstr "ホストのキャプチャ・エンコード処理で使うNVIDIAプロファイルの設定を適用します。"
+
+msgid "Applies echo cancellation when microphone and playback paths interact."
+msgstr "マイクと再生の経路が干渉する場合に、エコーキャンセルを適用します。"
+
+msgid "Audio"
+msgstr "オーディオ"
+
+msgid "Audio Bitrate"
+msgstr "オーディオビットレート"
+
+msgid "Audio Bitrate (kbps)"
+msgstr "オーディオビットレート（kbps）"
+
+msgid "Audio Capture"
+msgstr "オーディオキャプチャ"
+
+msgid "Audio Channels"
+msgstr "オーディオチャンネル"
+
+msgid "Audio Codec"
+msgstr "オーディオコーデック"
+
+msgid "Audio Device"
+msgstr "オーディオデバイス"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Auto / native"
+msgstr "自動 / ネイティブ"
+
+msgid "Auto hardware"
+msgstr "ハードウェア自動"
+
+msgid "Auto keeps the recommended ScreenCaptureKit path."
+msgstr "自動の場合は、推奨のScreenCaptureKitを使用します。"
+
+msgid "Auto picks a codec both devices support in hardware: HEVC, then AV1, then H.264."
+msgstr "自動では、両方のデバイスがハードウェアで対応するコーデックを HEVC、AV1、H.264 の順に選びます。"
+
+msgid "Auto picks the first supported low-latency hardware path."
+msgstr "自動の場合は、対応している低遅延ハードウェア経路のうち最初に見つかったものを使用します。"
+
+msgid "Avoid sensitive names because other allowed users may see it."
+msgstr "許可した他のユーザーにも表示される場合があるため、機密性のある名前は避けてください。"
+
+msgid "Avoids typing a manual window id."
+msgstr "ウィンドウIDを手入力する必要がなくなります。"
+
+msgid "Balanced"
+msgstr "バランス"
+
+msgid "Balanced cursor"
+msgstr "バランスカーソル"
+
+msgid "Best for interactive desktop, games, and LAN sessions."
+msgstr "デスクトップ操作、ゲーム、LAN接続に最適です。"
+
+msgid "Bind IP"
+msgstr "バインドIP"
+
+msgid "Bitrate"
+msgstr "ビットレート"
+
+msgid "By signing in, you agree to the Terms of Service and Privacy Policy."
+msgstr "ログインすると、利用規約とプライバシーポリシーに同意したものとみなされます。"
+
+msgid "Can add latency and GPU work, so keep off for lowest latency."
+msgstr "遅延とGPU負荷が増えることがあるため、最小の遅延にするにはオフにしてください。"
+
+msgid "Can avoid known driver latency/capture issues."
+msgstr "既知のドライバーによる遅延やキャプチャの問題を回避できます。"
+
+msgid "Can bound bitrate spikes on simple or static content."
+msgstr "単純な映像や静止した映像で、ビットレートの急増を抑えます。"
+
+msgid "Can change texture detail and add small encoder overhead."
+msgstr "質感の表現が変わり、エンコーダーの負荷がわずかに増えることがあります。"
+
+msgid "Can conflict with local controller use if both sides interact."
+msgstr "双方で同時に操作すると、ローカルのコントローラーと競合することがあります。"
+
+msgid "Can drop stale frames sooner on unstable or high-latency networks."
+msgstr "不安定または遅延の大きいネットワークで、古いフレームをより早く破棄します。"
+
+msgid "Can hide unused desktop area."
+msgstr "使用しないデスクトップ領域を隠せます。"
+
+msgid "Can improve direct connections outside the LAN without manual router setup."
+msgstr "ルーターを手動で設定しなくても、LAN外からの直接接続が成功しやすくなります。"
+
+msgid "Can improve fullscreen OpenGL/Vulkan capture behavior."
+msgstr "全画面のOpenGL/Vulkanキャプチャの動作が改善する場合があります。"
+
+msgid "Can improve quality and temporal AQ decisions."
+msgstr "画質と時間AQの判定が改善する場合があります。"
+
+msgid "Can improve quality at a fixed bitrate."
+msgstr "固定ビットレートでの画質が向上する場合があります。"
+
+msgid "Can improve quality at the same bitrate."
+msgstr "同じビットレートでの画質が向上する場合があります。"
+
+msgid "Can improve quality in motion when lookahead is enabled."
+msgstr "ルックアヘッドを有効にすると、動きの多い場面の画質が向上する場合があります。"
+
+msgid "Can improve quality/bitrate efficiency."
+msgstr "画質とビットレート効率が向上する場合があります。"
+
+msgid "Can increase power draw, heat, and fan noise."
+msgstr "消費電力、発熱、ファンの騒音が増えることがあります。"
+
+msgid "Can interfere with local controller devices if both sides are active."
+msgstr "双方が使用中の場合、ローカルのコントローラーデバイスに干渉することがあります。"
+
+msgid "Can make bandwidth usage more predictable for testing."
+msgstr "テスト時に帯域の使用量を予測しやすくなります。"
+
+msgid "Can prevent the encoder from spending too many bits on easy scenes."
+msgstr "単純な場面で、エンコーダーがビットを使いすぎるのを防ぎます。"
+
+msgid "Can provide device-like input behavior for apps that need it."
+msgstr "必要とするアプリに、実際のデバイスに近い入力動作を提供できます。"
+
+msgid "Can reduce compression efficiency versus quality modes."
+msgstr "画質優先モードに比べて、圧縮効率が下がることがあります。"
+
+msgid "Can reduce keyframe bandwidth spikes."
+msgstr "キーフレーム時の帯域の急増を抑えます。"
+
+msgid "Can remove menu bars or unused top area."
+msgstr "メニューバーや使用しない上部の領域を除外できます。"
+
+msgid "Can slightly change microphone quality or add processing load."
+msgstr "マイクの音質がわずかに変わったり、処理負荷が増えたりすることがあります。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Caps how much video data the host sends per second."
+msgstr "ホストが1秒あたりに送信する映像データ量の上限を設定します。"
+
+msgid "Capture"
+msgstr "キャプチャ"
+
+msgid "Capture Source"
+msgstr "キャプチャ元"
+
+msgid "Changing it requires clients/backend metadata to use the new port."
+msgstr "変更すると、クライアントとサーバー側の情報にも新しいポートを反映する必要があります。"
+
+msgid "Chooses desktop loopback audio or Windows application audio capture."
+msgstr "デスクトップのループバック音声とWindowsのアプリケーション音声キャプチャから選択します。"
+
+msgid "Chooses the Windows screen capture backend and whether frames stay in GPU memory."
+msgstr "Windowsの画面キャプチャ方式と、フレームをGPUメモリに保持するかどうかを選択します。"
+
+msgid "Chooses the compressed video format produced by the host encoder."
+msgstr "ホストのエンコーダーが出力する映像の圧縮形式を選択します。"
+
+msgid "Chooses the compression format for host audio."
+msgstr "ホスト音声の圧縮形式を選択します。"
+
+msgid "Chooses the macOS capture backend."
+msgstr "macOSのキャプチャ方式を選択します。"
+
+msgid "Chooses the macOS hardware video encoder."
+msgstr "macOSのハードウェア映像エンコーダーを選択します。"
+
+msgid "Chooses the video compression format used by the host encoder."
+msgstr "ホストのエンコーダーが使用する映像の圧縮形式を選択します。"
+
+msgid "Chooses whether this host captures an entire display or one window. On Windows, window capture requires WGC VRAM or WGC RAM."
+msgstr "このホストでディスプレイ全体をキャプチャするか、1つのウィンドウだけをキャプチャするかを選択します。Windowsでウィンドウをキャプチャするには、WGC VRAMまたはWGC RAMが必要です。"
+
+msgid "Chooses which Windows output device is captured for host audio."
+msgstr "ホスト音声としてキャプチャするWindowsの出力デバイスを選択します。"
+
+msgid "Client"
+msgstr "クライアント"
+
+msgid "Client Input"
+msgstr "クライアント入力"
+
+msgid "Client Tier"
+msgstr "クライアント階層"
+
+msgid "Client UI language"
+msgstr "クライアントUI言語"
+
+msgid "Client tier changes require your password and current 2FA code when enabled."
+msgstr "クライアント階層の変更には、パスワードと有効時の現在の2段階認証コードが必要です。"
+
+msgid "Clients can interact with the hosted computer."
+msgstr "クライアントがホストのコンピューターを操作できます。"
+
+msgid "Clipboard file rate"
+msgstr "クリップボードのファイル転送速度"
+
+msgid "Clipboard file send rate in KB/s (0 = Auto). Auto adjusts to connection quality and reduces speed when video or the network is congested."
+msgstr "クリップボードのファイル転送速度（KB/s、0 = 自動）です。自動モードは接続品質に応じて速度を調整し、映像やネットワークが混雑すると減速します。"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Codec"
+msgstr "コーデック"
+
+msgid "Common Streaming"
+msgstr "共通ストリーミング"
+
+msgid "Compatibility and recovery behavior vary by decoder."
+msgstr "互換性と復旧時の動作は、デコーダーによって異なります。"
+
+msgid "Compatibility is more fragile and SDR clients may look wrong."
+msgstr "互換性が低く、SDRのクライアントでは映像が正しく表示されないことがあります。"
+
+msgid "Computer List"
+msgstr "コンピューター一覧"
+
+msgid "Confirm Trust Reset"
+msgstr "信頼リセットの確認"
+
+msgid "Connect"
+msgstr "接続"
+
+msgid "All computers"
+msgstr "すべてのコンピューター"
+
+msgid "{} active connections"
+msgstr "接続 {}件"
+
+msgid "Search computers"
+msgstr "コンピューターを検索"
+
+msgid "Clear search"
+msgstr "検索をクリア"
+
+msgid "No matching computers"
+msgstr "検索結果がありません"
+
+msgid "Try another name or clear the search."
+msgstr "別の名前で検索するか、検索をクリアしてください。"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Connecting"
+msgstr "接続中"
+
+msgid "Connecting to "
+msgstr "接続先: "
+
+msgid "Consumes bandwidth and may expose local audio to the client."
+msgstr "帯域を消費し、ホストの音声がクライアントに伝わる場合があります。"
+
+msgid "Consumes more bandwidth than the default audio profile."
+msgstr "既定のオーディオプロファイルより多くの帯域を消費します。"
+
+msgid "Controller"
+msgstr "コントローラー"
+
+msgid "Controller Profile"
+msgstr "コントローラープロファイル"
+
+msgid "Controls Intel Quick Sync speed/quality behavior."
+msgstr "Intel Quick Syncの速度と画質のバランスを調整します。"
+
+msgid "Controls NVIDIA encoder speed/quality tradeoff from P1 to P7."
+msgstr "NVIDIAエンコーダーの速度と画質のバランスをP1〜P7で調整します。"
+
+msgid "Controls macOS encoder speed/quality behavior."
+msgstr "macOSエンコーダーの速度と画質のバランスを調整します。"
+
+msgid "Controls the channel layout sent by the host audio encoder."
+msgstr "ホストの音声エンコーダーが送信するチャンネル構成を設定します。"
+
+msgid "Controls which tier of computers can see/control this host through backend policy."
+msgstr "サーバーのポリシーに基づき、どの階層のコンピューターがこのホストを表示・操作できるかを設定します。"
+
+msgid "Costs more bandwidth and may reduce hardware decode compatibility."
+msgstr "帯域をより多く消費し、ハードウェアデコードとの互換性が下がることがあります。"
+
+msgid "Crop Height"
+msgstr "切り抜きの高さ"
+
+msgid "Crop Width"
+msgstr "切り抜きの幅"
+
+msgid "Crop X"
+msgstr "切り抜きのX位置"
+
+msgid "Crop Y"
+msgstr "切り抜きのY位置"
+
+msgid "Current setting: "
+msgstr "現在の設定: "
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Default audio output"
+msgstr "既定のオーディオ出力"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Depends on router support and may be disabled for security policies."
+msgstr "ルーターの対応が必要で、セキュリティポリシーにより無効にされている場合があります。"
+
+msgid "Desktop Audio"
+msgstr "デスクトップ音声"
+
+msgid "Device names can change after driver or hardware changes."
+msgstr "ドライバーやハードウェアを変更すると、デバイス名が変わることがあります。"
+
+msgid "Diagnostics"
+msgstr "診断"
+
+msgid "Diagnostics and developer controls are isolated here from the normal computer list and settings flow."
+msgstr "診断と開発者向け操作は、通常のコンピューター一覧や設定フローから分離されています。"
+
+msgid "Disable for keyboard-only or view-only sessions."
+msgstr "キーボードのみ、または表示専用のセッションではオフにしてください。"
+
+msgid "Disable for view-only or mouse/controller-only sessions."
+msgstr "表示専用、またはマウス・コントローラーのみのセッションではオフにしてください。"
+
+msgid "Disable if the remote user should not control the pointer."
+msgstr "リモートのユーザーにポインターを操作させたくない場合はオフにしてください。"
+
+msgid "Disable if the session should not accept keyboard input."
+msgstr "セッションでキーボード入力を受け付けない場合はオフにしてください。"
+
+msgid "Disable only if you intentionally want the remote display mode to remain."
+msgstr "リモート側のディスプレイモードをそのまま残したい場合にのみオフにしてください。"
+
+msgid "Disabling video leaves only non-video channels active."
+msgstr "映像をオフにすると、映像以外のチャンネルだけが有効になります。"
+
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "Dismiss"
+msgstr "閉じる"
+
+msgid "Review"
+msgstr "確認"
+
+msgid "Display"
+msgstr "ディスプレイ"
+
+msgid "Display Refresh Rate"
+msgstr "ディスプレイ更新レート"
+
+msgid "Display name shown in computer lists and host status."
+msgstr "コンピューター一覧やホストの状態に表示される名前です。"
+
+msgid "Double Monitor"
+msgstr "デュアルモニター"
+
+msgid "Driver profile changes are system-level and may affect other apps."
+msgstr "ドライバープロファイルの変更はシステム全体に適用され、ほかのアプリにも影響する場合があります。"
+
+msgid "E-AC3 experimental"
+msgstr "E-AC3（実験的）"
+
+msgid "Echo cancellation"
+msgstr "エコーキャンセル"
+
+msgid "Enable VDD"
+msgstr "VDDを有効化"
+
+msgid "Enables prediction tools that may improve compression on some content."
+msgstr "一部のコンテンツで圧縮効率を高められる予測機能を有効にします。"
+
+msgid "Enables the OpenGL/Vulkan-on-DXGI present preference for NVIDIA capture compatibility."
+msgstr "NVIDIAのキャプチャ互換性のため、OpenGL/VulkanをDXGIのPresent方式で出力する設定を優先します。"
+
+msgid "Encoder"
+msgstr "エンコーダー"
+
+msgid "Enforces minimum quantizer values using the H.264/HEVC fields below."
+msgstr "下のH.264/HEVCの値を、最小量子化値として適用します。"
+
+msgid "Experimental codecs can fail on unsupported clients."
+msgstr "実験的なコーデックは、対応していないクライアントでは失敗することがあります。"
+
+msgid "Experimental, platform-specific, and may require driver/service setup."
+msgstr "実験的な機能で、プラットフォームによってはドライバーやサービスの設定が必要です。"
+
+msgid "FPS"
+msgstr "FPS"
+
+msgid "Fast cursor"
+msgstr "高速カーソル"
+
+msgid "Faster presets reduce encode cost and latency."
+msgstr "速いプリセットほど、エンコードの負荷と遅延が小さくなります。"
+
+msgid "Filler data"
+msgstr "フィラーデータ"
+
+msgid "Fine cursor"
+msgstr "精密カーソル"
+
+msgid "AirDesk Sign In"
+msgstr "AirDesk サインイン"
+
+msgid "Forces H.264 CAVLC entropy coding instead of CABAC when supported."
+msgstr "対応している場合、CABACの代わりにH.264 CAVLCエントロピー符号化を使用します。"
+
+msgid "Forgetting host trust will require a fresh host identity check on the next connection."
+msgstr "ホスト信頼を忘れると、次回接続時にホストIDの再確認が必要になります。"
+
+msgid "Friend List"
+msgstr "フレンド一覧"
+
+msgid "Friends"
+msgstr "フレンド"
+
+msgid "Gamepad mouse emulation"
+msgstr "ゲームパッドのマウスエミュレーション"
+
+msgid "Granted"
+msgstr "許可済み"
+
+msgid "H.264 CAVLC"
+msgstr "H.264 CAVLC"
+
+msgid "HDR"
+msgstr "HDR"
+
+msgid "HEVC can improve quality per bitrate; H.264 is broadly compatible."
+msgstr "HEVCは同じビットレートでより高画質になり、H.264は幅広い環境に対応しています。"
+
+msgid "HEVC/AV1 can look better at the same bitrate on supported clients."
+msgstr "対応するクライアントでは、HEVC/AV1のほうが同じビットレートでより高画質になります。"
+
+msgid "HOST ON"
+msgstr "ホストON"
+
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgid "Hardware (D3D11VA)"
+msgstr "ハードウェア（D3D11VA）"
+
+msgid "Height of the captured region in pixels. 0 means full height."
+msgstr "キャプチャ範囲の高さ（ピクセル）です。0の場合は全体の高さになります。"
+
+msgid "High quality audio (512 kbps)"
+msgstr "高音質オーディオ（512 kbps）"
+
+msgid "High-resolution scroll"
+msgstr "高解像度スクロール"
+
+msgid "Higher FPS feels smoother and lowers visible input step size."
+msgstr "FPSが高いほど映像が滑らかになり、入力のカクつきが減ります。"
+
+msgid "Higher bitrate can improve music and surround quality."
+msgstr "ビットレートが高いほど、音楽やサラウンドの音質が向上します。"
+
+msgid "Higher bitrate reduces blockiness and preserves motion detail."
+msgstr "ビットレートが高いほど、ブロックノイズが減り、動きが鮮明に保たれます。"
+
+msgid "Higher presets may add latency and GPU load."
+msgstr "高いプリセットは、遅延とGPU負荷が増えることがあります。"
+
+msgid "Higher values make text and fine detail clearer."
+msgstr "値が高いほど、文字や細部が鮮明になります。"
+
+msgid "Host"
+msgstr "ホスト"
+
+msgid "Host Computer"
+msgstr "ホストコンピューター"
+
+msgid "Host Encoder Tuning"
+msgstr "ホストエンコーダー調整"
+
+msgid "Host Network / Audio"
+msgstr "ホストネットワーク・オーディオ"
+
+msgid "Host Service"
+msgstr "ホストサービス"
+
+msgid "Host computer name"
+msgstr "ホストコンピューター名"
+
+msgid "Host service change is running in background."
+msgstr "ホストサービスの変更をバックグラウンドで実行中です。"
+
+msgid "Host service status: "
+msgstr "ホストサービス状態: "
+
+msgid "Host tier changes require your password and current 2FA code when enabled."
+msgstr "ホスト階層の変更には、パスワードと有効時の現在の2段階認証コードが必要です。"
+
+msgid "IDs change across app restarts and are easy to mistype."
+msgstr "アプリを再起動するとIDが変わり、入力ミスも起こりやすくなります。"
+
+msgid "Improves music and high-channel audio when bandwidth is available."
+msgstr "帯域に余裕があれば、音楽やマルチチャンネル音声の音質が向上します。"
+
+msgid "Improves text, UI edges, and color-critical desktop content."
+msgstr "文字、UIの輪郭、色の正確さが重要な画面が鮮明になります。"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Input"
+msgstr "入力"
+
+msgid "Input Monitoring"
+msgstr "入力監視"
+
+msgid "Intra refresh"
+msgstr "イントラリフレッシュ"
+
+msgid "Keeps full chroma detail instead of normal 4:2:0 video subsampling."
+msgstr "通常の4:2:0サブサンプリングではなく、色情報をすべて保持します。"
+
+msgid "Keyboard"
+msgstr "キーボード"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Leaves the host monitor as the local user had it."
+msgstr "ホストのモニターを、ローカルユーザーが設定したままにします。"
+
+msgid "Left offset of the captured region in pixels. 0 keeps the full left edge."
+msgstr "キャプチャ範囲の左端の位置（ピクセル）です。0の場合は左端からキャプチャします。"
+
+msgid "Less efficient than CABAC, so quality per bitrate is worse."
+msgstr "CABACより効率が低いため、同じビットレートでは画質が下がります。"
+
+msgid "Lets NVENC spend extra analysis work before final encoding decisions."
+msgstr "最終的なエンコードを決定する前に、NVENCが追加の解析を行えるようにします。"
+
+msgid "Lets the app ask the router to map the host UDP port automatically."
+msgstr "アプリがルーターに、ホストのUDPポートを自動でマッピングするよう要求できるようにします。"
+
+msgid "Leave empty to use the system default printer."
+msgstr "空のままにするとシステムのデフォルトプリンターを使用します。"
+
+msgid "Licenses"
+msgstr "ライセンス"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Limits clipboard file transfer speed in KB/s. 0 means unlimited."
+msgstr "クリップボードのファイル転送速度をKB/sで制限します。0の場合は制限しません。"
+
+msgid "Limits the host listener to one local network address. Auto listens on the default address."
+msgstr "ホストが接続を待ち受けるローカルネットワークアドレスを1つに限定します。自動の場合は既定のアドレスを使用します。"
+
+msgid "Listen Port"
+msgstr "リッスンポート"
+
+msgid "Log overlay"
+msgstr "ログオーバーレイ"
+
+msgid "Lookahead"
+msgstr "ルックアヘッド"
+
+msgid "Low latency"
+msgstr "低遅延"
+
+msgid "Lower presets reduce encode latency; higher presets can improve quality."
+msgstr "低いプリセットはエンコード遅延が小さく、高いプリセットは画質が向上する場合があります。"
+
+msgid "Lower values make clipboard file transfer take longer."
+msgstr "値が低いほど、クリップボードのファイル転送に時間がかかります。"
+
+msgid "Makes LAN connections faster and more reliable when devices share a subnet."
+msgstr "同じサブネット内のデバイス同士で、LAN接続がより速く安定します。"
+
+msgid "Makes it easier to pick the right host."
+msgstr "目的のホストを選びやすくなります。"
+
+msgid "Manual platform window identifier used when the picker cannot select the right window."
+msgstr "ピッカーで目的のウィンドウを選べない場合に使用する、プラットフォームのウィンドウ識別子です。"
+
+msgid "Manual selection can fail if OS permissions or APIs are unavailable."
+msgstr "OSの権限やAPIが利用できない場合、手動での選択は失敗することがあります。"
+
+msgid "Manual selection can fail if that GPU/driver is unavailable."
+msgstr "そのGPUやドライバーが利用できない場合、手動での選択は失敗することがあります。"
+
+msgid "Manual selection can fail if the requested codec is unsupported."
+msgstr "指定したコーデックに対応していない場合、手動での選択は失敗することがあります。"
+
+msgid "Manual window ID"
+msgstr "ウィンドウIDを直接入力"
+
+msgid "Master switch for client control input."
+msgstr "クライアントからの操作入力全体のオン・オフを切り替えます。"
+
+msgid "Matches Sunshine's nvenc_opengl_vulkan_on_dxgi and nvenc_latency_over_power options. DXGI present helps fullscreen OpenGL/Vulkan capture; high power mode avoids NVIDIA adaptive P-State latency spikes. Windows NVENC only."
+msgstr "Sunshineのnvenc_opengl_vulkan_on_dxgiおよびnvenc_latency_over_powerオプションに対応します。DXGI Presentは全画面のOpenGL/Vulkanキャプチャに有効で、高パフォーマンスモードはNVIDIAの適応型P-Stateによる遅延の急増を防ぎます。Windows NVENCでのみ使用できます。"
+
+msgid "Matching 60/120/144 Hz can make motion pacing cleaner."
+msgstr "60/120/144 Hzに合わせると、動きがより滑らかになります。"
+
+msgid "May be unnecessary for normal desktop or D3D apps."
+msgstr "通常のデスクトップやD3Dアプリでは不要な場合があります。"
+
+msgid "May help very old decoders or diagnostic paths."
+msgstr "非常に古いデコーダーや、診断用途で役立つ場合があります。"
+
+msgid "May reduce compatibility or add encoder complexity."
+msgstr "互換性が下がったり、エンコーダーの処理が複雑になったりすることがあります。"
+
+msgid "Microphone"
+msgstr "マイク"
+
+msgid "Min QP"
+msgstr "最小QP"
+
+msgid "Min QP H.264"
+msgstr "最小QP（H.264）"
+
+msgid "Min QP HEVC"
+msgstr "最小QP（HEVC）"
+
+msgid "Minimum H.264 quantizer when Min QP is enabled. Higher means more compression."
+msgstr "最小QPが有効なときに適用される、H.264の最小量子化値です。高いほど圧縮率が上がります。"
+
+msgid "Minimum HEVC quantizer when Min QP is enabled. Higher means more compression."
+msgstr "最小QPが有効なときに適用される、HEVCの最小量子化値です。高いほど圧縮率が上がります。"
+
+msgid "More channels increase bitrate needs and compatibility risk."
+msgstr "チャンネル数が多いほど、必要なビットレートが増え、互換性の問題も起こりやすくなります。"
+
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Mouse Mode"
+msgstr "マウスモード"
+
+msgid "Mouse button swap"
+msgstr "マウスボタン入れ替え"
+
+msgid "Mute host while streaming"
+msgstr "ストリーミング中はホストをミュート"
+
+msgid "Mutes local host playback while a remote stream is active."
+msgstr "リモート配信中は、ホストのPC自体の音をミュートします。"
+
+msgid "NVENC 2-pass"
+msgstr "NVENC 2パス"
+
+msgid "NVENC Preset"
+msgstr "NVENCプリセット"
+
+msgid "NVENC VBV"
+msgstr "NVENC VBV"
+
+msgid "NVIDIA DXGI present path"
+msgstr "NVIDIA DXGI Presentパス"
+
+msgid "NVIDIA driver preferences"
+msgstr "NVIDIAドライバーの設定"
+
+msgid "NVIDIA high power mode"
+msgstr "NVIDIA高パフォーマンスモード"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Needs more encoder work, GPU memory, bandwidth, and decoder capacity."
+msgstr "エンコーダーの処理、GPUメモリ、帯域、デコーダーの性能がより多く必要です。"
+
+msgid "Newer codecs may add compatibility issues or extra encode/decode load."
+msgstr "新しいコーデックは、互換性の問題やエンコード・デコード負荷の増加につながることがあります。"
+
+msgid "No available computers"
+msgstr "利用可能なコンピューターはありません"
+
+msgid "Number of future frames NVENC may inspect for rate-control decisions."
+msgstr "ビットレート制御のためにNVENCが先読みするフレーム数です。"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Often improves perceived quality at the same bitrate."
+msgstr "同じビットレートで、体感画質が向上することが多くあります。"
+
+msgid "On"
+msgstr "オン"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Request access"
+msgstr "アクセスを要求"
+
+msgid "Open Settings"
+msgstr "設定を開く"
+
+msgid "Request access first, then use Open Settings if access is still denied. For Screen Recording or Accessibility, use + to add AirDesk.app from its build or installation folder if it is missing. After approval, return here and refresh; a restart may be required."
+msgstr "まずアクセスを要求し、許可されない場合は設定を開いてください。画面収録・アクセシビリティの一覧にない場合は + でビルドまたはインストール先の AirDesk.app を追加できます。許可後に戻って更新してください。アプリの再起動が必要な場合があります。"
+
+msgid "Open Console"
+msgstr "コンソールを開く"
+
+msgid "Opening double monitor..."
+msgstr "デュアルモニターを開いています..."
+
+msgid "Opening remote terminal..."
+msgstr "リモートターミナルを開いています..."
+
+msgid "Sending printer test job..."
+msgstr "プリンターテストジョブを送信しています..."
+
+msgid "Opus"
+msgstr "Opus"
+
+msgid "Opus is efficient and low-latency; PCM keeps raw samples."
+msgstr "Opusは効率が高く低遅延で、PCMは元のサンプルをそのまま保持します。"
+
+msgid "Other allowed computers can find and connect to this machine."
+msgstr "許可した他のコンピューターが、このコンピューターを見つけて接続できます。"
+
+msgid "Overrides normal audio bitrate with a high-quality 512 kbps target."
+msgstr "通常のオーディオビットレートの代わりに、高音質の512 kbpsを使用します。"
+
+msgid "P1 lowest latency"
+msgstr "P1 最低遅延"
+
+msgid "P4 balanced"
+msgstr "P4 バランス"
+
+msgid "P7 quality"
+msgstr "P7 品質"
+
+msgid "PCM S16 experimental"
+msgstr "PCM S16（実験的）"
+
+msgid "PCs"
+msgstr "PC"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Performance overlay"
+msgstr "パフォーマンスオーバーレイ"
+
+msgid "Preserves HDR brightness and color on compatible displays."
+msgstr "対応するディスプレイで、HDRの明るさと色を維持します。"
+
+msgid "Prevents echo and keeps audio private to the client."
+msgstr "エコーを防ぎ、音声がクライアント側にだけ聞こえるようにします。"
+
+msgid "Prevents large file copies from starving video/audio on slow links."
+msgstr "低速な回線で大きなファイルをコピーしても、映像や音声が途切れないようにします。"
+
+msgid "Prioritizes fresh frames and input response over buffering old media."
+msgstr "古いメディアをバッファリングするより、最新のフレームと入力の応答を優先します。"
+
+msgid "Prioritizes interactive latency."
+msgstr "操作の応答速度を優先します。"
+
+msgid "QSV Preset"
+msgstr "QSVプリセット"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Quality-oriented settings may increase latency or dropped frames."
+msgstr "画質を優先する設定では、遅延が増えたり、フレームが欠落したりすることがあります。"
+
+msgid "RAM paths are more compatible but cost more copy bandwidth."
+msgstr "RAM経路は互換性が高い反面、コピーに必要な帯域が増えます。"
+
+msgid "Raises CPU/GPU load, bandwidth, and dropped-frame risk on weak links."
+msgstr "CPU/GPU負荷と帯域が増え、回線が弱い場合はフレームが欠落しやすくなります。"
+
+msgid "Realtime"
+msgstr "リアルタイム"
+
+msgid "Realtime favors response; Quality can improve image quality."
+msgstr "リアルタイムは応答速度を、品質は画質を優先します。"
+
+msgid "Reduces adaptive P-State latency spikes."
+msgstr "適応型P-Stateによる遅延の急増を抑えます。"
+
+msgid "Reduces encoded pixels when sharing a smaller region."
+msgstr "小さい範囲を共有するとき、エンコードするピクセル数を減らします。"
+
+msgid "Reduces feedback during calls or voice chat."
+msgstr "通話やボイスチャット中のハウリングを抑えます。"
+
+msgid "Refresh"
+msgstr "更新"
+
+msgid "Refresh Perms"
+msgstr "権限を更新"
+
+msgid "Refresh to find your computers and computers shared by friends."
+msgstr "更新すると、自分のコンピューターとフレンドが共有したコンピューターを検索します。"
+
+msgid "Refreshes intra-coded regions gradually instead of relying only on full keyframes."
+msgstr "フルキーフレームだけに頼らず、イントラ符号化の領域を少しずつ更新します。"
+
+msgid "Refreshing computers..."
+msgstr "コンピューター一覧を更新しています..."
+
+msgid "Relative game"
+msgstr "相対座標ゲーム"
+
+msgid "Remote Desktop"
+msgstr "リモートデスクトップ"
+
+msgid "Remote Session"
+msgstr "リモートセッション"
+
+msgid "Remote Terminal"
+msgstr "リモートターミナル"
+
+msgid "Remote Printer"
+msgstr "リモートプリンター"
+
+msgid "Remote users hear desktop or application sound."
+msgstr "リモートのユーザーに、デスクトップまたはアプリケーションの音が聞こえます。"
+
+msgid "Remove VDD"
+msgstr "VDDを削除"
+
+msgid "Renderer"
+msgstr "レンダラー"
+
+msgid "Requests HDR-aware capture and color handling when supported."
+msgstr "対応している場合、HDRに対応したキャプチャと色処理を要求します。"
+
+msgid "Requests VideoToolbox realtime encode behavior."
+msgstr "VideoToolboxのリアルタイムエンコード動作を要求します。"
+
+msgid "Requests a display refresh rate when a client connects. Auto keeps the current/default choice."
+msgstr "クライアントの接続時に、ディスプレイのリフレッシュレートを要求します。自動の場合は現在または既定の設定を維持します。"
+
+msgid "Requests a high-performance NVIDIA power policy for the host path."
+msgstr "ホストの処理に対して、NVIDIAの高パフォーマンス電源ポリシーを要求します。"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Required for normal desktop control."
+msgstr "通常のデスクトップ操作に必要です。"
+
+msgid "Required for normal remote desktop viewing."
+msgstr "リモートデスクトップの画面を表示するために必要です。"
+
+msgid "Required for typing and shortcuts."
+msgstr "文字入力とショートカットの使用に必要です。"
+
+msgid "Required for typing, shortcuts, and game keyboard controls."
+msgstr "文字入力、ショートカット、ゲームのキーボード操作に必要です。"
+
+msgid "Requires clear permission boundaries and can add audio complexity."
+msgstr "権限の範囲を明確にする必要があり、音声の構成が複雑になることがあります。"
+
+msgid "Requires lookahead and can add latency."
+msgstr "ルックアヘッドが必要で、遅延が増えることがあります。"
+
+msgid "Reset Trust"
+msgstr "信頼をリセット"
+
+msgid "Resolution"
+msgstr "解像度"
+
+msgid "Restore display after disconnect"
+msgstr "切断後にディスプレイを復元"
+
+msgid "Restores the previous display mode after the remote session ends."
+msgstr "リモートセッションの終了後、以前のディスプレイモードに戻します。"
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid "Reverse scroll"
+msgstr "スクロール反転"
+
+msgid "SESSION ON"
+msgstr "セッション中"
+
+msgid "Screen Recording"
+msgstr "画面収録"
+
+msgid "Search computers..."
+msgstr "コンピューターを検索..."
+
+msgid "Select Off to stop hosting."
+msgstr "ホストを停止するにはオフを選択してください。"
+
+msgid "Select On to register and start hosting."
+msgstr "登録してホストを開始するにはオンを選択してください。"
+
+msgid "Selects the hardware encoder family used by the host."
+msgstr "ホストが使用するハードウェアエンコーダーの種類を選択します。"
+
+msgid "Selects the app window to capture. Refresh after windows open, close, or rename."
+msgstr "キャプチャするアプリのウィンドウを選択します。ウィンドウを開閉したり名前が変わったりした場合は、一覧を更新してください。"
+
+msgid "Session"
+msgstr "セッション"
+
+msgid "Session Active"
+msgstr "セッション中"
+
+msgid "Session Controls"
+msgstr "セッション操作"
+
+msgid "Sets how many video frames the host tries to capture and send per second."
+msgstr "ホストが1秒間にキャプチャして送信する映像フレーム数を設定します。"
+
+msgid "Sets the encoder rate-control buffer size as a percentage of the target bitrate."
+msgstr "エンコーダーのビットレート制御バッファのサイズを、目標ビットレートに対する割合で設定します。"
+
+msgid "Sets the frame size sent by the host when a client connects."
+msgstr "クライアントの接続時にホストが送信する画面サイズを設定します。"
+
+msgid "Sets the target audio bitrate when the selected codec uses compression."
+msgstr "選択したコーデックが圧縮を使用する場合の、目標オーディオビットレートを設定します。"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Settings saved"
+msgstr "設定を保存しました"
+
+msgid "Share"
+msgstr "共有"
+
+msgid "Share Off"
+msgstr "共有オフ"
+
+msgid "Share On"
+msgstr "共有オン"
+
+msgid "Sign In"
+msgstr "サインイン"
+
+msgid "Sign Out"
+msgstr "サインアウト"
+
+msgid "Signing out..."
+msgstr "サインアウトしています..."
+
+msgid "Slint attribution. Third-party license texts are installed with AirDesk."
+msgstr "Slintおよび外部コンポーネントのライセンス全文はAirDeskとともにインストールされます。"
+
+msgid "Slower presets may improve quality but can increase latency."
+msgstr "遅いプリセットは画質が向上する場合がありますが、遅延が増えることがあります。"
+
+msgid "Smaller VBV can reduce latency spikes in low-latency streaming."
+msgstr "VBVを小さくすると、低遅延ストリーミングでの遅延の急増を抑えられます。"
+
+msgid "Software"
+msgstr "ソフトウェア"
+
+msgid "Spatial AQ"
+msgstr "空間AQ"
+
+msgid "Start AirDesk when computer starts"
+msgstr "コンピューター起動時にAirDeskを開始"
+
+msgid "Starts AirDesk automatically at OS login."
+msgstr "OSへのログイン時にAirDeskを自動的に起動します。"
+
+msgid "Starts the experimental host-side virtual USB/IP input bridge."
+msgstr "ホスト側の仮想USB/IP入力ブリッジ（実験的）を起動します。"
+
+msgid "Stereo"
+msgstr "ステレオ"
+
+msgid "Surround modes preserve multi-channel setups for compatible clients."
+msgstr "サラウンドモードでは、対応するクライアントでマルチチャンネル構成が維持されます。"
+
+msgid "Swap Command and Control"
+msgstr "CommandとControlを入れ替える"
+
+msgid "System"
+msgstr "システム"
+
+msgid "Targeting a device can avoid capturing the wrong speaker/output."
+msgstr "デバイスを指定すると、意図しないスピーカーや出力をキャプチャするのを防げます。"
+
+msgid "Temporal AQ"
+msgstr "時間AQ"
+
+msgid "The app runs in the background even when you did not start it manually."
+msgstr "手動で起動しなくても、アプリがバックグラウンドで実行されます。"
+
+msgid "The computer can become available without manually opening the app."
+msgstr "アプリを手動で開かなくても、このコンピューターに接続できるようになります。"
+
+msgid "The list can go stale if windows open, close, or rename."
+msgstr "ウィンドウの開閉や名前の変更があると、一覧が古くなることがあります。"
+
+msgid "The person near the host may not hear local audio."
+msgstr "ホストの近くにいる人には、音が聞こえない場合があります。"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "This client uses Slint for the desktop UI."
+msgstr "このクライアントはデスクトップUIにSlintを使用しています。"
+
+msgid "Tier"
+msgstr "階層"
+
+msgid "Tier "
+msgstr "階層 "
+
+msgid "Tier 1 controls all"
+msgstr "階層1 すべて操作可能"
+
+msgid "Tier 2 controls 2-4"
+msgstr "階層2 階層2〜4を操作"
+
+msgid "Tier 3 controls 3-4"
+msgstr "階層3 階層3〜4を操作"
+
+msgid "Tier 4 host only"
+msgstr "階層4 ホストのみ"
+
+msgid "Tier Update"
+msgstr "階層更新"
+
+msgid "Too high can congest the path and increase latency or packet loss."
+msgstr "高すぎると回線が混雑し、遅延やパケットロスが増えることがあります。"
+
+msgid "Too high visibly reduces quality."
+msgstr "高すぎると、画質が目に見えて低下します。"
+
+msgid "Too small can clip the app or produce unexpected aspect ratios."
+msgstr "小さすぎると、アプリが切れたり、意図しない縦横比になったりすることがあります。"
+
+msgid "Too small can reduce quality during complex motion."
+msgstr "小さすぎると、動きの激しい場面で画質が低下することがあります。"
+
+msgid "Top offset of the captured region in pixels. 0 keeps the full top edge."
+msgstr "キャプチャ範囲の上端の位置（ピクセル）です。0の場合は上端からキャプチャします。"
+
+msgid "Turn off for view-only sharing or troubleshooting input issues."
+msgstr "表示専用で共有する場合や、入力の問題を調べる場合はオフにしてください。"
+
+msgid "Turns this computer into a host by registering it and starting capture/network services."
+msgstr "このコンピューターを登録し、キャプチャとネットワークのサービスを開始して、ホストにします。"
+
+msgid "UDP port {}"
+msgstr "UDPポート {}"
+
+msgid "UPnP"
+msgstr "UPnP"
+
+msgid "USB/IP vUSB server"
+msgstr "USB/IP vUSBサーバー"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Tier"
+msgstr "階層を更新"
+
+msgid "Updating"
+msgstr "更新中"
+
+msgid "Useful for calls, voice chat, and apps that need a mic."
+msgstr "通話、ボイスチャット、マイクが必要なアプリで役立ちます。"
+
+msgid "Useful for diagnostics and exact window targeting."
+msgstr "診断や、ウィンドウを正確に指定したい場合に役立ちます。"
+
+msgid "Useful for games and controller-driven apps."
+msgstr "ゲームやコントローラー操作が中心のアプリで役立ちます。"
+
+msgid "Useful for games and controller-focused apps."
+msgstr "ゲームやコントローラー操作が中心のアプリで役立ちます。"
+
+msgid "Useful for separating master, trusted, and limited computers."
+msgstr "マスター、信頼済み、制限付きのコンピューターを区別したい場合に役立ちます。"
+
+msgid "Useful on multi-NIC systems when you need a specific LAN/VPN path."
+msgstr "NICが複数あるシステムで、特定のLAN/VPN経路を使いたい場合に役立ちます。"
+
+msgid "Uses adaptive quantization to spend bits on visually important regions."
+msgstr "適応量子化により、視覚的に重要な領域へ多くのビットを割り当てます。"
+
+msgid "Uses lookahead-driven quality decisions across time."
+msgstr "ルックアヘッドの結果に基づき、時間の経過に合わせて画質を調整します。"
+
+msgid "Uses more bandwidth and may not help low-quality sources."
+msgstr "帯域をより多く消費し、元の画質が低い場合は効果がないことがあります。"
+
+msgid "Uses network, capture, audio, and encoder resources while enabled."
+msgstr "有効にしている間は、ネットワーク、キャプチャ、音声、エンコーダーのリソースを使用します。"
+
+msgid "Usually does not cross VLANs, VPNs, or routed networks."
+msgstr "通常、VLAN、VPN、ルーティングされたネットワークをまたぐことはできません。"
+
+msgid "V-Sync"
+msgstr "V-Sync"
+
+msgid "VRAM paths avoid CPU readback and are usually lower latency."
+msgstr "VRAM経路はCPUへの読み戻しがないため、通常は遅延が小さくなります。"
+
+msgid "VT frame reorder"
+msgstr "VTフレーム並べ替え"
+
+msgid "VT realtime"
+msgstr "VTリアルタイム"
+
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Video Decoder"
+msgstr "ビデオデコーダー"
+
+msgid "VideoToolbox Preset"
+msgstr "VideoToolboxプリセット"
+
+msgid "VideoToolbox uses Apple hardware acceleration with low CPU cost."
+msgstr "VideoToolboxはAppleのハードウェアアクセラレーションを使用し、CPU負荷が小さく済みます。"
+
+msgid "Wastes bandwidth and is usually unnecessary for interactive streaming."
+msgstr "帯域を無駄にするため、操作を伴うストリーミングでは通常不要です。"
+
+msgid "Weighted prediction"
+msgstr "重み付き予測"
+
+msgid "Welcome back"
+msgstr "おかえりなさい"
+
+msgid "Width of the captured region in pixels. 0 means full width."
+msgstr "キャプチャ範囲の幅（ピクセル）です。0の場合は全体の幅になります。"
+
+msgid "Window"
+msgstr "ウィンドウ"
+
+msgid "Window ID"
+msgstr "ウィンドウID"
+
+msgid "Window capture can share one app without exposing the whole desktop."
+msgstr "ウィンドウキャプチャなら、デスクトップ全体を見せずに1つのアプリだけを共有できます。"
+
+msgid "Window capture is more sensitive to app/window changes."
+msgstr "ウィンドウキャプチャは、アプリやウィンドウの変化の影響を受けやすくなります。"
+
+msgid "Wrong IP can make the host unreachable from other computers."
+msgstr "IPが正しくないと、ほかのコンピューターからホストに接続できなくなることがあります。"
+
+msgid "Wrong tier can hide the host or block expected connections."
+msgstr "階層が正しくないと、ホストが表示されなくなったり、想定した接続がブロックされたりすることがあります。"
+
+msgid "Wrong values can crop important content."
+msgstr "値が正しくないと、重要な部分が切り取られることがあります。"
+
+msgid "Wrong values can hurt quality or waste bitrate."
+msgstr "値が正しくないと、画質が低下したり、ビットレートが無駄になったりすることがあります。"
+
+msgid "Wrong values can shift the stream away from the intended content."
+msgstr "値が正しくないと、意図した範囲からずれた映像が配信されることがあります。"
+
+msgid "YUV 4:4:4"
+msgstr "YUV 4:4:4"
+
+msgid "friend@example.com"
+msgstr "friend@example.com"
+
+msgid "mDNS"
+msgstr "mDNS"
+
+msgid "macOS Permissions"
+msgstr "macOS権限"
+
+msgid "Connection failed"
+msgstr "接続に失敗しました"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Allow printer"
+msgstr "プリンターを許可"
+
+msgid "Allow terminal"
+msgstr "ターミナルを許可"
+
+msgid "Allows connected clients to open an interactive shell on this host."
+msgstr "接続したクライアントがこのホストで対話型シェルを開くことを許可します。"
+
+msgid "Allows connected clients to send print jobs to this host."
+msgstr "接続したクライアントがこのホストへ印刷ジョブを送信することを許可します。"
+
+msgid "Android Permissions"
+msgstr "Android権限"
+
+msgid "Approve or revoke per-session access for sensitive host features."
+msgstr "機密性の高いホスト機能へのセッションごとのアクセスを承認または取り消します。"
+
+msgid "Audio Output"
+msgstr "オーディオ出力"
+
+msgid "Default playback"
+msgstr "既定の再生デバイス"
+
+msgid "Default printer"
+msgstr "既定のプリンター"
+
+msgid "Choose a printer"
+msgstr "プリンターを選択してください"
+
+msgid "Enable"
+msgstr "有効化"
+
+msgid "Enable remote printer"
+msgstr "リモートプリンターを有効化"
+
+msgid "Enable remote terminal"
+msgstr "リモートターミナルを有効化"
+
+msgid "Gamepad X1/X2 shoulder buttons"
+msgstr "ゲームパッドのX1/X2ショルダーボタン"
+
+msgid "Host sharing starts automatically after sign-in."
+msgstr "サインイン後にホスト共有が自動的に開始されます。"
+
+msgid "Host sharing status: "
+msgstr "ホスト共有の状態: "
+
+msgid "Host startup is running in background."
+msgstr "ホストの起動処理がバックグラウンドで実行中です。"
+
+msgid "INSTALLED"
+msgstr "インストール済み"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Install the service to keep hosting available before sign-in and on the lock screen."
+msgstr "サインイン前やロック画面でもホストを利用できるようにサービスをインストールします。"
+
+msgid "Keep terminal sessions on disconnect"
+msgstr "切断時もターミナルセッションを維持"
+
+msgid "Keeps terminal shells alive after a client disconnects so reconnect can reattach them."
+msgstr "クライアント切断後もターミナルシェルを維持し、再接続時に復帰できるようにします。"
+
+msgid "Keyboard Capture"
+msgstr "キーボードキャプチャ"
+
+msgid "Manual route"
+msgstr "手動ルート"
+
+msgid "NOT INSTALLED"
+msgstr "未インストール"
+
+msgid "No pending terminal or printer approvals"
+msgstr "保留中のターミナルまたはプリンター承認はありません"
+
+msgid "Printer target"
+msgstr "対象プリンター"
+
+msgid "Reject printer"
+msgstr "プリンターを拒否"
+
+msgid "Reject terminal"
+msgstr "ターミナルを拒否"
+
+msgid "Remote feature approval requested"
+msgstr "リモート機能の承認が要求されました"
+
+msgid "Remote feature approvals"
+msgstr "リモート機能の承認"
+
+msgid "Remote printer"
+msgstr "リモートプリンター"
+
+msgid "Remote printer lets approved clients send print jobs to this host. Enable it only for hosts where remote printing is allowed."
+msgstr "リモートプリンターは承認済みクライアントからこのホストへの印刷を許可します。リモート印刷を許可するホストでのみ有効にしてください。"
+
+msgid "Remote terminal"
+msgstr "リモートターミナル"
+
+msgid "Remote terminal lets approved clients open an interactive shell on this host. Enable it only for hosts where shell access is allowed."
+msgstr "リモートターミナルは承認済みクライアントがこのホストで対話型シェルを開けるようにします。シェルアクセスを許可するホストでのみ有効にしてください。"
+
+msgid "Revoke printer"
+msgstr "プリンター権限を取り消す"
+
+msgid "Revoke terminal"
+msgstr "ターミナル権限を取り消す"
+
+msgid "STARTING"
+msgstr "起動中"
+
+msgid "This computer is available for authorized remote connections."
+msgstr "このコンピューターは承認されたリモート接続で利用できます。"
+
+msgid "Uninstall"
+msgstr "アンインストール"
+
+msgid "Windows boot service: "
+msgstr "Windows起動サービス: "
+
+msgid "Windows boot service"
+msgstr "Windows起動サービス"
+
+msgid "HDR display and HEVC Main10 hardware decoder required"
+msgstr "HDRディスプレイとHEVC Main10ハードウェアデコーダーが必要です"
+
+msgid "Install codec pack"
+msgstr "コーデックパックをインストール"
+
+msgid "Install the FFmpeg codec pack for H.264 and HEVC encoding, then restart the app and host service."
+msgstr "H.264・HEVCエンコードに必要なFFmpegコーデックパックをインストールし、アプリとホストサービスを再起動してください。"
+
+msgid "H.264 encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+msgstr "H.264エンコードを利用できません。FFmpegコーデックパックをインストールし、アプリとホストサービスを再起動してください。"
+
+msgid "HEVC encoding unavailable. Install the FFmpeg codec pack, then restart the app and host service."
+msgstr "HEVCエンコードを利用できません。FFmpegコーデックパックをインストールし、アプリとホストサービスを再起動してください。"
+
+msgid "Install the updated ARM64 FFmpeg MF low-delay codec pack, then restart the app and host service."
+msgstr "最新のARM64 FFmpeg MF低遅延コーデックパックをインストールし、アプリとホストサービスを再起動してください。"
+
+msgid "About / Licenses"
+msgstr "情報 / ライセンス"
+
+msgid "Add Display"
+msgstr "ディスプレイを追加"
+
+msgid "Automatic · hardware first"
+msgstr "自動 · ハードウェア優先"
+
+msgid "Connect by Number"
+msgstr "番号で接続"
+
+msgid "Direct UDP"
+msgstr "直接UDP"
+
+msgid "Encoder / Advanced"
+msgstr "エンコーダー / 詳細設定"
+
+msgid "Enter the 9-digit AirDesk ID shared with you."
+msgstr "共有された9桁のAirDesk番号を入力してください。"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "KB/s"
+msgstr "KB/s"
+
+msgid "LAN discovery"
+msgstr "LAN検出"
+
+msgid "Language / Appearance"
+msgstr "言語 / 外観"
+
+msgid "Licenses and account"
+msgstr "ライセンスとアカウント"
+
+msgid "Low latency mode"
+msgstr "低遅延モード"
+
+msgid "Manage environment and connection quality defaults."
+msgstr "環境と接続品質の既定値を管理します。"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Permissions"
+msgstr "権限"
+
+msgid "Preparing number..."
+msgstr "番号を準備しています..."
+
+msgid "Prioritize the latest frame and discard stale media."
+msgstr "古いメディアを破棄して最新フレームを優先します。"
+
+msgid "AirDesk ID"
+msgstr "AirDesk番号"
+
+msgid "AirDesk ID: "
+msgstr "AirDesk番号: "
+
+msgid "Remove Display"
+msgstr "ディスプレイを削除"
+
+msgid "Run AirDesk when Windows starts"
+msgstr "Windows起動時にAirDeskを実行"
+
+msgid "Run AirDesk at login"
+msgstr "ログイン時にAirDeskを実行"
+
+msgid "Tier unavailable"
+msgstr "階層を確認できません"
+
+msgid "Screen, accessibility, microphone and input permissions"
+msgstr "画面、アクセシビリティ、マイク、入力の権限"
+
+msgid "Share My PC"
+msgstr "自分のPCを共有"
+
+msgid "Share this computer securely for direct connections."
+msgstr "このコンピューターを安全に共有し、直接接続を受け付けます。"
+
+msgid "Sharing"
+msgstr "共有中"
+
+msgid "Sharing is off"
+msgstr "共有オフ"
+
+msgid "Stream codec"
+msgstr "ストリームコーデック"
+
+msgid "Streaming"
+msgstr "ストリーミング"
+
+msgid "UDP port"
+msgstr "UDPポート"
+
+msgid "Your AirDesk ID"
+msgstr "自分のAirDesk番号"
+
+msgid "px"
+msgstr "px"
+
+msgid "Unlimited"
+msgstr "無制限"
+
+msgid "Share this number so others can connect directly."
+msgstr "この番号を伝えると相手が直接接続できます。"
+
+msgid "Sharing failed"
+msgstr "共有の開始に失敗"
+
+msgid "Starting sharing..."
+msgstr "共有を開始中..."
+
+msgid "Create account"
+msgstr "新規登録"
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+msgid "Enter your password"
+msgstr "パスワードを入力してください"
+
+msgid "Two-factor authentication"
+msgstr "2段階認証"
+
+msgid "Enter the 6-digit code from Google Authenticator or Authy to finish signing in."
+msgstr "Google Authenticator または Authy の6桁の認証コードを入力してログインを完了してください。"
+
+msgid "6-digit authenticator code"
+msgstr "6桁の認証コード"
+
+msgid "Verifying..."
+msgstr "確認中..."
+
+msgid "Verify code"
+msgstr "コードを確認"
+
+msgid "Back to password login"
+msgstr "パスワードログインに戻る"
+
+msgid "Manage two-factor authentication in website account settings"
+msgstr "ウェブサイトのアカウント設定で二段階認証を管理"
+
+msgid "Manage on website"
+msgstr "ウェブサイトで変更"
+
+msgid "Manage online"
+msgstr "ウェブで管理"
+
+msgid "Connection details"
+msgstr "接続の詳細"
+
+msgid "Address and port"
+msgstr "アドレスとポート"
+
+msgid "Connection status and app version"
+msgstr "接続状態・アプリのバージョン"
+
+msgid "Ready to connect"
+msgstr "接続可能"
+
+msgid "Online"
+msgstr "オンライン"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Add virtual display"
+msgstr "仮想ディスプレイを追加"
+
+msgid "Remove virtual display"
+msgstr "仮想ディスプレイを削除"
+
+msgid "Connect to add or remove displays."
+msgstr "接続後にディスプレイを追加・削除できます。"
+
+msgid "This computer does not support virtual displays."
+msgstr "このコンピューターは仮想ディスプレイに対応していません。"
+
+msgid "Change permission tier"
+msgstr "階層を変更"
+
+
+msgid "Start automatically when the computer starts"
+msgstr "コンピューター起動時に自動実行"
+
+msgid "Run the host service at startup, even before signing in."
+msgstr "サインイン前でも接続できるよう、起動時にホストサービスを実行します。"
+
+msgid "Start automatically"
+msgstr "自動実行"
+
+
+msgid "Run at Mac login"
+msgstr "Mac ログイン時に起動"
+
+
+msgid "Start AirDesk automatically after signing in."
+msgstr "ログイン後に AirDesk を自動的に起動します。"
+
+
+msgid "macOS host permissions"
+msgstr "macOS ホストの権限"
+
+
+msgid "Ready to share"
+msgstr "共有の準備完了"
+
+
+msgid "Permission required"
+msgstr "権限が必要"
+
+
+msgid "Permissions are allowed. Turn on sharing when you are ready."
+msgstr "権限が許可されました。準備ができたら共有をオンにしてください。"
+
+
+msgid "Allow access on the host Mac to share its screen and control it remotely."
+msgstr "画面共有と遠隔操作のため、ホスト Mac でアクセスを許可してください。"
+
+
+msgid "Required to share this Mac's screen."
+msgstr "この Mac の画面共有に必要です。"
+
+
+msgid "Allows remote keyboard and mouse control."
+msgstr "キーボードとマウスの遠隔操作を許可します。"
+
+
+msgid "After allowing access, return here and refresh."
+msgstr "許可後に戻って状態を更新してください。"
+
+
+msgid "Refresh status"
+msgstr "状態を更新"
+
+
+msgid "Permission troubleshooting"
+msgstr "権限の問題を解決"
+
+
+msgid "This Mac's remote ID"
+msgstr "この Mac のリモート ID"
+
+
+msgid "This PC's remote ID"
+msgstr "この PC のリモート ID"
+
+
+msgid "Copy remote ID"
+msgstr "ID をコピー"
+
+
+msgid "Remote ID copied"
+msgstr "リモート ID をコピーしました"
+
+
+msgid "Waiting for host permission"
+msgstr "ホストの権限を待機中"
+
+
+msgid "Ready for direct connections."
+msgstr "接続を受け付ける準備ができました。"
+
+
+msgid "Turn on sharing when you want to accept connections."
+msgstr "接続を受け付けるには共有をオンにしてください。"
+
+
+msgid "Sharing environment"
+msgstr "共有環境"
+
+
+msgid "Streaming settings"
+msgstr "ストリーミング設定"
+
+
+msgid "Connection permissions"
+msgstr "接続権限"
+
+
+msgid "Manage sharing with friends and access tiers."
+msgstr "フレンドとの共有設定とアクセス権限を確認します。"
+
+
+msgid "General"
+msgstr "一般"
+
+
+msgid "Follow your system or choose an appearance."
+msgstr "システム設定に合わせるか、外観を選択します。"
+
+
+msgid "Choose the language used in the app."
+msgstr "アプリで使用する言語を選択します。"
+
+
+msgid "Keyboard, mouse and controller"
+msgstr "キーボード、マウス、コントローラー"
+
+
+msgid "Connection and audio settings"
+msgstr "接続と音声の設定"
+
+
+msgid "Open recordings folder"
+msgstr "録画フォルダーを開く"
+
+
+msgid "Recordings and screenshots"
+msgstr "録画とスクリーンショットの保存先"
+
+
+msgid "Additional permissions"
+msgstr "機能別の追加権限"
+
+
+msgid "Microphone access depends on the audio input path. Input Monitoring is used when this Mac captures client input."
+msgstr "マイクは音声入力経路に応じて、入力監視はこの Mac で遠隔入力を取得する際に必要です。"
+
+
+msgid "Your workspace,\nwherever you are."
+msgstr "いつもの作業環境を、\nどこからでも。"
+
+
+msgid "Connect to a familiar computer and pick up where you left off."
+msgstr "いつものパソコンに接続して、作業の続きを。"
+
+
+msgid "Your workspace"
+msgstr "あなたの作業環境"
+
+
+msgid "Your space, just as you left it"
+msgstr "いつもの環境、そのまま"
+
+
+msgid "Connect directly to your devices"
+msgstr "自分のデバイスに直接接続"
+
+
+msgid "Direct connections · Multiple displays · Secure sharing"
+msgstr "直接接続 · 複数画面 · 安全な共有"
+
+
+msgid "My account"
+msgstr "マイアカウント"
+
+msgid "Your free plan's computer limit has been reached"
+msgstr "無料プランのコンピューター登録上限に達しました"
+
+msgid "Your plan's computer limit has been reached"
+msgstr "コンピューター登録上限に達しました"
+
+msgid "You can still connect to existing computers."
+msgstr "登録済みのコンピューターには引き続き接続できます。"
+
+msgid "Manage computers"
+msgstr "コンピューター管理"
+
+msgid "View plans"
+msgstr "プランを見る"
+
+msgid "Computer registration limit"
+msgstr "コンピューター登録上限"
+
+msgid "This computer could not be registered"
+msgstr "このコンピューターを登録できません"
+
+msgid "Your plan's computer registration limit has been reached. Remove an unused computer and try again, or review your plan."
+msgstr "現在のプランの登録上限に達しました。不要なコンピューターを解除して再試行するか、プランをご確認ください。"
+
+msgid "Later"
+msgstr "あとで"
+
+msgid "Registered {} / {} computers"
+msgstr "登録 {} / {}台"
+
+msgid "Registration limit: {} computers"
+msgstr "登録上限: {}台"
+
+msgid "Registration limit reached"
+msgstr "登録上限に達しました"
+
+msgid "Free plan"
+msgstr "無料プラン"
+
+msgid "Current plan"
+msgstr "現在のプラン"
+
+msgid "Not allowed"
+msgstr "未許可"
+
+msgid "Screen sharing and remote control"
+msgstr "画面共有とリモート操作"
+
+msgid "{} / 3 allowed"
+msgstr "{} / 3 許可済み"
+
+msgid "Shares this Mac's screen remotely."
+msgstr "このMacの画面をリモートで共有します。"
+
+msgid "Remote control access required by macOS."
+msgstr "macOSで必要なリモート操作権限です。"
+
+msgid "Additional features"
+msgstr "追加機能"
+
+msgid "Allow for the features you use"
+msgstr "使用する機能に応じて許可"
+
+msgid "Needed when transmitting microphone audio."
+msgstr "マイク音声を送信するときに必要です。"
+
+msgid "Needed when capturing keyboard input."
+msgstr "キーボード入力の検出に必要です。"
+
+msgid "macOS permission troubleshooting"
+msgstr "macOS権限のトラブル解決"
+
+msgid "This Mac is ready to share"
+msgstr "このMacを共有する準備ができました"
+
+msgid "Allow {} permission(s) for screen sharing and remote control"
+msgstr "画面共有とリモート操作のために{}件の権限を許可してください"
+
+msgid "All permissions needed for screen sharing and remote control are allowed."
+msgstr "画面共有とリモート操作に必要な権限がすべて許可されています。"
+
+msgid "Allow access on the host Mac, then refresh the status."
+msgstr "ホストMacで許可してから状態を更新してください。"
+
+msgid "Permissions not updating?"
+msgstr "権限が反映されませんか？"
+
+msgid "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
+msgstr "設定にアプリが表示されない場合は、+ボタンでAirDesk.appを追加してください。許可後に状態を更新し、反映されない場合はアプリを再起動してください。"
+
+msgid "Permissions are changed in this Mac's System Settings."
+msgstr "権限はこのMacのシステム設定で変更します。"
+
+msgid "macOS permissions for AI control"
+msgstr "AIによる操作に必要なmacOSの権限"
+
+msgid "Review macOS permissions"
+msgstr "macOSの権限を確認"
+
+msgid "Allow AirDesk in Privacy & Security when AI will control this Mac. You can skip this step if you only use this Mac to control another computer."
+msgstr "AIがこのMacを操作する場合は、システム設定の「プライバシーとセキュリティ」でAirDeskを許可してください。このMacから別のコンピュータを操作するだけなら、この手順は省略できます。"
+
+msgid "Access required"
+msgstr "許可が必要"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Accepted"
+msgstr "承認済み"
+
+msgid "Request received"
+msgstr "受信したフレンド申請"
+
+msgid "Request sent"
+msgstr "送信したフレンド申請"
+
+msgid "Accept"
+msgstr "承認"
+
+msgid "Reject"
+msgstr "拒否"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Dismiss notification"
+msgstr "通知を閉じる"
+
+msgid "Sign in to your account"
+msgstr "アカウントにログインしてコンピューターに接続してください。"
+
+msgid "friend request sent"
+msgstr "フレンドリクエストを送信しました。"
+
+msgid "Computers"
+msgstr "コンピューター"
+
+msgid "My Computers"
+msgstr "マイコンピューター"
+
+msgid "Select a computer to connect."
+msgstr "接続するコンピューターを選択してください。"
+
+msgid "Total {}"
+msgstr "合計 {}"
+
+msgid "Manage friends and access to your shared computers."
+msgstr "フレンドと共有コンピューターへのアクセスを管理します。"
+
+msgid "Received files"
+msgstr "受信したファイル"
+
+msgid "Files received from the remote PC"
+msgstr "リモートPCから受信したファイル"
+
+msgid "Account tier: "
+msgstr "アカウントプラン: "
+
+msgid "Membership not verified · Only Free features are shown"
+msgstr "プラン確認が必要 · Free機能のみ表示"
+
+msgid "Refresh membership"
+msgstr "プランを更新"
+
+msgid "Video preferences apply to the next connection. Use the overlay toolbar to change the active stream."
+msgstr "映像設定は次回の接続に適用されます。現在の接続はオーバーレイツールバーで変更してください。"
+
+msgid "Security and permissions"
+msgstr "セキュリティと権限"
+
+msgid "Two-factor authentication · Feature approvals"
+msgstr "2段階認証 · 機能の承認"
+
+msgid "App information and diagnostics"
+msgstr "アプリ情報と診断"
+
+msgid "Licenses · Logs · Account"
+msgstr "ライセンス · ログ · アカウント"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "This client uses Slint for its UI."
+msgstr "このクライアントのユーザーインターフェースにはSlintを使用しています。"
+
+msgid "Recordings and screen captures"
+msgstr "録画と画面キャプチャ"
+
+msgid "Permission tier {}"
+msgstr "階層 {}"
+
+msgid "Open remote screen"
+msgstr "リモート画面を開く"
+
+msgid "More options for {}"
+msgstr "{} のその他の操作"
+
+msgid "Available {}"
+msgstr "接続可能 {}"
+
+msgid "Connection details are available in the computer's ··· menu."
+msgstr "接続の詳細はコンピューターの ··· メニューから確認できます。"
+
+msgid "Add a friend by email"
+msgstr "メールでフレンドを追加"
+
+msgid "Friend email"
+msgstr "フレンドのメールアドレス"
+
+msgid "Friends {}"
+msgstr "フレンド {}"
+
+msgid "Share with {}"
+msgstr "{} と共有"
+
+#: mobile redesign
+msgid "About"
+msgstr "アプリ情報"
+
+#: mobile redesign
+msgid "Account creation and password recovery open on the website."
+msgstr "アカウント作成とパスワード再設定はウェブサイトで行えます。"
+
+#: mobile redesign
+msgid "Add friends to share your computers."
+msgstr "フレンドを追加してパソコンを共有しましょう。"
+
+#: mobile redesign
+msgid "Add your first friend"
+msgstr "最初のフレンドを追加"
+
+#: mobile redesign
+msgid "Authenticator code"
+msgstr "認証アプリのコード"
+
+#: mobile redesign
+msgid "Available after connecting"
+msgstr "接続後に利用できます"
+
+#: mobile redesign
+msgid "Back"
+msgstr "戻る"
+
+#: mobile redesign
+msgid "Back to My Computers"
+msgstr "パソコン一覧へ戻る"
+
+#: mobile redesign
+msgid "Choose D1 or D2 after connecting"
+msgstr "接続後に D1・D2 を選択"
+
+#: mobile redesign
+msgid "Computer ID"
+msgstr "パソコン ID"
+
+#: mobile redesign
+msgid "Computer details"
+msgstr "パソコンの詳細"
+
+#: mobile redesign
+msgid "Connect after your friend accepts"
+msgstr "フレンドが承認すると接続できます"
+
+#: mobile redesign
+msgid "Connecting to a computer for the first time?"
+msgstr "初めて接続するパソコンですか？"
+
+#: mobile redesign
+msgid "Enter the 6-digit code from your authenticator app."
+msgstr "認証アプリの6桁のコードを入力してください。"
+
+#: mobile redesign
+msgid "Enter your friend's email address."
+msgstr "フレンドのメールアドレスを入力してください。"
+
+#: mobile redesign
+msgid "Find friends by email and share your computers."
+msgstr "メールでフレンドを探してパソコンを共有しましょう。"
+
+#: mobile redesign
+msgid "Manage computer permissions on the website."
+msgstr "パソコンの権限はウェブサイトで管理できます。"
+
+#: mobile redesign
+msgid "Manage computer sharing on the website."
+msgstr "コンピューターの共有はウェブサイトで管理できます。"
+
+#: mobile redesign
+msgid "Manage two-factor authentication on the website."
+msgstr "2段階認証の設定はウェブサイトで管理できます。"
+
+#: mobile redesign
+msgid "Open Remote Window"
+msgstr "リモート画面を開く"
+
+#: mobile redesign
+
+#: mobile redesign
+msgid "Remote tools"
+msgstr "リモートツール"
+
+#: mobile redesign
+msgid "Request connection"
+msgstr "接続をリクエスト"
+
+#: mobile redesign
+msgid "Saved on this device"
+msgstr "この端末に保存したファイル"
+
+#: mobile redesign
+msgid "Send friend request"
+msgstr "フレンドリクエストを送信"
+
+#: mobile redesign
+msgid "Share computers securely with friends."
+msgstr "フレンドと安全にパソコンを共有できます。"
+
+#: mobile redesign
+msgid "Sign in and pick up where you left off."
+msgstr "ログインして、いつもの作業を続けましょう。"
+
+#: mobile redesign
+
+#: mobile redesign
+msgid "The other computer must approve your connection request."
+msgstr "相手のパソコンで接続を承認する必要があります。"
+
+#: mobile redesign
+msgid "Theme and language"
+msgstr "テーマ・言語"
+
+#: mobile redesign
+msgid "You can connect when the computer is online."
+msgstr "パソコンがオンラインなら接続できます。"
+
+#: mobile redesign
+msgid "Your friend must accept the request before you can share computers."
+msgstr "フレンドがリクエストを承認するとパソコンを共有できます。"
+
+#: mobile redesign
+msgid "Your workspace, wherever you are."
+msgstr "どこにいても、いつものパソコンへ。"
+
+#: mobile redesign
+msgid "Check the computer and your network, then try again."
+msgstr "パソコンとネットワークを確認して、もう一度お試しください。"
+
+#: mobile redesign
+msgid "Try again"
+msgstr "再試行"
+
+#: mobile redesign
+msgid "Version"
+msgstr "バージョン"
+
+#: mobile redesign
+msgid "Copy error codes and logs"
+msgstr "エラーコードとログをコピー"
+
+#: mobile Figma overview
+msgid "Account and security"
+msgstr "アカウント・セキュリティ"
+
+#: mobile Figma overview
+msgid "Android permissions"
+msgstr "Android の権限"
+
+#: mobile Figma overview
+msgid "Capture storage location"
+msgstr "キャプチャの保存場所"
+
+#: mobile Figma overview
+msgid "Change computer tiers and permissions on the website."
+msgstr "コンピューターの階層と権限はウェブサイトで変更できます。"
+
+#: mobile Figma overview
+msgid "Copy diagnostics"
+msgstr "診断情報をコピー"
+
+#: mobile Figma overview
+msgid "Diagnostics copied"
+msgstr "診断情報をコピーしました"
+
+#: mobile Figma overview
+msgid "Displays, connection details and PRO remote tools"
+msgstr "ディスプレイ・接続情報・PRO リモートツール"
+
+#: mobile Figma overview
+msgid "Expand when needed"
+msgstr "必要なときに開いて確認"
+
+#: mobile Figma overview
+msgid "Find the tools you need in the computer's ··· menu."
+msgstr "必要なツールはコンピューターの ··· メニューにあります。"
+
+#: mobile Figma overview
+msgid "Having trouble connecting?"
+msgstr "接続に問題がありますか？"
+
+#: mobile Figma overview
+msgid "Include the error code when you contact support."
+msgstr "お問い合わせにはエラーコードを添えてください。"
+
+#: mobile Figma overview
+msgid "Input and audio"
+msgstr "入力・オーディオ"
+
+#: mobile Figma overview
+msgid "Manage account security on the website."
+msgstr "アカウントのセキュリティはウェブサイトで管理できます。"
+
+#: mobile Figma overview
+msgid "Manage computer permissions"
+msgstr "パソコンの権限を管理"
+
+#: mobile Figma overview
+msgid "Manage on the website"
+msgstr "ウェブサイトで管理"
+
+#: mobile Figma overview
+msgid "Manage setup, removal and recovery codes in website account settings."
+msgstr "設定・解除・リカバリーコードの管理はウェブサイトのアカウント設定から行えます。"
+
+#: mobile Figma overview
+msgid "My account and security"
+msgstr "アカウント・セキュリティ"
+
+#: mobile Figma overview
+msgid "Open-source licenses"
+msgstr "オープンソースライセンス"
+
+#: mobile Figma overview
+msgid "Remote features require host approval."
+msgstr "リモート機能にはホストの承認が必要です。"
+
+#: mobile Figma overview
+msgid "Requests appear in the list after your friend accepts."
+msgstr "フレンドが承認すると一覧に表示されます。"
+
+#: mobile Figma overview
+msgid "The host's physical monitor setup is preserved when connecting."
+msgstr "接続時もホストの物理モニター構成は保持されます。"
+
+#: mobile Figma overview
+msgid "Adjust the video quality used on this device."
+msgstr "この端末で使う映像の品質を調整します。"
+
+#: mobile Figma overview
+msgid "Applied within the supported range."
+msgstr "対応する範囲で適用されます。"
+
+#: mobile Figma overview
+msgid "When supported by the host and device"
+msgstr "ホストと端末が対応する場合"
+
+#: mobile Figma overview
+msgid "Audio, clipboard and advanced settings"
+msgstr "オーディオ・クリップボード・詳細設定"
+
+#: mobile Figma overview
+msgid "Set up touch, mouse and audio for this device."
+msgstr "この端末のタッチ・マウス・オーディオを設定します。"
+
+#: mobile Figma overview
+msgid "Map touch positions to the remote screen."
+msgstr "タッチ位置をリモート画面に合わせます。"
+
+#: mobile Figma overview
+msgid "Keyboard and gamepad"
+msgstr "キーボード・ゲームパッド"
+
+#: mobile Figma overview
+msgid "Shortcuts and virtual controls"
+msgstr "ショートカットと仮想コントロール"
+
+#: mobile Figma overview
+msgid "Absolute mouse"
+msgstr "絶対マウス"
+
+#: mobile Figma overview
+msgid "Audio output"
+msgstr "オーディオ出力"
+
+#: mobile Figma overview
+msgid "Color format"
+msgstr "カラー形式"
+
+#: mobile Figma overview
+msgid "Frame rate"
+msgstr "フレームレート"
+
+#: mobile Figma overview
+msgid "Save"
+msgstr "保存"
+
+#: desktop Figma parity
+msgid "Available"
+msgstr "接続可能"
+
+#: desktop Figma parity
+msgid "Direct connections"
+msgstr "直接接続"
+
+#: desktop Figma parity
+msgid "Multiple displays"
+msgstr "複数のディスプレイ"
+
+#: desktop Figma parity
+msgid "Secure sharing"
+msgstr "安全な共有"
+
+#: desktop Figma parity
+msgid "AirDesk on your other computers"
+msgstr "他のパソコンにも AirDesk"
+
+#: desktop Figma parity
+msgid "Sign in with the same account to find them in My Computers."
+msgstr "同じアカウントでログインすると、マイコンピューターに表示されます。"
+
+#: desktop Figma parity
+msgid "For security, friend sharing turns off automatically one day after you enable it."
+msgstr "セキュリティのため、フレンドとの共有は有効にしてから1日後に自動でオフになります。"
+
+#: desktop Figma parity
+msgid "Screen"
+msgstr "画面"
+
+#: desktop Figma parity
+msgid "Remote screen output size"
+msgstr "リモート画面の出力サイズ"
+
+#: desktop Figma parity
+msgid "120 FPS is available with Pro."
+msgstr "Proで120 FPSを利用できます。"
+
+#: desktop Figma parity
+msgid "Pro supports 120 FPS."
+msgstr "Proプランは120 FPSに対応しています。"
+
+#: desktop Figma parity
+msgid "Choose for compatibility and image quality."
+msgstr "互換性と画質を考慮して選択してください。"
+
+#: desktop Figma parity
+msgid "Vertical synchronization"
+msgstr "垂直同期"
+
+#: desktop Figma parity
+msgid "Reduce screen tearing."
+msgstr "画面のティアリングを抑えます。"
+
+#: desktop Figma parity
+msgid "Audio playback"
+msgstr "音声再生"
+
+msgid "Remote audio playback"
+msgstr "リモート音声再生"
+
+#: desktop Figma parity
+msgid "Listen to sound from the remote computer."
+msgstr "リモートコンピューターの音声を再生します。"
+
+#: desktop Figma parity
+msgid "Current settings"
+msgstr "現在の設定"
+
+#: desktop Figma parity
+msgid "Quality and responsiveness"
+msgstr "画質と応答速度"
+
+#: desktop Figma parity
+msgid "Lower the bitrate if the network is unstable."
+msgstr "ネットワークが不安定な場合はビットレートを下げてください。"
+
+#: desktop Figma parity
+msgid "120 FPS and multiple display windows are available."
+msgstr "120 FPSと複数のディスプレイウィンドウを利用できます。"
+
+#: desktop Figma parity
+msgid "Pro supports 120 FPS and multiple display windows."
+msgstr "Proは120 FPSと複数のディスプレイウィンドウに対応しています。"
+
+#: desktop Figma parity
+msgid "Additional settings"
+msgstr "追加設定"
+
+#: desktop Figma parity
+msgid "Adjust clarity and motion for your environment."
+msgstr "画面の鮮明さと動きを使用環境に合わせて調整してください。"
+
+#: desktop Figma parity
+msgid "Two-factor authentication and feature approvals"
+msgstr "二段階認証・機能の承認"
+
+#: desktop Figma parity
+msgid "This bitrate is outside the slider range. Additional settings retain the current value."
+msgstr "現在のビットレートはスライダーの範囲外です。追加設定では現在の値を保持できます。"
+
+#: desktop Figma parity
+msgid "After your friend accepts, enable sharing to let them connect to this computer."
+msgstr "フレンドが承認した後、共有を有効にするとこのパソコンに接続できます。"
+
+msgid "Plan features"
+msgstr "プラン別機能"
+
+msgid "Current plan · "
+msgstr "現在のプラン · "
+
+msgid "Membership verification required"
+msgstr "メンバーシップの確認が必要"
+
+msgid "Review available features and host permissions."
+msgstr "利用できる機能とホストの許可状態を確認してください。"
+
+msgid "Paid features stay locked until your membership is verified."
+msgstr "メンバーシップを確認するまで有料機能は利用できません。"
+
+msgid "Verification required"
+msgstr "確認が必要"
+
+msgid "Team required"
+msgstr "Team が必要"
+
+msgid "Pro required"
+msgstr "Pro が必要"
+
+msgid "Allowed"
+msgstr "許可済み"
+
+msgid "120 FPS · Multiple displays · Recording"
+msgstr "120 FPS · 複数画面 · 録画"
+
+msgid "Available from the connection screen and remote toolbar."
+msgstr "接続画面とリモートツールバーから利用できます。"
+
+msgid "Requires compatible host and client hardware."
+msgstr "ホストとクライアントの対応ハードウェアが必要です。"
+
+msgid "Run commands on this Windows host."
+msgstr "この Windows ホストでコマンドを実行します。"
+
+msgid "Windows host required"
+msgstr "Windows ホストが必要"
+
+msgid "Reconnect to the same shell after a disconnection."
+msgstr "切断後に同じシェルへ再接続します。"
+
+msgid "Print documents with this host's printer."
+msgstr "このホストのプリンターで印刷します。"
+
+msgid "Experimental virtual USB device sharing."
+msgstr "仮想 USB デバイスを共有する実験的な機能です。"
+
+msgid "Host permission and session approval are separate. Saved preferences do not unlock features excluded from your current plan."
+msgstr "ホストの許可とセッションの承認は別です。設定が保存されていても、現在のプランに含まれない機能は実行されません。"
+
+msgid "Client Pro"
+msgstr "クライアント Pro"
+
+
+msgid "Windows or macOS host required"
+msgstr "Windows または macOS ホストが必要です"
+
+msgid "Allow Pro clients to print with this host's printer."
+msgstr "Pro クライアントにこのホストのプリンターの使用を許可します。"
+
+msgid "Client features stay locked until membership is verified. Host permissions can still be changed."
+msgstr "確認前はクライアントの有料機能がロックされます。ホストの許可設定は変更できます。"
+
+
+
+msgid "Enter your email and password."
+msgstr "メールアドレスとパスワードを入力してください。"
+
+msgid "The email or password is incorrect."
+msgstr "メールアドレスまたはパスワードが正しくありません。"
+
+msgid "Enter a 6-digit authentication code."
+msgstr "6桁の認証コードを入力してください。"
+
+msgid "The authentication code is incorrect. Please try again."
+msgstr "認証コードが正しくありません。もう一度お試しください。"
+
+msgid "Authentication expired. Please sign in again."
+msgstr "認証の有効期限が切れました。もう一度ログインしてください。"
+
+msgid "Check this computer's date and time, sync the system clock, then try again."
+msgstr "このコンピューターの日時がサーバーの基準と一致しません。システム時刻を同期して再試行してください。"
+
+msgid "Enter a valid email address."
+msgstr "有効なメールアドレスを入力してください。"
+
+msgid "Too many sign-in attempts. Please try again later."
+msgstr "ログイン試行回数が多すぎます。しばらくしてからお試しください。"
+
+msgid "Sign-in failed. Please try again."
+msgstr "ログインに失敗しました。もう一度お試しください。"
+
+msgid "You do not have permission to perform this action."
+msgstr "この操作を行う権限がありません。"
+
+msgid "The request could not be completed. Please try again later."
+msgstr "リクエストを処理できませんでした。しばらくしてからお試しください。"
+
+msgid "Computer unavailable. Check that it is online and sharing."
+msgstr "コンピューターを利用できません。オンラインで共有中か確認してください。"
+
+msgid "The server response could not be processed. Please try again later."
+msgstr "サーバーの応答を処理できませんでした。しばらくしてからお試しください。"
+
+msgid "Allow the required permission in your system settings."
+msgstr "システム設定で必要な権限を許可してください。"
+
+msgid "Could not apply the setting. Check the value and device."
+msgstr "設定を適用できませんでした。入力値とデバイスの状態を確認してください。"
+
+msgid "Remote input"
+msgstr "リモート入力"
+
+msgid "Remote input status"
+msgstr "リモート入力の状態"
+
+msgid "This PC input"
+msgstr "このPCへの入力"
+
+msgid "No connection"
+msgstr "接続なし"
+
+msgid "Receiving input"
+msgstr "入力受信中"
+
+msgid "{} connected"
+msgstr "{} 接続中"
+
+msgid "Waiting for connection"
+msgstr "接続待ち"
+
+msgid "View details"
+msgstr "詳細を見る"
+
+msgid "Disconnect client {}"
+msgstr "クライアント {} を切断"
+
+msgid "Shows input received by this PC in real time."
+msgstr "このPCが受信する入力をリアルタイムで表示します。"
+
+msgid "Input activity will appear when a remote computer connects."
+msgstr "リモートコンピューターが接続すると入力の状態が表示されます。"
+
+msgid "Turn on Share My PC to see input activity."
+msgstr "「自分のPCを共有」をオンにすると、入力の状態を確認できます。"
+
+msgid "Update available"
+msgstr "新しいバージョンがあります"
+
+msgid "Downloading update"
+msgstr "アップデートをダウンロード中"
+
+msgid "Verifying update"
+msgstr "アップデートを確認中"
+
+msgid "Opening installer"
+msgstr "インストーラーを起動中"
+
+msgid "Installer opened"
+msgstr "インストーラーを起動しました"
+
+msgid "Could not start the update"
+msgstr "アップデートを開始できませんでした"
+
+msgid "Restart to apply update"
+msgstr "再起動すると更新が適用されます"
+
+msgid "The update is ready. Restart AirDesk to apply it."
+msgstr "更新の準備ができました。AirDeskを再起動すると適用されます。"
+
+msgid "Restart now"
+msgstr "今すぐ再起動"
+
+msgid "Download and verify the update. AirDesk will close and reopen automatically."
+msgstr "更新をダウンロードして検証します。AirDeskは自動的に終了し、再起動します。"
+
+msgid "Restarting AirDesk"
+msgstr "AirDeskを再起動中"
+
+msgid "Preparing the verified update before restarting AirDesk."
+msgstr "AirDeskを再起動する前に、検証済みの更新を準備しています。"
+
+msgid "Download the new version and open its installer. Windows may ask for permission."
+msgstr "新しいバージョンをダウンロードしてインストーラーを起動します。Windows の許可を求められる場合があります。"
+
+msgid "You can keep using the current version if you cancel."
+msgstr "キャンセルすると現在のバージョンを引き続き使用できます。"
+
+msgid "Checking the download and publisher signature."
+msgstr "ダウンロードしたファイルと発行元の署名を確認しています。"
+
+msgid "Please respond to the Windows permission prompt if it appears."
+msgstr "Windows の許可を求められた場合は確認してください。"
+
+msgid "Update installation has started. AirDesk may restart."
+msgstr "アップデートのインストールを開始しました。AirDesk が再起動する場合があります。"
+
+msgid "The current version is unchanged. Check the error and try again."
+msgstr "現在のバージョンは変更されていません。エラーを確認して、もう一度お試しください。"
+
+msgid "Current version: {}"
+msgstr "現在のバージョン: {}"
+
+msgid "New version: {}"
+msgstr "新しいバージョン: {}"
+
+msgid "{}% downloaded"
+msgstr "{}% ダウンロード済み"
+
+msgid "Cancel download"
+msgstr "ダウンロードをキャンセル"
+
+msgid "Update now"
+msgstr "今すぐ更新"
+
+msgid "Remote terminal and MCP"
+msgstr "リモートターミナルとMCP"
+
+msgid "MCP server"
+msgstr "MCPサーバー"
+
+msgid "Allow connected agents to control remote PCs and use remote terminals."
+msgstr "接続したエージェントによるリモートPCの操作とターミナルの使用を許可します。"
+
+
+msgid "Hosting"
+msgstr "ホスティング"
+
+msgid "Manage shell access and agent connections for this PC."
+msgstr "このPCのシェルアクセスとエージェント接続を管理します。"
+
+msgid "Remote terminal required"
+msgstr "リモートターミナルが必要"
+
+msgid "MCP controls remote PCs independently of this PC's terminal hosting. Turning off MCP ends agent connections."
+msgstr "このPCのターミナル公開とは別にMCPでリモートPCを操作します。MCPをオフにするとエージェント接続が終了します。"
+
+msgid "Allow approved clients to run commands on this host."
+msgstr "承認済みクライアントにこのホストでのコマンド実行を許可します。"
+
+msgid "Host approval required"
+msgstr "ホストの承認が必要"
+
+msgid "Remote terminal is available on all plans with host approval. Remote printer requires a verified Pro client."
+msgstr "リモートターミナルは全プランでホストの承認後に利用できます。リモートプリンターには確認済み Pro クライアントが必要です。"
+
+msgid "Friend Computers"
+msgstr "フレンドのコンピューター"
+
+msgid "Computers shared with you by friends"
+msgstr "フレンドから共有されたコンピューター"
+
+msgid "Computers registered to your account"
+msgstr "自分のアカウントに登録されたコンピューター"
+
+msgid "No friend computers available"
+msgstr "接続できるフレンドのコンピューターはありません"
+
+msgid "No computers of your own available"
+msgstr "接続できる自分のコンピューターはありません"
+
+msgid "Ask a friend to share their computer, then refresh."
+msgstr "フレンドにコンピューターの共有を依頼してから更新してください。"
+
+msgid "Sign in on another computer with this account, then refresh."
+msgstr "別のコンピューターで同じアカウントにログインしてから更新してください。"
+
+#. Free terminal and MCP settings
+msgid "Included in Free · All plans"
+msgstr "Free を含むすべてのプラン"
+
+#. Free terminal and MCP settings
+msgid "Use remote terminal and MCP server at no extra cost."
+msgstr "リモートターミナルと MCP サーバーを追加料金なしで利用できます。"
+
+#. Free terminal and MCP settings
+msgid "Choose what to allow. Connection requests are approved on the host."
+msgstr "許可する機能を選択してください。接続要求はホストで承認します。"
+
+#. Free terminal and MCP settings
+msgid "Terminal access to this PC"
+msgstr "この PC へのターミナルアクセス"
+
+#. Free terminal and MCP settings
+msgid "AI agent connections"
+msgstr "AI エージェントの接続"
+
+#. Free terminal and MCP settings
+msgid "Allow AI apps to control remote PCs and use terminals with the account signed in on this PC."
+msgstr "この PC にログイン中のアカウントで、AI アプリによるリモート操作とターミナルの使用を許可します。"
+
+#. Free terminal and MCP settings
+msgid "Turn on remote terminal first"
+msgstr "先にリモートターミナルを有効にしてください"
+
+#. Free terminal and MCP settings
+msgid "Manage requests to access this PC, independently of your plan."
+msgstr "プランに関係なく、この PC へのアクセス要求を管理します。"
+
+#. Free terminal and MCP settings
+msgid "Remote terminal · Included in Free"
+msgstr "リモートターミナル · Free で利用可能"
+
+#. Free terminal and MCP settings
+msgid "Only approved sessions can run shell commands on this PC."
+msgstr "承認済みのセッションのみ、この PC でシェルコマンドを実行できます。"
+
+#. Free terminal and MCP settings
+msgid "Remote printer · Client Pro"
+msgstr "リモートプリンター · 接続側は Pro"
+
+#. Free terminal and MCP settings
+msgid "Printer access is managed separately."
+msgstr "プリンターのアクセス権限は個別に管理します。"
+
+#. Free terminal and MCP settings
+msgid "When enabled, connected clients can run commands on this PC without additional session approval. Enable it only for users you trust."
+msgstr "有効にすると、接続済みクライアントはセッションごとの追加承認なしにこの PC でコマンドを実行できます。信頼するユーザーにのみ有効にしてください。"
+
+msgid "Low-resource connect"
+msgstr "低負荷で接続"
+
+msgid "Stopping sharing..."
+msgstr "共有を停止中..."
+
+msgid "You'll be asked to approve each connection."
+msgstr "接続リクエストごとに承認を求められます。"
+
+msgid "Remote connect"
+msgstr "接続"
+
+#. Login from a new network requires email verification.
+msgid "Verify this new network.\nOpen the email verification link on this computer using the same network, then sign in again. The link is valid for 15 minutes."
+msgstr "新しいネットワークの確認が必要です。\nこのコンピューターで同じネットワークを使ってメールの確認リンクを開き、再度ログインしてください。リンクは15分間有効です。"
+
+msgid "Rename computer"
+msgstr "コンピューター名を変更"
+
+msgid "Name shown only to you"
+msgstr "自分にだけ表示するコンピューター名"
+
+msgid "Only your account sees this name. Leave it blank to use the original name."
+msgstr "この名前は自分のアカウントにのみ表示されます。空欄にすると元の名前に戻ります。"
+
+msgid "Personal computer name updated."
+msgstr "自分に表示するコンピューター名を変更しました。"
+
+msgid "You no longer have access to this computer."
+msgstr "このコンピューターへのアクセス権がなくなりました。"
+
+msgid "Use 1–80 characters. Korean and emoji are supported."
+msgstr "1〜80文字で入力してください。日本語や絵文字も使えます。"
+
+msgid "Computer name"
+msgstr "コンピューター名"
+
+msgid "Saving..."
+msgstr "保存中..."
+
+msgid "Computer name updated."
+msgstr "コンピューター名を変更しました。"
+
+msgid "Enter a name with 1–80 characters."
+msgstr "名前を1〜80文字で入力してください。"
+
+msgid "Remove control characters from the name."
+msgstr "名前から制御文字を削除してください。"
+
+msgid "Only the owner can rename this computer."
+msgstr "所有者だけがコンピューター名を変更できます。"
+
+msgid "Sign in again to rename this computer."
+msgstr "名前を変更するには再度ログインしてください。"
+
+msgid "Could not confirm the name change. Refresh the list and try again."
+msgstr "名前の変更を確認できませんでした。一覧を更新してから再試行してください。"
+
+msgid "Connect in new window"
+msgstr "新しいウィンドウで接続"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Mine"
+msgstr "自分のPC"
+
+msgid "Shared"
+msgstr "共有PC"
+
+msgid "The remote session authorization expired or was revoked. Reconnect to verify access again."
+msgstr "リモートセッションの権限が期限切れになったか、取り消されました。再接続して接続権限を確認してください。"
+
+msgid "Connection management"
+msgstr "接続の管理"
+
+msgid "Manage connections"
+msgstr "接続を管理"
+
+msgid "Manage permissions for each device connected to this PC."
+msgstr "このPCに接続したデバイスごとの権限を管理します。"
+
+msgid "{} connections"
+msgstr "{}件の接続"
+
+msgid "Input allowed"
+msgstr "入力を許可"
+
+msgid "Input blocked"
+msgstr "入力をブロック"
+
+msgid "Audio allowed"
+msgstr "音声を許可"
+
+msgid "Audio blocked"
+msgstr "音声をブロック"
+
+msgid "Screen allowed"
+msgstr "画面を許可"
+
+msgid "Screen blocked"
+msgstr "画面をブロック"
+
+msgid "Base permission off"
+msgstr "基本権限がオフ"
+
+msgid "Blocked"
+msgstr "ブロック中"
+
+msgid "End connection"
+msgstr "接続を終了"
+
+msgid "Applying change..."
+msgstr "変更を適用中..."
+
+msgid "No connected devices"
+msgstr "接続中のデバイスはありません"
+
+msgid "Connected devices will appear here. You can manage each connection separately."
+msgstr "接続したデバイスがここに表示されます。接続ごとに個別に管理できます。"
+
+msgid "Turn on Share My PC to accept connections."
+msgstr "「自分のPCを共有」をオンにすると、接続を受け付けます。"
+
+msgid "Permission changes apply only to the selected connection."
+msgstr "権限の変更は選択した接続にのみ適用されます。"
+
+msgid "Could not apply the change. Check the connection and try again."
+msgstr "変更できませんでした。接続状態を確認して再試行してください。"
+
+msgid "The change could not be confirmed. The last confirmed permissions are shown."
+msgstr "変更結果を確認できませんでした。最後に確認された権限を表示しています。"
+
+msgid "Gamepad input is ready"
+msgstr "ゲームパッド入力の準備ができました"
+
+msgid "ViGEmBus driver is required"
+msgstr "ViGEmBus ドライバーが必要です"
+
+msgid "Could not prepare the virtual gamepad"
+msgstr "仮想ゲームパッドを準備できませんでした"
+
+msgid "Could not check the driver status"
+msgstr "ドライバーの状態を確認できませんでした"
+
+msgid "A restart is required"
+msgstr "Windows の再起動が必要です"
+
+msgid "Host sharing is off"
+msgstr "ホスト共有がオフです"
+
+msgid "Controller input is off"
+msgstr "コントローラー入力がオフです"
+
+msgid "Checking driver status"
+msgstr "ドライバーの状態を確認中"
+
+msgid "ViGEmBus · Windows host"
+msgstr "ViGEmBus · Windows ホスト"
+
+msgid "Install or repair ViGEmBus using the AirDesk installer."
+msgstr "AirDesk インストーラーで ViGEmBus をインストールまたは修復してください。"
+
+msgid "The driver was found, but it is not ready. Check installation or restart Windows."
+msgstr "ドライバーが見つかりましたが、まだ使用できません。インストール状態の確認または Windows の再起動をお試しください。"
+
+msgid "The driver could not be checked. Try again."
+msgstr "ドライバーを確認できませんでした。もう一度お試しください。"
+
+msgid "Restart Windows to finish preparing the driver."
+msgstr "ドライバーの準備を完了するには Windows を再起動してください。"
+
+msgid "Turn on host sharing to check virtual gamepad readiness."
+msgstr "ホスト共有をオンにすると、仮想ゲームパッドの準備状態を確認できます。"
+
+msgid "Allow gamepad input below to receive controller input."
+msgstr "下の設定でゲームパッド入力を許可してください。"
+
+msgid "Checking this PC's virtual gamepad driver."
+msgstr "この PC の仮想ゲームパッドドライバーを確認しています。"
+
+msgid "Gamepad"
+msgstr "ゲームパッド"
+
+msgid "Choose how this PC receives remote gamepad input."
+msgstr "この PC でリモートゲームパッドを認識する方式を設定します。"
+
+msgid "Back to settings"
+msgstr "設定に戻る"
+
+msgid "Installation help"
+msgstr "インストールの案内"
+
+msgid "Check again"
+msgstr "再確認"
+
+msgid "Allow gamepad input"
+msgstr "ゲームパッド入力を許可"
+
+msgid "Receive controller input from the connected device."
+msgstr "接続したデバイスからコントローラー入力を受信します。"
+
+msgid "Output layout"
+msgstr "出力レイアウト"
+
+msgid "Choose the controller type that games will recognize."
+msgstr "ゲームが認識するコントローラーの種類を選びます。"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Match the connected gamepad"
+msgstr "接続したゲームパッドに合わせる"
+
+msgid "Use Xbox output"
+msgstr "Xbox 形式で出力"
+
+msgid "Use PlayStation output"
+msgstr "PlayStation 形式で出力"
+
+msgid "Uses the DualShock 4 × · ○ · □ · △ button layout."
+msgstr "DualShock 4 の × · ○ · □ · △ ボタン配置を使用します。"
+
+msgid "Uses the Xbox 360 A · B · X · Y button layout."
+msgstr "Xbox 360 の A · B · X · Y ボタン配置を使用します。"
+
+msgid "Automatic uses DualShock 4 for PlayStation controllers and Xbox 360 for other controllers."
+msgstr "自動では PlayStation コントローラーに DualShock 4、それ以外に Xbox 360 形式を使用します。"
+
+msgid "Button layout preview"
+msgstr "ボタン配置のプレビュー"
+
+msgid "DualShock 4 button layout"
+msgstr "DualShock 4 のボタン配置"
+
+msgid "Xbox 360 button layout"
+msgstr "Xbox 360 のボタン配置"
+
+msgid "Automatic · Xbox 360 example"
+msgstr "自動 · Xbox 360 の例"
+
+msgid "Read-only preview. Buttons cannot be moved."
+msgstr "確認用のプレビューです。ボタンの位置は変更できません。"
+
+msgid "USB virtual input is active. This layout does not apply to the first controller. Additional controllers can use ViGEm."
+msgstr "USB 仮想入力を使用中です。最初のコントローラーにはこの設定は適用されません。追加のコントローラーでは ViGEm を使用できます。"
+
+msgid "Saved on this Windows PC. Applies from the next controller connection."
+msgstr "この Windows PC に保存され、次回のコントローラー接続から適用されます。"
+
+msgid "Applies from the next controller connection."
+msgstr "次回のコントローラー接続から適用されます。"
+
+msgid "Changing the output layout does not affect current connections."
+msgstr "出力方式を変更しても現在の接続は維持されます。"
+
+msgid "Restore default"
+msgstr "初期設定に戻す"
+
+msgid "Saving…"
+msgstr "保存中…"
+
+msgid "Install or repair ViGEmBus"
+msgstr "ViGEmBus のインストールまたは修復"
+
+msgid "1. Download and run the latest AirDesk Windows installer."
+msgstr "1. 最新の AirDesk Windows インストーラーをダウンロードして実行します。"
+
+msgid "2. Approve the administrator prompt and finish installation. ViGEmBus is installed automatically."
+msgstr "2. 管理者権限を許可してインストールを完了します。ViGEmBus は自動的にインストールされます。"
+
+msgid "3. If the installer asks you to restart Windows, restart before checking again."
+msgstr "3. 再起動を求められた場合は、Windows を再起動してから確認します。"
+
+msgid "After installation, return here and choose Check again."
+msgstr "インストール後、この画面に戻り「再確認」を選んでください。"
+
+msgid "Output layout and ViGEmBus driver status"
+msgstr "出力レイアウトと ViGEmBus ドライバーの状態"
+
+msgid "Gamepad layout saved. Applies from the next controller connection."
+msgstr "ゲームパッドのレイアウトを保存しました。次回のコントローラー接続から適用されます。"
+
+msgid "Could not save the gamepad layout. Try again."
+msgstr "ゲームパッドのレイアウトを保存できませんでした。もう一度お試しください。"
+
+msgid "Keyboard allowed"
+msgstr "キーボードを許可"
+
+msgid "Keyboard blocked"
+msgstr "キーボードを制限"
+
+msgid "Mouse allowed"
+msgstr "マウスを許可"
+
+msgid "Mouse blocked"
+msgstr "マウスを制限"
+
+msgid "Gamepad allowed"
+msgstr "ゲームパッドを許可"
+
+msgid "Gamepad blocked"
+msgstr "ゲームパッドを制限"
+
+msgid "End all connections for this account"
+msgstr "このアカウントのすべての接続を終了"
+
+msgid "Tablet selected · Pro"
+msgstr "タブレット選択済み · Pro"
+
+msgid "Use tablet for this connection · Pro"
+msgstr "この接続でタブレットを使用 · Pro"
+
+msgid "Mouse exclusive control · local mouse takes priority"
+msgstr "マウスの排他制御 · ローカルマウスを優先"
+
+msgid "Mouse exclusive control"
+msgstr "マウスの排他制御"
+
+msgid "Control switches after 1 second of inactivity. Keyboard permissions remain independent."
+msgstr "1秒間操作がないと制御を切り替えます。キーボードの権限は個別に適用されます。"
+
+msgid "The verification email could not be sent. Wait a moment and sign in again."
+msgstr "確認メールを送信できませんでした。しばらくしてから再度ログインしてください。"
+
+msgid "Default language is managed on the website."
+msgstr "既定の言語はウェブサイトで変更できます。"
+
+msgid "Change on the website"
+msgstr "ウェブサイトで変更"
+
+msgid "Enable MCP mode"
+msgstr "MCPモードを有効にする"
+
+msgid "Approved connections can run commands and change files on this PC. Only allow people you trust."
+msgstr "承認した接続からこのPCでコマンドを実行し、ファイルを変更できます。信頼できる相手にのみ許可してください。"
+
+msgid "MCP lets local AI apps access remote PCs. Incoming automation follows connection input permissions. Terminal access is a separate setting."
+msgstr "MCP はローカル AI アプリのリモート PC 接続を許可します。受信する自動操作は接続の入力権限に従い、ターミナルは別の設定です。"
+msgid "Open account on the website"
+msgstr "ウェブサイトでアカウントを開く"
+
+msgid "Feature approvals"
+msgstr "リモート機能の承認"
+
+msgid "Keyboard and mouse"
+msgstr "キーボードとマウス"
+
+msgid "Gamepad options"
+msgstr "ゲームパッドのオプション"
+
+msgid "Remote USB devices"
+msgstr "リモート USB デバイス"
+
+msgid "Select a USB device in the remote toolbar."
+msgstr "リモートツールバーで USB デバイスを選択してください。"
+
+msgid "Checking USB/IP driver"
+msgstr "USB/IP ドライバーを確認中"
+
+msgid "usbip-win2 driver detected"
+msgstr "usbip-win2 ドライバーを検出しました"
+
+msgid "USB/IP driver status unavailable"
+msgstr "USB/IP ドライバーの状態を確認できません"
+
+msgid "USB/IP not ready"
+msgstr "USB/IP の準備ができていません"
+
+msgid "Remote printer requires a verified Pro client."
+msgstr "リモートプリンターには確認済みの Pro クライアントが必要です。"
+
+msgid "Screen quality"
+msgstr "画面品質"
+
+msgid "Playback"
+msgstr "再生"
+
+msgid "Pointer"
+msgstr "ポインター"
+
+msgid "Video and status"
+msgstr "映像と状態"
+
+msgid "Screen capture"
+msgstr "画面キャプチャー"
+
+msgid "Start and service"
+msgstr "起動とサービス"
+
+msgid "Installed"
+msgstr "インストール済み"
+
+msgid "Not installed"
+msgstr "未インストール"
+
+msgid "Connection tier"
+msgstr "接続の階層"
+
+msgid "Allow keyboard input"
+msgstr "キーボード入力を許可"
+
+msgid "Allow mouse input"
+msgstr "マウス入力を許可"
+
+msgid "Hide advanced settings"
+msgstr "詳細設定を隠す"
+
+msgid "Advanced settings"
+msgstr "詳細設定"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "120 FPS streaming"
+msgstr "120 FPS ストリーミング"
+
+msgid "512 kbps for stereo Opus; surround uses channel layout."
+msgstr "ステレオ Opus では 512 kbps を使用し、サラウンドは選択したチャンネル構成に従います。"
+
+msgid "Access permissions"
+msgstr "アクセス権限"
+
+msgid "Available with Pro"
+msgstr "Pro で利用可能"
+
+msgid "Available with your Pro plan"
+msgstr "ご利用中の Pro プランで利用可能"
+
+msgid "Basic settings"
+msgstr "基本設定"
+
+msgid "Collapse"
+msgstr "折りたたむ"
+
+msgid "Device sharing"
+msgstr "デバイス共有"
+
+msgid "Discover hosts on the local network."
+msgstr "ローカルネットワーク上のホストを検出します。"
+
+msgid "Driver compatibility check required"
+msgstr "ドライバーの互換性を確認してください"
+
+msgid "Enable on both computers and select a virtual microphone."
+msgstr "両方のコンピューターでマイクを有効にし、仮想マイクを選択してください。"
+
+msgid "Expand"
+msgstr "展開する"
+
+msgid "Gamepad settings"
+msgstr "ゲームパッド設定"
+
+msgid "High quality audio"
+msgstr "高音質オーディオ"
+
+msgid "Install VB-CABLE on a Windows host or BlackHole 2ch on a Mac host, then select that virtual microphone in the app receiving your voice."
+msgstr "Windows ホストには VB-CABLE、Mac ホストには BlackHole 2ch をインストールし、音声を受け取るアプリでその仮想マイクを選択してください。"
+
+msgid "Install or repair the signed usbip-win2 VHCI driver using your administrator's approved package. Check driver permissions and compatibility, then check again. AirDesk does not install or replace drivers automatically."
+msgstr "管理者が承認したパッケージで署名済みの usbip-win2 VHCI ドライバーをインストールまたは修復してください。ドライバーの権限と互換性を確認してから、再度確認してください。AirDesk はドライバーを自動でインストールまたは交換しません。"
+
+msgid "Installation guide"
+msgstr "インストールガイド"
+
+msgid "Map the host UDP port on the router."
+msgstr "ルーターでホストの UDP ポートをマッピングします。"
+
+msgid "Microphone and echo cancellation are ready."
+msgstr "マイクとエコーキャンセルを使用できます。"
+
+msgid "Microphone ready. Echo cancellation is not active yet."
+msgstr "マイクを使用できます。エコーキャンセルはまだ有効になっていません。"
+
+msgid "Microphone ready. Echo cancellation is off."
+msgstr "マイクを使用できます。エコーキャンセルはオフです。"
+
+msgid "Mute local playback during a remote stream."
+msgstr "リモート配信中はホストのローカル再生音をミュートします。"
+
+msgid "Refresh audio devices"
+msgstr "オーディオデバイスを更新"
+
+msgid "Refresh windows"
+msgstr "ウィンドウ一覧を更新"
+
+msgid "Service installed"
+msgstr "サービスはインストール済み"
+
+msgid "Service not installed"
+msgstr "サービスは未インストール"
+
+msgid "This host's virtual microphone is unavailable. Check the installed audio device."
+msgstr "このホストの仮想マイクを使用できません。インストール済みのオーディオデバイスを確認してください。"
+
+msgid "usbip-win2 driver not found"
+msgstr "usbip-win2 ドライバーが見つかりません"
+
+msgid "Installing driver…"
+msgstr "ドライバーをインストール中…"
+
+msgid "Driver needs attention"
+msgstr "ドライバーの確認が必要です"
+
+msgid "Installation package unavailable"
+msgstr "インストールパッケージがありません"
+
+msgid "Installing…"
+msgstr "インストール中…"
+
+msgid "The signed installation package is unavailable. Reinstall or update AirDesk to add it."
+msgstr "署名済みインストールパッケージがありません。AirDeskを再インストールまたは更新してください。"
+
+msgid "Included with AirDesk setup. Run the AirDesk installer again to repair this driver."
+msgstr "AirDeskのセットアップに含まれています。修復するにはAirDeskのインストーラーを再実行してください。"
+
+msgid "Virtual display driver"
+msgstr "仮想ディスプレイドライバー"
+
+msgid "Included"
+msgstr "標準搭載"
+
+msgid "Installed with AirDesk for virtual displays."
+msgstr "仮想ディスプレイ用にAirDeskと一緒にインストールされます。"
+
+msgid "Virtual tablet driver"
+msgstr "仮想タブレットドライバー"
+
+msgid "Install on this host to receive pressure-sensitive pen input from Pro clients."
+msgstr "Proクライアントから筆圧入力を受信するには、このホストにインストールしてください。"
+
+msgid "Remote printer driver"
+msgstr "リモートプリンタードライバー"
+
+msgid "Install on this PC to send print jobs to a remote host's printer. Requires Pro on this PC."
+msgstr "リモートホストのプリンターに印刷するには、このPCにインストールしてください。このPCでProが必要です。"
+
+msgid "Install ViGEmBus here to receive remote controller input. Available on every plan."
+msgstr "リモートコントローラー入力を受信するにはViGEmBusをインストールしてください。すべてのプランで利用できます。"
+
+msgid "Driver installation completed."
+msgstr "ドライバーのインストールが完了しました。"
+
+msgid "Driver installed. Restart Windows to finish setup."
+msgstr "ドライバーをインストールしました。Windowsを再起動してください。"
+
+msgid "Driver installation was cancelled."
+msgstr "ドライバーのインストールをキャンセルしました。"
+
+msgid "The signed driver package is unavailable."
+msgstr "署名済みドライバーパッケージがありません。"
+
+msgid "Could not install the driver. Check the driver status and try again."
+msgstr "ドライバーをインストールできませんでした。状態を確認して再試行してください。"
+
+msgid "Driver installed. Restart AirDesk sharing to apply it."
+msgstr "ドライバーをインストールしました。適用するにはAirDeskの共有を再起動してください。"
+
+msgid "TEAM WORKSPACE"
+msgstr "チームワークスペース"
+
+msgid "Team Computers"
+msgstr "チームのコンピューター"
+
+msgid "Refreshing team workspace..."
+msgstr "チームワークスペースを更新中..."
+
+msgid "Team workspace unavailable"
+msgstr "チームワークスペースを読み込めません"
+
+msgid "Check your connection, then refresh. Your other computers remain available."
+msgstr "接続を確認して更新してください。他のコンピューターは引き続き利用できます。"
+
+msgid "No teams yet"
+msgstr "所属しているチームはありません"
+
+msgid "Join a team to see the computers shared by your organization."
+msgstr "チームに参加すると組織で共有されたコンピューターが表示されます。"
+
+msgid "Team access unavailable"
+msgstr "チームの利用権限を確認してください"
+
+msgid "Manage company branding"
+msgstr "会社名・ロゴの管理"
+
+msgid "Select team"
+msgstr "チームを選択"
+
+msgid "Computers you can access through your team"
+msgstr "チームからアクセス権限を付与されたコンピューター"
+
+msgid "No team computers available"
+msgstr "利用可能なチームのコンピューターはありません"
+
+msgid "Ask your team administrator to grant computer access, then refresh."
+msgstr "チーム管理者にコンピューターのアクセス権限を依頼して更新してください。"
+
+msgid "Team"
+msgstr "チーム"
+
+msgid "Teams / Friends"
+msgstr "チーム / フレンド"
+
+msgid "Open web team manager"
+msgstr "ウェブでチームを管理"
+
+msgid "Loading teams…"
+msgstr "チーム情報を読み込み中…"
+
+msgid "Could not load your teams."
+msgstr "所属チームを読み込めませんでした。"
+
+msgid "You haven’t joined a team yet."
+msgstr "所属しているチームはまだありません。"
+
+msgid "Team invitations"
+msgstr "チームへの招待"
+
+msgid "Could not load team invitations."
+msgstr "チームへの招待を読み込めませんでした。"
+
+msgid "Decline"
+msgstr "辞退"
+
+msgid "Team invitation accepted"
+msgstr "チームへの招待を承諾しました"
+
+msgid "Team invitation declined"
+msgstr "チームへの招待を辞退しました"
+
+msgid "Could not respond to the team invitation."
+msgstr "チームへの招待に応答できませんでした。"
+
+msgid "Could not open the team page."
+msgstr "チームページを開けませんでした。"
+
+msgid "Check the host's access, tier and approval settings with its owner."
+msgstr "ホスト所有者と接続権限・階層・承認設定を確認してください。"
+
+msgid "Keyboard shortcuts"
+msgstr "キーボードショートカット"
+
+msgid "Remote window and host controls"
+msgstr "リモートウィンドウとホストの操作"
+
+msgid "Make AirDesk work your way."
+msgstr "AirDeskを自分に合わせて設定しましょう。"
+
+msgid "Restore defaults"
+msgstr "既定値に戻す"
+
+msgid "Remote window"
+msgstr "リモートウィンドウ"
+
+msgid "This PC as host"
+msgstr "このPCをホストとして使用"
+
+msgid "These shortcuts work on this PC while AirDesk is running, even outside the app."
+msgstr "AirDeskの実行中は、ほかのアプリを使っているときでも、このPCで動作するショートカットです。"
+
+msgid "These shortcuts work in the active remote window. Select a shortcut to change it."
+msgstr "アクティブなリモートウィンドウで動作します。ショートカットを選択して変更できます。"
+
+msgid "Press a shortcut…"
+msgstr "ショートカットを押してください…"
+
+msgid "Not assigned"
+msgstr "未設定"
+
+msgid "Unassign"
+msgstr "割り当て解除"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Press Esc to cancel. Changes apply after you select Apply."
+msgstr "Escでキャンセルできます。「適用」を選ぶと保存されます。"
+
+msgid "Absolute / relative mouse"
+msgstr "絶対 / 相対マウス"
+
+msgid "Disconnect remote session"
+msgstr "リモート接続を切断"
+
+msgid "Send clipboard files"
+msgstr "クリップボードのファイルを送信"
+
+msgid "Switch to display D1"
+msgstr "ディスプレイD1に切り替え"
+
+msgid "Switch to display D2"
+msgstr "ディスプレイD2に切り替え"
+
+msgid "Switch to display D3"
+msgstr "ディスプレイD3に切り替え"
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr "Ctrl+Alt+Deleteを送信"
+
+msgid "Send Alt+Tab"
+msgstr "Alt+Tabを送信"
+
+msgid "Toggle fullscreen"
+msgstr "全画面表示を切り替え"
+
+msgid "Block / allow remote input"
+msgstr "リモート入力をブロック / 許可"
+
+msgid "End all incoming sessions"
+msgstr "このPCへの全接続を切断"
+
+msgid "Switch between pointer and relative movement"
+msgstr "ポインター位置と相対移動を切り替えます"
+
+msgid "Disconnect only the current tab or window"
+msgstr "現在のタブまたはウィンドウだけを切断します"
+
+msgid "Send copied files to the connected host"
+msgstr "コピーしたファイルを接続先のホストに送信します"
+
+msgid "Use the display numbers shown in the overlay toolbar"
+msgstr "オーバーレイツールバーに表示されるディスプレイ番号を使用します"
+
+msgid "Send the secure attention command to the Windows host"
+msgstr "WindowsホストにCtrl+Alt+Deleteを送信します"
+
+msgid "Switch apps on the remote computer"
+msgstr "リモートコンピューター上のアプリを切り替えます"
+
+msgid "Switch between windowed and fullscreen mode"
+msgstr "ウィンドウ表示と全画面表示を切り替えます"
+
+msgid "Pause or resume remote mouse and keyboard input"
+msgstr "リモートユーザーのマウスとキーボード入力を停止・再開します"
+
+msgid "Disconnect everyone connected to this PC"
+msgstr "このPCに接続している全ユーザーのセッションを切断します"
+
+msgid "Ctrl = ⌃ Control · Alt = ⌥ Option · Meta = ⌘ Command. Some shortcuts are reserved by macOS."
+msgstr "Ctrl = ⌃ Control · Alt = ⌥ Option · Meta = ⌘ Command。macOSが使用するショートカットは設定できません。"
+
+msgid "Use Ctrl, Alt or the Windows key with another key. Duplicate shortcuts cannot be saved."
+msgstr "Ctrl・Alt・Windowsキーと組み合わせてください。重複したショートカットは保存できません。"
+
+msgid "Remote mouse and keyboard input is blocked."
+msgstr "リモートのマウスとキーボード入力をブロックしています。"
+
+msgid "Allow remote input"
+msgstr "リモート入力を許可"
+
+msgid "Desktop terminal is not available yet. Use the MCP terminal tools."
+msgstr "デスクトップのターミナル画面はまだ利用できません。MCPターミナルツールをご利用ください。"
+
+msgid "Remote access"
+msgstr "リモートアクセス"
+
+msgid "MCP mode"
+msgstr "MCPモード"
+
+msgid "AI and remote command terms"
+msgstr "AI・リモートコマンド実行規約"
+
+msgid "Additional terms · Version {}"
+msgstr "追加規約 · バージョン {}"
+
+msgid "MCP lets connected AI apps control remote PCs using the AirDesk account signed in on this PC. Existing access approvals and permissions still apply."
+msgstr "MCPを有効にすると、接続したAIアプリがこのPCのAirDeskアカウントでリモートPCを操作できます。既存の接続承認とアクセス権限は引き続き適用されます。"
+
+msgid "Remote terminal lets approved clients open an interactive shell on this host. Commands can run without additional confirmation for each session."
+msgstr "リモートターミナルを有効にすると、承認済みの利用者がこのPCのシェルでコマンドを実行できます。セッションごとの追加確認なしに実行される場合があります。"
+
+msgid "Access and changes"
+msgstr "アクセス範囲と変更操作"
+
+msgid "Within the permissions you grant, actions can read, change or delete files, run programs, change settings and use services already accessible to that computer. Only authorize computers and data you are allowed to use."
+msgstr "許可した権限の範囲で、ファイルの読み取り・変更・削除、プログラムの実行、設定の変更、そのPCで利用できるサービスへのアクセスが行われる場合があります。正当な利用権限のあるPCとデータのみを許可してください。"
+
+msgid "AI errors and your data"
+msgstr "AIの誤りとデータの取り扱い"
+
+msgid "AI suggestions and actions can be incorrect. Review important commands, keep backups and avoid exposing passwords or sensitive data. Information received by a connected AI app is subject to that app's terms and privacy policy."
+msgstr "AIの提案や操作には誤りが含まれる場合があります。重要なコマンドを確認し、バックアップを取り、パスワードや機密情報の漏えいにご注意ください。接続したAIアプリが受け取る情報には、そのアプリの規約とプライバシーポリシーが適用されます。"
+
+msgid "Your choice"
+msgstr "同意と機能の無効化"
+
+msgid "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed. These terms do not limit rights or liability that applicable law does not allow to be limited."
+msgstr "同意しなくても通常のリモート機能は利用できます。このPCの共有設定で各機能をいつでも無効にできますが、実行済みの操作は取り消されません。法令上制限できない権利や責任は、本規約によって制限されません。"
+
+msgid "Read the full terms"
+msgstr "規約全文を読む"
+
+msgid "I agree to these additional terms."
+msgstr "この追加規約に同意します。"
+
+msgid "Saving agreement…"
+msgstr "同意を保存中…"
+
+msgid "Agree and enable"
+msgstr "同意して有効にする"
+
+msgid "Could not save your agreement. The feature is still off. Sign in again or retry."
+msgstr "同意を保存できなかったため、機能は無効のままです。再ログインするか、もう一度お試しください。"
+
+msgid "Allow this user to view and control this computer? Hardware encoding is checked when you allow access. Unsupported hardware uses low-resource mode at 20 FPS."
+msgstr "この利用者にこのコンピューターの表示と操作を許可しますか？許可するとハードウェアエンコードへの対応を確認し、未対応の場合は20 FPSの低リソースモードで接続します。"
+
+msgid "Responsibility for AI and terminal use"
+msgstr "AI・ターミナル利用に伴う責任"
+
+msgid "Users are responsible for AI actions and terminal commands they instruct or authorize and their results. To the extent permitted by law, AirDesk is not liable for data loss, disclosure, service interruption or other losses caused by those actions, commands or third-party AI errors where AirDesk is not at fault. Liability for intentional misconduct, gross negligence and other non-excludable liability remains."
+msgstr "利用者が指示または許可したAIの操作、ターミナルコマンドの実行とその結果については、利用者が責任を負います。AirDeskに帰責事由がなく、それらの操作・コマンドや第三者AIの誤りにより発生したデータ損失、情報漏えい、サービス停止などの損害について、AirDeskは法令で認められる範囲で責任を負いません。ただし、故意・重過失その他法令上免除できない責任は除きます。"
+
+msgid "You can decline and keep using ordinary remote access. Turn each feature off in this PC's sharing settings at any time. Turning it off does not undo actions already executed."
+msgstr "同意しなくても通常のリモート機能は利用できます。このPCの共有設定で各機能をいつでも無効にできますが、実行済みの操作は取り消されません。"
+
+msgid "Remote terminal security warning"
+msgstr "リモートターミナルのセキュリティ警告"
+
+msgid "Approved remote clients can run commands on this PC with the host's available permissions."
+msgstr "承認された接続者は、ホストに許可された権限でこのPCのコマンドを実行できます。"
+
+msgid "Commands can read, change or delete files, run programs and access data available to the host. They may run without another confirmation."
+msgstr "コマンドによりファイルの読み取り・変更・削除、プログラムの実行、ホストで利用可能なデータへのアクセスが行われます。コマンドごとの追加確認なしに実行される場合があります。"
+
+msgid "Enable terminal access only for people you trust. Check the target PC, back up important data and avoid exposing passwords or keys in terminal output."
+msgstr "信頼できる利用者にのみターミナルへのアクセスを許可してください。対象PCを確認し、重要なデータをバックアップして、出力にパスワードやキーが含まれないようご注意ください。"
+
+msgid "Turning terminal access off does not undo commands already delivered or guarantee that programs already started will stop. Close unneeded sessions."
+msgstr "ターミナルを無効にしても、送信済みのコマンドは取り消されず、起動済みのプログラムが必ず停止するとは限りません。不要なセッションは閉じてください。"
+
+msgid "Review the risks and the additional terms before enabling remote terminal. The feature stays off until you agree and the agreement is saved."
+msgstr "リモートターミナルを有効にする前に、リスクと追加規約を確認してください。同意が保存されるまでは、機能は無効のままです。"
+
+msgid "Review terms"
+msgstr "規約を確認"
+
+msgid "End terminal session"
+msgstr "ターミナルセッションを終了"
+
+msgid "Copy visible output"
+msgstr "表示中の出力をコピー"
+
+msgid "Copy selection"
+msgstr "選択範囲をコピー"
+
+msgid "Output paused while text is selected"
+msgstr "テキスト選択中は画面を一時停止します"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "Desktop terminal is temporarily unavailable in this build"
+msgstr "このビルドではデスクトップターミナルを一時的に利用できません。"
+
+msgid "Remote terminal is not available for this computer"
+msgstr "このコンピューターではリモートターミナルを利用できません。"
+
+msgid "Selected computer is no longer available"
+msgstr "選択したコンピューターは利用できなくなりました。"
+
+msgid "Could not refresh the selected computer"
+msgstr "選択したコンピューターの情報を更新できませんでした。"
+
+msgid "Could not connect to the selected computer"
+msgstr "選択したコンピューターに接続できませんでした。"
+
+msgid "Remote terminal connection was not authorized"
+msgstr "リモートターミナル接続が承認されませんでした。"
+
+msgid "Could not open remote terminal window"
+msgstr "リモートターミナルウィンドウを開けませんでした。"
+
+msgid "Desktop terminal is not available in this build"
+msgstr "このビルドではデスクトップターミナルを利用できません。"
+
+msgid "Login is required before opening terminal"
+msgstr "ターミナルを開くにはログインが必要です。"
+
+msgid "connect to a remote computer before opening terminal"
+msgstr "ターミナルを開く前にリモートコンピューターへ接続してください。"
+
+msgid "remote terminal is not supported by this host"
+msgstr "このホストはリモートターミナルに対応していません。"
+
+msgid "Remote terminal window is already open"
+msgstr "リモートターミナルウィンドウは既に開いています。"
+
+msgid "Debug mode"
+msgstr "デバッグモード"
+
+msgid "File explorer"
+msgstr "ファイルエクスプローラー"
+
+msgid "Opening remote file explorer..."
+msgstr "リモートファイルエクスプローラーを開いています..."
+
+msgid "Could not open remote file explorer"
+msgstr "リモートファイルエクスプローラーを開けませんでした。"
+
+msgid "Parent folder"
+msgstr "親フォルダー"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "More actions"
+msgstr "その他の操作"
+
+msgid "Open folder"
+msgstr "フォルダーを開く"
+
+msgid "Receive"
+msgstr "受信"
+
+msgid "Send"
+msgstr "送信"
+
+msgid "Loading…"
+msgstr "読み込み中…"
+
+msgid "This location is empty"
+msgstr "この場所には項目がありません"
+
+msgid "Next page"
+msgstr "次のページ"
+
+msgid "Send selected"
+msgstr "選択項目を送信"
+
+msgid "Receive selected"
+msgstr "選択項目を受信"
+
+msgid "This computer"
+msgstr "このコンピューター"
+
+msgid "Remote computer"
+msgstr "リモートコンピューター"
+
+msgid "Send copies to the remote folder. Receive copies to this computer. Folders use ZIP without compression."
+msgstr "送信はリモートのフォルダーへ、受信はこのコンピューターへコピーします。フォルダーは無圧縮ZIPで転送します。"
+
+msgid "Check the browser for Cloudflare security status, then try again. If still blocked, contact support."
+msgstr "ブラウザーでCloudflareのセキュリティ状態を確認してから、もう一度お試しください。引き続きブロックされる場合はサポートにお問い合わせください。"
+
+msgid "Open security check in browser"
+msgstr "ブラウザーでセキュリティ状態を確認"
+
+msgid "AirDesk · File transfers"
+msgstr "AirDesk · ファイル転送"
+
+msgid "Quick access"
+msgstr "クイックアクセス"
+
+msgid "Preparing"
+msgstr "準備中"
+
+msgid "Sending"
+msgstr "送信中"
+
+msgid "Receiving"
+msgstr "受信中"
+
+msgid "Verifying"
+msgstr "受信確認中"
+
+msgid "Complete"
+msgstr "完了"
+
+msgid "Sent · unconfirmed"
+msgstr "送信済み · 受信未確認"
+
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+msgid "Disconnected"
+msgstr "接続終了"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "File transfers"
+msgstr "ファイル転送"
+
+msgid "Clipboard selection"
+msgstr "クリップボードの選択"
+
+msgid "Folder"
+msgstr "フォルダー"
+
+msgid "Reading clipboard…"
+msgstr "クリップボードを確認中…"
+
+msgid "Copy files or folders, then refresh."
+msgstr "ファイルやフォルダーをコピーしてから更新してください。"
+
+msgid "First 64 shown; all selected items will be sent."
+msgstr "一覧は64件まで表示され、選択したすべての項目が送信されます。"
+
+msgid "Send folders as ZIP files"
+msgstr "フォルダーをZIPファイルで送信"
+
+msgid "ZIP without compression"
+msgstr "無圧縮ZIPで送信"
+
+msgid "Keep the original folder structure"
+msgstr "元のフォルダー構造で送信"
+
+msgid "Active & recent transfers"
+msgstr "進行中・最近の転送"
+
+msgid "This connection"
+msgstr "現在の接続"
+
+msgid "Clipboard"
+msgstr "クリップボード"
+
+msgid "Original"
+msgstr "元の形式"
+
+msgid "No file transfers in this connection yet."
+msgstr "この接続で転送したファイルはまだありません。"
+
+msgid "Text syncs automatically. Files are sent only when requested."
+msgstr "テキストは自動共有され、ファイルは送信操作でのみ転送されます。"
+
+msgid "This host supports ZIP transfers only"
+msgstr "このホストはZIP転送のみ対応しています"
+
+msgid "Keep the folder structure"
+msgstr "元のフォルダー構造で送信"
+
+msgid "Send copies to the remote folder. Receive copies to this computer."
+msgstr "送信はリモートフォルダーへ、受信はこのコンピューターへコピーします。"
+
+msgid "Choose how to handle matching names when pasting on the receiving computer."
+msgstr "同じ名前の項目の扱いは、受信側で貼り付けるときに選択します。"
+
+msgid "When names match"
+msgstr "同じ名前がある場合"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Overwrite"
+msgstr "上書き"
+
+msgid "This host supports skipping only"
+msgstr "このホストはスキップのみ対応しています"
+
+msgid "Replaces the entire file or folder with the same name"
+msgstr "同じ名前のファイル・フォルダー全体を置き換えます"
+
+msgid "Skips the entire file or folder with the same name"
+msgstr "同じ名前のファイル・フォルダー全体をスキップします"
+
+msgid "Confirming save"
+msgstr "保存確認中"
+
+msgid "Transfer options"
+msgstr "転送オプション"
+
+msgid "Show this computer"
+msgstr "このコンピューターを表示"
+
+msgid "Show remote computer"
+msgstr "リモートコンピューターを表示"
+
+msgid "Storage capacity"
+msgstr "ディスクの空き容量"
+
+msgid "Available space unknown"
+msgstr "空き容量を確認できません"
+
+msgid "Ready"
+msgstr "準備完了"
+
+msgid "Receiver temporary storage"
+msgstr "受信一時保存ディスク"
+
+msgid "Storage information may change during transfer."
+msgstr "転送中に空き容量が変わる場合があります。"
+
+msgid "Export selected"
+msgstr "選択項目を書き出す"
+
+
+msgid "Done"
+msgstr "完了"
+
+msgid "This device"
+msgstr "このデバイス"
+
+msgid "Available space"
+msgstr "空き容量"
+
+
+msgid "Use digits 0–9 only."
+msgstr "半角数字の0〜9のみ入力できます。"
+
+
+msgid "Use English letters, numbers and symbols only."
+msgstr "半角英数字と記号のみ入力できます。"
+
+
+msgid "Software encoding FPS"
+msgstr "ソフトウェアエンコードのFPS"
+
+
+msgid "Software (CPU)"
+msgstr "ソフトウェア（CPU）"
+
+
+msgid "Only limits CPU encoding, including automatic fallback. Hardware encoding and software decoding keep their existing frame rates."
+msgstr "自動フォールバックを含むCPUエンコードのみに適用されます。ハードウェアエンコードとソフトウェアデコードのフレームレートは従来の設定を維持します。"
+
+
+msgid "Applies after restarting hosting."
+msgstr "ホストを再起動すると適用されます。"
+
+msgid "RTL display: on"
+msgstr "右から左へ表示：オン"
+
+msgid "RTL display: off"
+msgstr "右から左へ表示：オフ"
+
+msgid "RTL display: paused"
+msgstr "RTL 配置・文字結合を一時停止"
+
+msgid "Some terminal characters were truncated"
+msgstr "ターミナルの一部の文字が切り詰められました"
+
+msgid "Some right-to-left text could not be reordered"
+msgstr "一部の右から左へのテキストを並べ替えられませんでした"
+
+msgid "Some text could not be shaped"
+msgstr "一部の文字を正しく表示できませんでした"
+
+msgid "Terminal settings"
+msgstr "ターミナル設定"
+
+msgid "Text direction"
+msgstr "文字の表示方向"
+
+msgid "Left to right"
+msgstr "左から右"
+
+msgid "Right to left"
+msgstr "右から左"
+
+msgid "Keep terminal cell order"
+msgstr "ターミナルのセル順を維持（並べ替えなし）"
+
+msgid "Could not save terminal settings"
+msgstr "ターミナル設定を保存できませんでした"
+
+msgid "Text direction is paused while a full-screen app or mouse tracking is active"
+msgstr "全画面アプリまたはマウス追跡の使用中は文字方向の表示を一時停止します"
+
+msgid "Controls text display only; terminal input and copied text keep their original order."
+msgstr "表示方向のみ変更します。ターミナル入力とコピーした文字列の順序は変わりません。"
+
+# Desktop tools accessibility
+
+msgid "Terminal input"
+msgstr "ターミナル入力"
+
+msgid "Visible terminal output"
+msgstr "画面に表示されたターミナル出力"
+
+msgid "Ctrl+Shift+F6 returns to the terminal toolbar. Tab and other keys are sent to the remote terminal."
+msgstr "Ctrl+Shift+F6でターミナルのツールバーに移動します。Tabとその他のキーはリモートターミナルに送信されます。"
+
+msgid "Video codec"
+msgstr "映像コーデック"
+
+msgid "Remote screen"
+msgstr "リモート画面"
+
+# Startup service announcement
+
+msgid "Service announcement"
+msgstr "サービスのお知らせ"
+
+msgid "Dismiss announcement"
+msgstr "お知らせを閉じる"
+
+msgid "Show full announcement"
+msgstr "お知らせの全文を表示"
+
+msgid "Show less"
+msgstr "折りたたむ"
+
+msgid "Don't show again"
+msgstr "今後表示しない"
+
+msgid "Could not save this preference. Try again."
+msgstr "設定を保存できませんでした。もう一度お試しください。"
+
+msgid "Allow this user to view, control and open a terminal on this computer? Hardware encoding is checked when you allow access. Unsupported hardware uses low-resource mode at 20 FPS."
+msgstr "この利用者に、このコンピューターの表示、操作、ターミナルの起動を許可しますか？許可するとハードウェアエンコードへの対応を確認し、未対応の場合は20 FPSの低リソースモードで接続します。"
+
+msgid "USB virtual input"
+msgstr "USB仮想入力"
+
+msgid "Windows host · Team · usbip-win2"
+msgstr "Windowsホスト · Team · usbip-win2"
+
+msgid "Host input is disabled"
+msgstr "ホストの入力が無効です"
+
+msgid "Host sharing is stopped"
+msgstr "ホストの共有が停止しています"
+
+msgid "Preparing virtual input devices"
+msgstr "仮想入力デバイスを準備しています"
+
+msgid "Driver connected"
+msgstr "ドライバーに接続しました"
+
+msgid "Virtual input unavailable"
+msgstr "USB仮想入力を利用できません"
+
+msgid "Verify your Team membership to enable USB virtual input."
+msgstr "Teamのメンバーシップを確認すると、USB仮想入力を利用できます。"
+
+msgid "Remote input is routed to virtual HID devices on this PC."
+msgstr "リモートの入力を、このPCの仮想HIDデバイスへ渡します。"
+
+msgid "Ordinary input remains available when virtual input is unavailable."
+msgstr "仮想入力を利用できない場合は、従来の通常入力を使用します。"
+
+msgid "Compatibility guide"
+msgstr "互換性ガイド"
+
+msgid "Game controller 1"
+msgstr "ゲームコントローラー1"
+
+msgid "Not connected"
+msgstr "未接続"
+
+msgid "Text input and additional controllers use the ordinary input path."
+msgstr "文字入力と追加のコントローラーは、通常の入力経路を使用します。"
+
+msgid "Two-factor authentication is on"
+msgstr "2段階認証はオンです"
+
+msgid "Two-factor authentication is off"
+msgstr "2段階認証はオフです"
+
+msgid "Use Authy or Google Authenticator for website and app logins."
+msgstr "AuthyまたはGoogle Authenticatorで、ウェブサイトとアプリのログインを保護します。"
+
+msgid "Scan this QR code in your authenticator, then enter a 6-digit code within 10 minutes."
+msgstr "認証アプリでこのQRコードをスキャンし、10分以内に6桁のコードを入力してください。"
+
+msgid "Manual setup key (time based)"
+msgstr "手動設定キー（時間ベース）"
+
+msgid "Keep this key private. Configure your authenticator's backup feature."
+msgstr "このキーは他人に教えないでください。認証アプリのバックアップ機能を設定しておくことをおすすめします。"
+
+msgid "Current password"
+msgstr "現在のパスワード"
+
+msgid "Verify and enable"
+msgstr "コードを確認して有効にする"
+
+msgid "Turn off 2FA"
+msgstr "2段階認証を解除"
+
+msgid "Set up authenticator"
+msgstr "認証アプリを登録"
+
+msgid "Connection request"
+msgstr "接続リクエスト"
+
+msgid "A user is requesting access using your AirDesk ID. Allow this remote connection?"
+msgstr "ユーザーがAirDesk番号を使って接続をリクエストしています。このリモート接続を許可しますか？"
+
+msgid "Allow"
+msgstr "許可"
+
+msgid "YUV 4:4:4 (when supported)"
+msgstr "YUV 4:4:4（対応する場合）"
+
+msgid "Requests full chroma detail. Applied only when BOTH the host hardware encoder and the selected client GPU support SDR 8-bit HEVC 4:4:4. Otherwise the connection keeps 4:2:0. The session status shows the applied format."
+msgstr "色情報をより鮮明に伝送します。ホストのハードウェアエンコーダーと、選択したクライアントのGPUの両方がSDR 8ビットのHEVC 4:4:4に対応している場合にのみ適用され、それ以外は4:2:0のままです。適用された形式は、セッションの状態で確認できます。"
+
+msgid "Approve each sensitive feature request only for the current remote session."
+msgstr "ターミナルやプリンターなど機密性の高い機能は、リクエストしたリモート接続に限って許可します。"
+
+msgid "Current request status"
+msgstr "現在のリクエスト状況"
+
+msgid "Allows command execution in a terminal for the requesting session."
+msgstr "リクエストしたリモート接続で、ターミナルのコマンド実行を許可します。"
+
+msgid "Allow request"
+msgstr "リクエストを許可"
+
+msgid "Reject request"
+msgstr "リクエストを拒否"
+
+msgid "Revoke approval"
+msgstr "許可を取り消す"
+
+msgid "Allows the requesting session to send a print job to this computer."
+msgstr "リクエストしたリモート接続から、このコンピューターへ印刷ジョブを送信することを許可します。"
+
+msgid "Allow request: approve the pending session · Reject request: deny it · Revoke approval: remove an existing approval"
+msgstr "リクエストを許可: 待機中のリクエストを承認 · リクエストを拒否: リクエストを拒否 · 許可を取り消す: 既存の許可を取り消し"
+
+msgid "No friends yet"
+msgstr "フレンドはまだいません"
+
+msgid "Virtual audio sink (auto)"
+msgstr "仮想オーディオ出力（自動）"
+
+msgid "AVFoundation audio input"
+msgstr "AVFoundationオーディオ入力"
+
+msgid "Login required"
+msgstr "ログインが必要です"
+
+msgid "Idle"
+msgstr "待機中"
+
+msgid "Client disconnected"
+msgstr "クライアントが切断されました"
+
+msgid "No hosts"
+msgstr "登録されたコンピューターはありません"
+
+msgid "Host input offline"
+msgstr "ホストの入力が切断されています"
+
+msgid "Latency overlay inactive"
+msgstr "遅延表示はオフです"
+
+msgid "Preparing interface..."
+msgstr "画面を準備しています..."
+
+msgid "Starting AirDesk..."
+msgstr "AirDeskを起動しています..."
+
+msgid "Loading settings..."
+msgstr "設定を読み込んでいます..."
+
+msgid "Loading audio devices..."
+msgstr "オーディオデバイスを読み込んでいます..."
+
+msgid "Signing in..."
+msgstr "ログインしています..."
+
+msgid "Connecting by AirDesk ID..."
+msgstr "AirDesk番号で接続しています..."
+
+msgid "Refreshing permissions..."
+msgstr "権限の状態を確認しています..."
+
+msgid "Starting host service..."
+msgstr "ホストサービスを開始しています..."
+
+msgid "Stopping host service..."
+msgstr "ホストサービスを停止しています..."
+
+msgid "Refreshing audio devices..."
+msgstr "オーディオデバイスを更新しています..."
+
+msgid "Refreshing printers..."
+msgstr "プリンター一覧を更新しています..."
+
+msgid "Refreshing capture windows..."
+msgstr "キャプチャするウィンドウの一覧を更新しています..."
+
+msgid "Refreshing feature approvals..."
+msgstr "機能ごとの承認状況を確認しています..."
+
+msgid "Approving terminal session..."
+msgstr "ターミナルのリクエストを許可しています..."
+
+msgid "Rejecting terminal session..."
+msgstr "ターミナルのリクエストを拒否しています..."
+
+msgid "Revoking terminal session..."
+msgstr "ターミナルの許可を取り消しています..."
+
+msgid "Approving printer session..."
+msgstr "プリンターのリクエストを許可しています..."
+
+msgid "Rejecting printer session..."
+msgstr "プリンターのリクエストを拒否しています..."
+
+msgid "Revoking printer session..."
+msgstr "プリンターの許可を取り消しています..."
+
+msgid "Updating start on login..."
+msgstr "自動起動の設定を変更しています..."
+
+msgid "Refreshing friends..."
+msgstr "フレンド一覧を更新しています..."
+
+msgid "Sending friend request..."
+msgstr "フレンド申請を送信しています..."
+
+msgid "Enabling friend sharing..."
+msgstr "フレンドとの共有をオンにしています..."
+
+msgid "Disabling friend sharing..."
+msgstr "フレンドとの共有をオフにしています..."
+
+msgid "Stopping client..."
+msgstr "リモート接続を終了しています..."
+
+msgid "No remote computers"
+msgstr "登録されたリモートコンピューターはありません"
+
+msgid "Host mode ready"
+msgstr "ホストの準備完了"
+
+msgid "Client mode ready"
+msgstr "クライアントの準備完了"
+
+msgid "Waiting"
+msgstr "待機中"
+
+msgid "Enter the 6-digit code from Authy or Google Authenticator."
+msgstr "AuthyまたはGoogle Authenticatorの6桁のコードを入力してください。"
+
+msgid "friend request accepted"
+msgstr "フレンド申請を承認しました。"
+
+msgid "friend request rejected"
+msgstr "フレンド申請を拒否しました。"
+
+msgid "friend deleted"
+msgstr "フレンドを削除しました。"
+
+msgid "friend sharing enabled"
+msgstr "フレンドとの共有をオンにしました。"
+
+msgid "friend sharing disabled"
+msgstr "フレンドとの共有をオフにしました。"
+
+msgid "Host service is not running"
+msgstr "ホストサービスは実行されていません。"
+
+msgid "Start on login is not supported on this platform"
+msgstr "このOSでは自動起動に対応していません。"
+
+msgid "Login is required before adding friends"
+msgstr "フレンドを追加するにはログインしてください。"
+
+msgid "Login is required before accepting friends"
+msgstr "フレンド申請を承認するにはログインしてください。"
+
+msgid "Login is required before rejecting friends"
+msgstr "フレンド申請を拒否するにはログインしてください。"
+
+msgid "Login is required before deleting friends"
+msgstr "フレンドを削除するにはログインしてください。"
+
+msgid "Login is required before changing friend sharing"
+msgstr "フレンドとの共有を変更するにはログインしてください。"
+
+msgid "Login is required before fetching friends"
+msgstr "フレンド一覧を表示するにはログインしてください。"
+
+msgid "Login is required before hosting"
+msgstr "自分のPCを共有するにはログインしてください。"
+
+msgid "Login is required before fetching hosts"
+msgstr "コンピューター一覧を表示するにはログインしてください。"
+
+msgid "Login is required before connecting"
+msgstr "リモートコンピューターに接続するにはログインしてください。"
+
+msgid "selected computer is no longer available"
+msgstr "選択したコンピューターは利用できなくなりました。"
+
+msgid "Screen Recording permission is required before connecting"
+msgstr "接続するには、画面収録の権限を許可してください。"
+
+msgid "client is not connected"
+msgstr "リモートコンピューターに接続されていません。"
+
+msgid "Remote terminal open requested"
+msgstr "リモートターミナルの起動をリクエストしました。"
+
+msgid "Remote printer test job sent"
+msgstr "リモートプリンターへテスト印刷を送信しました。"
+
+msgid "connect to a remote computer before sending a remote printer job"
+msgstr "リモート印刷を送信するには、先にリモートコンピューターへ接続してください。"
+
+msgid "remote printer is not supported by this host"
+msgstr "このホストはリモートプリンターに対応していません。"
+
+msgid "No pending terminal session approvals"
+msgstr "承認待ちのターミナルセッションはありません。"
+
+msgid "No pending printer session approvals"
+msgstr "承認待ちの印刷セッションはありません。"
+
+msgid "No approved terminal sessions"
+msgstr "承認済みのターミナルセッションはありません。"
+
+msgid "No approved printer sessions"
+msgstr "承認済みの印刷セッションはありません。"
+
+msgid "Client {}"
+msgstr "接続ユーザー {}"
+
+msgid "Uses 512 kbps for stereo Opus audio. Surround bitrate follows the selected channel layout."
+msgstr "ステレオのOpus音声には512 kbpsを使用します。サラウンドは、選択したチャンネル構成に合わせたビットレートになります。"
+
+msgid "Enable microphone on both computers. Install VB-CABLE on a Windows host or BlackHole 2ch on a Mac host, then select that virtual microphone in the app receiving your voice."
+msgstr "両方のコンピューターでマイクを有効にしてください。WindowsホストにはVB-CABLE、MacホストにはBlackHole 2chをインストールし、音声を受け取るアプリでその仮想マイクを選択してください。"
+
+msgid "AI agent"
+msgstr "AIエージェント"
+
+msgid "External agent"
+msgstr "外部エージェント"
+
+msgid "Work PC"
+msgstr "仕事用PC"
+
+msgid "Ask rcu to check disk usage in the remote terminal on ‘{}’."
+msgstr "rcuで「{}」のリモートターミナルのディスク使用量を確認してください。"
+
+msgid "Use your existing AI agent"
+msgstr "お使いのAIエージェントで接続"
+
+msgid "Install the connector, then paste the example into the AI agent you already use."
+msgstr "接続ツールをインストールし、お使いのエージェントに下の例を貼り付けてください。"
+
+msgid "Requires Node.js 22 or later, MCP enabled on this PC, and remote terminal permission on the host."
+msgstr "Node.js 22以降が必要です。このPCでMCPを有効にし、接続先でターミナルを許可してください。"
+
+msgid "1. Install the connector"
+msgstr "1. 接続ツールをインストール"
+
+msgid "Copy command"
+msgstr "コマンドをコピー"
+
+msgid "2. Paste this example into your agent"
+msgstr "2. エージェントに例を貼り付け"
+
+msgid "Copy example"
+msgstr "例をコピー"
+
+msgid "Check your plan to use chat"
+msgstr "プランを確認してください"
+
+msgid "Chat is unavailable on Free and Pro plans"
+msgstr "Free・Proプランでは使用できません"
+
+msgid "Built-in chat is coming soon"
+msgstr "アプリ内チャットは準備中です"
+
+msgid "AI agent chat"
+msgstr "AIエージェントチャット"
+
+msgid "Plan unverified"
+msgstr "プラン未確認"
+
+msgid "Run this in a terminal on the computer where your AI agent is running."
+msgstr "AIエージェントを実行しているコンピューターのターミナルで実行してください。"
+
+msgid "Selection"
+msgstr "選択コピー"
+
+msgid "Output"
+msgstr "画面コピー"
+
+
+msgid "Free and Pro: use your AI agent on a desktop."
+msgstr "Free・Proプランではデスクトップでお使いのAIエージェントをご利用ください。"
+
+msgid "On your desktop, prepare Node.js 22 or later and AirDesk MCP; allow terminal access on the remote PC."
+msgstr "デスクトップにNode.js 22以降とAirDesk MCPを準備し、リモートPCでターミナルを許可してください。"
+
+#: ui/components/platform_settings.slint
+msgid "Full Range (SDR 8-bit)"
+msgstr "フルレンジ（SDR 8ビット）"
+
+#: ui/components/platform_settings.slint
+msgid "Uses full-range video with NVIDIA NVENC. 10-bit SDR and HDR keep limited range."
+msgstr "NVIDIA NVENCでフルレンジ映像を使用します。10ビットSDRとHDRはリミテッドレンジを維持します。"
+
+msgid "Software updates"
+msgstr "ソフトウェアアップデート"
+
+msgid "Check for a newer version of AirDesk."
+msgstr "AirDeskの新しいバージョンを確認します。"
+
+msgid "Check for updates"
+msgstr "アップデートを確認"
+
+msgid "Checking for updates…"
+msgstr "アップデートを確認中…"
+
+msgid "No updates are currently available."
+msgstr "現在利用可能なアップデートはありません。"
+
+
+msgid "Could not check for updates. Please try again."
+msgstr "アップデートを確認できませんでした。もう一度お試しください。"
+
+msgid "Update checks are unavailable on this system."
+msgstr "このシステムではアップデートを確認できません。"
+
+
+
+
+
+msgid "Forward"
+msgstr "進む"
+
+msgid "Filter by name"
+msgstr "名前でフィルター"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Clear filter"
+msgstr "フィルターをクリア"
+
+msgid "Previous page"
+msgstr "前のページ"
+
+msgid "Page"
+msgstr "ページ"
+
+msgid "Transfer speed limit"
+msgstr "転送速度の上限"
+
+msgid "Video has priority. The selected speed is a maximum, not a guarantee."
+msgstr "映像を優先します。選択した速度は保証速度ではなく上限です。"
+
+msgid "Update AirDesk on both devices to verify file transfers."
+msgstr "ファイル転送を検証するには、両方の端末のAirDeskを更新してください。"
+
+msgid "File verification failed. The destination was not replaced; try again."
+msgstr "ファイルの検証に失敗しました。保存先は置き換えられていません。もう一度お試しください。"
+
+msgid "The source changed during transfer. Send it again."
+msgstr "転送中に元のファイルが変更されました。再送してください。"
+
+msgid "Could not read the file for verification. Check access and try again."
+msgstr "検証するファイルを読み取れませんでした。アクセス権を確認して、もう一度お試しください。"
+
+msgid "Could not save transfer speed"
+msgstr "転送速度を保存できませんでした"
+
+msgid "No matching items"
+msgstr "一致する項目がありません"
+
+msgid "Remote workspace"
+msgstr "リモートワークスペース"
+
+msgid "Please wait while AirDesk checks for updates."
+msgstr "AirDeskがアップデートを確認しています。しばらくお待ちください。"
+
+msgid "You can keep using your current version."
+msgstr "現在のバージョンを引き続き使用できます。"
+
+msgid "Check your connection and try again later."
+msgstr "接続を確認して、後でもう一度お試しください。"
+
+msgid "Updates are not available for this system or installation."
+msgstr "このシステムまたはインストール環境ではアップデートを利用できません。"
+
+msgid "Remote settings"
+msgstr "リモート設定"
+
+msgid "Saved only on this device. Applies the next time you connect."
+msgstr "この端末にのみ保存され、次回の接続から適用されます。"
+
+msgid "Original display resolution"
+msgstr "元のディスプレイ解像度"
+
+msgid "Current: {} × {}"
+msgstr "現在: {} × {}"
+
+msgid "Current: {} FPS"
+msgstr "現在: {} FPS"
+
+msgid "Without a physical display, the default is 1920 × 1080."
+msgstr "物理ディスプレイがない場合の既定値は 1920 × 1080 です。"
+
+msgid "AI remote computer use"
+msgstr "AIによるリモートコンピューター操作"
+
+msgid "Enable AI remote computer use"
+msgstr "AIによるリモートコンピューター操作を有効にする"
+
+msgid "Use remote terminal and AI remote computer use at no extra cost."
+msgstr "リモートターミナルとAIによるリモートコンピューター操作を追加料金なしで利用できます。"
+
+msgid "Allow AI apps to use AirDesk for remote computer control. Existing access approvals and input permissions still apply."
+msgstr "AIアプリによるAirDeskのリモート操作を許可します。既存のアクセス承認と入力権限は引き続き適用されます。"
+
+msgid "Power and remote boot"
+msgstr "電源とリモート起動"
+
+msgid "Prevent computer sleep"
+msgstr "コンピューターのスリープを防止"
+
+msgid "Keep this computer awake while AirDesk is running so it stays reachable."
+msgstr "AirDesk の実行中はスリープさせず、常に接続できる状態を保ちます。"
+
+msgid "Allow remote boot (Wake-on-LAN)"
+msgstr "リモート起動を許可 (WOL)"
+
+msgid "Lets you wake this computer from device management when it is shut down."
+msgstr "シャットダウン中のこのコンピューターをデバイス管理から起動できます。"
+
+msgid "Network wake after shutdown"
+msgstr "シャットダウン後のネットワーク起動"
+
+msgid "Magic packet wake"
+msgstr "マジックパケットで起動"
+
+msgid "Device allowed to wake the computer"
+msgstr "デバイスによるコンピューターの起動を許可"
+
+msgid "Allow all with one click"
+msgstr "ワンクリックですべて許可"
+
+msgid "Make sure Wake-on-LAN is enabled in this computer's firmware and network settings."
+msgstr "このコンピューターのファームウェアとネットワーク設定で Wake-on-LAN が有効か確認してください。"
+
+msgid "Add device"
+msgstr "デバイスを追加"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Open the download page on the PC you want to add, then sign in with this account."
+msgstr "追加する PC でダウンロードページを開き、このアカウントでサインインしてください。"
+
+msgid "Before you connect"
+msgstr "接続前の確認"
+
+msgid "On the Mac you want to add, turn on Host mode in Share My PC. The Mac will appear in the computer list on your other devices."
+msgstr "追加する Mac の「自分のPCを共有」でホストモードをオンにしてください。ほかのデバイスのコンピューター一覧にその Mac が表示されます。"
+
+msgid "The device you are using is not shown in this list. Check the list from another device."
+msgstr "現在使用中のデバイスはこの一覧に表示されません。別のデバイスから一覧を確認してください。"
+
+msgid "Copy download link"
+msgstr "ダウンロードリンクをコピー"
+
+msgid "Download link copied"
+msgstr "ダウンロードリンクをコピーしました"
+
+msgid "Email install link to my account"
+msgstr "アカウントのメールにインストールリンクを送る"
+
+msgid "Mobile"
+msgstr "モバイル"
+
+msgid "Mobile app coming soon. A download QR code will appear here after release."
+msgstr "モバイルアプリは準備中です。公開後、ダウンロード用QRコードがここに表示されます。"
+
+msgid "New file"
+msgstr "新しいファイル"
+
+msgid "New folder"
+msgstr "新しいフォルダー"
+
+msgid "Rename"
+msgstr "名前を変更"
+
+msgid "selected"
+msgstr "件選択"
+
+msgid "New file name"
+msgstr "新しいファイル名"
+
+msgid "New folder name"
+msgstr "新しいフォルダー名"
+
+msgid "New name"
+msgstr "新しい名前"
+
+msgid "New item name"
+msgstr "新しい項目名"
+
+msgid "Send all"
+msgstr "すべて送信"
+
+msgid "Receive all"
+msgstr "すべて受信"
+
+msgid "Send all items in this folder"
+msgstr "このフォルダーのすべての項目を送信"
+
+msgid "Receive all items in this folder"
+msgstr "このフォルダーのすべての項目を受信"
+
+msgid "About / Updates"
+msgstr "情報 / アップデート確認"
+
+msgid "Controller settings"
+msgstr "コントローラー設定"
+
+msgid "On-screen controller layout and vibration"
+msgstr "画面コントローラーの配置と振動"
+
+msgid "Keyboard settings"
+msgstr "キーボード設定"
+
+msgid "Keyboard options and PC keyboard languages"
+msgstr "キーボードのオプションとPCキーボードの言語"
+
+msgid "Native resolution"
+msgstr "ネイティブ解像度"
+
+msgid "Allow HDR"
+msgstr "HDRを許可"
+
+msgid "Streams HDR10 when the shared display has HDR on and the viewer's display supports HDR. Also lets this computer show HDR from other computers."
+msgstr "共有中のディスプレイでHDRがオンで、接続側のディスプレイがHDRに対応している場合はHDR10でストリーミングします。このコンピューターで他のコンピューターのHDR画面を表示する場合にも使います。"
+
+msgid "AI access from the server"
+msgstr "AI がサーバー経由でアクセス"
+
+msgid "Enable AI access from the server"
+msgstr "AI のサーバー経由アクセスを有効にする"
+
+msgid "Lets AI apps connected to AirDesk online reach this PC through the AirDesk server. Turning it on starts the MCP bridge on this PC. Requires AI remote computer use."
+msgstr "AirDesk オンラインに接続した AI アプリが、AirDesk サーバー経由でこの PC にアクセスできます。オンにするとこの PC で MCP ブリッジが起動します。AI リモートコンピューター操作をオンにする必要があります。"
+
+msgid "This version is no longer supported. Install the new version from the app store to keep connecting."
+msgstr "このバージョンはサポートが終了しました。引き続き接続するには、アプリストアから新しいバージョンをインストールしてください。"
+
+msgid "Install the new version from the app store."
+msgstr "アプリストアから新しいバージョンをインストールしてください。"
+
+#. Mobile native views (Android Java / iOS Objective-C), moved from inline strings.
+msgid "Device speaker"
+msgstr ""
+
+msgid "Earpiece"
+msgstr ""
+
+msgid "Available during playback"
+msgstr ""
+
+msgid "System default"
+msgstr ""
+
+msgid "Could not save the output. Refresh and select it again."
+msgstr ""
+
+msgid "Refresh devices"
+msgstr ""
+
+msgid "Selected output"
+msgstr ""
+
+msgid "Android chooses the output device."
+msgstr ""
+
+msgid "Available output"
+msgstr ""
+
+msgid "Selected device is unavailable; using system default."
+msgstr ""
+
+msgid "Android rejected the selection; using system default."
+msgstr ""
+
+msgid "Current output: "
+msgstr ""
+
+msgid "Selections apply during playback."
+msgstr ""
+
+msgid "Importing files…"
+msgstr ""
+
+msgid "The file list changed. Select the item again."
+msgstr ""
+
+msgid "Import files"
+msgstr ""
+
+msgid "Choose files"
+msgstr ""
+
+msgid "Choose folder"
+msgstr ""
+
+msgid "File picker access was denied. Check your device's security policy."
+msgstr ""
+
+msgid "No file picker is available. Check your device's Files app."
+msgstr ""
+
+msgid "Files exported."
+msgstr ""
+
+msgid "Export failed. Check the destination and available space."
+msgstr ""
+
+msgid "Import failed. Check file access and available space."
+msgstr ""
+
+msgctxt "AndroidFileTransferNotifications"
+msgid "File transfers"
+msgstr "ファイル転送"
+
+msgid "Sending files"
+msgstr "ファイルを送信中"
+
+msgid "Receiving files"
+msgstr "ファイルを受信中"
+
+msgid "File transfer complete"
+msgstr "ファイル転送完了"
+
+msgid "File transfer cancelled"
+msgstr "ファイル転送をキャンセルしました"
+
+msgid "Existing file skipped"
+msgstr "既存ファイルをスキップしました"
+
+msgid "File transfer failed"
+msgstr "ファイル転送に失敗しました"
+
+msgid "Remote PC: Downloads/AirDesk"
+msgstr "相手PC: Downloads/AirDesk"
+
+msgid "Gesture help"
+msgstr ""
+
+msgid "Close gesture help"
+msgstr ""
+
+msgid "Don't show again on this device"
+msgstr "このデバイスでは今後表示しない"
+
+msgid "Trackpad mode"
+msgstr ""
+
+msgid "Absolute mouse · swapped buttons"
+msgstr ""
+
+msgid "Absolute mouse mode"
+msgstr ""
+
+msgid "Touch mouse disabled"
+msgstr ""
+
+msgid "Native touch mode"
+msgstr ""
+
+msgid "Heat and battery"
+msgstr ""
+
+msgid "Lowering the frame rate (FPS) can reduce heat and battery consumption."
+msgstr "フレームレート (FPS) を下げると発熱とバッテリー消費を抑えられます。"
+
+msgid "Current input mode"
+msgstr ""
+
+msgid "Select Trackpad or Absolute mouse in the toolbar to use mouse gestures."
+msgstr ""
+
+msgid "Three-finger tap"
+msgstr ""
+
+msgid "Open the session menu"
+msgstr ""
+
+msgid "Four-finger tap"
+msgstr ""
+
+msgid "Open the virtual keyboard"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "One-finger tap"
+msgstr ""
+
+msgid "Stationary long press"
+msgstr ""
+
+msgid "One-finger movement"
+msgstr ""
+
+msgid "Move the remote pointer"
+msgstr ""
+
+msgid "Double tap, then move while holding"
+msgstr ""
+
+msgid "Left-button drag"
+msgstr ""
+
+msgid "Two-finger tap"
+msgstr ""
+
+msgid "Two-finger movement"
+msgstr ""
+
+msgid "Remote scroll"
+msgstr ""
+
+msgid "Three-finger vertical movement"
+msgstr ""
+
+msgid "Scroll the remote mouse wheel"
+msgstr ""
+
+msgid "Show on-screen controller"
+msgstr ""
+
+msgid "Controller type"
+msgstr ""
+
+msgid "Gamepad|WASD"
+msgstr ""
+
+msgid "WASD, Q/E/F/R, 1-3, mouse L/R"
+msgstr ""
+
+msgid "Each button can be deleted, moved, and resized individually."
+msgstr ""
+
+msgid "Edit WASD buttons"
+msgstr ""
+
+msgid "Delete, move, or resize each button"
+msgstr ""
+
+msgid "Button layout"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Touch vibration"
+msgstr ""
+
+msgid "Game vibration"
+msgstr ""
+
+msgid "Hide with physical gamepad"
+msgstr ""
+
+msgid "Shown again when disconnected."
+msgstr ""
+
+msgid "More settings"
+msgstr ""
+
+msgid "Guide · shape · share"
+msgstr ""
+
+msgid "Copy input settings"
+msgstr ""
+
+msgid "Copy layout, size, and display settings as text"
+msgstr ""
+
+msgid "Share input settings"
+msgstr ""
+
+msgid "Import from clipboard"
+msgstr ""
+
+msgid "Apply copied settings text"
+msgstr ""
+
+msgctxt "AndroidInputSettingsPages"
+msgid "Back"
+msgstr "戻る"
+
+msgid "WASD button layout"
+msgstr ""
+
+msgid "Balanced placement"
+msgstr ""
+
+msgid "Near the bottom"
+msgstr ""
+
+msgid "Near the top"
+msgstr ""
+
+msgid "Only stick click buttons"
+msgstr ""
+
+msgid "Edit button layout"
+msgstr ""
+
+msgid "Move and resize controls"
+msgstr ""
+
+msgid "Show guide button"
+msgstr ""
+
+msgid "Gamepad home button"
+msgstr ""
+
+msgid "Outline style"
+msgstr ""
+
+msgid "Keep the screen visible through buttons."
+msgstr ""
+
+msgid "Button shape"
+msgstr ""
+
+msgid "Round|Square"
+msgstr ""
+
+msgid "Saved presets"
+msgstr ""
+
+msgid "Copy controller and keyboard settings as text"
+msgstr ""
+
+msgid "Reset defaults"
+msgstr ""
+
+msgid "Layout · opacity · display"
+msgstr ""
+
+msgid "Save current…"
+msgstr ""
+
+msgid "Preset slots are full"
+msgstr ""
+
+msgid "Enter a name and save"
+msgstr ""
+
+msgid "Load · manage"
+msgstr ""
+
+msgid "No saved presets yet"
+msgstr ""
+
+msgid "Preset not found"
+msgstr ""
+
+msgid "Controller settings saved under this name"
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Apply to current controller settings"
+msgstr ""
+
+msgid "Overwrite with current"
+msgstr ""
+
+msgid "Rename…"
+msgstr ""
+
+msgid "Restore layout and display settings to their defaults."
+msgstr ""
+
+msgid "Reset controller settings?"
+msgstr ""
+
+msgid "PC keyboard languages"
+msgstr ""
+
+msgid "Reset opacity"
+msgstr ""
+
+msgid "Keyboard toolbar opacity"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "L3/R3 only"
+msgstr ""
+
+msgid "Input settings imported"
+msgstr ""
+
+msgid "Preset name"
+msgstr ""
+
+msgid "Preset saved"
+msgstr ""
+
+msgid "Preset loaded"
+msgstr ""
+
+msgid "Preset overwritten"
+msgstr ""
+
+msgid "Preset renamed"
+msgstr ""
+
+msgid "Preset deleted"
+msgstr ""
+
+msgid "Enter a name"
+msgstr ""
+
+msgid "Could not apply preset"
+msgstr ""
+
+msgid "Use Show, Move, or Size on each button. Close saves."
+msgstr ""
+
+msgid "Show keyboard toolbar"
+msgstr ""
+
+msgid "Special keys and per-key buttons are edited from Quick settings during a connection."
+msgstr ""
+
+msgid "Check your connection and any active transfer."
+msgstr ""
+
+msgid "Could not open the file picker."
+msgstr ""
+
+msgid "Connection changed. Select files again."
+msgstr ""
+
+msgid "Select between 1 and 10 files."
+msgstr ""
+
+msgid "Check the connection and file, then select again."
+msgstr ""
+
+msgid "Send files"
+msgstr ""
+
+msgctxt "AndroidOutgoingFiles"
+msgid "Choose files"
+msgstr ""
+
+msgid "Up to 10 files at a time"
+msgstr ""
+
+msgid "Preparing files"
+msgstr ""
+
+msgid " copied"
+msgstr ""
+
+msgid "Review selected files"
+msgstr "選択項目の確認"
+
+msgid " · staged on disk"
+msgstr " · 一時ディスクに準備済み"
+
+msgctxt "AndroidOutgoingFiles"
+msgid "Sending"
+msgstr "送信中"
+
+msgid "Finishing file save…"
+msgstr "保存を確認中…"
+
+msgid "Files saved"
+msgstr "ファイル保存完了"
+
+msgid "Receipt verified"
+msgstr ""
+
+msgid " resumed"
+msgstr ""
+
+msgid "Cancelling…"
+msgstr ""
+
+msgid "Stopping the transfer."
+msgstr ""
+
+msgid "Transfer cancelled"
+msgstr ""
+
+msgid "Your original files are kept."
+msgstr ""
+
+msgid "Could not send files"
+msgstr ""
+
+msgid "Select again"
+msgstr ""
+
+msgid "Send other files"
+msgstr ""
+
+msgid "Folder · "
+msgstr "フォルダー · "
+
+msgid "Available space "
+msgstr "空き容量 "
+
+msgid "Send folder"
+msgstr ""
+
+msgid "Including subfolders and empty folders"
+msgstr ""
+
+msgid "Selected files"
+msgstr ""
+
+msgid "Selected files · "
+msgstr ""
+
+msgid "Saved in Downloads/AirDesk on the remote PC. Remote Terminal must be on at the host to send files."
+msgstr "相手PCのDownloads/AirDeskに保存します。送信にはホストのリモートターミナルを有効にしてください。"
+
+msgid "Custom shortcut "
+msgstr ""
+
+msgid "Check the key combination."
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Keys"
+msgstr ""
+
+msgid "Examples: "
+msgstr ""
+
+msgid "Rendered "
+msgstr ""
+
+msgid "Drops "
+msgstr ""
+
+msgid "Queue "
+msgstr ""
+
+msgid "Not confirmed"
+msgstr ""
+
+msgid "submit→present"
+msgstr ""
+
+msgid "input→output"
+msgstr ""
+
+msgid "Frames"
+msgstr ""
+
+msgid "Rendered / submitted / polled"
+msgstr ""
+
+msgctxt "AndroidPerformanceOverlayView"
+msgid "Output"
+msgstr "画面コピー"
+
+msgid "Frame interval"
+msgstr ""
+
+msgid "Callbacks "
+msgstr ""
+
+msgid "Visible "
+msgstr ""
+
+msgid "Render latency"
+msgstr ""
+
+msgid "Avg / P95 / P99"
+msgstr ""
+
+msgid "Output drain"
+msgstr ""
+
+msgid "Avg / max"
+msgstr ""
+
+msgid "Input prefetch"
+msgstr ""
+
+msgid "Sent "
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "Waiting for video metrics…"
+msgstr ""
+
+msgid "Files requested. If reception does not start, check copied files, transfer permission and app updates on the remote PC."
+msgstr ""
+
+msgid "Connect to a remote computer first."
+msgstr ""
+
+msgid "Could not read files. Please try again."
+msgstr ""
+
+msgid "Reception has not started. Copy files on the remote PC, check both apps and transfer permission, then try again."
+msgstr ""
+
+msgid "Receiving · "
+msgstr ""
+
+msgid "Waiting for file details…"
+msgstr ""
+
+msgid "Files received"
+msgstr ""
+
+msgid "File reception cancelled."
+msgstr ""
+
+msgid "File reception failed. Send it again from the remote PC."
+msgstr ""
+
+msgid "Back to files"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Receive files from host"
+msgstr ""
+
+msgid "Copy files on the connected remote PC, then press here. Received files appear in this window."
+msgstr ""
+
+msgid "Selected file actions"
+msgstr ""
+
+msgid "Select files"
+msgstr ""
+
+msgid "This file cannot be recovered."
+msgstr ""
+
+msgid "Keep this file"
+msgstr ""
+
+msgid "Open in another app"
+msgstr ""
+
+msgid "Save a copy…"
+msgstr ""
+
+msgid "Keep the original and save a copy"
+msgstr ""
+
+msgid "Share…"
+msgstr ""
+
+msgid "Share read-only with another app"
+msgstr ""
+
+msgid "Delete…"
+msgstr ""
+
+msgid "Delete from this app"
+msgstr ""
+
+msgid " selected"
+msgstr ""
+
+msgid "Delete these app files? Saved copies are kept."
+msgstr ""
+
+msgid "Files received from the remote PC\nCopy files on the connected remote PC, then choose Receive files from host."
+msgstr ""
+
+msgid "Delete this file from the app?\nSaved or shared copies are kept."
+msgstr ""
+
+msgid "Delete file"
+msgstr ""
+
+msgid "Loading files…"
+msgstr ""
+
+msgid "No received files yet.\nFiles sent by the remote PC will appear here."
+msgstr ""
+
+msgid "Working…"
+msgstr ""
+
+msgid "Choose where to save the copy."
+msgstr ""
+
+msgid "Use Save a copy to export this folder."
+msgstr ""
+
+msgid "The file changed or was deleted. Refresh the list."
+msgstr ""
+
+msgid "Share file"
+msgstr ""
+
+msgid "No app can open or share this file. Save a copy instead."
+msgstr ""
+
+msgid "Could not open the save dialog."
+msgstr ""
+
+msgid "Copies saved. Originals are kept."
+msgstr ""
+
+msgid " saved. Select the remaining files to retry. Originals are kept."
+msgstr ""
+
+msgid "Copy saved. The original is kept."
+msgstr ""
+
+msgid "Could not save. The original is still available."
+msgstr ""
+
+msgid "File deleted."
+msgstr ""
+
+msgid "Some files could not be deleted. Refresh the list."
+msgstr ""
+
+msgid "Use Save a copy to export a selection containing folders."
+msgstr ""
+
+msgid "Share files"
+msgstr ""
+
+msgid "No app can share these files."
+msgstr ""
+
+msgid "Captures"
+msgstr ""
+
+msgid "MP4 · Saved in app"
+msgstr ""
+
+msgid " · Open"
+msgstr ""
+
+msgid "Choose a file…"
+msgstr ""
+
+msgid "Remove from history"
+msgstr ""
+
+msgid "The original file will not be deleted."
+msgstr ""
+
+msgid "Remove from history…"
+msgstr ""
+
+msgid "Recent captures and files saved in app"
+msgstr ""
+
+msgid "No saved captures yet.\nChoose a file to open an existing capture."
+msgstr ""
+
+msgid "The file is unavailable or has changed."
+msgstr ""
+
+msgid "Choose an image or video file."
+msgstr ""
+
+msgid "Could not read the selected file. Please choose it again."
+msgstr ""
+
+msgid "Export failed. The original is still available."
+msgstr ""
+
+msgid "Could not open or share the file. Check the original."
+msgstr ""
+
+msgid "Removed from history."
+msgstr ""
+
+msgid "Could not delete the file. The original may have changed."
+msgstr ""
+
+msgid "Could not open the file. Check that it still exists and a viewer is installed."
+msgstr ""
+
+msgid "Screen capture requires Android 7 or later."
+msgstr ""
+
+msgid "Wait for the remote video before capturing."
+msgstr ""
+
+msgid "The capture resolution is too large."
+msgstr ""
+
+msgid "Not enough memory to capture this resolution."
+msgstr ""
+
+msgid "Could not capture the current frame. Try again."
+msgstr ""
+
+msgid "Could not capture the current frame."
+msgstr ""
+
+msgid "Check the connection and try again."
+msgstr ""
+
+msgid "Session chat"
+msgstr ""
+
+msgid "No messages yet."
+msgstr ""
+
+msgid "Type a message"
+msgstr ""
+
+msgid "Type a message."
+msgstr ""
+
+msgid "Sending…"
+msgstr ""
+
+msgid "Enter 1–1024 bytes of UTF-8 text."
+msgstr ""
+
+msgid "Could not send. Please retry."
+msgstr ""
+
+msgid "Connected to your remote computer"
+msgstr ""
+
+msgctxt "AndroidStreamConnectionService"
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "AV1 recording requires Android 14 or later. Choose H.264 or HEVC."
+msgstr ""
+
+msgid "Restart the app to open another recording destination."
+msgstr ""
+
+msgid "Could not start recording."
+msgstr ""
+
+msgid "The session or recording permission changed."
+msgstr ""
+
+msgid "Recording started."
+msgstr ""
+
+msgid "Request failed. Check the connection."
+msgstr ""
+
+msgid "AI agent guidance"
+msgstr ""
+
+msgid "Terminal output"
+msgstr ""
+
+msgid "Connected · Input goes to the remote PC"
+msgstr ""
+
+msgid "Waiting for host…"
+msgstr ""
+
+msgid "Enable Remote terminal in the host settings."
+msgstr ""
+
+msgid "Reply delayed · Waiting for confirmation."
+msgstr ""
+
+msgid "Terminal closed."
+msgstr ""
+
+msgid "Select Open terminal to start."
+msgstr ""
+
+msgid "Check the terminal state."
+msgstr ""
+
+msgid "Open terminal"
+msgstr ""
+
+msgid "End shell"
+msgstr ""
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Remote PC"
+msgstr ""
+
+msgid "Waiting for host confirmation…"
+msgstr ""
+
+msgid "Send a test document to the remote PC printer and keep received documents."
+msgstr ""
+
+msgid "Send this device's microphone to the remote PC. Set up the host's virtual microphone."
+msgstr ""
+
+msgid " connected"
+msgstr ""
+
+msgid "Select a display or open it in another pane."
+msgstr ""
+
+msgid "The host's extended display configuration is preserved when switching."
+msgstr ""
+
+msgid "Selecting an option sends a request. Current values are confirmed by the host."
+msgstr ""
+
+msgid "Remote input is kept separate from local input."
+msgstr ""
+
+msgid "Turning on the microphone requests system permission."
+msgstr ""
+
+msgid "Files are saved in Downloads/AirDesk on the remote PC. Enable Remote Terminal on the host to send files."
+msgstr ""
+
+msgid "Width · pixels"
+msgstr ""
+
+msgid "Height · pixels"
+msgstr ""
+
+msgid "Enter even values within the limits."
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Finish recording before changing the mode."
+msgstr ""
+
+msgid "Width 320–7680 · Height 240–4320 · Even"
+msgstr ""
+
+msgid "Expand toolbar"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Original size"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Trackpad"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Software keyboard"
+msgstr ""
+
+msgid "PC keyboard"
+msgstr ""
+
+msgid "Rotate screen"
+msgstr ""
+
+msgid "Displays"
+msgstr ""
+
+msgid "Video quality"
+msgstr ""
+
+msgid "Resolution · frame"
+msgstr ""
+
+msgid "Color · bitrate"
+msgstr ""
+
+msgid "Input & audio"
+msgstr ""
+
+msgid "Mouse · keyboard"
+msgstr ""
+
+msgid "Input mode and shortcuts"
+msgstr ""
+
+msgid "Keyboard buttons"
+msgstr ""
+
+msgid "System output"
+msgstr ""
+
+msgid "Audio off"
+msgstr ""
+
+msgid "Microphone sending"
+msgstr ""
+
+msgid "Microphone off"
+msgstr ""
+
+msgid "Audio · microphone"
+msgstr ""
+
+msgid "File transfer"
+msgstr ""
+
+msgid "Send and received files"
+msgstr ""
+
+msgid "Open · Save · Share"
+msgstr ""
+
+msgid "Capture · record"
+msgstr ""
+
+msgid "Recording"
+msgstr ""
+
+msgid "Save the current display"
+msgstr ""
+
+msgid "More tools"
+msgstr ""
+
+msgid "Statistics · PC controls"
+msgstr ""
+
+msgid "Account and plan"
+msgstr ""
+
+msgid "Quick settings"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Frame rate"
+msgstr "フレームレート"
+
+msgctxt "AndroidStreamToolbar"
+msgid "Color format"
+msgstr "カラー形式"
+
+msgid "Connection quality"
+msgstr ""
+
+msgid "Listen to remote audio"
+msgstr ""
+
+msgid "Send microphone"
+msgstr ""
+
+msgid "Send this device's voice to the remote computer"
+msgstr ""
+
+msgid "Microphone device and status"
+msgstr ""
+
+msgid "System input device"
+msgstr ""
+
+msgid "Special keys"
+msgstr ""
+
+msgid "Type with your device keyboard"
+msgstr ""
+
+msgid "Function keys and shortcuts"
+msgstr ""
+
+msgid "Frequent keys"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Send key combinations to the remote computer"
+msgstr ""
+
+msgid "Add shortcut"
+msgstr ""
+
+msgid "Switch to WASD controller"
+msgstr ""
+
+msgid "Replaces the gamepad pad with WASD, Q/E/F/R, 1-3, mouse L/R. Switch back in controller settings."
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Virtual gamepad"
+msgstr ""
+
+msgid "Shortcuts and input tools"
+msgstr ""
+
+msgid "Keyboard and shortcuts"
+msgstr ""
+
+msgid "Restore buttons"
+msgstr ""
+
+msgid "Keep layout"
+msgstr ""
+
+msgid "Hide top controls"
+msgstr ""
+
+msgid "Shown"
+msgstr ""
+
+msgid "Removed"
+msgstr ""
+
+msgid "Reorder keys"
+msgstr ""
+
+msgid "Move to position"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Remote PC: Downloads/AirDesk"
+msgstr ""
+
+msgid "Enable Remote Terminal on the host"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Capture"
+msgstr "キャプチャ"
+
+msgid "Stop recording"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Host permission required"
+msgstr ""
+
+msgid "Remote PC controls"
+msgstr ""
+
+msgid "Hide statistics"
+msgstr ""
+
+msgid "Show statistics"
+msgstr ""
+
+msgid "Statistics fields"
+msgstr ""
+
+msgid "PIP mode"
+msgstr ""
+
+msgid "Recover video"
+msgstr ""
+
+msgid "Switch window"
+msgstr ""
+
+msgid "Task Manager"
+msgstr ""
+
+msgid "Windows security"
+msgstr ""
+
+msgid "Disable privacy"
+msgstr ""
+
+msgid "Enable privacy"
+msgstr ""
+
+msgid "Host support not confirmed"
+msgstr ""
+
+msgid "Covers the host screen. Local keyboard and mouse remain available."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Voice is sent only while the app is visible."
+msgstr ""
+
+msgid "Sending microphone"
+msgstr ""
+
+msgid "Sending to the active remote connection."
+msgstr ""
+
+msgid "Starting microphone"
+msgstr ""
+
+msgid "Stopping microphone"
+msgstr ""
+
+msgid "Stopping voice transmission and saving your choice."
+msgstr ""
+
+msgid "Microphone permission needed"
+msgstr ""
+
+msgid "Grant microphone permission and turn it on again."
+msgstr ""
+
+msgid "Microphone paused"
+msgstr ""
+
+msgid "Connection changed"
+msgstr ""
+
+msgid "Turn on the microphone for the new connection."
+msgstr ""
+
+msgid "Microphone disconnected"
+msgstr ""
+
+msgid "Could not update microphone"
+msgstr ""
+
+msgid "Check permission, the input device and connection, then try again."
+msgstr ""
+
+msgid "Turn microphone off"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Send microphone"
+msgstr ""
+
+msgid "Start sending after microphone permission"
+msgstr ""
+
+msgid "Echo processing active"
+msgstr ""
+
+msgid "Echo processing unconfirmed"
+msgstr ""
+
+msgid "Automatic echo processing"
+msgstr ""
+
+msgid "48 kHz · Mono"
+msgstr ""
+
+msgid " · Primary connection"
+msgstr ""
+
+msgid "Retry microphone permission"
+msgstr ""
+
+msgid "Retry microphone"
+msgstr ""
+
+msgid "Only sessions approved by the host can print."
+msgstr ""
+
+msgid "Receiving document"
+msgstr ""
+
+msgid "Received document saved"
+msgstr ""
+
+msgid "Open received documents to view or save a copy."
+msgstr ""
+
+msgid "Document receive failed"
+msgstr ""
+
+msgid "Incomplete documents are not kept."
+msgstr ""
+
+msgid "Document receive cancelled"
+msgstr ""
+
+msgid "The incomplete document was removed."
+msgstr ""
+
+msgid "Remote printer requires a Pro plan."
+msgstr ""
+
+msgid "Enable the printer in remote PC settings and reconnect."
+msgstr ""
+
+msgid "Cancel request"
+msgstr ""
+
+msgid "Send test document"
+msgstr ""
+
+msgid "Send a test document to the remote PC printer"
+msgstr ""
+
+msgid "Received documents"
+msgstr ""
+
+msgid "PDF · Open / Save a copy / Share"
+msgstr ""
+
+msgid "Left pane"
+msgstr ""
+
+msgid "Top pane"
+msgstr ""
+
+msgid "Right pane"
+msgstr ""
+
+msgid "Bottom pane"
+msgstr ""
+
+msgid "Main display"
+msgstr ""
+
+msgid "Currently viewed display"
+msgstr ""
+
+msgid "Switch display"
+msgstr ""
+
+msgid "Open this display separately"
+msgstr ""
+
+msgid "Switch to this display"
+msgstr ""
+
+msgid "View two displays together"
+msgstr ""
+
+msgid "Open additional display"
+msgstr ""
+
+msgid "Virtual display management"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Add virtual display"
+msgstr "仮想ディスプレイを追加"
+
+msgid "Host driver supported"
+msgstr ""
+
+msgid "Add and show in primary pane"
+msgstr ""
+
+msgid "Add and switch"
+msgstr ""
+
+msgid "Cancel connection"
+msgstr ""
+
+msgid "Close additional pane"
+msgstr ""
+
+msgid "Additional pane"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Remove virtual display"
+msgstr "仮想ディスプレイを削除"
+
+msgid "Added by this connection"
+msgstr ""
+
+msgid "Refresh displays"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "My computers"
+msgstr ""
+
+msgid "Team computers · members · roles"
+msgstr ""
+
+msgid "Seats · plan · billing"
+msgstr ""
+
+msgid "Plan & billing"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "Available with Pro"
+msgstr "Pro で利用可能"
+
+msgid "Multiple display windows"
+msgstr ""
+
+msgid "4:4:4 color"
+msgstr ""
+
+msgid "Screen recording"
+msgstr ""
+
+msgid "Explore Pro"
+msgstr ""
+
+msgid "Available with Teams"
+msgstr ""
+
+msgid "Team management"
+msgstr ""
+
+msgid "Contract support"
+msgstr ""
+
+msgid "Deployment & support"
+msgstr ""
+
+msgid "Support is subject to your contract."
+msgstr ""
+
+msgid "Organization & contract"
+msgstr ""
+
+msgid "Devices & team"
+msgstr ""
+
+msgid "Desktop statistics"
+msgstr ""
+
+msgid "Android diagnostics"
+msgstr ""
+
+msgid "Unconfirmed values are not measurements."
+msgstr ""
+
+msgid "Unavailable on this device"
+msgstr ""
+
+msgid "4:4:4 needs hardware support on both peers."
+msgstr ""
+
+msgid "Bitrate limit"
+msgstr ""
+
+msgid "Keep original display pixels"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom resolution"
+msgstr ""
+
+msgctxt "AndroidStreamToolbar"
+msgid "On"
+msgstr "オン"
+
+msgctxt "AndroidStreamToolbar"
+msgid "Off"
+msgstr "オフ"
+
+msgid "Waiting for host"
+msgstr ""
+
+msgid "Applied"
+msgstr ""
+
+msgid "Sent to Windows (unconfirmed)"
+msgstr ""
+
+msgid "Unsupported by this host"
+msgstr ""
+
+msgid "Host busy / another connection"
+msgstr ""
+
+msgid "Failed; check the host"
+msgstr ""
+
+msgid "Timed out; not confirmed"
+msgstr ""
+
+msgid "No commands applied yet"
+msgstr ""
+
+msgid "No reply; reconnect required"
+msgstr ""
+
+msgid "Added; current display kept"
+msgstr ""
+
+msgid "Virtual display connected"
+msgstr ""
+
+msgid "Virtual display removed"
+msgstr ""
+
+msgid "Install VDD on the host"
+msgstr ""
+
+msgid "VDD unsupported by host"
+msgstr ""
+
+msgid "Change failed; check host"
+msgstr ""
+
+msgid "Physical displays available"
+msgstr ""
+
+msgid "Waiting for host reply"
+msgstr ""
+
+msgid "Waiting for cancellation"
+msgstr ""
+
+msgid "Test document accepted"
+msgstr ""
+
+msgid "Request cancelled"
+msgstr ""
+
+msgid "Reply delayed; check host"
+msgstr ""
+
+msgid "Request failed; check host"
+msgstr ""
+
+msgid "Printer available"
+msgstr ""
+
+msgid "Host setting required"
+msgstr ""
+
+msgid "Could not save statistics settings."
+msgstr ""
+
+msgid "Could not open the browser."
+msgstr ""
+
+msgid "Check the connection."
+msgstr ""
+
+msgid "Could not send the request. Check the connection."
+msgstr ""
+
+msgid " · Limit application unconfirmed"
+msgstr ""
+
+msgid "Limit "
+msgstr ""
+
+msgid " · Last confirmed "
+msgstr ""
+
+msgid "Smaller"
+msgstr "縮小"
+
+msgid "Larger"
+msgstr "拡大"
+
+msgid "Move left"
+msgstr "左へ"
+
+msgid "Move up"
+msgstr "上へ"
+
+msgid "Move down"
+msgstr "下へ"
+
+msgid "Move right"
+msgstr "右へ"
+
+msgctxt "AndroidVirtualControllerOverlay"
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Default layout"
+msgstr "初期配置"
+
+msgid "Cancel layout editing"
+msgstr "配置編集をキャンセル"
+
+msgid "Save layout"
+msgstr "配置を保存"
+
+msgid "Select and drag a control"
+msgstr "ボタンを選択して移動"
+
+msgid "Could not save layout"
+msgstr "配置を保存できませんでした"
+
+msgid "Choose audio output"
+msgstr ""
+
+msgid "Tap the button to choose this device, headphones or an available wireless output. iOS manages output connections and selection."
+msgstr ""
+
+msgid "System default output"
+msgstr ""
+
+msgid "Current output"
+msgstr ""
+
+msgid "Recording saved on background transition."
+msgstr ""
+
+msgid "Recording saved, but audio could not be completed."
+msgstr ""
+
+msgid "Recording saved to Captures."
+msgstr ""
+
+msgid "Recording not saved"
+msgstr ""
+
+msgid "No video frames."
+msgstr ""
+
+msgid "Recording saved on session change."
+msgstr ""
+
+msgid "Recording saved on disconnect."
+msgstr ""
+
+msgid "Recording failed"
+msgstr ""
+
+msgid "Recording saved because resolution changed. You can start a new recording."
+msgstr ""
+
+msgid "Recording stopped after a video encoder error."
+msgstr ""
+
+msgid "Recording stopped after an audio encoder error."
+msgstr ""
+
+msgid "● Recording"
+msgstr ""
+
+msgid "Saving recording…"
+msgstr ""
+
+msgid "Check the remote connection."
+msgstr ""
+
+msgid "Recording requires host permission and Pro membership or above."
+msgstr ""
+
+msgid "Recording canceled because no video arrived."
+msgstr ""
+
+msgid "No video frame received yet."
+msgstr ""
+
+msgid "Screenshot copied to clipboard."
+msgstr ""
+
+msgid "Screenshot saved to Captures."
+msgstr ""
+
+msgid "Screenshot failed"
+msgstr ""
+
+msgid " · Saved in app"
+msgstr ""
+
+msgid "Could not read this file. Choose an image or video again."
+msgstr ""
+
+msgid "Could not open the file. Choose the original again."
+msgstr ""
+
+msgid "This file cannot be previewed."
+msgstr ""
+
+msgctxt "repc_ios_chat"
+msgid "Session chat"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Messages are sent to this session's participants."
+msgstr ""
+
+msgid "Session ended."
+msgstr ""
+
+msgid "Sent."
+msgstr ""
+
+msgid "Could not send. Check the connection."
+msgstr ""
+
+msgid "Importing files to disk…"
+msgstr ""
+
+msgid "File list changed. Select the item again."
+msgstr ""
+
+msgid "Select at most 16 files or folders."
+msgstr ""
+
+msgid "Imported files · "
+msgstr ""
+
+msgid "Imported to disk. Open the folder under Local files to select an item."
+msgstr ""
+
+msgid "Select an item under Local files again to export."
+msgstr ""
+
+msgid "Checking destination disk space…"
+msgstr ""
+
+msgid "Destination disk space unavailable"
+msgstr ""
+
+msgid "Receiver staging disk"
+msgstr ""
+
+msgid "available"
+msgstr ""
+
+msgid "Choose folder…"
+msgstr ""
+
+msgid "Choose files…"
+msgstr ""
+
+msgid "Send to the captured destination PC"
+msgstr ""
+
+msgid "Text clipboard stays automatic"
+msgstr ""
+
+msgid "Session disconnected or Remote Terminal is off on the host"
+msgstr ""
+
+msgid "Tap Ctrl · Alt · Shift to latch"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Share with another app"
+msgstr ""
+
+msgid "Request host change"
+msgstr ""
+
+msgid "Connection or selected view changed. Close and reopen this editor."
+msgstr ""
+
+msgid "Sending request…"
+msgstr ""
+
+msgid "Use even values. Width 320–7680, height 240–4320. The host must support the requested display mode."
+msgstr ""
+
+msgid "Request failed. Finish recording or the previous setting change, then reopen this editor."
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Edit custom shortcuts"
+msgstr ""
+
+msgid "Remote shortcuts"
+msgstr ""
+
+msgid "Custom shortcut"
+msgstr ""
+
+msgid "Connection or selected view changed."
+msgstr ""
+
+msgid "Check the key combination and name."
+msgstr ""
+
+msgid "Limit application unconfirmed"
+msgstr ""
+
+msgid "Limit %.1f Mbps"
+msgstr ""
+
+msgid " · Last confirmed %.1f Mbps"
+msgstr ""
+
+msgid "Mouse mode"
+msgstr ""
+
+msgid "Move or collapse toolbar"
+msgstr ""
+
+msgid "Move toolbar"
+msgstr ""
+
+msgid "Original size, 100%"
+msgstr ""
+
+msgid "Software\nkeyboard"
+msgstr ""
+
+msgid "PC\nkeyboard"
+msgstr ""
+
+msgid "Waiting to apply…"
+msgstr ""
+
+msgid "The action took too long. Please try again."
+msgstr ""
+
+msgid "Could not switch the active view. Try again."
+msgstr ""
+
+msgid "PIP mode is not ready."
+msgstr ""
+
+msgid "Could not run shortcut. Check the connection and keys."
+msgstr ""
+
+msgid "Could not open the editor. Close the current dialog and try again."
+msgstr ""
+
+msgid "Clipboard transfer started"
+msgstr ""
+
+msgid "No text in clipboard"
+msgstr ""
+
+msgid "Clipboard text limit is 4 MiB"
+msgstr ""
+
+msgid "Clipboard transfer failed"
+msgstr ""
+
+msgid "Applying setting…"
+msgstr ""
+
+msgid "Setting saved"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Request sent"
+msgstr "送信したフレンド申請"
+
+msgid "Setting failed"
+msgstr ""
+
+msgid "Open new virtual display separately"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Remove virtual display"
+msgstr "仮想ディスプレイを削除"
+
+msgid "Remove secondary-owned virtual display"
+msgstr ""
+
+msgid "Host VDD unavailable"
+msgstr ""
+
+msgid "Custom…"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Video"
+msgstr "ビデオ"
+
+msgid "Chroma"
+msgstr ""
+
+msgid "4:4:4 · Device hardware unavailable"
+msgstr ""
+
+msgid "Keyboard toolbar"
+msgstr ""
+
+msgid "Hide toolbar"
+msgstr ""
+
+msgid "Show toolbar"
+msgstr ""
+
+msgid "Hide OSC chrome"
+msgstr ""
+
+msgid "Hide SPC chrome"
+msgstr ""
+
+msgid "Keyboard accessory keys"
+msgstr ""
+
+msgid "Direct mouse"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Keyboard shortcuts"
+msgstr "キーボードショートカット"
+
+msgid "Release held keys"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Fit / 100%"
+msgstr ""
+
+msgid "Pan left"
+msgstr ""
+
+msgid "Pan right"
+msgstr ""
+
+msgid "Pan up"
+msgstr ""
+
+msgid "Pan down"
+msgstr ""
+
+msgid "Waiting for permission"
+msgstr ""
+
+msgid "Capturing"
+msgstr ""
+
+msgid "Microphone permission denied"
+msgstr ""
+
+msgid "No microphone input"
+msgstr ""
+
+msgid "Capture failed · turn on to retry"
+msgstr ""
+
+msgid "Audio session failed"
+msgstr ""
+
+msgid "Paused while app is inactive"
+msgstr ""
+
+msgid "Interrupted by other audio"
+msgstr ""
+
+msgid "Checking status"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Microphone"
+msgstr "マイク"
+
+msgid "On / Retry"
+msgstr ""
+
+msgid "iOS microphone permission settings"
+msgstr ""
+
+msgid "Capture / Recording"
+msgstr ""
+
+msgid "Save screenshot"
+msgstr ""
+
+msgid "Copy screenshot"
+msgstr ""
+
+msgid "Stop and save recording"
+msgstr ""
+
+msgid "Start recording · Pro"
+msgstr ""
+
+msgid "Saved captures"
+msgstr ""
+
+msgid "Destination: Downloads/AirDesk"
+msgstr ""
+
+msgid "Saved: Downloads/AirDesk"
+msgstr ""
+
+msgid "Sending to Downloads/AirDesk"
+msgstr ""
+
+msgid "Confirming destination receipt"
+msgstr ""
+
+msgid "Enable Remote Terminal on the host to send files"
+msgstr ""
+
+msgid "Transfer pace · both directions"
+msgstr ""
+
+msgid "Send to host clipboard"
+msgstr ""
+
+msgid "Get host clipboard text"
+msgstr ""
+
+msgid "Received files · Save / Share"
+msgstr ""
+
+msgid "Cancel file transfer"
+msgstr ""
+
+msgid "Host screen privacy"
+msgstr ""
+
+msgid "App log"
+msgstr ""
+
+msgid "Manage billing"
+msgstr ""
+
+msgid "Manage teams"
+msgstr ""
+
+msgid "Enterprise"
+msgstr ""
+
+msgid "Resolution / frame"
+msgstr ""
+
+msgid "Color / bitrate"
+msgstr ""
+
+msgid "Mouse / keyboard"
+msgstr ""
+
+msgid "Audio / microphone"
+msgstr ""
+
+msgid "Remote sound"
+msgstr ""
+
+msgid " +%lu · Settings → All statistics"
+msgstr ""
+
+msgid "Host video · capture+encode"
+msgstr ""
+
+msgid "Host capture"
+msgstr ""
+
+msgid "Host video encode"
+msgstr ""
+
+msgid "Host frame interval"
+msgstr ""
+
+msgid "Video decode + display queue"
+msgstr ""
+
+msgid "Video decode"
+msgstr ""
+
+msgid "Video enqueue interval"
+msgstr ""
+
+msgid "Network RTT"
+msgstr ""
+
+msgid "Video RX bitrate"
+msgstr ""
+
+msgid "Host audio · encode"
+msgstr ""
+
+msgid "Host audio encode"
+msgstr ""
+
+msgid "Host audio interval"
+msgstr ""
+
+msgid "Audio decode + receive queue"
+msgstr ""
+
+msgid "Audio decode"
+msgstr ""
+
+msgid "Audio frame duration"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "All statistics"
+msgstr ""
+
+msgid "Visible fields"
+msgstr ""
+
+msgid "Waiting for log messages…"
+msgstr ""
+
+msgid "App log · recent messages"
+msgstr ""
+
+msgid "Loading log messages…"
+msgstr ""
+
+msgid "Waiting for statistics…"
+msgstr ""
+
+msgid "Statistics · — unavailable"
+msgstr ""
+
+msgid "Host cap+enc"
+msgstr ""
+
+msgid "Video encode"
+msgstr ""
+
+msgid "Host frame"
+msgstr ""
+
+msgid "Decode+queue"
+msgstr ""
+
+msgid "Enqueue interval"
+msgstr ""
+
+msgid "RTT"
+msgstr ""
+
+msgid "Video RX"
+msgstr ""
+
+msgid "Host audio"
+msgstr ""
+
+msgid "Audio encode"
+msgstr ""
+
+msgid "Host audio frame"
+msgstr ""
+
+msgid "Audio decode+q"
+msgstr ""
+
+msgid "Audio duration"
+msgstr ""
+
+msgid "Primary connection"
+msgstr ""
+
+msgid "Save to Photos"
+msgstr ""
+
+msgid "Copy capture"
+msgstr ""
+
+msgid "Copy to the clipboard"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Unavailable on this device"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Waiting for connection"
+msgstr "接続待ち"
+
+msgid "Confirming destination receipt…"
+msgstr ""
+
+msgid "Cancelling file transfer…"
+msgstr ""
+
+msgid "Receipt verified · Paste on the PC"
+msgstr ""
+
+msgid "resumed"
+msgstr ""
+
+msgid "Sending clipboard text…"
+msgstr ""
+
+msgid "Clipboard queued for host"
+msgstr ""
+
+msgctxt "repc_ios_stream_toolbar"
+msgid "Receiving"
+msgstr "受信中"
+
+msgid "Saved in Received files."
+msgstr ""
+
+msgid "Waiting for file information…"
+msgstr ""
+
+msgid "Sender cancelled file transfer."
+msgstr ""
+
+msgid "Waiting for host clipboard text…"
+msgstr ""
+
+msgid "Clipboard received · return to remote view to apply"
+msgstr ""
+
+msgid "Host clipboard text received"
+msgstr ""
+
+msgid "No clipboard reply · check host text and retry"
+msgstr ""
+
+msgid "Clipboard fetch failed · check connection and text"
+msgstr ""
+
+msgid "Printer · waiting for host"
+msgstr ""
+
+msgid "Printer · waiting for cancellation reply"
+msgstr ""
+
+msgid "Printer · host processing reply"
+msgstr ""
+
+msgid "Printer · cancellation reply"
+msgstr ""
+
+msgid "Printer · reply timed out"
+msgstr ""
+
+msgid "Printer · request failed"
+msgstr ""
+
+msgid "The session or selected display changed."
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "Session changed"
+msgstr ""
+
+msgid "Limit 20.0 Mbps · Last confirmed 10.0 Mbps"
+msgstr ""
+
+msgid "Bitrate · Limit 20.0 Mbps"
+msgstr ""
+
+msgid "Bitrate request sent; host cannot confirm whether it was applied"
+msgstr ""
+
+msgid "Native resolution(2940x1912)"
+msgstr ""
+
+msgid "The terminal opens after the host allows it."
+msgstr ""
+
+msgid "Input queue is full. Input was not replayed."
+msgstr ""
+
+msgid "Terminal request failed"
+msgstr ""
+
+msgid "Remote session ended."
+msgstr ""
+
+msgid " · Scrollback"
+msgstr ""
+
+msgid "L3 / R3 only"
+msgstr ""
+
+msgid "Could not release controller input. Please try again."
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgctxt "repc_ios_virtual_controller"
+msgid "Move up"
+msgstr ""
+
+msgctxt "repc_ios_virtual_controller"
+msgid "Move down"
+msgstr ""
+
+msgctxt "repc_ios_virtual_controller"
+msgid "Move left"
+msgstr ""
+
+msgctxt "repc_ios_virtual_controller"
+msgid "Move right"
+msgstr ""
+
+msgid "Move"
+msgstr "移動"
+
+msgid "Hide"
+msgstr "非表示"
+
+msgid "Toggle button visibility"
+msgstr ""
+
+msgid "Move buttons"
+msgstr ""
+
+msgid "Resize buttons"
+msgstr ""
+
+msgid "Hide edit bar"
+msgstr ""
+
+msgid "Reset positions"
+msgstr ""
+
+msgid "Decrease button size"
+msgstr ""
+
+msgid "Increase button size"
+msgstr ""
+
+msgid "Please try saving again"
+msgstr ""
+
+msgid "Input settings copied"
+msgstr "入力設定をコピーしました"
+
+msgid "Could not export input settings"
+msgstr "入力設定を書き出せませんでした"
+
+msgid "Preset slots are full (max 10)"
+msgstr ""
+
+msgid "Export items"
+msgstr "書き出す項目"
+
+msgid "OSC panel position"
+msgstr "OSC パネルの位置"
+
+msgid "SPC panel position"
+msgstr "SPC パネルの位置"
+
+msgid "Virtual gamepad layout"
+msgstr "仮想ゲームパッドの配置"
+
+msgid "Other input settings"
+msgstr "その他の入力設定"
+
+msgid "Checked"
+msgstr "選択済み"
+
+msgid "Not checked"
+msgstr "未選択"
+
+msgid "Save the current controller settings with a name. Up to %d."
+msgstr ""
+
+msgid "Clipboard is empty"
+msgstr ""
+
+msgid "Settings text is too large"
+msgstr ""
+
+msgid "Settings text is not valid JSON"
+msgstr ""
+
+msgid "Not an AirDesk input settings export"
+msgstr ""
+
+msgid "This export has no compatible layout"
+msgstr ""
+
+msgid "The layout contains invalid positions"
+msgstr ""
+
+#. Mobile native views: hand-converted strings.
+msgid "{button} click"
+msgstr ""
+
+msgid "{button}-button drag at the touched position"
+msgstr ""
+
+msgid "Save the current controller settings with a name. Up to {max}."
+msgstr ""
+
+msgid "Preset slots are full (max {max})"
+msgstr ""
+
+msgctxt "session menu"
+msgid "Files are saved in Downloads/AirDesk on the remote PC. Enable Remote Terminal on the host to send files."
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host video total"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host capture"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host encode"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host video frame time"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client video total"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client decode"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client video frame time"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Network latency"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Bitrate"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host audio total"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host audio encode"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Host audio frame time"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client audio total"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client audio decode"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Client audio frame time"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Frames"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Output"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Frame interval"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Render latency"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Output drain"
+msgstr ""
+
+msgctxt "performance metric"
+msgid "Input prefetch"
+msgstr ""
+
+msgid "Waiting for recent app logs…"
+msgstr "アプリの記録を待っています…"
+
+msgid "App logs"
+msgstr "アプリログ"
+
+msgid "Collapse AI agent"
+msgstr "AIエージェントを折りたたむ"
+
+msgid "Expand AI agent"
+msgstr "AIエージェントを開く"
+
+msgid "Use your existing AI agent. Prepare Node.js 22 or later and AirDesk MCP on your desktop and allow terminal access on the remote PC. Install command: "
+msgstr "既存のAIエージェントを利用します。デスクトップにNode.js 22以降とAirDesk MCPを準備し、リモートPCでターミナルを許可してください。インストールコマンド: "
+
+msgid ". Example: Ask rcu to check disk usage in the remote terminal on ‘{host}’."
+msgstr "。例文: rcuで「{host}」のリモートターミナルのディスク使用量を確認してください。"
+
+msgid " Check your plan."
+msgstr " プランを確認してください。"
+
+msgid " Free and Pro: use your AI agent on a desktop."
+msgstr " Free・Proプランではデスクトップでお使いのAIエージェントをご利用ください。"
+
+msgid " Built-in chat is coming soon."
+msgstr " アプリ内チャットは準備中です。"
+
+msgctxt "controller axis"
+msgid "Up"
+msgstr "上"
+
+msgctxt "controller axis"
+msgid "Down"
+msgstr "下"
+
+msgctxt "controller axis"
+msgid "Left"
+msgstr "左"
+
+msgctxt "controller axis"
+msgid "Right"
+msgstr "右"
+
+msgctxt "controller axis"
+msgid "Center"
+msgstr "中央"
+
+msgid "Screenshot saved"
+msgstr ""
+
+msgid "Could not save screenshot"
+msgstr ""
+
+msgid "The host is preparing the screen. Please wait a moment."
+msgstr "ホストの画面を準備しています。しばらくお待ちください。"
+
+msgid "Preparing remote screen…"
+msgstr "リモート画面を準備中…"
+
+msgid "Connected. Waiting for the first video frame."
+msgstr "接続しました。最初の画面を待っています。"
+
+msgid "Recording is disabled by the host."
+msgstr ""
+
+msgid "Recording requires Pro or higher."
+msgstr ""
+
+msgid "Recording saved."
+msgstr ""
+
+msgid "Recording ended and was saved."
+msgstr ""
+
+msgid "Export failed. Open captures to retry."
+msgstr ""
+
+msgid "Could not create the recording."
+msgstr ""
+
+msgid "Host support and bitrate application could not be confirmed. Please retry."
+msgstr ""
+
+msgid "Touchpad"
+msgstr "タッチパッド"
+
+msgctxt "overlay menu"
+msgid "AirDesk session"
+msgstr "リモートセッション"
+
+msgctxt "overlay menu"
+msgid "Controller profile"
+msgstr "コントローラー配置"
+
+msgctxt "overlay menu"
+msgid "Keyboard layout slot"
+msgstr "キーボード配置"
+
+msgctxt "overlay menu"
+msgid "Mouse mode"
+msgstr "マウスモード"
+
+msgctxt "overlay menu"
+msgid "Render pacing"
+msgstr "フレームペーシング"
+
+msgctxt "overlay menu"
+msgid "Video scale"
+msgstr "画面の表示方法"
+
+msgctxt "overlay menu"
+msgid "Audio"
+msgstr "オーディオ"
+
+msgctxt "overlay menu"
+msgid "Send remote keys"
+msgstr "ショートカット送信"
+
+msgctxt "overlay menu"
+msgid "Custom shortcuts"
+msgstr "カスタムショートカット"
+
+msgctxt "overlay menu"
+msgid "Toggle full keyboard"
+msgstr "フルキーボードの表示切替"
+
+msgctxt "overlay menu"
+msgid "Toggle keyboard profile"
+msgstr "キーボード配置の表示切替"
+
+msgctxt "overlay menu"
+msgid "Toggle special keys"
+msgstr "特殊キーの表示切替"
+
+msgctxt "overlay menu"
+msgid "Reset keyboard layout"
+msgstr "キーボード配置をリセット"
+
+msgctxt "overlay menu"
+msgid "Import keyboard layout"
+msgstr "キーボード配置を読み込む"
+
+msgctxt "overlay menu"
+msgid "Export keyboard layout"
+msgstr "キーボード配置を書き出す"
+
+msgctxt "overlay menu"
+msgid "Import special keys"
+msgstr "特殊キーを読み込む"
+
+msgctxt "overlay menu"
+msgid "Reset special keys"
+msgstr "特殊キーをリセット"
+
+msgctxt "overlay menu"
+msgid "Pan/zoom mode"
+msgstr "拡大・移動"
+
+msgctxt "overlay menu"
+msgid "Virtual controller"
+msgstr "仮想コントローラー"
+
+msgctxt "overlay menu"
+msgid "Upload clipboard text"
+msgstr "クリップボードを送信"
+
+msgctxt "overlay menu"
+msgid "Fetch host clipboard"
+msgstr "クリップボードを取得"
+
+msgctxt "overlay menu"
+msgid "Upload file"
+msgstr "ファイルを送信"
+
+msgctxt "overlay menu"
+msgid "Export received file"
+msgstr "受信ファイルを保存"
+
+msgctxt "overlay menu"
+msgid "Request video refresh"
+msgstr "映像を更新"
+
+msgctxt "overlay menu"
+msgid "Disconnect"
+msgstr "切断"
+
+msgctxt "overlay menu"
+msgid "Touch sensitivity"
+msgstr "タッチ感度"
+
+msgctxt "overlay menu"
+msgid "Received files"
+msgstr "受信ファイル"
+
+msgctxt "overlay menu"
+msgid "Default"
+msgstr "標準"
+
+msgctxt "overlay menu"
+msgid "Low controls"
+msgstr "下部に配置"
+
+msgctxt "overlay menu"
+msgid "High controls"
+msgstr "上部に配置"
+
+msgctxt "overlay menu"
+msgid "L3/R3 only"
+msgstr "L3/R3のみ"
+
+msgctxt "overlay menu"
+msgid "Absolute mouse"
+msgstr "絶対座標"
+
+msgctxt "overlay menu"
+msgid "Relative mouse"
+msgstr "相対座標"
+
+msgctxt "overlay menu"
+msgid "Local cursor"
+msgstr "ローカルカーソルを表示"
+
+msgctxt "overlay menu"
+msgid "Warp 2 (experimental)"
+msgstr "Warp 2（実験的）"
+
+msgctxt "overlay menu"
+msgid "Warp (experimental)"
+msgstr "Warp（実験的）"
+
+msgctxt "overlay menu"
+msgid "Low latency"
+msgstr "低遅延"
+
+msgctxt "overlay menu"
+msgid "Balanced"
+msgstr "バランス"
+
+msgctxt "overlay menu"
+msgid "Balanced with FPS limit"
+msgstr "FPS制限付きバランス"
+
+msgctxt "overlay menu"
+msgid "Smoothest video"
+msgstr "滑らかな映像"
+
+msgctxt "overlay menu"
+msgid "Fit"
+msgstr "画面に合わせる"
+
+msgctxt "overlay menu"
+msgid "Fill"
+msgstr "画面を埋める"
+
+msgctxt "overlay menu"
+msgid "Stretch"
+msgstr "画面に引き伸ばす"
+
+msgctxt "overlay menu"
+msgid "Stereo"
+msgstr "ステレオ"
+
+msgctxt "overlay menu"
+msgid "5.1 surround"
+msgstr "5.1サラウンド"
+
+msgctxt "overlay menu"
+msgid "7.1 surround"
+msgstr "7.1サラウンド"
+
+msgctxt "overlay menu"
+msgid "Audio effects"
+msgstr "オーディオ効果"
+
+msgctxt "overlay menu"
+msgid "On"
+msgstr "オン"
+
+msgctxt "overlay menu"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "overlay menu"
+msgid "Custom"
+msgstr "カスタム"
+
+msgctxt "overlay menu"
+msgid "Slot"
+msgstr "スロット"
+
+msgctxt "overlay menu"
+msgid "Empty"
+msgstr "未設定"
+
+msgctxt "overlay menu"
+msgid "Edit custom shortcuts"
+msgstr "カスタムショートカットを編集"
+
+msgctxt "overlay menu"
+msgid "Keyboard layout"
+msgstr "キーボード配置"
+
+msgctxt "overlay menu"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "overlay menu"
+msgid "Log overlay"
+msgstr "ログオーバーレイ"
+
+
+msgid "Could not start PIP mode. Check the app's PIP permission."
+msgstr ""
+
+msgid "Could not release controller input. Try again."
+msgstr ""
+
+msgid "Use Delete, Move, or Size to edit each WASD button. Tap Hide on OSC when done."
+msgstr ""
+
+msgid "Could not activate the virtual display. In Settings > Display, tap Add display."
+msgstr "仮想ディスプレイを有効にできませんでした。設定 > ディスプレイで「ディスプレイを追加」を押してください。"
+
+msgid "Hardware encoding is unavailable. Switched to CPU encoding."
+msgstr "ハードウェアエンコードを使用できないため、CPUエンコードに切り替えました。"
+
+#. Mobile Rust messages.
+msgid "Install link sent to your account email."
+msgstr "アカウントのメールにインストールリンクを送信しました。"
+
+msgid "Could not send the install link. Try again later."
+msgstr "インストールリンクを送信できませんでした。しばらくしてからもう一度お試しください。"
+
+msgid "Connection permission was revoked"
+msgstr "接続権限が取り消されました"
+
+msgid "Connection permission expired or was revoked"
+msgstr "接続の権限が期限切れか取り消されました"
+
+msgid "The connection ended"
+msgstr "接続が終了しました"
+
+msgid "Error code: "
+msgstr "エラーコード: "
+
+msgid "Please sign in again before connecting."
+msgstr "再度ログインしてから接続してください。"
+
+msgid "Check your connection permission and try again."
+msgstr "接続権限を確認してから再試行してください。"
+
+msgid "Check that the computer is turned on and online."
+msgstr "コンピューターの電源とオンライン状態を確認してください。"
+
+msgid "The connection was not approved. Check with the other person."
+msgstr "接続が承認されませんでした。相手に確認してください。"
+
+msgid "Could not verify the computer's security information. Please reconnect."
+msgstr "コンピューターのセキュリティ情報を確認できません。再接続してください。"
+
+msgid "Could not connect to the computer. Please try again."
+msgstr "コンピューターに接続できませんでした。もう一度お試しください。"
+
+msgid "Streaming preferences saved. Video changes apply to the next connection."
+msgstr "ストリーミング設定を保存しました。映像設定は次回の接続に適用されます。"
+
+msgid "Streaming preferences could not be saved. Try again."
+msgstr "ストリーミング設定を保存できませんでした。もう一度お試しください。"
+
+msgid "ERR-2008: Connection permission was revoked.{detail}"
+msgstr ""
+
+msgid "ERR-2008: Connection permission expired or was revoked."
+msgstr ""
+
+msgid "ERR-2007: The connection ended."
+msgstr ""
+
+msgid "ERR-2007: The connection was lost. ({code})"
+msgstr ""
+
+msgid "ERR-2007: The connection ended; the reason is unknown."
+msgstr ""
+
+msgid "Second display: {detail}"
+msgstr ""
+
+msgid "Connecting to computer…"
+msgstr "コンピューターに接続中…"
+
+msgid "Establishing a secure connection."
+msgstr "安全な接続を確立しています。"
+
+msgid "Preparing the connection. Please wait a moment."
+msgstr "接続を準備しています。しばらくお待ちください。"
+
+
+#. Merged from i18n staging.
+msgid "Ending remote support"
+msgstr "接続を終了しています"
+
+msgid "Remote support is connected"
+msgstr "リモートサポートを受けています"
+
+msgid "Remote support is paused"
+msgstr "サポートを一時停止しています"
+
+msgid "The request could not be completed"
+msgstr "処理できませんでした"
+
+msgid "Ready for remote support"
+msgstr "リモートサポートを受けられます"
+
+msgid "Applying changes"
+msgstr "変更を適用しています"
+
+msgid "Preparing remote support"
+msgstr "リモートサポートを準備しています"
+
+msgid "Remote support request"
+msgstr "リモートサポートの接続リクエスト"
+
+msgid "Allowing access permits screen viewing, keyboard and mouse control, terminal commands, and file or settings changes. Check who is helping and why."
+msgstr "許可すると、画面の表示、キーボードとマウスの操作、コマンド実行、ファイルや設定の変更が可能です。相手と目的を確認してください。"
+
+msgid "Give the number below to your helper."
+msgstr "下の番号をサポート担当者に伝えてください。"
+
+msgid "Support number copied"
+msgstr "サポート番号をコピーしました"
+
+msgid "Your support number"
+msgstr "サポート番号"
+
+msgid "Copied"
+msgstr "コピー済み"
+
+msgctxt "support host"
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Your approval is required to view and control this computer."
+msgstr "許可するまで、画面の表示や操作はできません。"
+
+msgctxt "support host"
+msgid "Access permissions"
+msgstr "接続の権限"
+
+msgid "Screen · Keyboard · Mouse"
+msgstr "画面・キーボード・マウス"
+
+msgid "Only available to the helper you approve"
+msgstr "接続を許可した相手のみ利用できます"
+
+msgid "Approved sessions can run commands and change files or settings"
+msgstr "許可した接続でコマンドを実行し、ファイルや設定を変更できます"
+
+msgid "Only limits CPU encoding. Hardware encoding keeps its existing FPS."
+msgstr "CPUエンコードのみに適用されます。ハードウェアのFPSは変わりません。"
+
+msgid "For this run only. Pause and resume support to apply."
+msgstr "この実行中のみ保持します。サポートを停止して再開すると適用されます。"
+
+msgctxt "support host"
+msgid "Disconnect"
+msgstr "切断"
+
+msgid "Check who is helping and why."
+msgstr "相手とサポートの目的を確認してください。"
+
+msgid "Reject requests for your number or remote access from strangers."
+msgstr "知らない相手から番号や接続許可を求められたら、拒否してください。"
+
+msgid "Closing this window ends remote connections and terminals."
+msgstr "このウィンドウを閉じると接続とターミナルが終了します。"
+
+msgid "Appearance"
+msgstr "画面テーマ"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Slint and third-party license information"
+msgstr "Slintと外部コンポーネントのライセンス情報"
+
+msgid "Slint attribution. Third-party licenses are included in the portable package."
+msgstr "Slintおよび外部コンポーネントのライセンス全文は配布ファイルに同梱されています。"
+
+msgid "Open the Slint website"
+msgstr "Slintのウェブサイトを開く"
+
+msgid "Allowing this request lets the helper view this computer and control its keyboard and mouse."
+msgstr "許可すると、相手がこのコンピューターの画面を表示し、キーボードとマウスで操作できます。"
+
+msgid "Screen viewing · Keyboard · Mouse"
+msgstr "画面表示・キーボード・マウス"
+
+msgid "Terminal included · Commands can change files and settings"
+msgstr "ターミナル有効・コマンド実行とファイルや設定の変更が可能"
+
+msgid "Check who requested access and why before allowing it."
+msgstr "相手とサポートの目的を確認してから許可してください。"
+
+msgid "Read remote command terms"
+msgstr "リモートコマンド利用規約を見る"
+
+msgid "Agree to this connection's terms"
+msgstr "この接続の規約に同意します"
+
+msgid "I agree to the remote command terms for this connection"
+msgstr "この接続のリモートコマンド利用規約に同意します"
+
+msgid "Select the terms checkbox yourself, then choose Allow."
+msgstr "利用規約のチェックボックスを自分で選択してから、許可を押してください。"
+
+msgctxt "support host"
+msgid "Allow"
+msgstr "許可"
+
+msgid "You must explicitly agree to the terms for this connection before allowing it."
+msgstr "この接続の利用規約に自分で同意する必要があります。"
+
+msgid "Press Esc to reject the request."
+msgstr "Esc キーでも拒否できます。"
+
+msgid "Unsupported file name: {detail}"
+msgstr ""
+
+msgid "Could not create a transfer identifier"
+msgstr ""
+
+msgid "File transfer encryption is not supported"
+msgstr ""
+
+msgid "SHA-256 initialization failed"
+msgstr ""
+
+msgid "SHA-256 is not supported"
+msgstr ""
+
+msgid "SHA-256 calculation failed"
+msgstr ""
+
+msgid "Not a valid absolute file path"
+msgstr ""
+
+msgid "Symbolic links and linked folders cannot be transferred"
+msgstr ""
+
+msgid "Could not read the file"
+msgstr ""
+
+msgid "The file changed during the transfer"
+msgstr ""
+
+msgid "The same transfer is in progress on another connection"
+msgstr ""
+
+msgid "The file list is too large or empty"
+msgstr ""
+
+msgid "Invalid file size"
+msgstr ""
+
+msgid "The file is too large"
+msgstr ""
+
+msgid "Invalid file information"
+msgstr ""
+
+msgid "The total file size is too large"
+msgstr ""
+
+msgid "Duplicate file names, or names that differ only in case"
+msgstr ""
+
+msgid "Invalid folder structure"
+msgstr ""
+
+msgid "The connection was closed or file transfer is not permitted"
+msgstr ""
+
+msgid "File transfer cancelled. Send again to resume"
+msgstr ""
+
+msgid "Could not create a file transfer packet"
+msgstr ""
+
+msgid "No file transfer path is available"
+msgstr ""
+
+msgid "The file transfer path is not responding"
+msgstr ""
+
+msgid "File reception cancelled"
+msgstr ""
+
+msgid "The other PC could not save the file"
+msgstr ""
+
+msgid "Stopped waiting for the other PC to confirm receipt. Send again to resume"
+msgstr ""
+
+msgid "Could not save the received file to disk"
+msgstr ""
+
+msgid "The file list is nested too deeply"
+msgstr ""
+
+msgid "Invalid recovery identifier"
+msgstr ""
+
+msgid "The saved transfer information does not match"
+msgstr ""
+
+msgid "Could not save the resume information"
+msgstr ""
+
+msgid "Invalid partial file"
+msgstr ""
+
+msgid "Invalid file index"
+msgstr ""
+
+msgid "The file receive position does not match"
+msgstr ""
+
+msgid "Could not open the partial file"
+msgstr ""
+
+msgid "Could not save the received file"
+msgstr ""
+
+msgid "Could not save an empty file"
+msgstr ""
+
+msgid "The file did not arrive completely"
+msgstr ""
+
+msgid "File verification failed. Send again to recover"
+msgstr ""
+
+msgid "The file list has not been verified yet"
+msgstr ""
+
+msgid "Some files are incomplete"
+msgstr ""
+
+msgid "A file that resolves to the same name already exists on this PC"
+msgstr ""
+
+msgid "Could not create the received folder"
+msgstr ""
+
+msgid "Could not publish the received file"
+msgstr ""
+
+msgid "Could not deliver the received files"
+msgstr ""
+
+msgid "Could not place the received files on the clipboard"
+msgstr ""
+
+msgid "Another file transfer is in progress"
+msgstr ""
+
+msgid "The file list size or order is invalid"
+msgstr ""
+
+msgid "Duplicate file list"
+msgstr ""
+
+msgid "Invalid restart request"
+msgstr ""
+
+msgid "Could not reset the partial file"
+msgstr ""
+
+msgid "Invalid save confirmation position"
+msgstr ""
+
+msgid "Unsupported file transfer request"
+msgstr ""
+
+msgid "The file receive queue is full. Send again to resume"
+msgstr ""
+
+msgid "Could not save the recovery identifier"
+msgstr ""
+
+msgid "The saved recovery identifier is invalid"
+msgstr ""
+
+msgid "A file transfer is already in progress"
+msgstr ""
+
+msgid "The file list is too large"
+msgstr ""
+
+msgid "Only regular files and folders can be transferred"
+msgstr ""
+
+msgid "Up to 10,000 files and folders can be transferred"
+msgstr ""
+
+msgid "The source folder path changed"
+msgstr ""
+
+msgid "Unsupported source name"
+msgstr ""
+
+msgid "The other PC reported an invalid resume position"
+msgstr ""
+
+msgid "Could not open the file to send"
+msgstr ""
+
+msgid "Invalid save confirmation response"
+msgstr ""
+
+msgid "Invalid file save confirmation response"
+msgstr ""
+
+msgid "Update the app on both PCs to the latest version to transfer folders"
+msgstr ""
+
+msgid "More than 10 files. Compressing them into a ZIP before sending is recommended. Selected: {detail}"
+msgstr ""
+
+msgid "Saved {count} file(s)/folder(s) · Downloads/AirDesk"
+msgstr "ファイル/フォルダー {count}件の保存を確認しました · Downloads/AirDesk"
+
+msgid "Sending files…"
+msgstr "ファイルを送信中…"
+
+msgid "Files sent. Older peers may not confirm save · Downloads/AirDesk"
+msgstr "ファイルを送信しました。旧バージョンは保存確認に非対応です · Downloads/AirDesk"
+
+msgid "No file transfer started. Check that files are copied on the host."
+msgstr "ファイルの受信が始まりませんでした。ホストでファイルをコピーしたか確認してください。"
+
+msgid "Requested clipboard files from the host"
+msgstr "ホストにクリップボードのファイルを要求しました"
+
+msgid "Could not request clipboard files"
+msgstr "クリップボードのファイルを要求できませんでした"
+
+msgid "The clipboard can only be sent to a connected remote PC"
+msgstr ""
+
+msgid "The file transfer connection was closed"
+msgstr ""
+
+msgid "The other PC does not support folder transfers. Choose Send as ZIP."
+msgstr ""
+
+msgid "Files received. Ready to paste"
+msgstr ""
+
+msgid "Verifying received files…"
+msgstr ""
+
+msgid "Receiving files…"
+msgstr ""
+
+msgid "Confirming save on remote PC… · Downloads/AirDesk"
+msgstr "相手PCでの保存を確認中… · Downloads/AirDesk"
+
+msgid "Screen recording requires Pro or higher"
+msgstr ""
+
+msgid "Checking transfer status"
+msgstr "転送状態を確認中"
+
+msgid "Saved for this computer and used when you connect."
+msgstr "このコンピューターに保存され、接続時に適用されます。"
+
+msgid "Offset sticks"
+msgstr "オフセットスティック"
+
+msgid "Symmetric sticks"
+msgstr "対称スティック"
+
+msgid "Racing"
+msgstr "レース"
+
+msgid "Fighting"
+msgstr "格闘"
+
+msgid "Retro"
+msgstr "レトロ"
+
+msgid "Shooter"
+msgstr "シューター"
+
+msgid "Left stick high, D-pad low (Xbox style)"
+msgstr "左スティック上、十字キー下 (Xbox風)"
+
+msgid "D-pad high, sticks low (PlayStation style)"
+msgstr "十字キー上、スティック下 (PlayStation風)"
+
+msgid "Steering stick with large gas and brake"
+msgstr "ステアリング用スティックと大きなアクセル・ブレーキ"
+
+msgid "Large D-pad and six arcade buttons"
+msgstr "大きな十字キーとアーケード6ボタン"
+
+msgid "D-pad and face buttons, no sticks"
+msgstr "十字キーとABXY、スティックなし"
+
+msgid "Move and aim sticks with a large fire button"
+msgstr "移動・照準スティックと大きな発射ボタン"
+
+msgid "Button sliding"
+msgstr "ボタンスライド"
+
+msgid "Slide a held finger onto another button, like B to Y."
+msgstr "押したまま指を別のボタンへ動かすとそのボタンが押されます (例: B → Y)。"
+
+msgid "Turbo buttons"
+msgstr "ターボボタン"
+
+msgid "While a turbo button is held, it is pressed and released repeatedly."
+msgstr "ターボボタンは押している間、自動で押す・離すを繰り返します。"
+
+msgid "{rate} presses per second"
+msgstr "毎秒{rate}回"
+
+msgid "System Audio Recording"
+msgstr "システムオーディオ録音"
+
+msgid "Streams this Mac's sound to the viewer."
+msgstr "このMacのサウンドを閲覧者に送信します。"
+
+msgid "Allow System Audio Recording"
+msgstr "システムオーディオ録音を許可"
+
+msgid "Input Monitoring is used when this Mac captures client input. System Audio Recording streams this Mac's sound."
+msgstr "入力監視はこのMacがクライアント入力を受け取るときに使用します。システムオーディオ録音はこのMacのサウンドを送信するときに使用します。"
+
+msgid "Voice input"
+msgstr "音声入力"
+
+msgid "Listening…"
+msgstr "聞き取り中…"
+
+msgid "Recognizing…"
+msgstr "認識中…"
+
+msgid "Finishing…"
+msgstr "終了中…"
+
+msgid "Speak now. The text is typed on the remote computer."
+msgstr "話してください。認識した文字がリモートコンピューターに入力されます。"
+
+msgid "Typed on the remote computer"
+msgstr "リモートコンピューターに入力しました"
+
+msgid "Cancel voice input"
+msgstr "音声入力をキャンセル"
+
+msgid "No speech was recognized."
+msgstr "音声を認識できませんでした。"
+
+msgid "Microphone permission is required for voice input."
+msgstr "音声入力にはマイクの許可が必要です。"
+
+msgid "Speech recognition needs a network connection."
+msgstr "音声認識にはネットワーク接続が必要です。"
+
+msgid "Voice input stopped."
+msgstr "音声入力を停止しました。"
+
+msgid "Could not send the text to the remote computer."
+msgstr "リモートコンピューターにテキストを送信できませんでした。"
+
+msgid "Connect to a computer to use voice input."
+msgstr "コンピューターに接続すると音声入力を使えます。"
+
+msgid "Speech recognition is not available on this device."
+msgstr "このデバイスでは音声認識を使用できません。"
+
+msgid "Turn off microphone streaming to use voice input."
+msgstr "音声入力を使うにはマイク送信をオフにしてください。"
+
+msgid "Allow Speech Recognition for AirDesk in Settings to use voice input."
+msgstr "音声入力を使うには設定でAirDeskの音声認識を許可してください。"
+
+# Mobile share sheet → send to computer
+msgid "Could not read the shared files."
+msgstr "共有されたファイルを読み込めませんでした。"
+
+msgid "Preparing files…"
+msgstr "ファイルを準備中…"
+
+msgid "{count} files"
+msgstr "{count} 個のファイル"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Send here"
+msgstr "ここに送信"
+
+msgid "Could not prepare the share"
+msgstr "共有を準備できませんでした"
+
+msgid "Choose a computer to send to"
+msgstr "送信先のコンピューターを選択してください"
+
+msgid "The computer is not ready to receive files. Try again."
+msgstr "コンピューターがまだファイルを受け取れません。もう一度お試しください。"
+
+msgid "Could not send the text."
+msgstr "テキストを送信できませんでした。"
+
+msgid "Text copied to the computer's clipboard"
+msgstr "コンピューターのクリップボードにテキストをコピーしました"
+
+msgid "Text copied to {name}'s clipboard"
+msgstr "{name} のクリップボードにテキストをコピーしました"
+
+msgid "Files sent to Downloads/AirDesk"
+msgstr "ファイルを Downloads/AirDesk に送信しました"
+
+msgid "Files sent to {name} (Downloads/AirDesk)"
+msgstr "{name} にファイルを送信しました (Downloads/AirDesk)"
+
+msgid "Could not send. Choose a computer again."
+msgstr "送信できませんでした。もう一度コンピューターを選択してください。"
+
+msgid "File transfer results"
+msgstr "ファイル転送の結果"
+
+msgid "Files are saved in Downloads/AirDesk on the remote PC."
+msgstr "ファイルはリモート PC の Downloads/AirDesk に保存されます。"
+
+msgid "Saved in Downloads/AirDesk on the remote PC."
+msgstr "リモート PC の Downloads/AirDesk に保存されます。"
+
+msgid "Sending to the computer…"
+msgstr "コンピューターに送信中…"
+
+msgid "Text copied to the computer clipboard"
+msgstr "コンピューターのクリップボードにテキストをコピーしました"
+
+msgid "Files saved in Downloads/AirDesk on the computer"
+msgstr "コンピューターの Downloads/AirDesk にファイルを保存しました"
+
+msgid "Could not send"
+msgstr "送信できませんでした"
+
+msgid "Could not connect to the computer"
+msgstr "コンピューターに接続できませんでした"
+
+msgid "Text sent"
+msgstr "テキストを送信しました"
+
+msgid "Could not send text"
+msgstr "テキストを送信できませんでした"
+
+msgid "Copied to the remote PC clipboard"
+msgstr "リモート PC のクリップボードにコピーしました"
+
+msgid "Session disconnected"
+msgstr "セッションが切断されました"
+
+msgid "Computer assignment requests"
+msgstr "コンピューター割り当てのリクエスト"
+
+msgid "Computer assigned to the team"
+msgstr "チームにコンピューターを割り当てました"
+
+msgid "Computer request declined"
+msgstr "リクエストを辞退しました"
+
+msgid "Could not respond to the computer request."
+msgstr "リクエストに応答できませんでした。"
+
+msgid "Sharing permissions"
+msgstr "共有の権限"
+
+msgid "Sharing permissions saved"
+msgstr "共有の権限を保存しました"
+
+msgid "Could not save sharing permissions."
+msgstr "共有の権限を保存できませんでした。"
+
+msgid "Choose what this friend can use on each of your computers. New shares allow everything."
+msgstr "コンピューターごとに、この友達が使える機能を選択します。新しい共有ではすべて許可されます。"
+
+msgid "You have no computers to share yet."
+msgstr "共有できるコンピューターがまだありません。"
+
+
+msgid "Turn on hosting on this computer to share it with team members."
+msgstr "チームメンバーと共有するには、このコンピューターのホスティングをオンにしてください。"
+
+msgid "Could not load team members."
+msgstr "チームメンバーを読み込めませんでした。"
+
+msgid "The team default denies keyboard and mouse. More specific settings can override it."
+msgstr "チームの既定値ではキーボードとマウスの入力が拒否されます。下位の設定で上書きできます。"
+
+msgid "Inherit"
+msgstr "継承"
+
+msgid "Permissions inherited"
+msgstr "権限を継承中"
+
+msgid "Custom permissions"
+msgstr "個別の権限を使用中"
+
+msgid "Inherit permissions"
+msgstr "権限を継承"
+
+msgid "Deny"
+msgstr "拒否"
+
+msgid "AI MCP"
+msgstr "AI MCP"
+
+msgid "Share this computer with {}"
+msgstr "{} さんとこのコンピューターを共有"
+
+msgid "Owner"
+msgstr "オーナー"
+
+msgid "Admin"
+msgstr "管理者"
+
+msgid "Member"
+msgstr "メンバー"
+
+msgid "Viewer"
+msgstr "閲覧者"
+
+msgid "{} · You"
+msgstr "{} · 自分"
+
+msgid "Could not change team sharing."
+msgstr "チーム共有を変更できませんでした。"
+
+msgid "Share this computer ({}) with a group, which includes every group below it, or with individual members."
+msgstr "このコンピューター（{}）をグループ（下位グループすべてを含む）またはメンバー個別に共有します。"
+
+msgid "Add group"
+msgstr "グループを追加"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "Members"
+msgstr "メンバー"
+
+msgid "{} members"
+msgstr "メンバー {} 人"
+
+msgid "Add a group under {}"
+msgstr "{} の下にグループを追加"
+
+msgid "Delete group {}"
+msgstr "グループ {} を削除"
+
+msgid "Share this computer with group {}"
+msgstr "グループ {} とこのコンピューターを共有"
+
+msgid "New group"
+msgstr "新しいグループ"
+
+msgid "New group under {}"
+msgstr "{} の下に新しいグループ"
+
+msgid "Group name"
+msgstr "グループ名"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Delete group {}?"
+msgstr "グループ {} を削除しますか？"
+
+msgid "Its subgroups move up one level, its members leave the group, and computers shared with it are no longer shared through it."
+msgstr "下位グループは1階層上に移動し、メンバーはグループから外れ、このグループで共有していたコンピューターはこのグループ経由では共有されなくなります。"
+
+msgid "Groups for {}"
+msgstr "{} さんのグループ"
+
+msgid "This team has no groups yet."
+msgstr "このチームにはまだグループがありません。"
+
+msgid "Could not change the team group."
+msgstr "チームグループを変更できませんでした。"
+
+msgid "Search groups and members"
+msgstr "グループ・メンバーを検索"
+
+msgid "Name, email or group"
+msgstr "名前、メール、またはグループ"
+
+msgid "Shared with this PC"
+msgstr "このPCを共有中"
+
+msgid "Expand {}"
+msgstr "{} を展開"
+
+msgid "Collapse {}"
+msgstr "{} を折りたたむ"
+
+msgid "{} groups · {} members"
+msgstr "グループ {} 件 · メンバー {} 人"
+
+msgid "Members ({})"
+msgstr "メンバー ({})"
+
+msgid "Select all shown"
+msgstr "表示中をすべて選択"
+
+msgid "No groups or members match."
+msgstr "一致するグループやメンバーはありません。"
+
+msgid "Show {} more members"
+msgstr "メンバーをさらに {} 人表示"
+
+msgid "{} selected"
+msgstr "{} 人を選択中"
+
+msgid "Add to group"
+msgstr "グループに追加"
+
+msgid "Remove from group"
+msgstr "グループから削除"
+
+msgid "Share this PC"
+msgstr "このPCを共有"
+
+msgid "{} members · {} with subgroups"
+msgstr "メンバー {} 人 · 下位グループを含め {} 人"
+
+msgid "Select {}"
+msgstr "{} を選択"
+
+msgid "Add selected members to a group"
+msgstr "選択したメンバーをグループに追加"
+
+msgid "Remove selected members from a group"
+msgstr "選択したメンバーをグループから削除"
+
+msgid "Search groups"
+msgstr "グループを検索"
+
+msgid "No groups match."
+msgstr "一致するグループはありません。"
+
+msgid "Not allowed on this computer:"
+msgstr "このコンピューターで許可されていません:"
+
+msgid "keyboard and mouse"
+msgstr "キーボード・マウス"
+
+msgid "audio"
+msgstr "オーディオ"
+
+msgid "clipboard"
+msgstr "クリップボード"
+
+msgid "file transfer"
+msgstr "ファイル転送"
+
+msgid "Show password"
+msgstr "パスワードを表示"
+
+msgid "Hide password"
+msgstr "パスワードを隠す"
+
+msgid "Latched"
+msgstr "固定"
+
+msgid "Remote keyboard"
+msgstr "リモートキーボード"
+
+msgid "Hold a modifier to latch"
+msgstr "修飾キーを長押しで固定"
+
+msgctxt "gamepad control"
+msgid "Stick"
+msgstr "スティック"
+
+msgctxt "gamepad control"
+msgid "Pad"
+msgstr "パッド"
+
+msgid "Remote gesture guide"
+msgstr "リモート画面の操作ガイド"
+
+msgid "Close guide"
+msgstr "ガイドを閉じる"
+
+msgid "Current mode: Direct mouse"
+msgstr "現在のモード: ダイレクトマウス"
+
+msgid "Current mode: Trackpad"
+msgstr "現在のモード: トラックパッド"
+
+msgid "One-finger tap · Left click"
+msgstr "1本指タップ · 左クリック"
+
+msgid "One-finger long press · Right click"
+msgstr "1本指で長押し · 右クリック"
+
+msgid "One-finger move · Left drag at the touched position"
+msgstr "1本指で移動 · タッチした位置で左ドラッグ"
+
+msgid "One-finger move · Move pointer\nDouble tap then move · Left drag"
+msgstr "1本指で移動 · ポインターを移動\nダブルタップして移動 · 左ドラッグ"
+
+msgid "Two-finger move · Remote scroll"
+msgstr "2本指で移動 · リモートスクロール"
+
+msgid "Two-finger tap · Right click\nThree-finger vertical move · Remote scroll"
+msgstr "2本指タップ · 右クリック\n3本指で上下に移動 · リモートスクロール"
+
+msgid "Three-finger tap · Menu\nFour-finger tap · Keyboard"
+msgstr "3本指タップ · メニュー\n4本指タップ · キーボード"
+
+msgid "Change zoom and input mode in the toolbar."
+msgstr "画面の倍率と入力モードはツールバーで変更できます。"
+
+msgid "Unchecked"
+msgstr "未選択"
+
+msgid "PC"
+msgstr "PC"
