@@ -601,3 +601,18 @@ msgstr ""
 
 msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
 msgstr ""
+
+msgid "This computer is already online."
+msgstr "This computer is already online."
+
+msgid "Wake request delivered to an AirDesk device. Check the computer's status after it starts."
+msgstr "Wake request delivered to an AirDesk device. Check the computer's status after it starts."
+
+msgid "Last device activity"
+msgstr "Last device activity"
+
+msgid "Remote boot"
+msgstr "Remote boot"
+
+msgid "Unknown"
+msgstr "Unknown"

@@ -4821,3 +4821,72 @@ msgstr ""
 
 msgid "Windows asks for administrator permission to install the update."
 msgstr ""
+
+msgid "My devices"
+msgstr "My devices"
+
+msgid "View devices and send a wake signal"
+msgstr "View devices and send a wake signal"
+
+msgid "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
+msgstr "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
+
+msgid "No devices found."
+msgstr "No devices found."
+
+msgid "Enable Wake-on-LAN on this computer first"
+msgstr "Enable Wake-on-LAN on this computer first"
+
+msgid "Remote boot is disabled for this device"
+msgstr "Remote boot is disabled for this device"
+
+msgid "Remote boot enabled"
+msgstr "Remote boot enabled"
+
+msgid "Wake PC"
+msgstr "Wake PC"
+
+msgid "The server does not provide a last signal time."
+msgstr "The server does not provide a last signal time."
+
+msgid "Wake request sent to available devices. The computer may take a moment to start."
+msgstr "Wake request sent to available devices. The computer may take a moment to start."
+
+msgid "This computer is already online."
+msgstr "This computer is already online."
+
+msgid "Remote boot setting updated."
+msgstr "Remote boot setting updated."
+
+msgid "Could not refresh the device list: "
+msgstr "Could not refresh the device list: "
+
+msgid "Request failed: "
+msgstr "Request failed: "
+
+msgid "Please wait…"
+msgstr "Please wait…"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Last wake request (UTC):"
+msgstr "Last wake request (UTC):"
+
+msgid "No wake request recorded."
+msgstr "No wake request recorded."
+
+msgid "Wake request history is unavailable."
+msgstr "Wake request history is unavailable."
+
+msgid "Wake request sent, but saving its time could not be confirmed."
+msgstr "Wake request sent, but saving its time could not be confirmed."
+
+msgid "Last device activity"
+msgstr "Last device activity"
+
+msgid "Remote boot"
+msgstr "Remote boot"
+
+msgid "Unknown"
+msgstr "Unknown"

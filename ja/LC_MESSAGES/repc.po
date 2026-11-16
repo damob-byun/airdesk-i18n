@@ -4705,7 +4705,7 @@ msgid "Could not save the output. Refresh and select it again."
 msgstr ""
 
 msgid "Refresh devices"
-msgstr ""
+msgstr "デバイスを更新"
 
 msgid "Selected output"
 msgstr ""
@@ -5844,7 +5844,7 @@ msgid "Covers the host screen. Local keyboard and mouse remain available."
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "状態"
 
 msgid "Voice is sent only while the app is visible."
 msgstr ""
@@ -8589,3 +8589,72 @@ msgstr "AirDesk サービスをインストールします。管理者権限が�
 
 msgid "Windows asks for administrator permission to install the update."
 msgstr "アップデートのインストール時に Windows が管理者権限を求めます。"
+
+msgid "My devices"
+msgstr "マイデバイス"
+
+msgid "View devices and send a wake signal"
+msgstr "デバイスを確認して起動信号を送信"
+
+msgid "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
+msgstr "オフラインのコンピューターに起動を要求します。同じネットワークで別の AirDesk デバイスがオンラインである必要があります。信号の送信だけでは起動を確認できません。"
+
+msgid "No devices found."
+msgstr "デバイスが見つかりません。"
+
+msgid "Enable Wake-on-LAN on this computer first"
+msgstr "まずこのコンピューターで Wake-on-LAN を有効にしてください"
+
+msgid "Remote boot is disabled for this device"
+msgstr "このデバイスのリモート起動は無効です"
+
+msgid "Remote boot enabled"
+msgstr "リモート起動が有効です"
+
+msgid "Wake PC"
+msgstr "PCを起動"
+
+msgid "The server does not provide a last signal time."
+msgstr "サーバーは最後の信号時刻を提供していません。"
+
+msgid "Wake request sent to available devices. The computer may take a moment to start."
+msgstr "利用可能なデバイスに起動要求を送信しました。コンピューターの起動には時間がかかる場合があります。"
+
+msgid "This computer is already online."
+msgstr "このコンピューターはすでにオンラインです。"
+
+msgid "Remote boot setting updated."
+msgstr "リモート起動の設定を更新しました。"
+
+msgid "Could not refresh the device list: "
+msgstr "デバイス一覧を更新できませんでした: "
+
+msgid "Request failed: "
+msgstr "リクエストに失敗しました: "
+
+msgid "Please wait…"
+msgstr "しばらくお待ちください…"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+msgid "Last wake request (UTC):"
+msgstr "最後の起動要求 (UTC):"
+
+msgid "No wake request recorded."
+msgstr "記録された起動要求はありません。"
+
+msgid "Wake request history is unavailable."
+msgstr "起動要求の履歴を利用できません。"
+
+msgid "Wake request sent, but saving its time could not be confirmed."
+msgstr "起動要求を送信しましたが、時刻が保存されたか確認できませんでした。"
+
+msgid "Last device activity"
+msgstr "連携端末の最終アクティビティ"
+
+msgid "Remote boot"
+msgstr "リモート起動"
+
+msgid "Unknown"
+msgstr "不明"

@@ -1775,3 +1775,18 @@ msgstr "자동 시작을 껐습니다"
 
 msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
 msgstr "Windows 관리자 권한 요청을 거절해 업데이트를 설치하지 않았습니다. 다시 시도를 누르거나 AirDesk를 다시 시작하기 전까지는 다시 묻지 않습니다."
+
+msgid "This computer is already online."
+msgstr "이 컴퓨터는 이미 온라인 상태입니다."
+
+msgid "Wake request delivered to an AirDesk device. Check the computer's status after it starts."
+msgstr "AirDesk 기기에 켜기 요청을 전달했습니다. 잠시 후 컴퓨터의 상태를 확인하세요."
+
+msgid "Last device activity"
+msgstr "연결 기기 마지막 활동"
+
+msgid "Remote boot"
+msgstr "원격 부팅"
+
+msgid "Unknown"
+msgstr "확인 불가"

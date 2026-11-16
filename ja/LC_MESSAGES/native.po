@@ -1775,3 +1775,18 @@ msgstr "自動起動をオフにしました"
 
 msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
 msgstr "Windows の管理者権限が拒否されたため、アップデートはインストールされませんでした。「再試行」を選ぶか AirDesk を再起動するまで再度確認しません。"
+
+msgid "This computer is already online."
+msgstr "このコンピューターはすでにオンラインです。"
+
+msgid "Wake request delivered to an AirDesk device. Check the computer's status after it starts."
+msgstr "AirDesk デバイスに起動要求を届けました。しばらくしてコンピューターの状態を確認してください。"
+
+msgid "Last device activity"
+msgstr "連携端末の最終アクティビティ"
+
+msgid "Remote boot"
+msgstr "リモート起動"
+
+msgid "Unknown"
+msgstr "不明"

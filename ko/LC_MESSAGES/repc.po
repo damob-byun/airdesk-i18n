@@ -8588,3 +8588,72 @@ msgstr "AirDesk 서비스를 설치합니다. 관리자 권한이 필요합니�
 
 msgid "Windows asks for administrator permission to install the update."
 msgstr "업데이트를 설치할 때 Windows가 관리자 권한을 요청합니다."
+
+msgid "My devices"
+msgstr "내 기기 관리"
+
+msgid "View devices and send a wake signal"
+msgstr "기기를 확인하고 켜기 신호 보내기"
+
+msgid "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
+msgstr "오프라인 컴퓨터에 켜기 요청을 보냅니다. 같은 네트워크에 다른 AirDesk 기기가 온라인 상태여야 합니다. 신호 전송만으로 컴퓨터가 켜졌는지는 확인할 수 없습니다."
+
+msgid "No devices found."
+msgstr "기기가 없습니다."
+
+msgid "Enable Wake-on-LAN on this computer first"
+msgstr "먼저 이 컴퓨터에서 원격 부팅을 켜세요"
+
+msgid "Remote boot is disabled for this device"
+msgstr "이 기기의 원격 부팅이 꺼져 있습니다"
+
+msgid "Remote boot enabled"
+msgstr "원격 부팅 허용됨"
+
+msgid "Wake PC"
+msgstr "PC 켜기"
+
+msgid "The server does not provide a last signal time."
+msgstr "서버에서 마지막 신호 시각을 제공하지 않습니다."
+
+msgid "Wake request sent to available devices. The computer may take a moment to start."
+msgstr "사용 가능한 기기에 켜기 요청을 보냈습니다. 컴퓨터가 켜지기까지 시간이 걸릴 수 있습니다."
+
+msgid "This computer is already online."
+msgstr "이 컴퓨터는 이미 온라인 상태입니다."
+
+msgid "Remote boot setting updated."
+msgstr "원격 부팅 설정을 변경했습니다."
+
+msgid "Could not refresh the device list: "
+msgstr "기기 목록을 새로고침하지 못했습니다: "
+
+msgid "Request failed: "
+msgstr "요청에 실패했습니다: "
+
+msgid "Please wait…"
+msgstr "잠시 기다려 주세요…"
+
+msgid "Loading..."
+msgstr "불러오는 중..."
+
+msgid "Last wake request (UTC):"
+msgstr "마지막 켜기 요청 (UTC):"
+
+msgid "No wake request recorded."
+msgstr "기록된 켜기 요청이 없습니다."
+
+msgid "Wake request history is unavailable."
+msgstr "켜기 요청 이력을 사용할 수 없습니다."
+
+msgid "Wake request sent, but saving its time could not be confirmed."
+msgstr "켜기 요청을 보냈지만 요청 시각의 저장 여부를 확인하지 못했습니다."
+
+msgid "Last device activity"
+msgstr "연결 기기 마지막 활동"
+
+msgid "Remote boot"
+msgstr "원격 부팅"
+
+msgid "Unknown"
+msgstr "확인 불가"
