@@ -8373,3 +8373,9 @@ msgstr "未選択"
 
 msgid "PC"
 msgstr "PC"
+
+msgid "Zoom to 200% or restore the original size"
+msgstr "200%に拡大、または元のサイズに戻す"
+
+msgid "Three-finger tap · Zoom 200% / reset\nFour-finger tap · Keyboard"
+msgstr "3本指タップ · 200%拡大 / 元に戻す\n4本指タップ · キーボード"

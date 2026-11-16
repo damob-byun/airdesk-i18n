@@ -8372,3 +8372,9 @@ msgstr "선택 안 됨"
 
 msgid "PC"
 msgstr "PC"
+
+msgid "Zoom to 200% or restore the original size"
+msgstr "200%로 확대하거나 원래 크기로 되돌리기"
+
+msgid "Three-finger tap · Zoom 200% / reset\nFour-finger tap · Keyboard"
+msgstr "세 손가락 탭 · 200% 확대 / 원래대로\n네 손가락 탭 · 키보드"
