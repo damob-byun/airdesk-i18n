@@ -8128,8 +8128,8 @@ msgstr "共有の権限を保存しました"
 msgid "Could not save sharing permissions."
 msgstr "共有の権限を保存できませんでした。"
 
-msgid "Choose what this friend can use on each of your computers. New shares allow everything."
-msgstr "コンピューターごとに、この友達が使える機能を選択します。新しい共有ではすべて許可されます。"
+msgid "Choose what this friend can use on each of your computers. New shares allow everything except remote terminal and AI MCP, which stay off until you turn them on."
+msgstr "お使いのコンピューターごとに、この友達が使える機能を選んでください。新しい共有では、リモートターミナルとAI MCPを除くすべてが許可され、この2つはオンにするまでオフのままです。"
 
 msgid "You have no computers to share yet."
 msgstr "共有できるコンピューターがまだありません。"

@@ -4419,8 +4419,8 @@ msgstr "Sharing permissions saved"
 msgid "Could not save sharing permissions."
 msgstr "Could not save sharing permissions."
 
-msgid "Choose what this friend can use on each of your computers. New shares allow everything."
-msgstr "Choose what this friend can use on each of your computers. New shares allow everything."
+msgid "Choose what this friend can use on each of your computers. New shares allow everything except remote terminal and AI MCP, which stay off until you turn them on."
+msgstr "Choose what this friend can use on each of your computers. New shares allow everything except remote terminal and AI MCP, which stay off until you turn them on."
 
 msgid "You have no computers to share yet."
 msgstr "You have no computers to share yet."
