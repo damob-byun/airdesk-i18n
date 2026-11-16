@@ -8378,3 +8378,186 @@ msgstr "200%로 확대하거나 원래 크기로 되돌리기"
 
 msgid "Three-finger tap · Zoom 200% / reset\nFour-finger tap · Keyboard"
 msgstr "세 손가락 탭 · 200% 확대 / 원래대로\n네 손가락 탭 · 키보드"
+
+msgid "Drop to send to this folder"
+msgstr "여기에 놓으면 이 폴더로 보냅니다"
+
+msgid "Drop to receive into this folder"
+msgstr "여기에 놓으면 이 폴더로 받습니다"
+
+msgid "{} items"
+msgstr "{}개 항목"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Duplicate"
+msgstr "복제"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Show or hide this list"
+msgstr "이 목록 표시/숨기기"
+
+msgid "Rename the selected item"
+msgstr "선택한 항목 이름 바꾸기"
+
+msgid "Edit the selected file (nano keys)"
+msgstr "선택한 파일 바로 편집 (nano 단축키)"
+
+msgid "Duplicate the selected item"
+msgstr "선택한 항목 복제"
+
+msgid "Bring the other side's selection into this folder"
+msgstr "반대쪽에서 선택한 항목을 이 폴더로 가져오기"
+
+msgid "Delete the selected items"
+msgstr "선택한 항목 삭제"
+
+msgid "Select all items on this page"
+msgstr "이 페이지의 모든 항목 선택"
+
+msgid "Add or remove an item from the selection"
+msgstr "항목을 선택에 추가/제외"
+
+msgid "Move by one screen"
+msgstr "한 화면씩 이동"
+
+msgid "Previous or next page"
+msgstr "이전/다음 페이지"
+
+msgid "Drag"
+msgstr "드래그"
+
+msgid "Drag items to the other side to transfer them"
+msgstr "반대쪽으로 끌어다 놓아 전송"
+
+msgid "Delete permanently?"
+msgstr "영구적으로 삭제할까요?"
+
+msgid "{} selected items will be deleted from {}."
+msgstr "선택한 항목 {}개가 {}에서 삭제됩니다."
+
+msgid "‘{}’ will be deleted from {}."
+msgstr "‘{}’ 항목이 {}에서 삭제됩니다."
+
+msgid "the remote computer"
+msgstr "원격 컴퓨터"
+
+msgid "this computer"
+msgstr "이 컴퓨터"
+
+msgid "This cannot be undone. Folders are deleted with everything inside."
+msgstr "되돌릴 수 없습니다. 폴더는 안의 모든 항목과 함께 삭제됩니다."
+
+msgid "Modified"
+msgstr "수정됨"
+
+msgid "Text editor"
+msgstr "텍스트 편집기"
+
+msgid "Search"
+msgstr "찾기"
+
+msgid "Search backward"
+msgstr "뒤로 찾기"
+
+msgid "Search (to replace)"
+msgstr "찾기 (바꿀 내용)"
+
+msgid "Replace with"
+msgstr "바꿀 문자열"
+
+msgid "Enter line number, column number"
+msgstr "줄 번호, 열 번호 입력"
+
+msgid "Save modified file?"
+msgstr "수정한 파일을 저장할까요?"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "Cut line"
+msgstr "줄 잘라내기"
+
+msgid "Undo"
+msgstr "실행 취소"
+
+msgid "Replace"
+msgstr "바꾸기"
+
+msgid "Go to line"
+msgstr "줄 이동"
+
+msgid "Page up"
+msgstr "이전 화면"
+
+msgid "Page down"
+msgstr "다음 화면"
+
+msgid "Delete line"
+msgstr "줄 삭제"
+
+msgid "Redo"
+msgstr "다시 실행"
+
+msgid "Editor shortcuts (GNU nano compatible)"
+msgstr "편집기 단축키 (GNU nano 호환)"
+
+msgid "^ is Ctrl. M- is Alt, or press Esc and then the key."
+msgstr "^는 Ctrl, M-는 Alt입니다. Esc를 누른 뒤 키를 눌러도 됩니다."
+
+msgid "Close (asks to save changes)"
+msgstr "닫기 (변경 사항 저장 확인)"
+
+msgid "Search forward"
+msgstr "앞으로 찾기"
+
+msgid "Find next / previous"
+msgstr "다음/이전 찾기"
+
+msgid "Replace all"
+msgstr "모두 바꾸기"
+
+msgid "Go to line and column"
+msgstr "줄·열로 이동"
+
+msgid "Cut the current line (repeat to add lines)"
+msgstr "현재 줄 잘라내기 (반복하면 이어서 추가)"
+
+msgid "Copy the current line"
+msgstr "현재 줄 복사"
+
+msgid "Paste the cut lines"
+msgstr "잘라낸 줄 붙여넣기"
+
+msgid "Cut from the cursor to the end of the line"
+msgstr "커서부터 줄 끝까지 잘라내기"
+
+msgid "Delete the current line"
+msgstr "현재 줄 삭제"
+
+msgid "Previous / next page"
+msgstr "이전/다음 화면"
+
+msgid "Start / end of line"
+msgstr "줄의 처음/끝"
+
+msgid "First / last line"
+msgstr "첫 줄/마지막 줄"
+
+msgid "Up / down / left / right"
+msgstr "위/아래/왼쪽/오른쪽"
+
+msgid "Previous / next word"
+msgstr "이전/다음 단어"
+
+msgid "Delete character / backspace"
+msgstr "글자 삭제/백스페이스"
+
+msgid "Show the cursor position"
+msgstr "커서 위치 표시"

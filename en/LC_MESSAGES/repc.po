@@ -4605,3 +4605,192 @@ msgstr "clipboard"
 
 msgid "file transfer"
 msgstr "file transfer"
+
+msgid "Drop to send to this folder"
+msgstr ""
+
+msgid "Drop to receive into this folder"
+msgstr ""
+
+msgid "{} items"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Show or hide this list"
+msgstr ""
+
+msgid "Rename the selected item"
+msgstr ""
+
+msgid "Edit the selected file (nano keys)"
+msgstr ""
+
+msgid "Duplicate the selected item"
+msgstr ""
+
+msgid "Bring the other side's selection into this folder"
+msgstr ""
+
+msgid "Delete the selected items"
+msgstr ""
+
+msgid "Select all items on this page"
+msgstr ""
+
+msgid "Add or remove an item from the selection"
+msgstr ""
+
+msgid "Move by one screen"
+msgstr ""
+
+msgid "Previous or next page"
+msgstr ""
+
+msgid "Drag"
+msgstr ""
+
+msgid "Drag items to the other side to transfer them"
+msgstr ""
+
+msgid "Delete permanently?"
+msgstr ""
+
+msgid "{} selected items will be deleted from {}."
+msgstr ""
+
+msgid "‘{}’ will be deleted from {}."
+msgstr ""
+
+msgid "the remote computer"
+msgstr ""
+
+msgid "this computer"
+msgstr ""
+
+msgid "This cannot be undone. Folders are deleted with everything inside."
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Text editor"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search backward"
+msgstr ""
+
+msgid "Search (to replace)"
+msgstr ""
+
+msgid "Replace with"
+msgstr ""
+
+msgid "Enter line number, column number"
+msgstr ""
+
+msgid "Save modified file?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Cut line"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Go to line"
+msgstr ""
+
+msgid "Page up"
+msgstr ""
+
+msgid "Page down"
+msgstr ""
+
+msgid "Delete line"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Editor shortcuts (GNU nano compatible)"
+msgstr ""
+
+msgid "^ is Ctrl. M- is Alt, or press Esc and then the key."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Close (asks to save changes)"
+msgstr ""
+
+msgid "Search forward"
+msgstr ""
+
+msgid "Find next / previous"
+msgstr ""
+
+msgid "Replace all"
+msgstr ""
+
+msgid "Go to line and column"
+msgstr ""
+
+msgid "Cut the current line (repeat to add lines)"
+msgstr ""
+
+msgid "Copy the current line"
+msgstr ""
+
+msgid "Paste the cut lines"
+msgstr ""
+
+msgid "Cut from the cursor to the end of the line"
+msgstr ""
+
+msgid "Delete the current line"
+msgstr ""
+
+msgid "Previous / next page"
+msgstr ""
+
+msgid "Start / end of line"
+msgstr ""
+
+msgid "First / last line"
+msgstr ""
+
+msgid "Up / down / left / right"
+msgstr ""
+
+msgid "Previous / next word"
+msgstr ""
+
+msgid "Delete character / backspace"
+msgstr ""
+
+msgid "Show the cursor position"
+msgstr ""

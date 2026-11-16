@@ -1652,3 +1652,87 @@ msgstr "クリップボード"
 
 msgid "file transfer"
 msgstr "ファイル転送"
+
+msgid "Some items could not be deleted. Refresh to see what remains."
+msgstr "一部の項目を削除できませんでした。更新して残りを確認してください。"
+
+msgid "The item could not be deleted. It may be open in another program."
+msgstr "項目を削除できませんでした。別のプログラムで開かれている可能性があります。"
+
+msgid "This folder has too many items for this action."
+msgstr "この操作にはフォルダーの項目が多すぎます。"
+
+msgid "Update AirDesk on the host to use this action."
+msgstr "この操作を使うにはホストの AirDesk を更新してください。"
+
+msgid "This file is not text and cannot be edited."
+msgstr "テキストファイルではないため編集できません。"
+
+msgid "This file's text encoding is not supported."
+msgstr "このファイルの文字エンコーディングには対応していません。"
+
+msgid "Files larger than 64 MiB cannot be edited."
+msgstr "64 MiB を超えるファイルは編集できません。"
+
+msgid "Some characters cannot be saved in this file's encoding."
+msgstr "一部の文字はこのファイルのエンコーディングで保存できません。"
+
+msgid "Choose a file."
+msgstr "ファイルを選択してください。"
+
+msgid "Deleting…"
+msgstr "削除中…"
+
+msgid "Deleted"
+msgstr "削除しました"
+
+msgid "Deleted {count} items"
+msgstr "{count} 項目を削除しました"
+
+msgid "Duplicating…"
+msgstr "複製中…"
+
+msgid "Duplicated as {name}"
+msgstr "{name} として複製しました"
+
+msgid "Opening…"
+msgstr "開いています…"
+
+msgid "Saving…"
+msgstr "保存中…"
+
+msgid "Saved"
+msgstr "保存しました"
+
+msgid "Another file operation is running."
+msgstr "別のファイル操作を実行中です。"
+
+msgid "Line {line}/{lines}, column {column}"
+msgstr "行 {line}/{lines}, 列 {column}"
+
+msgid "The cut buffer is empty"
+msgstr "切り取りバッファーは空です"
+
+msgid "Nothing to undo"
+msgstr "元に戻す操作はありません"
+
+msgid "Nothing to redo"
+msgstr "やり直す操作はありません"
+
+msgid "Not found"
+msgstr "見つかりません"
+
+msgid "Replaced {count} occurrences"
+msgstr "{count} 箇所を置換しました"
+
+msgid "Enter a line number"
+msgstr "行番号を入力してください"
+
+msgid "Drop files on the remote computer pane to send them."
+msgstr "リモートコンピューター側にドロップすると送信されます。"
+
+msgid "Remote computer"
+msgstr "リモートコンピューター"
+
+msgid "This computer"
+msgstr "このコンピューター"

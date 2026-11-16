@@ -1652,3 +1652,87 @@ msgstr "클립보드"
 
 msgid "file transfer"
 msgstr "파일 전송"
+
+msgid "Some items could not be deleted. Refresh to see what remains."
+msgstr "일부 항목을 삭제하지 못했습니다. 새로 고쳐 남은 항목을 확인하세요."
+
+msgid "The item could not be deleted. It may be open in another program."
+msgstr "항목을 삭제하지 못했습니다. 다른 프로그램에서 열려 있을 수 있습니다."
+
+msgid "This folder has too many items for this action."
+msgstr "이 작업을 하기에는 폴더의 항목이 너무 많습니다."
+
+msgid "Update AirDesk on the host to use this action."
+msgstr "이 기능을 쓰려면 호스트의 AirDesk를 업데이트하세요."
+
+msgid "This file is not text and cannot be edited."
+msgstr "텍스트 파일이 아니라서 편집할 수 없습니다."
+
+msgid "This file's text encoding is not supported."
+msgstr "이 파일의 문자 인코딩은 지원하지 않습니다."
+
+msgid "Files larger than 64 MiB cannot be edited."
+msgstr "64 MiB보다 큰 파일은 편집할 수 없습니다."
+
+msgid "Some characters cannot be saved in this file's encoding."
+msgstr "일부 문자는 이 파일의 인코딩으로 저장할 수 없습니다."
+
+msgid "Choose a file."
+msgstr "파일을 선택하세요."
+
+msgid "Deleting…"
+msgstr "삭제 중…"
+
+msgid "Deleted"
+msgstr "삭제했습니다"
+
+msgid "Deleted {count} items"
+msgstr "항목 {count}개를 삭제했습니다"
+
+msgid "Duplicating…"
+msgstr "복제 중…"
+
+msgid "Duplicated as {name}"
+msgstr "{name}(으)로 복제했습니다"
+
+msgid "Opening…"
+msgstr "여는 중…"
+
+msgid "Saving…"
+msgstr "저장 중…"
+
+msgid "Saved"
+msgstr "저장했습니다"
+
+msgid "Another file operation is running."
+msgstr "다른 파일 작업이 진행 중입니다."
+
+msgid "Line {line}/{lines}, column {column}"
+msgstr "줄 {line}/{lines}, 열 {column}"
+
+msgid "The cut buffer is empty"
+msgstr "잘라낸 내용이 없습니다"
+
+msgid "Nothing to undo"
+msgstr "실행 취소할 내용이 없습니다"
+
+msgid "Nothing to redo"
+msgstr "다시 실행할 내용이 없습니다"
+
+msgid "Not found"
+msgstr "찾을 수 없습니다"
+
+msgid "Replaced {count} occurrences"
+msgstr "{count}곳을 바꿨습니다"
+
+msgid "Enter a line number"
+msgstr "줄 번호를 입력하세요"
+
+msgid "Drop files on the remote computer pane to send them."
+msgstr "파일을 원격 컴퓨터 쪽에 놓으면 전송됩니다."
+
+msgid "Remote computer"
+msgstr "원격 컴퓨터"
+
+msgid "This computer"
+msgstr "이 컴퓨터"

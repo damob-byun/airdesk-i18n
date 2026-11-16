@@ -8379,3 +8379,186 @@ msgstr "200%に拡大、または元のサイズに戻す"
 
 msgid "Three-finger tap · Zoom 200% / reset\nFour-finger tap · Keyboard"
 msgstr "3本指タップ · 200%拡大 / 元に戻す\n4本指タップ · キーボード"
+
+msgid "Drop to send to this folder"
+msgstr "ここにドロップするとこのフォルダーへ送信します"
+
+msgid "Drop to receive into this folder"
+msgstr "ここにドロップするとこのフォルダーに受信します"
+
+msgid "{} items"
+msgstr "{} 項目"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "Import"
+msgstr "取り込み"
+
+msgid "Show or hide this list"
+msgstr "この一覧を表示/非表示"
+
+msgid "Rename the selected item"
+msgstr "選択した項目の名前を変更"
+
+msgid "Edit the selected file (nano keys)"
+msgstr "選択したファイルを編集 (nano キー)"
+
+msgid "Duplicate the selected item"
+msgstr "選択した項目を複製"
+
+msgid "Bring the other side's selection into this folder"
+msgstr "反対側で選択した項目をこのフォルダーに取り込む"
+
+msgid "Delete the selected items"
+msgstr "選択した項目を削除"
+
+msgid "Select all items on this page"
+msgstr "このページの全項目を選択"
+
+msgid "Add or remove an item from the selection"
+msgstr "項目を選択に追加/除外"
+
+msgid "Move by one screen"
+msgstr "1 画面ずつ移動"
+
+msgid "Previous or next page"
+msgstr "前/次のページ"
+
+msgid "Drag"
+msgstr "ドラッグ"
+
+msgid "Drag items to the other side to transfer them"
+msgstr "反対側へドラッグして転送"
+
+msgid "Delete permanently?"
+msgstr "完全に削除しますか?"
+
+msgid "{} selected items will be deleted from {}."
+msgstr "選択した {} 項目が{}から削除されます。"
+
+msgid "‘{}’ will be deleted from {}."
+msgstr "‘{}’ が{}から削除されます。"
+
+msgid "the remote computer"
+msgstr "リモートコンピューター"
+
+msgid "this computer"
+msgstr "このコンピューター"
+
+msgid "This cannot be undone. Folders are deleted with everything inside."
+msgstr "元に戻せません。フォルダーは中身ごと削除されます。"
+
+msgid "Modified"
+msgstr "変更あり"
+
+msgid "Text editor"
+msgstr "テキストエディター"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Search backward"
+msgstr "後方検索"
+
+msgid "Search (to replace)"
+msgstr "検索 (置換対象)"
+
+msgid "Replace with"
+msgstr "置換後の文字列"
+
+msgid "Enter line number, column number"
+msgstr "行番号, 列番号を入力"
+
+msgid "Save modified file?"
+msgstr "変更したファイルを保存しますか?"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Cut line"
+msgstr "行を切り取り"
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "Replace"
+msgstr "置換"
+
+msgid "Go to line"
+msgstr "行へ移動"
+
+msgid "Page up"
+msgstr "前の画面"
+
+msgid "Page down"
+msgstr "次の画面"
+
+msgid "Delete line"
+msgstr "行を削除"
+
+msgid "Redo"
+msgstr "やり直し"
+
+msgid "Editor shortcuts (GNU nano compatible)"
+msgstr "エディターのショートカット (GNU nano 互換)"
+
+msgid "^ is Ctrl. M- is Alt, or press Esc and then the key."
+msgstr "^ は Ctrl、M- は Alt です。Esc の後にキーを押しても使えます。"
+
+msgid "Close (asks to save changes)"
+msgstr "閉じる (変更の保存を確認)"
+
+msgid "Search forward"
+msgstr "前方検索"
+
+msgid "Find next / previous"
+msgstr "次/前を検索"
+
+msgid "Replace all"
+msgstr "すべて置換"
+
+msgid "Go to line and column"
+msgstr "行・列へ移動"
+
+msgid "Cut the current line (repeat to add lines)"
+msgstr "現在の行を切り取り (繰り返すと追加)"
+
+msgid "Copy the current line"
+msgstr "現在の行をコピー"
+
+msgid "Paste the cut lines"
+msgstr "切り取った行を貼り付け"
+
+msgid "Cut from the cursor to the end of the line"
+msgstr "カーソルから行末まで切り取り"
+
+msgid "Delete the current line"
+msgstr "現在の行を削除"
+
+msgid "Previous / next page"
+msgstr "前/次の画面"
+
+msgid "Start / end of line"
+msgstr "行頭/行末"
+
+msgid "First / last line"
+msgstr "先頭行/最終行"
+
+msgid "Up / down / left / right"
+msgstr "上/下/左/右"
+
+msgid "Previous / next word"
+msgstr "前/次の単語"
+
+msgid "Delete character / backspace"
+msgstr "文字削除/バックスペース"
+
+msgid "Show the cursor position"
+msgstr "カーソル位置を表示"

@@ -478,3 +478,87 @@ msgstr "clipboard"
 
 msgid "file transfer"
 msgstr "file transfer"
+
+msgid "Some items could not be deleted. Refresh to see what remains."
+msgstr ""
+
+msgid "The item could not be deleted. It may be open in another program."
+msgstr ""
+
+msgid "This folder has too many items for this action."
+msgstr ""
+
+msgid "Update AirDesk on the host to use this action."
+msgstr ""
+
+msgid "This file is not text and cannot be edited."
+msgstr ""
+
+msgid "This file's text encoding is not supported."
+msgstr ""
+
+msgid "Files larger than 64 MiB cannot be edited."
+msgstr ""
+
+msgid "Some characters cannot be saved in this file's encoding."
+msgstr ""
+
+msgid "Choose a file."
+msgstr ""
+
+msgid "Deleting…"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deleted {count} items"
+msgstr ""
+
+msgid "Duplicating…"
+msgstr ""
+
+msgid "Duplicated as {name}"
+msgstr ""
+
+msgid "Opening…"
+msgstr ""
+
+msgid "Saving…"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Another file operation is running."
+msgstr ""
+
+msgid "Line {line}/{lines}, column {column}"
+msgstr ""
+
+msgid "The cut buffer is empty"
+msgstr ""
+
+msgid "Nothing to undo"
+msgstr ""
+
+msgid "Nothing to redo"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Replaced {count} occurrences"
+msgstr ""
+
+msgid "Enter a line number"
+msgstr ""
+
+msgid "Drop files on the remote computer pane to send them."
+msgstr ""
+
+msgid "Remote computer"
+msgstr ""
+
+msgid "This computer"
+msgstr ""
