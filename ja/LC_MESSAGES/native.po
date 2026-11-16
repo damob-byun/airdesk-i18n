@@ -1790,3 +1790,12 @@ msgstr "リモート起動"
 
 msgid "Unknown"
 msgstr "不明"
+
+msgid "{ext} file"
+msgstr "{ext} ファイル"
+
+msgid "{count} items"
+msgstr "{count} 項目"
+
+msgid "{files} files and {folders} folders. Total size: {size}"
+msgstr "ファイル {files} 個、フォルダー {folders} 個。合計サイズ: {size}"

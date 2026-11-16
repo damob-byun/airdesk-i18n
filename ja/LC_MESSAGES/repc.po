@@ -8658,3 +8658,39 @@ msgstr "リモート起動"
 
 msgid "Unknown"
 msgstr "不明"
+
+msgid "Sort by {}"
+msgstr "{}で並べ替え"
+
+msgid "Descending"
+msgstr "降順"
+
+msgid "Ascending"
+msgstr "昇順"
+
+msgid "Date modified"
+msgstr "更新日時"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Queued files"
+msgstr "待機中のファイル"
+
+msgid "Failed transfers"
+msgstr "失敗した転送"
+
+msgid "Successful transfers"
+msgstr "成功した転送"
+
+msgid "Queued"
+msgstr "待機中"
+
+msgid "Transferring"
+msgstr "転送中"
+
+msgid "Completed"
+msgstr "完了"

@@ -8657,3 +8657,39 @@ msgstr "원격 부팅"
 
 msgid "Unknown"
 msgstr "확인 불가"
+
+msgid "Sort by {}"
+msgstr "{} 기준 정렬"
+
+msgid "Descending"
+msgstr "내림차순"
+
+msgid "Ascending"
+msgstr "오름차순"
+
+msgid "Date modified"
+msgstr "수정한 날짜"
+
+msgid "Download"
+msgstr "다운로드"
+
+msgid "Upload"
+msgstr "업로드"
+
+msgid "Queued files"
+msgstr "대기 중인 파일"
+
+msgid "Failed transfers"
+msgstr "실패한 전송"
+
+msgid "Successful transfers"
+msgstr "완료된 전송"
+
+msgid "Queued"
+msgstr "대기 중"
+
+msgid "Transferring"
+msgstr "전송 중"
+
+msgid "Completed"
+msgstr "완료"

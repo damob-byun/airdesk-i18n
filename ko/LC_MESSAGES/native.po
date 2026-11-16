@@ -1790,3 +1790,12 @@ msgstr "원격 부팅"
 
 msgid "Unknown"
 msgstr "확인 불가"
+
+msgid "{ext} file"
+msgstr "{ext} 파일"
+
+msgid "{count} items"
+msgstr "{count}개 항목"
+
+msgid "{files} files and {folders} folders. Total size: {size}"
+msgstr "파일 {files}개, 폴더 {folders}개. 총 크기: {size}"
