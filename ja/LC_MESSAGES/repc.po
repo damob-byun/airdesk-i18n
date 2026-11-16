@@ -8694,3 +8694,126 @@ msgstr "転送中"
 
 msgid "Completed"
 msgstr "完了"
+
+msgid "Target file already exists"
+msgstr "転送先にファイルが既に存在します"
+
+msgid "‘{}’ already exists on {}."
+msgstr "‘{}’ は {} に既に存在します。"
+
+msgid "Existing"
+msgstr "既存"
+
+msgid "New"
+msgstr "新規"
+
+msgid "This host cannot replace this item. Rename or skip it."
+msgstr "このホストではこの項目を上書きできません。名前を変更するかスキップしてください。"
+
+msgid "Apply to all remaining items in this transfer"
+msgstr "この転送の残りの項目すべてに適用"
+
+msgid "Overwrite if size differs"
+msgstr "サイズが異なる場合に上書き"
+
+msgid "Keep both"
+msgstr "両方を保持"
+
+msgid "Cancel transfer"
+msgstr "転送をキャンセル"
+
+msgid "Ask each time"
+msgstr "毎回確認"
+
+msgid "Asks whether to overwrite, keep both or skip"
+msgstr "上書き・両方を保持・スキップを毎回確認します"
+
+msgid "Open Privacy & Security"
+msgstr "プライバシーとセキュリティを開く"
+
+msgid "Interrupt sent: stops the running command (SIGINT)"
+msgstr "割り込みを送信: 実行中のコマンドを停止します (SIGINT)"
+
+msgid "End of input (EOF) sent: an empty shell prompt logs out"
+msgstr "入力終了 (EOF) を送信: 空のプロンプトではシェルが終了します"
+
+msgid "Suspend sent: pauses the command (resume with fg)"
+msgstr "一時停止を送信: コマンドを停止します (fg で再開)"
+
+msgid "Clear screen"
+msgstr "画面をクリア"
+
+msgid "Search command history"
+msgstr "コマンド履歴を検索"
+
+msgid "Move to start of line"
+msgstr "行頭へ移動"
+
+msgid "Move to end of line"
+msgstr "行末へ移動"
+
+msgid "Delete to start of line"
+msgstr "行頭まで削除"
+
+msgid "Delete to end of line"
+msgstr "行末まで削除"
+
+msgid "Delete previous word"
+msgstr "前の単語を削除"
+
+msgid "Quit signal sent (SIGQUIT)"
+msgstr "終了シグナルを送信 (SIGQUIT)"
+
+msgid "Copied the selection"
+msgstr "選択範囲をコピーしました"
+
+msgid "To stop a command press ⌃C"
+msgstr "コマンドを止めるには ⌃C"
+
+msgid "Nothing selected to copy. To stop a command press ⌃C (Control+C)"
+msgstr "コピーする選択範囲がありません。コマンドを止めるには ⌃C (Control+C) を押してください"
+
+msgid "Pasted"
+msgstr "貼り付けました"
+
+msgid "Select text first to copy it"
+msgstr "コピーするにはまずテキストを選択してください"
+
+msgid "Press Esc to clear it, then Ctrl+C stops a command"
+msgstr "Esc で選択を解除すると Ctrl+C でコマンドを停止できます"
+
+msgid "Right-click · Pasted"
+msgstr "右クリック · 貼り付けました"
+
+msgid "Copied the selection (copy on select)"
+msgstr "選択範囲をコピーしました (選択時に自動コピー)"
+
+msgid "Paste multiple lines?"
+msgstr "複数行を貼り付けますか?"
+
+msgid "The clipboard has {} lines. Each line may run as a separate command."
+msgstr "クリップボードに {} 行あります。各行が個別のコマンドとして実行される場合があります。"
+
+msgid "You can turn this off in terminal settings."
+msgstr "ターミナル設定でオフにできます。"
+
+msgid "Keyboard and clipboard"
+msgstr "キーボードとクリップボード"
+
+msgid "Ctrl+C copies selected text (otherwise stops the command)"
+msgstr "Ctrl+C で選択テキストをコピー (選択がなければコマンドを停止)"
+
+msgid "⌘C copies · ⌃C (Control+C) stops the running command"
+msgstr "⌘C はコピー · ⌃C (Control+C) は実行中のコマンドを停止"
+
+msgid "Copy text as soon as it is selected"
+msgstr "選択したらすぐにコピー"
+
+msgid "Right-click pastes"
+msgstr "右クリックで貼り付け"
+
+msgid "Ask before pasting multiple lines"
+msgstr "複数行を貼り付ける前に確認"
+
+msgid "Explain shortcuts in the status bar"
+msgstr "ショートカットの動作をステータスバーに表示"

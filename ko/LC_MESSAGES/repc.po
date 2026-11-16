@@ -8693,3 +8693,126 @@ msgstr "전송 중"
 
 msgid "Completed"
 msgstr "완료"
+
+msgid "Target file already exists"
+msgstr "대상 파일이 이미 있습니다"
+
+msgid "‘{}’ already exists on {}."
+msgstr "‘{}’ 항목이 {}에 이미 있습니다."
+
+msgid "Existing"
+msgstr "기존"
+
+msgid "New"
+msgstr "새 항목"
+
+msgid "This host cannot replace this item. Rename or skip it."
+msgstr "이 호스트에서는 이 항목을 덮어쓸 수 없습니다. 이름을 바꾸거나 건너뛰세요."
+
+msgid "Apply to all remaining items in this transfer"
+msgstr "이번 전송의 남은 항목에 모두 적용"
+
+msgid "Overwrite if size differs"
+msgstr "크기가 다르면 덮어쓰기"
+
+msgid "Keep both"
+msgstr "둘 다 유지"
+
+msgid "Cancel transfer"
+msgstr "전송 취소"
+
+msgid "Ask each time"
+msgstr "매번 묻기"
+
+msgid "Asks whether to overwrite, keep both or skip"
+msgstr "덮어쓰기·둘 다 유지·건너뛰기를 매번 묻습니다"
+
+msgid "Open Privacy & Security"
+msgstr "개인정보 보호 및 보안 열기"
+
+msgid "Interrupt sent: stops the running command (SIGINT)"
+msgstr "인터럽트 전송: 실행 중인 명령을 중지합니다 (SIGINT)"
+
+msgid "End of input (EOF) sent: an empty shell prompt logs out"
+msgstr "입력 끝(EOF) 전송: 빈 프롬프트에서는 셸이 종료됩니다"
+
+msgid "Suspend sent: pauses the command (resume with fg)"
+msgstr "일시 중지 전송: 명령을 멈춥니다 (fg로 재개)"
+
+msgid "Clear screen"
+msgstr "화면 지우기"
+
+msgid "Search command history"
+msgstr "명령 기록 검색"
+
+msgid "Move to start of line"
+msgstr "줄 처음으로 이동"
+
+msgid "Move to end of line"
+msgstr "줄 끝으로 이동"
+
+msgid "Delete to start of line"
+msgstr "줄 처음까지 삭제"
+
+msgid "Delete to end of line"
+msgstr "줄 끝까지 삭제"
+
+msgid "Delete previous word"
+msgstr "앞 단어 삭제"
+
+msgid "Quit signal sent (SIGQUIT)"
+msgstr "종료 신호 전송 (SIGQUIT)"
+
+msgid "Copied the selection"
+msgstr "선택 영역을 복사했습니다"
+
+msgid "To stop a command press ⌃C"
+msgstr "명령을 중지하려면 ⌃C"
+
+msgid "Nothing selected to copy. To stop a command press ⌃C (Control+C)"
+msgstr "복사할 선택 영역이 없습니다. 명령을 중지하려면 ⌃C(Control+C)를 누르세요"
+
+msgid "Pasted"
+msgstr "붙여넣었습니다"
+
+msgid "Select text first to copy it"
+msgstr "복사하려면 먼저 텍스트를 선택하세요"
+
+msgid "Press Esc to clear it, then Ctrl+C stops a command"
+msgstr "Esc로 선택을 해제하면 Ctrl+C로 명령을 중지할 수 있습니다"
+
+msgid "Right-click · Pasted"
+msgstr "오른쪽 클릭 · 붙여넣었습니다"
+
+msgid "Copied the selection (copy on select)"
+msgstr "선택 영역을 복사했습니다 (선택 시 자동 복사)"
+
+msgid "Paste multiple lines?"
+msgstr "여러 줄을 붙여넣을까요?"
+
+msgid "The clipboard has {} lines. Each line may run as a separate command."
+msgstr "클립보드에 {}줄이 있습니다. 각 줄이 별도의 명령으로 실행될 수 있습니다."
+
+msgid "You can turn this off in terminal settings."
+msgstr "터미널 설정에서 끌 수 있습니다."
+
+msgid "Keyboard and clipboard"
+msgstr "키보드 및 클립보드"
+
+msgid "Ctrl+C copies selected text (otherwise stops the command)"
+msgstr "Ctrl+C로 선택한 텍스트 복사 (선택이 없으면 명령 중지)"
+
+msgid "⌘C copies · ⌃C (Control+C) stops the running command"
+msgstr "⌘C는 복사 · ⌃C(Control+C)는 실행 중인 명령 중지"
+
+msgid "Copy text as soon as it is selected"
+msgstr "선택하면 바로 복사"
+
+msgid "Right-click pastes"
+msgstr "오른쪽 클릭으로 붙여넣기"
+
+msgid "Ask before pasting multiple lines"
+msgstr "여러 줄 붙여넣기 전에 확인"
+
+msgid "Explain shortcuts in the status bar"
+msgstr "단축키 동작을 하단 상태줄에 표시"

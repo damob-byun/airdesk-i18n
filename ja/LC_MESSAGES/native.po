@@ -1799,3 +1799,12 @@ msgstr "{count} 項目"
 
 msgid "{files} files and {folders} folders. Total size: {size}"
 msgstr "ファイル {files} 個、フォルダー {folders} 個。合計サイズ: {size}"
+
+msgid "The remote computer blocked access to this folder. On a Mac, allow AirDesk in System Settings → Privacy & Security → Files & Folders (or Full Disk Access) on that computer."
+msgstr "リモートコンピューターがこのフォルダーへのアクセスをブロックしました。Mac の場合は、そのコンピューターのシステム設定 → プライバシーとセキュリティ → ファイルとフォルダー(またはフルディスクアクセス)で AirDesk を許可してください。"
+
+msgid "macOS blocked access to this folder. Allow AirDesk in System Settings → Privacy & Security → Files & Folders (or Full Disk Access), then refresh."
+msgstr "macOS がこのフォルダーへのアクセスをブロックしました。システム設定 → プライバシーとセキュリティ → ファイルとフォルダー(またはフルディスクアクセス)で AirDesk を許可してから更新してください。"
+
+msgid "Access to this folder was denied on this computer."
+msgstr "このコンピューターでこのフォルダーへのアクセスが拒否されました。"
