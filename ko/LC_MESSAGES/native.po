@@ -1736,3 +1736,42 @@ msgstr "원격 컴퓨터"
 
 msgid "This computer"
 msgstr "이 컴퓨터"
+
+msgid "Administrator permission was declined. Wake settings were not changed."
+msgstr "관리자 권한 요청을 거절해 원격 부팅 설정을 바꾸지 않았습니다."
+
+msgid "Windows is still applying the wake settings. Check again in a moment."
+msgstr "Windows가 아직 원격 부팅 설정을 적용하고 있습니다. 잠시 후 다시 확인하세요."
+
+msgid "Could not change the wake settings. Try again or enable them in Device Manager."
+msgstr "원격 부팅 설정을 바꾸지 못했습니다. 다시 시도하거나 장치 관리자에서 직접 켜세요."
+
+msgid "Administrator permission was declined. The service was not changed."
+msgstr "관리자 권한 요청을 거절해 서비스를 변경하지 않았습니다."
+
+msgid "Permission was declined. Start on login was not changed."
+msgstr "권한 요청을 거절해 자동 시작 설정을 바꾸지 않았습니다."
+
+msgid "Could not install the AirDesk service. Try again or reinstall AirDesk."
+msgstr "AirDesk 서비스를 설치하지 못했습니다. 다시 시도하거나 AirDesk를 다시 설치하세요."
+
+msgid "Could not remove the AirDesk service. Try again."
+msgstr "AirDesk 서비스를 제거하지 못했습니다. 다시 시도하세요."
+
+msgid "Could not change start on login."
+msgstr "자동 시작 설정을 바꾸지 못했습니다."
+
+msgid "AirDesk service installed"
+msgstr "AirDesk 서비스를 설치했습니다"
+
+msgid "AirDesk service removed"
+msgstr "AirDesk 서비스를 제거했습니다"
+
+msgid "Start on login turned on"
+msgstr "자동 시작을 켰습니다"
+
+msgid "Start on login turned off"
+msgstr "자동 시작을 껐습니다"
+
+msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
+msgstr "Windows 관리자 권한 요청을 거절해 업데이트를 설치하지 않았습니다. 다시 시도를 누르거나 AirDesk를 다시 시작하기 전까지는 다시 묻지 않습니다."

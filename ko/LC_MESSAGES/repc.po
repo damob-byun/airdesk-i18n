@@ -8561,3 +8561,30 @@ msgstr "글자 삭제/백스페이스"
 
 msgid "Show the cursor position"
 msgstr "커서 위치 표시"
+
+msgid "Administrator permission required"
+msgstr "관리자 권한 필요"
+
+msgid "Install the AirDesk service"
+msgstr "AirDesk 서비스 설치"
+
+msgid "AirDesk works without it. With the service, this computer can accept connections after a restart, before anyone signs in to Windows."
+msgstr "서비스 없이도 AirDesk를 사용할 수 있습니다. 서비스를 설치하면 재부팅 후 Windows에 로그인하기 전에도 이 컴퓨터에 접속할 수 있습니다."
+
+msgid "Waiting for Windows permission…"
+msgstr "Windows 권한 확인 대기 중…"
+
+msgid "Install service"
+msgstr "서비스 설치"
+
+msgid "Waiting…"
+msgstr "대기 중…"
+
+msgid "Installing or removing the service asks Windows for administrator permission."
+msgstr "서비스를 설치하거나 제거할 때 Windows가 관리자 권한을 요청합니다."
+
+msgid "Installs the AirDesk service. Administrator permission required."
+msgstr "AirDesk 서비스를 설치합니다. 관리자 권한이 필요합니다."
+
+msgid "Windows asks for administrator permission to install the update."
+msgstr "업데이트를 설치할 때 Windows가 관리자 권한을 요청합니다."

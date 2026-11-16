@@ -8562,3 +8562,30 @@ msgstr "文字削除/バックスペース"
 
 msgid "Show the cursor position"
 msgstr "カーソル位置を表示"
+
+msgid "Administrator permission required"
+msgstr "管理者権限が必要"
+
+msgid "Install the AirDesk service"
+msgstr "AirDesk サービスをインストール"
+
+msgid "AirDesk works without it. With the service, this computer can accept connections after a restart, before anyone signs in to Windows."
+msgstr "サービスがなくても AirDesk は使えます。サービスをインストールすると、再起動後 Windows にサインインする前でもこのコンピューターに接続できます。"
+
+msgid "Waiting for Windows permission…"
+msgstr "Windows の許可を待っています…"
+
+msgid "Install service"
+msgstr "サービスをインストール"
+
+msgid "Waiting…"
+msgstr "待機中…"
+
+msgid "Installing or removing the service asks Windows for administrator permission."
+msgstr "サービスのインストールや削除では Windows が管理者権限を求めます。"
+
+msgid "Installs the AirDesk service. Administrator permission required."
+msgstr "AirDesk サービスをインストールします。管理者権限が必要です。"
+
+msgid "Windows asks for administrator permission to install the update."
+msgstr "アップデートのインストール時に Windows が管理者権限を求めます。"

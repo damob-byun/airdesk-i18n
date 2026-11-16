@@ -1736,3 +1736,42 @@ msgstr "リモートコンピューター"
 
 msgid "This computer"
 msgstr "このコンピューター"
+
+msgid "Administrator permission was declined. Wake settings were not changed."
+msgstr "管理者権限が拒否されたため、ウェイク設定は変更されませんでした。"
+
+msgid "Windows is still applying the wake settings. Check again in a moment."
+msgstr "Windows がウェイク設定を適用中です。しばらくしてからもう一度確認してください。"
+
+msgid "Could not change the wake settings. Try again or enable them in Device Manager."
+msgstr "ウェイク設定を変更できませんでした。もう一度試すか、デバイス マネージャーで有効にしてください。"
+
+msgid "Administrator permission was declined. The service was not changed."
+msgstr "管理者権限が拒否されたため、サービスは変更されませんでした。"
+
+msgid "Permission was declined. Start on login was not changed."
+msgstr "許可が拒否されたため、自動起動の設定は変更されませんでした。"
+
+msgid "Could not install the AirDesk service. Try again or reinstall AirDesk."
+msgstr "AirDesk サービスをインストールできませんでした。もう一度試すか、AirDesk を再インストールしてください。"
+
+msgid "Could not remove the AirDesk service. Try again."
+msgstr "AirDesk サービスを削除できませんでした。もう一度試してください。"
+
+msgid "Could not change start on login."
+msgstr "自動起動の設定を変更できませんでした。"
+
+msgid "AirDesk service installed"
+msgstr "AirDesk サービスをインストールしました"
+
+msgid "AirDesk service removed"
+msgstr "AirDesk サービスを削除しました"
+
+msgid "Start on login turned on"
+msgstr "自動起動をオンにしました"
+
+msgid "Start on login turned off"
+msgstr "自動起動をオフにしました"
+
+msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
+msgstr "Windows の管理者権限が拒否されたため、アップデートはインストールされませんでした。「再試行」を選ぶか AirDesk を再起動するまで再度確認しません。"

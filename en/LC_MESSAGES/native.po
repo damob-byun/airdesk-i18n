@@ -562,3 +562,42 @@ msgstr ""
 
 msgid "This computer"
 msgstr ""
+
+msgid "Administrator permission was declined. Wake settings were not changed."
+msgstr ""
+
+msgid "Windows is still applying the wake settings. Check again in a moment."
+msgstr ""
+
+msgid "Could not change the wake settings. Try again or enable them in Device Manager."
+msgstr ""
+
+msgid "Administrator permission was declined. The service was not changed."
+msgstr ""
+
+msgid "Permission was declined. Start on login was not changed."
+msgstr ""
+
+msgid "Could not install the AirDesk service. Try again or reinstall AirDesk."
+msgstr ""
+
+msgid "Could not remove the AirDesk service. Try again."
+msgstr ""
+
+msgid "Could not change start on login."
+msgstr ""
+
+msgid "AirDesk service installed"
+msgstr ""
+
+msgid "AirDesk service removed"
+msgstr ""
+
+msgid "Start on login turned on"
+msgstr ""
+
+msgid "Start on login turned off"
+msgstr ""
+
+msgid "Windows administrator permission was declined, so the update was not installed. AirDesk will not ask again until you choose Try again or restart AirDesk."
+msgstr ""

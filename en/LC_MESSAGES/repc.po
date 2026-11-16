@@ -4794,3 +4794,30 @@ msgstr ""
 
 msgid "Show the cursor position"
 msgstr ""
+
+msgid "Administrator permission required"
+msgstr ""
+
+msgid "Install the AirDesk service"
+msgstr ""
+
+msgid "AirDesk works without it. With the service, this computer can accept connections after a restart, before anyone signs in to Windows."
+msgstr ""
+
+msgid "Waiting for Windows permission…"
+msgstr ""
+
+msgid "Install service"
+msgstr ""
+
+msgid "Waiting…"
+msgstr ""
+
+msgid "Installing or removing the service asks Windows for administrator permission."
+msgstr ""
+
+msgid "Installs the AirDesk service. Administrator permission required."
+msgstr ""
+
+msgid "Windows asks for administrator permission to install the update."
+msgstr ""
