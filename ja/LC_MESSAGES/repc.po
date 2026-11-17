@@ -15,6 +15,9 @@ msgstr "フレーム補間"
 msgid "GPU video super resolution"
 msgstr "GPU動画超解像"
 
+msgid "On internet connections, selecting 240 FPS may automatically enable frame interpolation."
+msgstr "インターネット接続で240 FPSを選択すると、フレーム補間が自動的に有効になる場合があります。"
+
 msgid "On supported desktop builds, the MCP server uses agent-desktop (Apache License 2.0)."
 msgstr "対応するデスクトップビルドでは、MCPサーバーはagent-desktop（Apache License 2.0）を使用します。"
 
