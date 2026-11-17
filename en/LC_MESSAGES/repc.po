@@ -6,6 +6,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Upscaling"
+msgstr "Upscaling"
+
+msgid "Frame interpolation"
+msgstr "Frame interpolation"
+
+msgid "GPU video super resolution"
+msgstr "GPU video super resolution"
+
 msgid "GPU presentation"
 msgstr "GPU presentation"
 

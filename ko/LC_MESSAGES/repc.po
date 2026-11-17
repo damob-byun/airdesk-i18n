@@ -6,6 +6,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Upscaling"
+msgstr "업스케일링"
+
+msgid "Frame interpolation"
+msgstr "프레임 보간"
+
+msgid "GPU video super resolution"
+msgstr "GPU 영상 초해상도"
+
 msgid "On supported desktop builds, the MCP server uses agent-desktop (Apache License 2.0)."
 msgstr "지원되는 데스크톱 빌드에서 MCP 서버는 agent-desktop(Apache License 2.0)과 함께 동작합니다."
 
