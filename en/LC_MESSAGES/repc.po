@@ -18,6 +18,9 @@ msgstr "GPU video super resolution"
 msgid "On internet connections, selecting 240 FPS may automatically enable frame interpolation."
 msgstr "On internet connections, selecting 240 FPS may automatically enable frame interpolation."
 
+msgid "Availability depends on the operating system, GPU, driver and video format."
+msgstr "Availability depends on the operating system, GPU, driver and video format."
+
 msgid "GPU presentation"
 msgstr "GPU presentation"
 

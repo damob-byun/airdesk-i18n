@@ -18,6 +18,9 @@ msgstr "GPU 영상 초해상도"
 msgid "On internet connections, selecting 240 FPS may automatically enable frame interpolation."
 msgstr "인터넷 연결에서 240 FPS를 선택하면 프레임 보간이 자동으로 켜질 수 있습니다."
 
+msgid "Availability depends on the operating system, GPU, driver and video format."
+msgstr "운영체제, GPU, 드라이버 및 영상 형식에 따라 사용 가능 여부가 달라집니다."
+
 msgid "On supported desktop builds, the MCP server uses agent-desktop (Apache License 2.0)."
 msgstr "지원되는 데스크톱 빌드에서 MCP 서버는 agent-desktop(Apache License 2.0)과 함께 동작합니다."
 

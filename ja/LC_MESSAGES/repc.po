@@ -18,6 +18,9 @@ msgstr "GPU動画超解像"
 msgid "On internet connections, selecting 240 FPS may automatically enable frame interpolation."
 msgstr "インターネット接続で240 FPSを選択すると、フレーム補間が自動的に有効になる場合があります。"
 
+msgid "Availability depends on the operating system, GPU, driver and video format."
+msgstr "利用できるかどうかは、OS、GPU、ドライバー、映像形式によって異なります。"
+
 msgid "On supported desktop builds, the MCP server uses agent-desktop (Apache License 2.0)."
 msgstr "対応するデスクトップビルドでは、MCPサーバーはagent-desktop（Apache License 2.0）を使用します。"
 
