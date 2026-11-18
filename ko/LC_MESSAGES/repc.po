@@ -8831,3 +8831,18 @@ msgstr "여러 줄 붙여넣기 전에 확인"
 
 msgid "Explain shortcuts in the status bar"
 msgstr "단축키 동작을 하단 상태줄에 표시"
+
+msgid "Open administrator terminal"
+msgstr "관리자 터미널 열기"
+
+msgid "Host terminal failed."
+msgstr "호스트 터미널을 열지 못했습니다."
+
+msgid "Host does not support this terminal request."
+msgstr "호스트에서 이 터미널 요청을 지원하지 않습니다."
+
+msgid "Administrator terminal requested"
+msgstr "관리자 터미널 요청됨"
+
+msgid "Open administrator terminal (authentication may be required)"
+msgstr "관리자 터미널 열기 (인증이 필요할 수 있음)"

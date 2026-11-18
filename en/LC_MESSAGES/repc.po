@@ -4905,3 +4905,18 @@ msgstr "Remote boot"
 
 msgid "Unknown"
 msgstr "Unknown"
+
+msgid "Open administrator terminal"
+msgstr "Open administrator terminal"
+
+msgid "Host terminal failed."
+msgstr "Host terminal failed."
+
+msgid "Host does not support this terminal request."
+msgstr "Host does not support this terminal request."
+
+msgid "Administrator terminal requested"
+msgstr "Administrator terminal requested"
+
+msgid "Open administrator terminal (authentication may be required)"
+msgstr "Open administrator terminal (authentication may be required)"

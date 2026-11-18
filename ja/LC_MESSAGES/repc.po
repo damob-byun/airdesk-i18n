@@ -8832,3 +8832,18 @@ msgstr "複数行を貼り付ける前に確認"
 
 msgid "Explain shortcuts in the status bar"
 msgstr "ショートカットの動作をステータスバーに表示"
+
+msgid "Open administrator terminal"
+msgstr "管理者ターミナルを開く"
+
+msgid "Host terminal failed."
+msgstr "ホストのターミナルを開けませんでした。"
+
+msgid "Host does not support this terminal request."
+msgstr "ホストはこのターミナル要求に対応していません。"
+
+msgid "Administrator terminal requested"
+msgstr "管理者ターミナルを要求済み"
+
+msgid "Open administrator terminal (authentication may be required)"
+msgstr "管理者ターミナルを開く（認証が必要な場合があります）"
