@@ -1988,8 +1988,8 @@ msgstr "Allow access on the host Mac, then refresh the status."
 msgid "Permissions not updating?"
 msgstr "Permissions not updating?"
 
-msgid "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
-msgstr "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
+msgid "Open Settings shows a small AirDesk window next to System Settings. Drag its icon into the app list, then turn the switch on. Refresh after allowing access, and restart the app if the status does not update."
+msgstr "Open Settings shows a small AirDesk window next to System Settings. Drag its icon into the app list, then turn the switch on. Refresh after allowing access, and restart the app if the status does not update."
 
 msgid "Permissions are changed in this Mac's System Settings."
 msgstr "Permissions are changed in this Mac's System Settings."

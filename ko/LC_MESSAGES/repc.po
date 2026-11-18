@@ -2093,8 +2093,8 @@ msgstr "호스트 Mac에서 직접 허용한 뒤 상태를 새로고침하세요
 msgid "Permissions not updating?"
 msgstr "권한이 반영되지 않나요?"
 
-msgid "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
-msgstr "설정에 앱이 없으면 +로 AirDesk.app을 추가하세요. 허용 후 새로고침하고 반영되지 않으면 앱을 다시 시작하세요."
+msgid "Open Settings shows a small AirDesk window next to System Settings. Drag its icon into the app list, then turn the switch on. Refresh after allowing access, and restart the app if the status does not update."
+msgstr "‘설정 열기’를 누르면 시스템 설정 옆에 작은 AirDesk 창이 나타납니다. 아이콘을 앱 목록으로 드래그한 뒤 스위치를 켜세요. 허용 후 새로고침하고, 반영되지 않으면 앱을 다시 시작하세요."
 
 msgid "Permissions are changed in this Mac's System Settings."
 msgstr "권한은 이 Mac의 시스템 설정에서 변경됩니다."

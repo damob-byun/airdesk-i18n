@@ -2015,8 +2015,8 @@ msgstr "ホストMacで許可してから状態を更新してください。"
 msgid "Permissions not updating?"
 msgstr "権限が反映されませんか？"
 
-msgid "If the app is missing in Settings, use + to add AirDesk.app. Refresh after allowing access, and restart the app if the status does not update."
-msgstr "設定にアプリが表示されない場合は、+ボタンでAirDesk.appを追加してください。許可後に状態を更新し、反映されない場合はアプリを再起動してください。"
+msgid "Open Settings shows a small AirDesk window next to System Settings. Drag its icon into the app list, then turn the switch on. Refresh after allowing access, and restart the app if the status does not update."
+msgstr "「設定を開く」を押すと、システム設定の横に AirDesk の小さなウインドウが表示されます。アイコンをアプリ一覧にドラッグし、スイッチをオンにしてください。許可後に状態を更新し、反映されない場合はアプリを再起動してください。"
 
 msgid "Permissions are changed in this Mac's System Settings."
 msgstr "権限はこのMacのシステム設定で変更します。"
