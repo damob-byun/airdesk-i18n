@@ -4843,8 +4843,8 @@ msgstr "My devices"
 msgid "View devices and send a wake signal"
 msgstr "View devices and send a wake signal"
 
-msgid "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
-msgstr "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
+msgid "Send a wake request to an offline computer. The computer and another online AirDesk device (a computer running AirDesk or the AirDeskWOL app) must be connected to the same router. A sent signal does not confirm that the computer has started."
+msgstr "Send a wake request to an offline computer. The computer and another online AirDesk device (a computer running AirDesk or the AirDeskWOL app) must be connected to the same router. A sent signal does not confirm that the computer has started."
 
 msgid "No devices found."
 msgstr "No devices found."

@@ -8611,8 +8611,8 @@ msgstr "マイデバイス"
 msgid "View devices and send a wake signal"
 msgstr "デバイスを確認して起動信号を送信"
 
-msgid "Send a wake request to an offline computer. Another AirDesk device must be online on the same network. A sent signal does not confirm that the computer has started."
-msgstr "オフラインのコンピューターに起動を要求します。同じネットワークで別の AirDesk デバイスがオンラインである必要があります。信号の送信だけでは起動を確認できません。"
+msgid "Send a wake request to an offline computer. The computer and another online AirDesk device (a computer running AirDesk or the AirDeskWOL app) must be connected to the same router. A sent signal does not confirm that the computer has started."
+msgstr "オフラインのコンピューターに起動を要求します。起動するコンピューターと、オンラインの別の AirDesk デバイス（AirDesk を実行中のコンピューターまたは AirDeskWOL アプリ）が同じルーターに接続されている必要があります。信号の送信だけでは起動を確認できません。"
 
 msgid "No devices found."
 msgstr "デバイスが見つかりません。"
