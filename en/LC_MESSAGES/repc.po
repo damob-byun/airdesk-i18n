@@ -4929,3 +4929,9 @@ msgstr ""
 
 msgid "Contribute on GitHub"
 msgstr ""
+
+msgid "Trackpad speed"
+msgstr ""
+
+msgid "Reset speed"
+msgstr ""

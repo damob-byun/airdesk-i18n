@@ -8858,3 +8858,9 @@ msgstr "잘못되었거나 빠진 번역을 발견했거나 내 언어를 추가
 
 msgid "Contribute on GitHub"
 msgstr "GitHub에서 기여하기"
+
+msgid "Trackpad speed"
+msgstr "트랙패드 속도"
+
+msgid "Reset speed"
+msgstr "속도 초기화"

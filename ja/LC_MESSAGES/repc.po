@@ -8859,3 +8859,9 @@ msgstr "誤りや不足している翻訳を見つけた、またはご自身の
 
 msgid "Contribute on GitHub"
 msgstr "GitHub で貢献する"
+
+msgid "Trackpad speed"
+msgstr "トラックパッドの速度"
+
+msgid "Reset speed"
+msgstr "速度をリセット"
