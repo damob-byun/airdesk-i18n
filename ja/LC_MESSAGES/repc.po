@@ -8847,3 +8847,6 @@ msgstr "管理者ターミナルを要求済み"
 
 msgid "Open administrator terminal (authentication may be required)"
 msgstr "管理者ターミナルを開く（認証が必要な場合があります）"
+
+msgid "Toolbar icon opacity"
+msgstr "ツールバーアイコンの不透明度"

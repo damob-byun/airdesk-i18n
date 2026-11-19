@@ -8846,3 +8846,6 @@ msgstr "관리자 터미널 요청됨"
 
 msgid "Open administrator terminal (authentication may be required)"
 msgstr "관리자 터미널 열기 (인증이 필요할 수 있음)"
+
+msgid "Toolbar icon opacity"
+msgstr "툴바 아이콘 불투명도"
