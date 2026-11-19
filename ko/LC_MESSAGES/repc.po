@@ -8849,3 +8849,12 @@ msgstr "관리자 터미널 열기 (인증이 필요할 수 있음)"
 
 msgid "Toolbar icon opacity"
 msgstr "툴바 아이콘 불투명도"
+
+msgid "Translation and help"
+msgstr "번역 및 도움말"
+
+msgid "Found a wrong or missing translation, or want to add your language? Translations are open source. Improve them on GitHub with a pull request, or open an issue to ask for help."
+msgstr "잘못되었거나 빠진 번역을 발견했거나 내 언어를 추가하고 싶으신가요? 번역은 오픈소스입니다. GitHub에서 풀 리퀘스트로 개선하거나 이슈를 열어 도움을 요청해 주세요."
+
+msgid "Contribute on GitHub"
+msgstr "GitHub에서 기여하기"

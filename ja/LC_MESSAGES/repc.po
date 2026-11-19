@@ -8850,3 +8850,12 @@ msgstr "管理者ターミナルを開く（認証が必要な場合がありま
 
 msgid "Toolbar icon opacity"
 msgstr "ツールバーアイコンの不透明度"
+
+msgid "Translation and help"
+msgstr "翻訳とヘルプ"
+
+msgid "Found a wrong or missing translation, or want to add your language? Translations are open source. Improve them on GitHub with a pull request, or open an issue to ask for help."
+msgstr "誤りや不足している翻訳を見つけた、またはご自身の言語を追加したい場合：翻訳はオープンソースです。GitHub でプルリクエストを送って改善するか、Issue を作成してサポートを依頼してください。"
+
+msgid "Contribute on GitHub"
+msgstr "GitHub で貢献する"

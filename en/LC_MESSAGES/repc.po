@@ -4920,3 +4920,12 @@ msgstr "Administrator terminal requested"
 
 msgid "Open administrator terminal (authentication may be required)"
 msgstr "Open administrator terminal (authentication may be required)"
+
+msgid "Translation and help"
+msgstr ""
+
+msgid "Found a wrong or missing translation, or want to add your language? Translations are open source. Improve them on GitHub with a pull request, or open an issue to ask for help."
+msgstr ""
+
+msgid "Contribute on GitHub"
+msgstr ""
