@@ -4690,6 +4690,30 @@ msgstr "공유 중인 디스플레이에 HDR이 켜져 있고 접속한 쪽 디�
 msgid "AI access from the server"
 msgstr "AI가 서버에서 접근"
 
+msgid "Direct MCP app launch"
+msgstr "MCP 직접 연결 앱 실행"
+
+msgid "Use process names or bundle IDs, separated by commas or semicolons."
+msgstr "프로세스 이름이나 번들 ID를 쉼표 또는 세미콜론으로 구분해 입력하세요."
+
+msgid "Use process names separated by commas or semicolons."
+msgstr "프로세스 이름을 쉼표 또는 세미콜론으로 구분해 입력하세요."
+
+msgid "An empty allowlist permits all installed apps. The blocklist takes priority."
+msgstr "허용 목록이 비어 있으면 설치된 앱을 모두 허용합니다. 차단 목록이 우선합니다."
+
+msgid "Launch allowlist"
+msgstr "실행 허용 목록"
+
+msgid "Launch blocklist"
+msgstr "실행 차단 목록"
+
+msgid "Check the process names in the MCP launch allowlist."
+msgstr "MCP 실행 허용 목록의 프로세스 이름을 확인하세요."
+
+msgid "Check the process names in the MCP launch blocklist."
+msgstr "MCP 실행 차단 목록의 프로세스 이름을 확인하세요."
+
 msgid "Enable AI access from the server"
 msgstr "AI가 서버에서 접근 허용"
 
