@@ -8865,3 +8865,21 @@ msgstr "トラックパッドの速度"
 
 msgid "Reset speed"
 msgstr "速度をリセット"
+
+msgid "Scroll the remote mouse wheel at 100% zoom"
+msgstr "画面倍率が100%のときにリモートマウスのホイールでスクロール"
+
+msgid "Three-finger drag while zoomed"
+msgstr "拡大中に3本指でドラッグ"
+
+msgid "Move the enlarged screen"
+msgstr "拡大した画面を移動"
+
+msgid "Two-finger tap · Right click\nThree-finger vertical move · Remote scroll at 100%"
+msgstr "2本指でタップ · 右クリック\n3本指で上下に移動 · 100%でリモートスクロール"
+
+msgid "Three-finger drag while zoomed · Move the enlarged screen"
+msgstr "拡大中に3本指でドラッグ · 拡大した画面を移動"
+
+msgid "Scan with your phone to install AirDesk."
+msgstr "スマートフォンでスキャンしてAirDeskをインストールしてください。"

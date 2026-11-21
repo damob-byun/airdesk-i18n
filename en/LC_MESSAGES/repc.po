@@ -4935,3 +4935,21 @@ msgstr ""
 
 msgid "Reset speed"
 msgstr ""
+
+msgid "Scroll the remote mouse wheel at 100% zoom"
+msgstr "Scroll the remote mouse wheel at 100% zoom"
+
+msgid "Three-finger drag while zoomed"
+msgstr "Three-finger drag while zoomed"
+
+msgid "Move the enlarged screen"
+msgstr "Move the enlarged screen"
+
+msgid "Two-finger tap · Right click\nThree-finger vertical move · Remote scroll at 100%"
+msgstr "Two-finger tap · Right click\nThree-finger vertical move · Remote scroll at 100%"
+
+msgid "Three-finger drag while zoomed · Move the enlarged screen"
+msgstr "Three-finger drag while zoomed · Move the enlarged screen"
+
+msgid "Scan with your phone to install AirDesk."
+msgstr "Scan with your phone to install AirDesk."
