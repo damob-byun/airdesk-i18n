@@ -5643,6 +5643,12 @@ msgstr "PC 키보드"
 msgid "Rotate screen"
 msgstr "화면 회전"
 
+msgid "Can't rotate the screen."
+msgstr "화면을 회전할 수 없습니다."
+
+msgid "Can't rotate the screen. Rotation works only in full screen."
+msgstr "화면을 회전할 수 없습니다. 전체 화면에서만 회전할 수 있습니다."
+
 msgid "Displays"
 msgstr "디스플레이"
 
@@ -8864,3 +8870,6 @@ msgstr "트랙패드 속도"
 
 msgid "Reset speed"
 msgstr "속도 초기화"
+
+msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
+msgstr "이 휴대폰·태블릿에서 컴퓨터로 접속합니다. 모바일에는 아직 호스트 기능이 없어 컴퓨터로 추가할 수 없습니다."

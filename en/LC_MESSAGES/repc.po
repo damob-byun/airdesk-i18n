@@ -4935,3 +4935,6 @@ msgstr ""
 
 msgid "Reset speed"
 msgstr ""
+
+msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
+msgstr ""

@@ -8865,3 +8865,12 @@ msgstr "トラックパッドの速度"
 
 msgid "Reset speed"
 msgstr "速度をリセット"
+
+msgid "Can't rotate the screen."
+msgstr "画面を回転できません。"
+
+msgid "Can't rotate the screen. Rotation works only in full screen."
+msgstr "画面を回転できません。回転はフルスクリーンでのみ使用できます。"
+
+msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
+msgstr "このスマートフォン・タブレットからコンピューターに接続します。モバイルにはまだホスト機能がないため、コンピューターとして追加できません。"
