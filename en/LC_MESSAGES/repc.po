@@ -4953,3 +4953,5 @@ msgstr "Three-finger drag while zoomed · Move the enlarged screen"
 
 msgid "Scan with your phone to install AirDesk."
 msgstr "Scan with your phone to install AirDesk."
+msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
+msgstr ""
