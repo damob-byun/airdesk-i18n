@@ -1808,3 +1808,14 @@ msgstr "macOS がこのフォルダーへのアクセスをブロックしまし
 
 msgid "Access to this folder was denied on this computer."
 msgstr "このコンピューターでこのフォルダーへのアクセスが拒否されました。"
+
+
+msgid "CCTV view"
+msgstr "CCTV 表示"
+
+msgid "Exit CCTV view"
+msgstr "CCTV 表示を終了"
+
+msgid "{count} computers"
+msgstr "{count} 台のコンピューター"
+

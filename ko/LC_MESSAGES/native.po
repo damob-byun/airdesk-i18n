@@ -1808,3 +1808,14 @@ msgstr "macOS가 이 폴더 접근을 막았습니다. 시스템 설정 → 개�
 
 msgid "Access to this folder was denied on this computer."
 msgstr "이 컴퓨터에서 이 폴더에 대한 접근이 거부되었습니다."
+
+
+msgid "CCTV view"
+msgstr "CCTV 형으로 보기"
+
+msgid "Exit CCTV view"
+msgstr "CCTV 보기 끝내기"
+
+msgid "{count} computers"
+msgstr "컴퓨터 {count}대"
+
