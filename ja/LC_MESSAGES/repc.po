@@ -8915,3 +8915,21 @@ msgstr "画面を回転できません。回転はフルスクリーンでのみ
 
 msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
 msgstr "このスマートフォン・タブレットからコンピューターに接続します。モバイルにはまだホスト機能がないため、コンピューターとして追加できません。"
+
+msgid "Pro trial"
+msgstr "Pro 無料体験"
+
+msgid "Trial ends {}"
+msgstr "無料体験終了 {}"
+
+msgid "Start 14-day trial"
+msgstr "14日間無料で試す"
+
+msgid "Manage subscription"
+msgstr "サブスクリプションを管理"
+
+msgid "Continue checkout"
+msgstr "決済を続ける"
+
+msgid "Check payment status"
+msgstr "決済状況を確認"

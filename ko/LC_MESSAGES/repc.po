@@ -8914,3 +8914,21 @@ msgid "Scan with your phone to install AirDesk."
 msgstr "휴대폰으로 스캔하여 AirDesk를 설치하세요."
 msgid "This phone or tablet connects to your computers. Mobile devices do not have a host feature yet, so they cannot be added as a computer."
 msgstr "이 휴대폰·태블릿에서 컴퓨터로 접속합니다. 모바일에는 아직 호스트 기능이 없어 컴퓨터로 추가할 수 없습니다."
+
+msgid "Pro trial"
+msgstr "Pro 무료 체험"
+
+msgid "Trial ends {}"
+msgstr "체험 종료 {}"
+
+msgid "Start 14-day trial"
+msgstr "14일 무료 체험 시작"
+
+msgid "Manage subscription"
+msgstr "구독 관리"
+
+msgid "Continue checkout"
+msgstr "결제 이어서 진행"
+
+msgid "Check payment status"
+msgstr "결제 상태 확인"
