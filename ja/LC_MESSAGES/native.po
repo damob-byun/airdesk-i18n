@@ -97,6 +97,18 @@ msgstr "8-bitカラー"
 msgid "10-bit color (SDR)"
 msgstr "10-bitカラー (SDR)"
 
+msgid "This display could not use your preferred color format. Switched to 8-bit 4:2:0."
+msgstr "この画面では設定したカラー形式を使用できないため、8ビット4:2:0に切り替えました。"
+
+msgid "This display is streaming in 8-bit 4:2:0."
+msgstr "この画面は8ビット4:2:0で配信中です。"
+
+msgid "Could not switch to this display in 8-bit 4:2:0."
+msgstr "この画面に8ビット4:2:0で切り替えられませんでした。"
+
+msgid "Could not switch to this display."
+msgstr "この画面に切り替えられませんでした。"
+
 msgid "Pending"
 msgstr "確認中"
 

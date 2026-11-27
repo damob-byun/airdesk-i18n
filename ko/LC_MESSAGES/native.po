@@ -97,6 +97,18 @@ msgstr "8-bit 컬러"
 msgid "10-bit color (SDR)"
 msgstr "10-bit 컬러 (SDR)"
 
+msgid "This display could not use your preferred color format. Switched to 8-bit 4:2:0."
+msgstr "이 화면에서 설정한 색 형식을 사용할 수 없어 8비트 4:2:0으로 전환했습니다."
+
+msgid "This display is streaming in 8-bit 4:2:0."
+msgstr "이 화면은 8비트 4:2:0으로 전송 중입니다."
+
+msgid "Could not switch to this display in 8-bit 4:2:0."
+msgstr "이 화면을 8비트 4:2:0으로 전환하지 못했습니다."
+
+msgid "Could not switch to this display."
+msgstr "이 화면으로 전환하지 못했습니다."
+
 msgid "Pending"
 msgstr "확인 중"
 
