@@ -4691,8 +4691,8 @@ msgstr "共有中のディスプレイでHDRがオンで、接続側のディス
 msgid "AI access from the server"
 msgstr "AI がサーバー経由でアクセス"
 
-msgid "Direct MCP app launch"
-msgstr "MCP 直接接続でのアプリ起動"
+msgid "MCP app launch restrictions"
+msgstr "MCP アプリ起動制限の設定"
 
 msgid "Use process names or bundle IDs, separated by commas or semicolons."
 msgstr "プロセス名またはバンドル ID をカンマかセミコロンで区切って入力してください。"

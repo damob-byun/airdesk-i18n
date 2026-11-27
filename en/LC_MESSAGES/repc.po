@@ -4287,6 +4287,9 @@ msgstr "Streams HDR10 when the shared display has HDR on and the viewer's displa
 msgid "AI access from the server"
 msgstr "AI access from the server"
 
+msgid "MCP app launch restrictions"
+msgstr "MCP app launch restrictions"
+
 msgid "Enable AI access from the server"
 msgstr "Enable AI access from the server"
 

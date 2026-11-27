@@ -4690,8 +4690,8 @@ msgstr "공유 중인 디스플레이에 HDR이 켜져 있고 접속한 쪽 디�
 msgid "AI access from the server"
 msgstr "AI가 서버에서 접근"
 
-msgid "Direct MCP app launch"
-msgstr "MCP 직접 연결 앱 실행"
+msgid "MCP app launch restrictions"
+msgstr "MCP 실행 앱 제한 설정"
 
 msgid "Use process names or bundle IDs, separated by commas or semicolons."
 msgstr "프로세스 이름이나 번들 ID를 쉼표 또는 세미콜론으로 구분해 입력하세요."
